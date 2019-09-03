@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="move.q6ec7.g">
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.1"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.1)"/></move>
+<ims id="q6ec7.g.move.1.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.3)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" meta="false_meta" id="q6ec7.g.move.2"  label="instruct" aban="true_aban"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.4)..id(q6ec7g.5)"/></move>
+<ims id="q6ec7.g.move.2.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.6)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.3"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.7)..id(q6ec7g.12)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.4"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.14)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.5"  label="check"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.16)..id(q6ec7g.20)"/></move>
+<ims id="q6ec7.g.move.6.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.21)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.7"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.22)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.8"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.24)..id(q6ec7g.28)"/></move>
+<ims id="q6ec7.g.move.9.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.30)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.10"  label="acknowledge"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.31)..id(q6ec7g.37)"/></move>
+<ims id="q6ec7.g.move.10.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.39)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" meta="false_meta" id="q6ec7.g.move.11"  label="query_yn" aban="true_aban"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.40)..id(q6ec7g.44)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.12"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.45)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.13"  label="check"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.47)..id(q6ec7g.52)"/></move>
+<ims id="q6ec7.g.move.14.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.53)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.15"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.54)..id(q6ec7g.64)"/></move>
+<ims id="q6ec7.g.move.16.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.65)..id(q6ec7g.67)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.17"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.68)"/></move>
+<ims id="q6ec7.g.move.17.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.70)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.18"  label="explain"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.71)..id(q6ec7g.95)"/></move>
+<ims id="q6ec7.g.move.19.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.97)..id(q6ec7g.99)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.20"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.100)..id(q6ec7g.108)"/></move>
+<ims id="q6ec7.g.move.21.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.110)..id(q6ec7g.112)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.22"  label="reply_w"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.113)..id(q6ec7g.114)"/></move>
+<ims id="q6ec7.g.move.24.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.116)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.25"  label="reply_n"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.117)..id(q6ec7g.118)"/></move>
+<ims id="q6ec7.g.move.25.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.120)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.26"  label="clarify"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.121)..id(q6ec7g.140)"/></move>
+<ims id="q6ec7.g.move.29.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.142)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.30"  label="uncodable"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.143)"/></move>
+<ims id="q6ec7.g.move.30.4" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.145)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.30.5"  label="reply_n"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.146)"/></move>
+<ims id="q6ec7.g.move.30.9" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.148)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.31"  label="clarify"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.149)..id(q6ec7g.153)"/></move>
+<ims id="q6ec7.g.move.32.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.155)"/></ims>
+<move cont="false_cont" interj="false_interj" aban="false_aban" meta="false_meta" id="q6ec7.g.move.33"  label="acknowledge" rep="other"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.156)"/></move>
+<ims id="q6ec7.g.move.34.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.158)..id(q6ec7g.162)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.35"  label="align"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.163)"/></move>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.36"  label="clarify" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.165)..id(q6ec7g.166)"/></move>
+<ims id="q6ec7.g.move.37.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.168)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.38"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.169)..id(q6ec7g.178)"/></move>
+<ims id="q6ec7.g.move.39.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.180)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.40"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.181)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.41"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.183)..id(q6ec7g.201)"/></move>
+<ims id="q6ec7.g.move.42.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.203)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.43"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.204)..id(q6ec7g.206)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.44"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.207)..id(q6ec7g.211)"/></move>
+<ims id="q6ec7.g.move.45.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.213)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.46"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.214)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.47"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.216)..id(q6ec7g.223)"/></move>
+<ims id="q6ec7.g.move.48.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.224)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.49"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.225)..id(q6ec7g.226)"/></move>
+<ims id="q6ec7.g.move.49.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.227)..id(q6ec7g.229)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.50"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.230)..id(q6ec7g.239)"/></move>
+<ims id="q6ec7.g.move.52.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.241)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.53"  label="reply_y"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.242)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.54"  label="explain"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.244)..id(q6ec7g.253)"/></move>
+<ims id="q6ec7.g.move.55.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.255)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.56"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.256)"/></move>
+<ims id="q6ec7.g.move.56.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.258)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.57"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.259)..id(q6ec7g.262)"/></move>
+<ims id="q6ec7.g.move.57.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.263)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.58"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.264)..id(q6ec7g.267)"/></move>
+<ims id="q6ec7.g.move.60.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.269)..id(q6ec7g.271)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.61"  label="acknowledge"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.272)..id(q6ec7g.274)"/></move>
+<ims id="q6ec7.g.move.61.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.276)..id(q6ec7g.277)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.62"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.278)"/></move>
+<ims id="q6ec7.g.move.62.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.280)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.63"  label="instruct" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.281)..id(q6ec7g.324)"/></move>
+<ims id="q6ec7.g.move.64.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.326)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.65"  label="instruct" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.327)..id(q6ec7g.339)"/></move>
+<ims id="q6ec7.g.move.66.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.341)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.67"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.342)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.68"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.344)..id(q6ec7g.349)"/></move>
+<ims id="q6ec7.g.move.69.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.351)..id(q6ec7g.353)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.70"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.354)..id(q6ec7g.359)"/></move>
+<ims id="q6ec7.g.move.71.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.361)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.72"  label="query_yn" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.362)..id(q6ec7g.364)"/></move>
+<ims id="q6ec7.g.move.73.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.365)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.74"  label="acknowledge"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.366)..id(q6ec7g.371)"/></move>
+<ims id="q6ec7.g.move.74.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.373)..id(q6ec7g.375)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.75"  label="explain"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.376)..id(q6ec7g.391)"/></move>
+<ims id="q6ec7.g.move.75.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.393)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.76"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.394)"/></move>
+<ims id="q6ec7.g.move.76.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.396)..id(q6ec7g.397)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.77"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.398)..id(q6ec7g.413)"/></move>
+<ims id="q6ec7.g.move.78.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.414)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.79"  label="instruct" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.415)..id(q6ec7g.434)"/></move>
+<ims id="q6ec7.g.move.80.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.435)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.81"  label="instruct" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.436)..id(q6ec7g.448)"/></move>
+<ims id="q6ec7.g.move.83.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.449)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.84"  label="acknowledge"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.450)"/></move>
+<ims id="q6ec7.g.move.85.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.451)..id(q6ec7g.452)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.86"  label="reply_y"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.453)..id(q6ec7g.456)"/></move>
+<ims id="q6ec7.g.move.86.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.458)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.87"  label="explain"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.459)..id(q6ec7g.464)"/></move>
+<ims id="q6ec7.g.move.87.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.466)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.88"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.467)..id(q6ec7g.469)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.89"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.471)..id(q6ec7g.475)"/></move>
+<ims id="q6ec7.g.move.90.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.477)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.91"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.478)..id(q6ec7g.479)"/></move>
+<ims id="q6ec7.g.move.91.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.481)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.92"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.482)..id(q6ec7g.492)"/></move>
+<ims id="q6ec7.g.move.93.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.493)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.94"  label="check"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.494)..id(q6ec7g.495)"/></move>
+<ims id="q6ec7.g.move.95.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.497)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.96"  label="query_w"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.498)..id(q6ec7g.505)"/></move>
+<ims id="q6ec7.g.move.97.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.507)..id(q6ec7g.509)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.98"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.510)..id(q6ec7g.512)"/></move>
+<ims id="q6ec7.g.move.98.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.514)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.99"  label="instruct" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.515)..id(q6ec7g.528)"/></move>
+<ims id="q6ec7.g.move.100.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.529)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.101"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.530)..id(q6ec7g.535)"/></move>
+<ims id="q6ec7.g.move.102.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.537)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.103"  label="acknowledge"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.538)..id(q6ec7g.539)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" id="q6ec7.g.move.104"  label="explain" meta="true_meta"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.541)..id(q6ec7g.544)"/></move>
+<ims id="q6ec7.g.move.104.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.546)..id(q6ec7g.551)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.105"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.552)..id(q6ec7g.557)"/></move>
+<ims id="q6ec7.g.move.106.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.558)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.107"  label="instruct" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.559)..id(q6ec7g.585)"/></move>
+<ims id="q6ec7.g.move.108.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.587)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.109"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.588)..id(q6ec7g.592)"/></move>
+<ims id="q6ec7.g.move.109.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.593)..id(q6ec7g.595)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.110"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.596)..id(q6ec7g.599)"/></move>
+<ims id="q6ec7.g.move.111.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.601)..id(q6ec7g.603)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.112"  label="uncodable"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.604)..id(q6ec7g.605)"/></move>
+<ims id="q6ec7.g.move.112.4" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.607)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.112.9"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.608)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.113"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.610)..id(q6ec7g.627)"/></move>
+<ims id="q6ec7.g.move.114.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.629)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.115"  label="instruct" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.630)..id(q6ec7g.633)"/></move>
+<ims id="q6ec7.g.move.115.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.635)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.116"  label="explain"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.636)..id(q6ec7g.645)"/></move>
+<ims id="q6ec7.g.move.117.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.646)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.118"  label="explain" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.647)..id(q6ec7g.652)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.119"  label="align"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.654)..id(q6ec7g.656)"/></move>
+<ims id="q6ec7.g.move.120.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.658)..id(q6ec7g.659)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.121"  label="explain" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.660)..id(q6ec7g.668)"/></move>
+<ims id="q6ec7.g.move.121.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.670)..id(q6ec7g.672)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.122"  label="instruct" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.673)..id(q6ec7g.693)"/></move>
+<ims id="q6ec7.g.move.125.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.694)..id(q6ec7g.696)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.126"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.697)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.127"  label="align"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.699)..id(q6ec7g.708)"/></move>
+<ims id="q6ec7.g.move.128.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.710)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.129"  label="align" cont="true_cont"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.711)..id(q6ec7g.712)"/></move>
+<ims id="q6ec7.g.move.130.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.713)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.131"  label="reply_w"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.714)..id(q6ec7g.725)"/></move>
+<ims id="q6ec7.g.move.132.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.727)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.133"  label="reply_y"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.728)..id(q6ec7g.730)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.135"  label="clarify"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.731)..id(q6ec7g.737)"/></move>
+<ims id="q6ec7.g.move.136.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.738)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.137"  label="clarify"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.739)..id(q6ec7g.741)"/></move>
+<ims id="q6ec7.g.move.138.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.743)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.139"  label="ready"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.744)..id(q6ec7g.745)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.140"  label="query_yn"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.747)..id(q6ec7g.752)"/></move>
+<ims id="q6ec7.g.move.141.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.754)..id(q6ec7g.757)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.142"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.758)..id(q6ec7g.789)"/></move>
+<ims id="q6ec7.g.move.143.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.790)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.144"  label="reply_y"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.791)..id(q6ec7g.796)"/></move>
+<ims id="q6ec7.g.move.145.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.798)"/></ims>
+<move cont="false_cont" interj="false_interj" aban="false_aban" meta="false_meta" id="q6ec7.g.move.146"  label="reply_y" rep="other"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.799)..id(q6ec7g.800)"/></move>
+<ims id="q6ec7.g.move.146.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.801)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.147"  label="clarify"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.802)..id(q6ec7g.822)"/></move>
+<ims id="q6ec7.g.move.150.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.823)..id(q6ec7g.825)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.151"  label="instruct"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.826)..id(q6ec7g.833)"/></move>
+<ims id="q6ec7.g.move.151.5" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.834)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q6ec7.g.move.152"  label="align"><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.835)"/></move>
+<ims id="q6ec7.g.move.152.6" ><nite:child href="q6ec7.g.timed-units.xml#id(q6ec7g.837)"/></ims>
+</nite:root>
+

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="move.q3nc2.g">
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.1"  label="ready"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1)..id(q3nc2g.2)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.2"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.4)..id(q3nc2g.11)"/></move>
+<ims id="q3nc2.g.move.2.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.13)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.3"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.14)"/></move>
+<ims id="q3nc2.g.move.3.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.16)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.4"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.17)..id(q3nc2g.31)"/></move>
+<ims id="q3nc2.g.move.5.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.33)..id(q3nc2g.35)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.6"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.36)..id(q3nc2g.90)"/></move>
+<ims id="q3nc2.g.move.7.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.91)..id(q3nc2g.93)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.8"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.94)..id(q3nc2g.124)"/></move>
+<ims id="q3nc2.g.move.9.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.125)..id(q3nc2g.128)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.10"  label="acknowledge"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.129)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.11"  label="clarify"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.131)..id(q3nc2g.149)"/></move>
+<ims id="q3nc2.g.move.12.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.151)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.13"  label="clarify" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.152)..id(q3nc2g.154)"/></move>
+<ims id="q3nc2.g.move.14.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.156)..id(q3nc2g.158)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.15"  label="clarify" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.159)..id(q3nc2g.167)"/></move>
+<ims id="q3nc2.g.move.16.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.169)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.17"  label="clarify" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.170)..id(q3nc2g.244)"/></move>
+<ims id="q3nc2.g.move.18.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.245)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.19"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.246)"/></move>
+<ims id="q3nc2.g.move.19.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.248)..id(q3nc2g.250)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.20"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.251)..id(q3nc2g.263)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.21"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.265)..id(q3nc2g.288.1)"/></move>
+<ims id="q3nc2.g.move.23.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.289)..id(q3nc2g.290)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.24"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.291)..id(q3nc2g.319)"/></move>
+<ims id="q3nc2.g.move.25.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.321)..id(q3nc2g.323)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.26"  label="acknowledge"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.324)..id(q3nc2g.327)"/></move>
+<ims id="q3nc2.g.move.27.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.329)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.28"  label="acknowledge"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.330)"/></move>
+<ims id="q3nc2.g.move.29.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.332)..id(q3nc2g.334)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.30"  label="ready"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.335)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.31"  label="reply_w"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.337)..id(q3nc2g.344)"/></move>
+<ims id="q3nc2.g.move.31.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.346)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.32"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.347)"/></move>
+<ims id="q3nc2.g.move.33.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.349)..id(q3nc2g.351)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.34"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.352)..id(q3nc2g.369)"/></move>
+<ims id="q3nc2.g.move.35.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.371)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.36"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.372)..id(q3nc2g.388)"/></move>
+<ims id="q3nc2.g.move.36.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.390)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.37"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.391)..id(q3nc2g.399)"/></move>
+<ims id="q3nc2.g.move.37.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.401)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.38"  label="ready"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.402)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.39"  label="clarify"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.404)..id(q3nc2g.418)"/></move>
+<ims id="q3nc2.g.move.39.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.419)..id(q3nc2g.423)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.40"  label="query_yn"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.424)..id(q3nc2g.433)"/></move>
+<ims id="q3nc2.g.move.41.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.435)..id(q3nc2g.437)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.42"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.438)..id(q3nc2g.449)"/></move>
+<ims id="q3nc2.g.move.43.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.450)..id(q3nc2g.452)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.44"  label="ready"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.453)"/></move>
+<ims id="q3nc2.g.move.44.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.455)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.45"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.456)..id(q3nc2g.464)"/></move>
+<ims id="q3nc2.g.move.46.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.465)..id(q3nc2g.471)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.47"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.472)..id(q3nc2g.492)"/></move>
+<ims id="q3nc2.g.move.48.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.493)"/></ims>
+<move cont="false_cont" interj="false_interj" aban="false_aban" meta="false_meta" id="q3nc2.g.move.49"  label="acknowledge" rep="other"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.494)..id(q3nc2g.495)"/></move>
+<ims id="q3nc2.g.move.49.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.497)..id(q3nc2g.500)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.50"  label="check"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.501)..id(q3nc2g.506)"/></move>
+<ims id="q3nc2.g.move.51.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.508)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.52"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.509)..id(q3nc2g.512)"/></move>
+<ims id="q3nc2.g.move.53.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.514)..id(q3nc2g.516)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.54"  label="uncodable"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.517)..id(q3nc2g.519)"/></move>
+<ims id="q3nc2.g.move.55.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.520)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.56"  label="clarify"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.521)..id(q3nc2g.547)"/></move>
+<ims id="q3nc2.g.move.57.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.549)..id(q3nc2g.550)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" id="q3nc2.g.move.58"  label="check" meta="true_meta"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.551)..id(q3nc2g.556)"/></move>
+<ims id="q3nc2.g.move.59.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.558)..id(q3nc2g.562)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.60"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.563)..id(q3nc2g.574)"/></move>
+<ims id="q3nc2.g.move.61.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.576)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.62"  label="reply_y"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.577)..id(q3nc2g.582)"/></move>
+<ims id="q3nc2.g.move.63.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.584)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.64"  label="clarify"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.585)..id(q3nc2g.622)"/></move>
+<ims id="q3nc2.g.move.65.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.624)..id(q3nc2g.626)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.66"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.627)..id(q3nc2g.673)"/></move>
+<ims id="q3nc2.g.move.67.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.675)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.68"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.676)..id(q3nc2g.679)"/></move>
+<ims id="q3nc2.g.move.69.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.681)..id(q3nc2g.684)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.70"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.685)..id(q3nc2g.702)"/></move>
+<ims id="q3nc2.g.move.71.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.704)..id(q3nc2g.707)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.72"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.708)..id(q3nc2g.724)"/></move>
+<ims id="q3nc2.g.move.73.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.726)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.74"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.727)..id(q3nc2g.729)"/></move>
+<ims id="q3nc2.g.move.74.4" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.731)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.74.9"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.732)..id(q3nc2g.738)"/></move>
+<ims id="q3nc2.g.move.75.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.739)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.76"  label="clarify"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.740)..id(q3nc2g.741)"/></move>
+<ims id="q3nc2.g.move.76.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.743)..id(q3nc2g.745)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.77"  label="check"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.746)..id(q3nc2g.750)"/></move>
+<ims id="q3nc2.g.move.78.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.752)..id(q3nc2g.756)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.79"  label="acknowledge"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.757)..id(q3nc2g.759)"/></move>
+<ims id="q3nc2.g.move.80.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.760)..id(q3nc2g.762)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.81"  label="query_yn"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.763)..id(q3nc2g.767)"/></move>
+<ims id="q3nc2.g.move.82.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.769)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.83"  label="acknowledge"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.770)"/></move>
+<ims id="q3nc2.g.move.83.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.772)..id(q3nc2g.774)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.84"  label="clarify"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.775)..id(q3nc2g.780)"/></move>
+<ims id="q3nc2.g.move.85.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.782)..id(q3nc2g.788)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" meta="false_meta" id="q3nc2.g.move.86"  label="instruct" aban="true_aban"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.789)..id(q3nc2g.793)"/></move>
+<ims id="q3nc2.g.move.87.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.794)..id(q3nc2g.811)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.88"  label="ready"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.812)"/></move>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" id="q3nc2.g.move.89"  label="explain" meta="true_meta"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.814)..id(q3nc2g.843)"/></move>
+<ims id="q3nc2.g.move.90.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.844)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" id="q3nc2.g.move.91"  label="explain" meta="true_meta" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.845)..id(q3nc2g.864)"/></move>
+<ims id="q3nc2.g.move.92.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.866)..id(q3nc2g.873)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.92.7"  label="uncodable"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.874)..id(q3nc2g.876)"/></move>
+<ims id="q3nc2.g.move.93.1" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.877)..id(q3nc2g.880)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.93.2"  label="ready"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.881)"/></move>
+<ims id="q3nc2.g.move.93.4" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.883)..id(q3nc2g.885)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.93.5"  label="ready"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.886)"/></move>
+<ims id="q3nc2.g.move.93.9" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.888)..id(q3nc2g.891)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.94"  label="acknowledge"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.892)"/></move>
+<ims id="q3nc2.g.move.94.1" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.893)..id(q3nc2g.895)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" id="q3nc2.g.move.94.2"  label="explain" meta="true_meta"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.896)..id(q3nc2g.916)"/></move>
+<ims id="q3nc2.g.move.94.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.917)..id(q3nc2g.920)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.95"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.921)..id(q3nc2g.931)"/></move>
+<ims id="q3nc2.g.move.96.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.933)..id(q3nc2g.937)"/></ims>
+<move cont="false_cont" interj="false_interj" aban="false_aban" meta="false_meta" id="q3nc2.g.move.97"  label="clarify" rep="other"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.938)..id(q3nc2g.945)"/></move>
+<ims id="q3nc2.g.move.98.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.947)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.99"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.948)"/></move>
+<ims id="q3nc2.g.move.100.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.950)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.101"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.951)..id(q3nc2g.962)"/></move>
+<ims id="q3nc2.g.move.102.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.964)..id(q3nc2g.967)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.103"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.968)..id(q3nc2g.981)"/></move>
+<ims id="q3nc2.g.move.103.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.983)..id(q3nc2g.986)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.104"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.987)..id(q3nc2g.1013)"/></move>
+<ims id="q3nc2.g.move.105.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1015)..id(q3nc2g.1018)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.106"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1019)..id(q3nc2g.1049)"/></move>
+<ims id="q3nc2.g.move.107.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1050)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.108"  label="reply_w"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1051)..id(q3nc2g.1056)"/></move>
+<ims id="q3nc2.g.move.109.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1058)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.110"  label="reply_y"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1059)"/></move>
+<ims id="q3nc2.g.move.111.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1061)"/></ims>
+<move cont="false_cont" interj="false_interj" aban="false_aban" meta="false_meta" id="q3nc2.g.move.112"  label="acknowledge" rep="other"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1062)..id(q3nc2g.1066)"/></move>
+<ims id="q3nc2.g.move.112.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1067)..id(q3nc2g.1069)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.113"  label="explain"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1070)..id(q3nc2g.1095)"/></move>
+<ims id="q3nc2.g.move.114.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1096)"/></ims>
+<move cont="false_cont" interj="false_interj" aban="false_aban" meta="false_meta" id="q3nc2.g.move.115"  label="acknowledge" rep="other"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1097)"/></move>
+<ims id="q3nc2.g.move.115.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1099)..id(q3nc2g.1100)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.116"  label="clarify"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1101)..id(q3nc2g.1120)"/></move>
+<ims id="q3nc2.g.move.117.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1122)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.118"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1123)..id(q3nc2g.1127)"/></move>
+<ims id="q3nc2.g.move.119.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1129)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.120"  label="reply_y"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1130)"/></move>
+<ims id="q3nc2.g.move.121.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1132)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.122"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1133)..id(q3nc2g.1164)"/></move>
+<ims id="q3nc2.g.move.123.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1166)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.124"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1167)..id(q3nc2g.1175)"/></move>
+<ims id="q3nc2.g.move.125.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1177)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.126"  label="reply_y"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1178)"/></move>
+<ims id="q3nc2.g.move.127.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1180)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.128"  label="reply_y"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1181)"/></move>
+<ims id="q3nc2.g.move.128.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1183)..id(q3nc2g.1185)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.129"  label="clarify"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1186)..id(q3nc2g.1212)"/></move>
+<ims id="q3nc2.g.move.130.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1214)..id(q3nc2g.1216)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.131"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1217)..id(q3nc2g.1253)"/></move>
+<ims id="q3nc2.g.move.132.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1255)..id(q3nc2g.1257)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.133"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1258)..id(q3nc2g.1285)"/></move>
+<ims id="q3nc2.g.move.134.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1287)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.135"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1288)..id(q3nc2g.1302)"/></move>
+<ims id="q3nc2.g.move.136.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1304)..id(q3nc2g.1306)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.137"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1307)..id(q3nc2g.1327.1)"/></move>
+<ims id="q3nc2.g.move.138.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1328)"/></ims>
+<move cont="false_cont" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.139"  label="acknowledge" interj="true_interj"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1329)"/></move>
+<ims id="q3nc2.g.move.139.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1330)..id(q3nc2g.1332)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.140"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1333)..id(q3nc2g.1336)"/></move>
+<ims id="q3nc2.g.move.142.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1338)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.143"  label="query_yn"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1339)..id(q3nc2g.1360)"/></move>
+<ims id="q3nc2.g.move.144.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1362)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.145"  label="acknowledge"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1363)"/></move>
+<ims id="q3nc2.g.move.145.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1365)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.146"  label="clarify"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1366)..id(q3nc2g.1377)"/></move>
+<ims id="q3nc2.g.move.147.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1379)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.148"  label="clarify" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1380)..id(q3nc2g.1389)"/></move>
+<ims id="q3nc2.g.move.149.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1391)..id(q3nc2g.1393)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.150"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1394)"/></move>
+<ims id="q3nc2.g.move.151.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1396)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.152"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1397)..id(q3nc2g.1402)"/></move>
+<ims id="q3nc2.g.move.153.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1404)..id(q3nc2g.1406)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.154"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1407)..id(q3nc2g.1431)"/></move>
+<ims id="q3nc2.g.move.154.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1432)..id(q3nc2g.1434)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" id="q3nc2.g.move.155"  label="explain" meta="true_meta"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1435)..id(q3nc2g.1447)"/></move>
+<ims id="q3nc2.g.move.156.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1449)..id(q3nc2g.1450)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.157"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1451)..id(q3nc2g.1470)"/></move>
+<ims id="q3nc2.g.move.158.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1472)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.159"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1473)"/></move>
+<ims id="q3nc2.g.move.159.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1475)..id(q3nc2g.1476)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.160"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1477)..id(q3nc2g.1497)"/></move>
+<ims id="q3nc2.g.move.161.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1499)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.162"  label="reply_y"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1500)..id(q3nc2g.1501)"/></move>
+<ims id="q3nc2.g.move.162.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1503)..id(q3nc2g.1505)"/></ims>
+<move interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.163"  label="instruct" cont="true_cont"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1506)..id(q3nc2g.1512)"/></move>
+<ims id="q3nc2.g.move.165.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1514)..id(q3nc2g.1518)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.166"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1519)"/></move>
+<ims id="q3nc2.g.move.166.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1521)..id(q3nc2g.1523)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.167"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1524)..id(q3nc2g.1539)"/></move>
+<ims id="q3nc2.g.move.168.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1541)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.169"  label="align"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1542)"/></move>
+<ims id="q3nc2.g.move.169.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1544)..id(q3nc2g.1547)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.170"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1548)..id(q3nc2g.1579)"/></move>
+<ims id="q3nc2.g.move.171.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1581)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.172"  label="instruct"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1582)..id(q3nc2g.1584)"/></move>
+<ims id="q3nc2.g.move.173.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1585)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.174"  label="reply_w"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1586)..id(q3nc2g.1589)"/></move>
+<ims id="q3nc2.g.move.175.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1591)..id(q3nc2g.1596)"/></ims>
+<move cont="false_cont" rep="none" aban="false_aban" id="q3nc2.g.move.176"  label="explain" meta="true_meta" interj="true_interj"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1597)..id(q3nc2g.1607)"/></move>
+<ims id="q3nc2.g.move.177.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1609)..id(q3nc2g.1612)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" meta="false_meta" id="q3nc2.g.move.178"  label="acknowledge"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1613)"/></move>
+<ims id="q3nc2.g.move.179.5" ><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1615)..id(q3nc2g.1617)"/></ims>
+<move cont="false_cont" interj="false_interj" rep="none" aban="false_aban" id="q3nc2.g.move.180"  label="explain" meta="true_meta"><nite:child href="q3nc2.g.timed-units.xml#id(q3nc2g.1618)..id(q3nc2g.1627)"/></move>
+</nite:root>
+
