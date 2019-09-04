@@ -1,0 +1,155 @@
+g|right starts above the stony desert|instruct
+f|alright okay|acknowledge
+g|right|align
+g|now|ready
+g|turn to the west|instruct
+f|mmhmm|acknowledge
+g|er go forward and then kind of down south|instruct
+f|west and then down south|check
+g|mmhmm|reply_y
+g|until you're like at the bottom of the kind of level with the bottom of the desert|instruct
+f|the map|acknowledge
+f|all right|acknowledge
+g|right|align
+g|then travel west again|instruct
+f|mmhmm|acknowledge
+g|right to the very end of paper|instruct
+f|the very end of the map|check
+g|map right|reply_y
+f|mmhmm|acknowledge
+g|and then up north|instruct
+f|mmhmm|acknowledge
+g|now|ready
+g|have you got anything down that side|query_yn
+f|not in that corner|reply_n
+g|no well|ready
+g|have you got a collapsed shelter|query_yn
+f|fssss over a bit|reply_w
+g|right|ready
+g|go straight up north|instruct
+f|mmhmm|acknowledge
+g|until you get to a kind of level above the shelter|instruct
+f|alright|acknowledge
+g|and turn east to r-- and travel right along|instruct
+f|alright|acknowledge
+g|past the shel-- the shelter that's over the top|instruct
+f|uh-huh|acknowledge
+g|right|ready
+g|then south|instruct
+f|then south|acknowledge
+g|just to below the shelter below the level of the shelter|instruct
+f|right|acknowledge
+g|in a kind of east|instruct
+g|and have you got a savannah|query_yn
+f|mmhmm|reply_y
+g|there's a savannah|query_yn
+g|right|acknowledge
+g|you want to travel east until you get to before the savannah|instruct
+f|mmhmm|acknowledge
+g|then tau-- turn north up|instruct
+f|mmhmm|acknowledge
+g|don't go round about it just go up before it|instruct
+f|mmhmm|acknowledge
+g|right|ready
+g|on my map there's a slate mountain|explain
+g|you're traveling north|align
+f|i'm going north|reply_y
+g|right now|ready
+g|have you got the hot wells|query_yn
+f|they're over a bit|reply_w
+g|or hot springs|query_yn
+f|they're over to the west a bit|reply_w
+g|right|ready
+g|travel straight up north 'til you get just above the hot wells make sure you've cleared the the height of it|instruct
+f|right|acknowledge
+g|and turn to your the west|instruct
+f|right|ready
+f|so i'm going above them|check
+g|until you get to the hot wells|instruct
+f|right|acknowledge
+g|no don't go over the top of them|reply_n
+f|right i'll go up to them|acknowledge
+g|alright now|ready
+g|and come down below them|instruct
+f|underneath them|check
+g|mmhmm|reply_y
+g|until you just get past them|instruct
+g|then come down to them south|instruct
+f|south|acknowledge
+g|just a a couple of inches|instruct
+g|and then west|instruct
+f|mmhmm|acknowledge
+f|underneath the elephants|query_yn
+g|mmhmm|reply_y
+g|and then north|instruct
+g|now|ready
+g|have you got big white mountain|query_yn
+f|mmhmm|reply_y
+f|it's up a bit|explain
+g|right|ready
+g|you want to go right up north|instruct
+f|mmhmm|acknowledge
+g|past it|instruct
+f|past the top of it|query_yn
+g|right up above it|reply_w
+f|right|acknowledge
+g|right|ready
+g|have you got the lake|query_yn
+f|no|reply_n
+g|mm-mm|check
+f|to the f-- no|reply_n
+g|the roman baths|query_yn
+f|no|reply_n
+g|hmm antelopes|query_yn
+f|mm they're over to the east of the mountain|reply_w
+g|right|ready
+g|you want to go|instruct
+g|sure you don't have a lake|check
+f|no beside this no|reply_n
+g|no but right the way over|query_yn
+f|right over to the east again|reply_w
+g|aye right|acknowledge
+g|go up to about the l-- the level with the bottom of the lake|instruct
+f|level with the bottom of the lake|acknowledge
+g|straight north to up to the l-- level with the bottom of the lake|instruct
+f|alright|acknowledge
+g|and then east 'til you get to the front of the lake|instruct
+f|i'm go-- i'm going to hit the round rocks|query_yn
+f|no|query_yn
+g|no|reply_n
+f|right|acknowledge
+g|and you want to go right round about the lake|instruct
+f|up above it|query_yn
+g|mmhmm|reply_y
+g|and come back round on yourself 'til you get to|instruct
+f|something like circle right round it|check
+g|mmhmm right|reply_y
+g|got your antelopes|align
+f|uh-huh|reply_y
+g|right|ready
+g|just go round enough so you're like in a above them|instruct
+f|right|ready
+f|up so i'm sitting just above the antelopes|check
+g|no|reply_n
+g|the height above them but just below the lake but above the antelope|clarify
+f|right|acknowledge
+g|right|ready
+g|should be a roman baths below the lake|align
+f|well i havenae|reply_n
+g|well|ready
+g|on mines there is|explain
+g|and you come between the lake and the roman baths so you'll have to avoid them|instruct
+f|right okay|acknowledge
+g|and you want to come south and round the antelopes|instruct
+f|to the east or the west|query_w
+g|to the west of the antelopes|reply_w
+f|right|acknowledge
+g|ehm and go right underneath them|instruct
+f|mmhmm|acknowledge
+g|then travel to the east just past the antelopes|instruct
+f|mmhmm|acknowledge
+g|that's it finished|instruct
+f|just past the antelopes it's finished|check
+g|mmhmm|reply_y
+f|okay|acknowledge
+g|that's it|reply_y

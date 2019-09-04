@@ -1,0 +1,156 @@
+g|right you start at the top left|instruct
+f|uh-huh|acknowledge
+g|right|align
+g|eh right|ready
+g|right you've got cliffs to the right so you sort of slope down towards the "c" of cliffs|instruct
+f|mmhmm|acknowledge
+g|right|align
+g|and then underneath the you don't have a forge underneath the cliff what is there nothing|query_yn
+f|just says sandstone cliffs|reply_w
+g|oh|acknowledge
+g|oh|acknowledge
+g|right well go right|instruct
+g|right|ready
+g|are they quite big right are the sandstone s-- cliffs beside the old pine tree|query_yn
+f|uh-huh|reply_y
+g|right okay|acknowledge
+f|above it to the left|explain
+g|ah the cliffs right okay right okay|acknowledge
+g|right|ready
+g|right see underneath the cliffs on my map there's a forge|explain
+g|right|align
+f|right|acknowledge
+g|and that's directly underneath the cliffs so it if|explain
+f|so i go below that and round underneath the bottom of the pine tree|check
+g|yeah|reply_y
+g|so just pretend there's a a forge|instruct
+f|right|acknowledge
+g|but it's like but to the left of the pine tree and below the cliffs right so it's like a loop|explain
+f|mmhmm|acknowledge
+g|okay|align
+g|so you're ending up just like to the left of the old pine tree|instruct
+f|i'm directly under the "b" of green bay|explain
+f|up here|explain
+g|oh it's upside down|explain
+g|my crane bay's at the bottom right|explain
+f|green bay i s-- green bay i said|clarify
+g|i haven't got one|explain
+f|oh|acknowledge
+g|right okay then right|ready
+f|i'm below the old pine|explain
+g|well that's fine|acknowledge
+g|right|ready
+g|so just go up round the top of the old pine and stop at the top of it|instruct
+g|right|align
+g|and then eh make the line go across page you know to the right|instruct
+f|mmhmm|acknowledge
+g|about that much|instruct
+g|right|align
+g|just straight across|instruct
+f|how sorry about|query_w
+g|that's right two or three centimetres|clarify
+f|right|acknowledge
+g|right|align
+g|then have you got a pine forest on the right|query_yn
+f|uh-huh|reply_y
+g|yeah|check
+f|uh-huh|reply_y
+g|right|ready
+g|slope down towards the "p" of pine forest|instruct
+f|towar-- i don't go round it i've i i don't go above it|check
+g|no no|reply_y
+g|just keep the pine forest at it outwith it|clarify
+f|right|acknowledge
+g|right|align
+g|and then below that what've you got|query_w
+f|a forest stream|reply_w
+g|right so you|instruct
+g|right i haven't got a forest stream right so|explain
+f|right i've got a bakery|explain
+g|uh-huh|acknowledge
+g|right|ready
+g|so like you've got to eventually right see from the "p" of the pine forest you're going to go out in a sort of wee lump like a nose|instruct
+f|round the bakery|check
+g|no|reply_n
+g|but right first before you come to the bakery do another wee lump|clarify
+f|why|query_w
+g|'cause i say|reply_w
+f|away what am i avoiding|query_w
+g|nothing|reply_w
+g|just that's where the route goes|explain
+f|right okay|acknowledge
+g|so you do a wee lump and then that comes in just maybe above the wee shed in the bakery|instruct
+g|see where the shed is in the bakery right|align
+f|right yeah that's right|reply_y
+f|uh-huh|acknowledge
+g|then you do a big nose round the bakery right right underneath the bakery|instruct
+f|right|acknowledge
+f|right|acknowledge
+g|and you don't stop underneath the bakery you continue in for another two centimetres|instruct
+f|right|acknowledge
+f|right|acknowledge
+g|right|align
+g|right i've got a canal there|explain
+g|have you|query_yn
+f|right|acknowledge
+f|no|reply_n
+g|right okay|acknowledge
+g|right see after your two centimetres you should be above|align
+g|have you got crane bay|query_yn
+f|uh-huh|reply_y
+g|above the "e" in crane bay|align
+f|oh well i'm miles above that right|reply_y
+g|right|align
+f|right|acknowledge
+f|right|reply_y
+g|so you go down towards "e"|instruct
+f|right|acknowledge
+g|down to the coast|instruct
+g|right|align
+g|then you follow the coastline round|instruct
+f|how far|query_w
+g|just eh about two centimetres|reply_w
+f|right|acknowledge
+g|towards there's a sort of a wee and then then then the bay starts sloping down|reply_w
+f|mmhmm|acknowledge
+g|vertically right just about where about where it slopes down|reply_w
+f|mmhmm|acknowledge
+g|right|align
+g|and then eh have you got wheatfields to the left of that|query_yn
+f|dead high up to the left|check
+g|no|reply_n
+g|sort of in line with the "n" and the "e" of crane bay|clarify
+f|no|reply_n
+g|oh right okay|acknowledge
+g|well i have right|explain
+g|so just go down|instruct
+g|have you got a w-- rocket warehouse|query_yn
+f|uh-huh|reply_y
+g|right go slope down and then above right you slope down to maybe two centimetres above the rocket warehouse and two centimetres in from the bay just say in line with the "c"|instruct
+f|oh right|acknowledge
+g|right a wee diagonal line there|instruct
+g|and then you go horizontally across the top of the rocket warehouse|instruct
+f|right|acknowledge
+g|to just to the edge of the rocket warehouse|instruct
+g|and then you slope the line down onto the edge of the page about s-- five centimetres up from the bottom|instruct
+f|miss do you mean above the cave|check
+g|i don't have a cave|explain
+f|right|acknowledge
+g|right|align
+f|right|acknowledge
+g|so like|instruct
+f|right to the edge|check
+g|well almost|reply_w
+f|right|acknowledge
+g|right|align
+g|and then you go down go down the edge of the page right|instruct
+g|the last guy had a cave as well but he went round the bottom of it|explain
+f|right|acknowledge
+g|so like just go round the bottom of the cave and then up to the old lighthouse end up at the old lighthouse|instruct
+f|what part of it|query_w
+g|just beside it|reply_w
+f|right|acknowledge
+f|directly above below the s-- start|check
+g|uh-huh|reply_y
+f|right|acknowledge
+g|okay|acknowledge

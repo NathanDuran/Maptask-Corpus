@@ -1,0 +1,162 @@
+f|are we going to do it the same way as we did it the last time from the standpoint of the viewer|query_yn
+g|right okay|reply_y
+f|right the wee man walking along the track right|align
+g|aye right|reply_y
+g|so you're standing at the s-- the start's above the stony desert which is to your left|explain
+f|er well it's no|explain
+f|it's behind me but the right|explain
+g|right|ready
+g|if you're walking along the path then walk forward about a centimetre and a half|instruct
+f|uh-huh|acknowledge
+g|and then veer in a curve to your left|instruct
+f|should i be seeing anything|query_yn
+g|no there's a site of a plane crash quite a bit a-- on the other side of the paper in front of you|reply_w
+g|is that there no|query_yn
+f|no it's miles away|reply_n
+f|it's away up the top|explain
+g|well there's two yeah there's two|explain
+f|oh|acknowledge
+g|but there's one down here that isn't on your page okay|explain
+f|is there a waterhole|query_yn
+g|no|reply_n
+g|there's a savannah|explain
+f|right|acknowledge
+f|where's the savannah|query_w
+g|it just doesn't matter wait a minute|reply_w
+g|right|ready
+g|go forward a wee bit from the start|instruct
+f|aye|acknowledge
+g|to the left|instruct
+g|right|align
+g|and then go down to the left in a corner 'til you're about a centimetre above the bottom of the page|instruct
+f|oh so i uh i move forward from the start|check
+g|uh-huh|reply_y
+f|then turn doon towards the bottom of the page|check
+g|uh-huh|reply_y
+f|right|acknowledge
+g|and go right along|instruct
+f|uh-huh|acknowledge
+g|and then 'til you're about a centimetre and a half away from the edge|instruct
+f|right|acknowledge
+g|then go up|instruct
+f|so i turn to my right|check
+g|uh-huh turn to your right|reply_y
+f|uh-huh|acknowledge
+g|about five centi--|instruct
+g|have you got a collapsed shelter|query_yn
+f|aye|reply_y
+g|right|acknowledge
+g|well 'til you're until that's on the same plane as you|instruct
+f|okay|acknowledge
+g|and then go round above it|instruct
+f|uh-huh|acknowledge
+g|then down|instruct
+f|what you mean down towards the bottom of the paper|check
+g|uh-huh|reply_y
+f|uh-huh|acknowledge
+f|do i do i go by the collapsed shelter|check
+g|uh-huh|reply_y
+f|right uh-huh|acknowledge
+g|and then so that until you've got|instruct
+f|the collapsed shelter's on my right|explain
+g|uh-huh|reply_y
+f|right|acknowledge
+g|and then go round to your left|instruct
+f|my left|check
+g|as you're the wee guy|clarify
+f|so that's going up the-- up the paper again|check
+g|oh no have you not turned down yet|align
+f|right i've turned-- i've turned down right by the collapsed shelter towards the bottom of the paper|reply_w
+g|uh-huh|acknowledge
+g|and then go in a straight line|instruct
+f|uh-huh|acknowledge
+g|left|instruct
+f|left|acknowledge
+f|right|acknowledge
+g|and then turn right how far about f-- 'til you're directly above the start|instruct
+f|uh-huh|acknowledge
+f|right|acknowledge
+g|and then turn up the page to your left|instruct
+f|right|acknowledge
+g|have you got a savannah|query_yn
+f|aye|reply_y
+f|by the savannah savannah on my right|explain
+g|by the savannah|acknowledge
+g|right|align
+f|uh-huh|reply_y
+g|right up 'til you're about halfway up the page|instruct
+g|'cause you've not got a slate mountain have you|check
+f|okay|acknowledge
+f|no|reply_n
+g|right well i'll tell you about halfway up the page|instruct
+g|and then go to your left as you're the wee guy|instruct
+f|uh-huh|acknowledge
+g|about two centimetres|instruct
+f|i've got hot springs|explain
+g|hot wells|explain
+f|well|acknowledge
+g|right right|ready
+g|then you go down and skirt round the left-hand side of them down diagonally 'til you're past them 'til you're just below them|instruct
+f|is the left one side of them so that's my right as a wee man there on my right|check
+g|yeah there on your right yeah|clarify
+f|right|acknowledge
+f|right so i'm round the bottom of them now|explain
+g|right|ready
+g|now we go round in a circle|instruct
+g|because have you got something there have you got elephants or something|query_yn
+f|elephants|reply_w
+g|right|acknowledge
+g|go round beyond the elephants|instruct
+f|uh-huh|acknowledge
+g|below them and then right up the page|instruct
+f|right|acknowledge
+g|straight up to the edge 'til you're about three centimetres away from the top|instruct
+f|up the top|check
+f|i've to away up the top here|check
+g|uh-huh|reply_y
+f|right|acknowledge
+g|not right up to the top 'til you're about|clarify
+f|well um it's easy anyway|acknowledge
+g|right that'll do|acknowledge
+f|aye|acknowledge
+g|and eh and then go right 'til you're about into the middle of the page into the middle of of of the width of it|instruct
+f|now there's round rocks on my right|explain
+g|well go up above them|instruct
+f|mmhmm i'm above them|acknowledge
+g|right have you got a lake|query_yn
+f|aye|reply_y
+g|right well go up round the lake in a circle|instruct
+g|have you got roman baths no|query_yn
+f|uh-huh|acknowledge
+f|no|reply_n
+g|right well just go round in a sort of circle circ-- circle the the lake|instruct
+f|uh-huh|acknowledge
+f|so where should i be heading doon the page uh|check
+g|and then head down the page|instruct
+g|have you got antelope|query_yn
+f|aye|reply_y
+g|right|acknowledge
+g|turn go just head down the page until you're until the antelope are on your left as you're walking down the page|instruct
+f|right|acknowledge
+g|okay|align
+f|uh-huh|reply_y
+g|have you passed them yet|align
+f|oh the antelope are on my right as the wee man 'cause they're right in the middle of the page|explain
+g|uh-huh|acknowledge
+g|well go down them so that they're on your left if you're coming down the page|instruct
+f|right i'd have to go down diagonally then|explain
+g|right|acknowledge
+g|well do that|instruct
+f|score that out right|acknowledge
+f|round the antelope|explain
+g|and then|instruct
+f|right|acknowledge
+g|and then go left|instruct
+f|left|acknowledge
+g|until you're on the same line as the start and that's your finish so it's just above halfway up the page|instruct
+f|aye|acknowledge
+g|just above the bit where you turned round of that mountain that you've not got|instruct
+f|that's right that's right|acknowledge
+f|that's right aye i've got it|acknowledge
+g|right that's it|explain
+f|uh-huh|acknowledge

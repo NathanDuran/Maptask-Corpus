@@ -1,0 +1,126 @@
+g|ehm|ready
+g|have you got a start at the top of the page|query_yn
+f|i have yeah|reply_y
+f|it's near a diamond mine|explain
+g|right|ready
+g|go down so you're left of the diamond mine|instruct
+f|down|acknowledge
+g|so you're beneath it|instruct
+f|so that i'm underneath it so i move right so that i'm underneath it|check
+g|so that you're underneath it yes|reply_y
+f|right ehm|ready
+f|directly underneath the diamond mine|check
+g|mmhmm|reply_y
+g|then go right 'til you're three quarters along the page|instruct
+f|right until i'm three quarters along the page|acknowledge
+f|i've come to a cactus|explain
+g|oh avoid the cactus go above it|instruct
+f|above it|acknowledge
+f|right|ready
+f|i've gone above the cactus|explain
+g|um go right up to the top of the page|instruct
+f|um i've come to a rift valley|explain
+g|oh you don't want to be that far along you want to go up so you're to the left of the rift valley|instruct
+f|okay that's fine|acknowledge
+g|then go right 'til you're halfway along the rift valley|instruct
+f|then go ri--|acknowledge
+f|right|acknowledge
+g|then go down 'til you're above|instruct
+g|have you got any rocks|query_yn
+f|yeah|reply_y
+g|alright|ready
+f|so down through the m-- centre of the rift valley|check
+g|yeah|reply_y
+g|and you end up just above the rocks|instruct
+f|along the rift|acknowledge
+f|midway along the rocks basically there's an obstacle|explain
+g|uh-huh then go to the left of the rocks|instruct
+f|left of the rocks okay|acknowledge
+g|so you're beneath them|instruct
+f|eyo no i'm above|explain
+g|well|ready
+g|go to the left of them so that you're beneath them|instruct
+f|how can i go to the left and be beneath|query_w
+g|you go to the left and then you go down|reply_w
+f|okay|ready
+f|so i'm now|explain
+f|and then go underneath them|check
+g|no no n--|reply_n
+g|just so you're beneath them|clarify
+g|in parallel terms|clarify
+f|okay fine|acknowledge
+f|fine fine fine|acknowledge
+g|okay|align
+g|um have you got some white water or|query_yn
+f|yeah|reply_y
+g|right|acknowledge
+g|go left|instruct
+f|uh-huh|acknowledge
+g|so that you're below the rocks but above the white water|instruct
+f|okay|acknowledge
+g|right|align
+g|'til you're on the left-hand side of the white water|instruct
+f|fine|acknowledge
+g|okay|align
+f|fine fine|reply_y
+g|um and then go down|instruct
+g|and have you got anything underneath white water|query_yn
+f|a manned fort|reply_w
+g|right|ready
+g|go underneath that so go down and then underneath it|instruct
+f|to the left or to the right|query_w
+g|to start off on the left and then go to the right|reply_w
+f|okay|ready
+f|so i'm now right directly underneath the manned fort|explain
+g|good right|acknowledge
+g|have you got an outlaws' hideout|query_yn
+f|mm no|reply_n
+f|yes i do|reply_y
+f|it's to the right of the manned fort and slightly up|explain
+g|right and up|check
+g|right|ready
+g|i want you to move in a diagonal line up to that|instruct
+f|diagonal line|check
+g|from the manned fort to the outlaws' hideout|clarify
+f|underneath or the left or the right above|query_w
+g|to underneath the outlaws' hideout|reply_w
+f|fine|acknowledge
+g|right|ready
+g|then i want you to go right along to the edge of the page|instruct
+f|fine|acknowledge
+g|and right the way down the side of the page 'til you come to the noose|instruct
+g|got a noose|query_yn
+f|got the noose|reply_y
+g|got noose got noose right|acknowledge
+g|then go bit further down|instruct
+g|no no no no no that's right|instruct
+g|then|ready
+g|from the noose i want you to go left all the way along|instruct
+f|underneath the noose or above it|query_w
+g|underneath the noose|reply_w
+f|underneath|acknowledge
+g|all the way along 'til you reach the saloon bar|instruct
+f|good|acknowledge
+f|above the saloon below it|query_w
+g|above to start with|reply_w
+f|above|acknowledge
+f|can we go into the saloon bar|query_yn
+g|no|reply_n
+f|no|acknowledge
+g|it's bad for you|explain
+f|okay|acknowledge
+g|then go down|instruct
+f|down|acknowledge
+f|left or right|query_w
+g|on the right-hand side of the saloon bar|reply_w
+g|go down 'til you reach the bottom of it|clarify
+f|okay|acknowledge
+g|okay|align
+g|and then go um left along the bottom of it|instruct
+f|yeah okay|acknowledge
+g|go about another inch further inch and a half further than the edge of the saloon bar|instruct
+f|okay|acknowledge
+g|and then go up 'til you're parallel with the top of the saloon bar|instruct
+f|fine|acknowledge
+g|tu es fini|instruct
+f|oh i'm finished|acknowledge

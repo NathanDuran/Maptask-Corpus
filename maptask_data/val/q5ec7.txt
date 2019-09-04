@@ -1,0 +1,146 @@
+g|okay|align
+f|right|reply_y
+g|are you ready|align
+f|uh-huh|reply_y
+g|i'll just take this carefully|explain
+f|oh|acknowledge
+g|now you're starting at the top of the caravan park|instruct
+f|yeah|acknowledge
+g|okay|align
+f|uh-huh|reply_y
+g|you're turning you're going towards the outside of the map|instruct
+f|uh-huh|acknowledge
+f|what to the bit|check
+g|and you turn l-- you're turning left around the caravan park|instruct
+f|right okay|acknowledge
+f|down|check
+g|so you so you should end up going down the map|instruct
+f|right|acknowledge
+g|with the caravan park on your left|instruct
+f|yeah|acknowledge
+g|okay you got that|align
+f|right|reply_y
+g|don't say right it confuses me|instruct
+f|okay|acknowledge
+g|eh you're just oh about an inch off the bottom of the map you turn left in towards the centre of the map|instruct
+f|right|acknowledge
+g|okay|align
+f|uh-huh|reply_y
+g|you keep going|instruct
+f|uh-huh|acknowledge
+g|for a couple of inches then you turn left again so you're going back up the map|instruct
+f|uh-huh right|acknowledge
+g|now you should see an old mill|align
+f|uh-huh|reply_y
+g|is that you keep that on your right-hand side|instruct
+f|right|acknowledge
+g|and you go round it keeping it always on your right-hand side|instruct
+f|right|acknowledge
+g|so you go up past the side of it along the top|instruct
+f|uh-huh|acknowledge
+g|okay|align
+f|of the old mill|check
+g|of the old mill|reply_y
+g|now go at just a slight diagonal up towards the opposite side of the page|instruct
+f|uh-huh|acknowledge
+f|right|acknowledge
+g|okay|align
+g|now do you see a fenced meadow|query_yn
+f|uh-huh|reply_y
+g|well that above the fenced meadow you turn up the page|instruct
+f|right|acknowledge
+f|uh-huh|acknowledge
+g|okay|align
+g|now do you see the abandoned cottage|query_yn
+f|right|reply_y
+f|uh-huh|reply_y
+g|you go around the abandoned cottage keeping it always on your left-hand side so you go up past the abandoned cottage along the roof back down the other side of it|instruct
+f|uh-huh|acknowledge
+g|and turn right|instruct
+f|okay|acknowledge
+g|okay|align
+g|do you come to another fenced meadow|query_yn
+f|does that not|check
+f|i'm going to be crossing my path|explain
+f|see when it see when you said the abandoned cottage|align
+g|yes|reply_y
+f|so you go round the the side of the abandoned cottage where the "a" of the abandoned is|check
+g|yeah|reply_y
+g|no|reply_n
+g|you're round the other si--|explain
+f|the other side oh dear|acknowledge
+g|the abandoned cottage should always be on your left|explain
+f|right so my left|acknowledge
+g|well left is you wouldnae be on the map|explain
+f|okay right okay|acknowledge
+g|so you've now went round one side of the cottage|align
+f|uh-huh|reply_y
+g|along the roof of the cottage|align
+f|uh-huh|reply_y
+g|and down the other side of the cottage okay|align
+f|yeah|reply_y
+f|okay|reply_y
+g|now you turn to your right which will take you towards the outside of the page|instruct
+f|what the start side of the page|check
+g|yes|reply_y
+f|right|acknowledge
+g|now do you see a fenced meadow|query_yn
+f|no i don't have one|reply_n
+g|okay|acknowledge
+g|well you see where your start position is|align
+f|uh-huh|reply_y
+g|well be a couple of centimetres in|instruct
+f|right|acknowledge
+g|on that same line you go up towards a lake|instruct
+f|yeah|acknowledge
+g|okay|align
+g|up towards the lake|instruct
+f|uh-huh|acknowledge
+g|you go around the lake keeping the lake on your left-hand side|instruct
+g|now do you see a trig point|query_yn
+f|no i don't have one|reply_n
+g|okay|acknowledge
+g|do you see the bulge at the top of the lake|query_yn
+f|i've got two bulges|explain
+f|is that one called west lake or does it not have a name|check
+g|er er yes it's west lake|reply_y
+f|right|acknowledge
+g|okay|align
+f|okay|reply_y
+g|now you see the west lake has two i suppose you'd call them fingers|align
+g|pointing up towards the top corner of the page|align
+f|uh-huh|reply_y
+f|yeah|reply_y
+f|right|acknowledge
+g|well at at the finger closest to the middle of the page okay|instruct
+f|right okay|acknowledge
+g|at the end of it you turn in to the right okay|instruct
+f|uh-huh|acknowledge
+g|got that|align
+f|right uh-huh|reply_y
+g|now you're going down diagonally down the page towards the monument|instruct
+f|right okay so that's right|acknowledge
+g|right|align
+g|you skip you go round the monument keeping the monument on your left-hand side so you go a--|instruct
+f|towards the edge of the page|check
+g|page|reply_y
+g|you go in below the monument|instruct
+f|right|acknowledge
+g|around the monument|instruct
+f|right|acknowledge
+g|so you come up again on the vertical|instruct
+f|right|acknowledge
+g|going towards the east lake|instruct
+f|right|acknowledge
+g|okay|align
+g|up towards the east lake|instruct
+f|uh-huh|acknowledge
+g|you stop on the shores turn back in towards the middle of the page|instruct
+f|uh-huh|acknowledge
+g|and that should be you just about a centimetre or so past the finish past the east lake|instruct
+f|right okay|acknowledge
+g|okay|align
+f|that's it finished|check
+g|that's it|reply_y
+f|fine|acknowledge
+g|okay|acknowledge

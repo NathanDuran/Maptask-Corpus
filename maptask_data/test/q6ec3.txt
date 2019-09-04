@@ -1,0 +1,205 @@
+g|okay ehm|ready
+g|have you got a starting point above the missionary camp|query_yn
+f|uh-huh i have yeah|reply_y
+g|and have you got gorillas|query_yn
+f|no|reply_n
+g|well|ready
+g|they're in the bottom left-hand corner|explain
+f|bottom|acknowledge
+g|roughly up a bit huh|explain
+f|o-- of the camp or of the map|query_w
+g|of the map|reply_w
+f|of the map|acknowledge
+f|now|ready
+f|i have a banana tree instead|explain
+g|right okay|acknowledge
+g|so|ready
+g|if you just go left from the missionary camp a bit and then down|instruct
+f|left and down|check
+g|yeah|reply_y
+g|to about a couple of centimetres above the top of the bottom of the page|instruct
+f|yeah|acknowledge
+g|and then continue straight left along until about four centimetres from the end and then go straight up again|instruct
+f|so that i'm on the left of what i have as a banana tree|check
+g|sorry|query_w
+f|so that i end up on the left of what is the banana tree on this map or maybe the gorillas on yours|clarify
+g|yeah probably yeah|reply_y
+f|okay|acknowledge
+g|uh do you have a rope bridge|query_yn
+f|i do|reply_y
+f|ehm do i avoid the missionary camp where i'm moving|query_yn
+g|yeah|reply_y
+f|so i move along so that i'm to the left of the missionary camp when i go down|check
+g|uh-huh yeah|reply_y
+f|okay|acknowledge
+f|now|ready
+f|i'm at the left-hand side of the banana tree about|explain
+g|right|acknowledge
+f|almost the extreme left of the page and about four centimetres up|explain
+g|mmhmm|acknowledge
+f|about quarter of the way up|explain
+g|okay that's fine|acknowledge
+g|now|ready
+g|you've got the rope bridge|align
+f|uh-huh|reply_y
+g|so that you want to come up the page and then just when you're about in line with the rope rope bridge just turn right so you're across it|instruct
+f|okay|ready
+f|so i'm going straight up and actually cross over the rope bridge|check
+g|yeah|reply_y
+f|so i move up and cross over the rope bridge|acknowledge
+f|right so|ready
+f|i'm now standing at the other side of the rope bridge|explain
+g|okay|ready
+g|if you now come down a couple of centimetres|instruct
+f|uh-huh yeah|acknowledge
+g|and do you have a waterfall|query_yn
+f|yeah|reply_y
+f|it's right of where i am at the moment|explain
+g|yeah|acknowledge
+g|if you just|instruct
+g|mm do you have a sort of the water coming down|query_yn
+f|uh-huh|reply_y
+g|if you sort of head along|instruct
+f|mmhmm|acknowledge
+g|so that you're about in line with the bottom of the water|instruct
+f|uh-huh|acknowledge
+g|if you know what i mean|align
+f|yeah|reply_y
+g|and then|ready
+g|have you got lost steps|query_yn
+f|no no steps|reply_n
+g|okay|ready
+g|if you just get to the waterfall first|instruct
+g|and then you want to go straight up to where these lost steps are|instruct
+f|oh yeah which are where|query_w
+g|well|ready
+g|have you got fallen pillars|query_yn
+f|mm yeah i do yeah|reply_y
+g|it's sor-- it's|reply_w
+g|in the finishing point|query_yn
+f|no|reply_n
+g|no|check
+g|ehm it's about in line with the fallen pillars|reply_w
+f|uh-huh|acknowledge
+g|to the right of them|reply_w
+f|yeah|acknowledge
+g|in between the rope bridge and the waterfall|reply_w
+f|all right so you've the rope bridge and the waterfall and the fallen pillars|check
+f|so at the moment i'm at the waterfall|explain
+g|uh-huh|acknowledge
+g|well you want to go straight up|instruct
+f|do--|query_w
+f|straight up|acknowledge
+g|and you've got the lost steps|align
+f|yeah|reply_y
+f|so i'm straight up i'm now at the top of the waterfall ehm not quite halfway up the page|explain
+g|if you go straight up from the waterfall you keep going up until you're in line with the fallen pillars|instruct
+f|okay|acknowledge
+g|but don't actually go near them|instruct
+f|yeah okay that's fine|acknowledge
+g|and that's you if you sort of curve off to the left|instruct
+f|uh-huh|acknowledge
+g|you'll miss the lost steps|instruct
+f|okay|acknowledge
+f|and how far along do i move|query_w
+g|um to about just before the middle of the page|reply_w
+f|fine|acknowledge
+g|and then you want to come down in a diagonal|instruct
+g|so that you've missed the fallen pillars and go underneath them|instruct
+f|uh-huh|acknowledge
+f|okay that's fine|acknowledge
+f|i'm now halfway along underneath the fallen pillars|explain
+g|right just keep going 'til the end|instruct
+f|okay|acknowledge
+g|of the fallen pillars|instruct
+g|yeah|align
+g|um now go down two or three centimetres|instruct
+f|yeah|acknowledge
+g|do you have an obstacle there|query_yn
+f|i do|reply_y
+f|flamingoes|explain
+g|well uh|ready
+g|i think you're probably trying to avoid that so if you go down um and then left in a sort of curve|instruct
+f|uh-huh|acknowledge
+f|yeah|acknowledge
+g|and up again and you're pretty near the edge of the page|instruct
+f|yeah|acknowledge
+g|then|ready
+g|do you have ancient ruins|query_yn
+f|um ruined city is about three quarters up on the page and just slightly to the right of where i am at the moment|reply_w
+g|yeah|acknowledge
+g|okay|acknowledge
+g|just like a bit up from the fallen pillars and to the left|check
+f|yeah yeah uh-huh|reply_y
+g|well|ready
+g|you want to sort of come towards the ancient ruins a bit|instruct
+f|yeah|acknowledge
+g|without actually coming into contact with them|instruct
+f|yeah okay|acknowledge
+f|so i'm i'm moving right basically|check
+g|a straight line|instruct
+f|right|acknowledge
+f|now do i move up so that i'm level with the ruined city|query_yn
+g|yeah|reply_y
+f|uh um okay|acknowledge
+f|right now i'm i'm on the left-hand side of the ruined city and about three quarters of the way up the page|explain
+g|yeah|acknowledge
+g|now|ready
+g|do you have stones in the top left|query_yn
+f|eh no|reply_n
+f|i have a rock fall which is about halfway along the page and about three quarters of the way up|explain
+g|no no it's okay|acknowledge
+g|now if you just uh|instruct
+g|at the top there's some stones and that's about four centimetres from the top|explain
+f|uh-huh|acknowledge
+f|okay|ready
+f|so just continue to move straight up|query_yn
+g|yeah|reply_y
+f|until almost at the top|query_yn
+g|to about four centimetres|instruct
+f|fine|acknowledge
+g|and then you want to go sharp right|instruct
+f|mm|acknowledge
+g|to about halfway across the page|instruct
+f|okay|acknowledge
+g|now|ready
+g|do you have a white mountain|query_yn
+f|uh-huh|reply_y
+g|you want to just go over the top of that and round|instruct
+f|so go over the mountain|check
+g|mmhmm|reply_y
+f|okay|acknowledge
+f|ehm i'm at about three quarters of the way along and at almost at the top of the page|explain
+g|yeah okay|acknowledge
+g|um do you have a soft furnishings store|query_yn
+f|no|reply_n
+f|i've got lost steps actually|explain
+g|eh right um you're quite close to the mountain at the moment on its right-hand side|align
+f|yeah|reply_y
+f|yeah|reply_y
+g|well if you|ready
+g|under directly underneath the mountain about three centimetres down there's a soft furnishings store|explain
+f|yeah|acknowledge
+g|so you want to come down from the mountain and turn sharp left|instruct
+f|mountain and move|check
+f|yeah|acknowledge
+g|so that you're sort of in line with the left-hand side of the mountain|instruct
+f|okay|acknowledge
+g|then you come straight down and right|instruct
+f|and straight down and|acknowledge
+g|do you have gazelles|query_yn
+f|yeah|reply_y
+g|underneath them|instruct
+f|so|ready
+f|do i move to the left-hand or the right-hand side of the gazelles|query_w
+g|the right-hand side|reply_w
+f|fine|acknowledge
+g|to about the right-hand side of the mountain level if you know what i mean|instruct
+f|oh i see right that's a bit further along fine|acknowledge
+g|okay|align
+g|that's it|instruct
+f|so i've stopped so ehm i am three quarters of the way along slightly more than halfway up and to the right of the gazelles|check
+g|yeah|reply_y
+f|yeah|check
+g|that's right|reply_y
+f|fine okay|acknowledge

@@ -1,0 +1,143 @@
+g|right|ready
+g|start off facing north|instruct
+g|right|align
+g|turn to your left and walk forward then to your left again keep walking forward 'til you come to the site of a plane crash go right roundabout it and turn to your right so you end up facing north again|instruct
+f|could you just slow down a bit please|instruct
+g|sorry|acknowledge
+f|so i have to walk straight ahead from the start|check
+g|mmhmm|reply_y
+f|and then turn right|check
+g|mmhmm|reply_y
+g|just go a couple of steps|clarify
+f|mmhmm|acknowledge
+f|have i to pass pass by the waterhole|query_yn
+g|pass pass the pass|clarify
+g|well|ready
+g|it's stony desert that's what i've got here|reply_w
+g|but|reply_w
+f|now|ready
+f|i'm starting off from the s-- just above to the north of the stony desert|align
+g|mmhmm|reply_y
+f|erm|ready
+f|have i to pass by the savannah|query_yn
+g|no|reply_n
+g|you've to come down|clarify
+g|and round past the site of the plane crash|clarify
+g|no|align
+f|erm|ready
+f|erm plane crash is to north of where i am|explain
+g|well|ready
+g|is there no one right at the bottom left-hand side of the page|query_yn
+f|no|reply_n
+g|okay|acknowledge
+g|well|ready
+g|come to walk right to the right-hand side of the page|instruct
+f|okay|acknowledge
+g|eh left-hand sorry|instruct
+f|okay|acknowledge
+g|erm have you got a collapsed shelter|query_yn
+f|yes i do|reply_y
+g|right|acknowledge
+g|you've to go up north and then round the collapsed shelter|instruct
+f|uh-huh|acknowledge
+g|erm do you meet the savannah|query_yn
+f|erm|ready
+f|mm now when i when i go round past the collapsed shelter my the savannah is to my right|reply_w
+g|mmhmm|acknowledge
+f|okay|acknowledge
+g|well|ready
+g|walking east|instruct
+f|that's east okay okay|acknowledge
+f|that's i'll change direction and walk east now towards the savannah past the collapsed shelter|align
+g|mmhmm|reply_y
+g|when you get to the savannah t-- before you ge-- turn to your left so you're heading north again|instruct
+f|okay|acknowledge
+f|okay|acknowledge
+g|until you you get over the top of the slate mountain|instruct
+f|over the top of the|query_w
+g|slate mountain|reply_w
+f|don't have a slate mountain|explain
+g|mm|acknowledge
+f|eh i've got some hot springs and elephants|explain
+g|well|ready
+g|the hot wells are after the slate mountain|explain
+g|ehm|ready
+g|just walk up t-- to the north to about the height of hot wells the hot springs|instruct
+f|okay okay okay|acknowledge
+g|turn to your right well left sorry|instruct
+f|mmhmm|acknowledge
+g|and down below the springs|instruct
+f|walk walk below the springs|check
+g|uh-huh|reply_y
+f|right|acknowledge
+g|then turn to face north again|instruct
+f|uh-huh|acknowledge
+g|have you got a white mountain|query_yn
+f|yes|reply_y
+f|i have a white mountain to my north|explain
+g|right|acknowledge
+g|up past up on the left of the white mountain walk right up past|instruct
+f|uh-huh|acknowledge
+g|erm do you have a lake right up at the top|query_yn
+f|yes uh-huh|reply_y
+g|right|acknowledge
+g|walk keep walking north 'til you get to the level of the lake|instruct
+f|uh-huh|acknowledge
+g|then walk right round it|instruct
+f|uh-huh|acknowledge
+g|roman baths|query_yn
+f|roman baths don't have any roman baths at all|reply_n
+g|well|ready
+g|when you come round the lake stick close round the edge|instruct
+f|uh-huh|acknowledge
+g|and come back the way you came well only halfway|instruct
+f|mmhmm|acknowledge
+f|back round past the white mountain|check
+g|right|align
+g|no|reply_n
+g|right just come back about the length of the lake|clarify
+f|uh-huh|acknowledge
+g|erm roman baths|query_yn
+g|no|reply_n
+g|you said you didn't have that|explain
+f|don't have any roman baths|reply_n
+g|antelopes|query_yn
+f|i've got some round r--|explain
+f|yes|reply_y
+f|i've got some antelopes right in the centre|explain
+g|well|ready
+g|on a-- this map the roman baths are there are at the top below the lake and then it's the antelope|explain
+f|right okay|acknowledge
+f|so you want me to go between the antelopes and the position of the roman bath|query_yn
+g|well it one is just below the other and it's come down to the way you'll be facing it'll be your left the roman baths and the antelopes will be to your left|reply_w
+f|right okay then|acknowledge
+f|right|ready
+f|so i've to go down to so that the antelopes are to my left|check
+f|and what about this lake|query_w
+f|i'm still i've still gone halfway back round the lake again|explain
+g|right|ready
+g|your lake is on the right top right|align
+f|okay|reply_y
+g|right er|ready
+g|and you're to walk erm that way round the lake to-- the roman baths were there|instruct
+f|okay|acknowledge
+f|i just score this bit out a minute|explain
+f|right|ready
+f|so sort of underneath the lake then|check
+g|er right round and come back under it|clarify
+f|right round|acknowledge
+f|right that's that right okay okay|acknowledge
+g|right|ready
+g|and straight down to the antelopes|instruct
+f|uh-huh|acknowledge
+g|erm and it goes round the bottom of the antelopes|instruct
+f|mmhmm|acknowledge
+g|on my map it's eh right to the go to the right|instruct
+f|mmhmm|acknowledge
+g|i think that's me at the finish|instruct
+g|just is there a site of the plane crash|query_yn
+f|uh-huh i've got that i've got a site of plane crash|reply_w
+g|well it's just below there|instruct
+f|just below that|acknowledge
+f|and that's it|check
+g|think so|reply_y

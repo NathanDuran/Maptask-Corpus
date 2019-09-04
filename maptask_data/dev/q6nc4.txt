@@ -1,0 +1,242 @@
+g|right|ready
+g|so you've got a a start i presume|query_yn
+f|uh-huh yeah|reply_y
+g|up at the the top on the sort of left-hand side|query_yn
+f|yeah|reply_y
+f|just above the diamond mine|check
+g|have you got|query_yn
+g|yeah|reply_y
+f|uh-huh|acknowledge
+g|so you want to go just round the side of the diamond mine|instruct
+f|right|acknowledge
+g|so you're at the bottom of that|instruct
+f|right|acknowledge
+g|right now ehm|ready
+g|have you got a wagon wheel|query_yn
+f|um no|reply_n
+f|i've got a swamp|explain
+g|you've got|check
+f|to the left of the bottom left of the diamond mine there's a swamp|explain
+g|right|acknowledge
+g|well|ready
+g|the bottom the bottom left|acknowledge
+g|well|ready
+g|you want to just go ehm along to|instruct
+g|you got the stone you s-- you got a stone creek yes|query_yn
+f|stone creek|acknowledge
+f|no|reply_n
+g|you got stone slabs|query_yn
+f|i've got like|explain
+f|you know where the swamp is|align
+f|just to the right of that there's rapids|explain
+g|oh right|acknowledge
+g|i've i've not got any of that i've got|explain
+g|oh the swamp is that to the left of the diamond mine|query_yn
+f|uh-huh to the left of the diamond mine|reply_y
+g|sorry right i see|acknowledge
+g|well|ready
+g|you want to go to the right of the diamond mine just keep going the same sort of direction you are|instruct
+f|right|acknowledge
+g|in a slight slight up gradient for about|instruct
+f|right|acknowledge
+g|ehm eh have you got the swan pond at the bottom|query_yn
+f|eh swamp's at the bottom left yeah|reply_w
+g|the s-- no the|explain
+f|and i've to go to the right|check
+g|ah you've to go to the right|reply_y
+g|no sorry right at the bottom of the map there's a swan pond|explain
+g|do you see that right at the very bottom|query_yn
+f|there's a saloon bar at the bottom of my map|reply_w
+g|uh-huh|acknowledge
+g|to to the right of that have you not got a swan pond no|query_yn
+f|no|reply_n
+g|well|ready
+g|just just go eh to your right from the bottom of the diamond mine|instruct
+f|uh-huh|acknowledge
+g|eh in a slight up gradient 'til you're just sort of past centre of the map|instruct
+f|right|acknowledge
+f|right|acknowledge
+f|right okay|acknowledge
+g|uh-huh ehm|acknowledge
+g|better make sure you're f-- a f-- a reasonable bit to the right-hand side of the map actually|instruct
+g|'cause there's a wh-- a wagon wheel here you've got to miss|explain
+f|right|acknowledge
+g|right now y--|ready
+g|you've got have you got a rift valley in the top right hand corner|query_yn
+f|yeah uh-huh uh-huh|reply_y
+g|and is that the only obstacle you've got|query_yn
+f|in just where i'm going there's a cactus as well|reply_w
+g|right well|ready
+g|you want to go up straight up and then along over the top of the rift valley and then down through the middle of it|instruct
+f|right|acknowledge
+f|so it's straight up to the rift valley|check
+g|uh-huh|reply_y
+f|and then down through the middle of it|check
+g|down through the middle of it yes|reply_y
+f|right|acknowledge
+g|right|ready
+g|so you're you're at the middle of the rift valley|align
+f|uh-huh|reply_y
+g|now|ready
+g|have you got rocks below that|query_yn
+f|yeah|reply_y
+f|quite a bit below|explain
+f|it uh-huh|acknowledge
+g|uh-huh quite a bit below|acknowledge
+g|it s-- now|ready
+g|you want to go down straight down to about halfway to the rocks and then just miss the rocks on the left-hand side|instruct
+f|right|acknowledge
+g|a sort of miss them by go a diagonal line straight down in a diagonal line|instruct
+f|right okay|acknowledge
+g|missing the rocks by a couple of centimetres|instruct
+f|right|acknowledge
+g|right eh you've|ready
+g|have you got a stone creek|query_yn
+f|eh no|reply_n
+g|no you've not|check
+g|right|acknowledge
+f|ehm there's like to the left of the rocks there's rapids and then like below the rocks there's an outlaws' hideout|explain
+g|uh-huh|acknowledge
+g|well|ready
+g|straight across from the rocks on the left i've got the stone creek|explain
+g|so what you want to do is you want to keep going down the same direction you're going|instruct
+f|uh-huh|acknowledge
+g|and 'til you're about the middle of the paper|instruct
+f|right|acknowledge
+g|and you stop so you're in sort of in a line with the writing of rocks|instruct
+f|right|acknowledge
+f|so i need to go down as well yeah|check
+g|you need to go down yeah|reply_y
+f|right got that|acknowledge
+g|right|ready
+g|now you want to go|instruct
+g|i've got white water you've you've got something else apparently|explain
+g|you want to go up slightly and|instruct
+g|what have what have you got to the left of where we are|query_w
+f|rapids|reply_w
+g|you've got rapids|check
+f|uh-huh|reply_y
+g|ah right i've got white water so it's the same|explain
+f|yeah|acknowledge
+g|sort of thing presumably|explain
+f|yeah|acknowledge
+g|you want to go up the same sort of gradient to the left as you've been going down|instruct
+g|if you know what i mean|align
+f|oh right okay|reply_y
+g|so you're above|instruct
+g|you're above the rapids|instruct
+f|the rapids|query_yn
+f|uh-huh right|acknowledge
+g|and then|ready
+g|c-- and then|ready
+g|come down the side of them at the side of them|instruct
+f|right okay|acknowledge
+g|right|align
+f|right|reply_y
+g|so|ready
+g|have you got anything in the sort of vicinity round about here any obstacles|query_yn
+f|rapids well below the rapids there's a manned fort|reply_w
+g|well|ready
+g|you want to go ehm s-- straight down well curve out slightly from where you are and then curve back in eh straight down to|instruct
+g|have you got the stone creek|query_yn
+f|yeah uh-huh|reply_y
+g|ehm sort of well ten centimetres above the stone creek in a line with just above the stone slabs that sort of level|instruct
+f|right|acknowledge
+f|right|acknowledge
+g|and and above the stone creek you want to go down there in a sort of curved slight curved circle the sort of shape of an eye|instruct
+f|right|acknowledge
+g|i would say|instruct
+f|down to about where just where the stone creek is yeah|check
+g|above above the stone creek directly above the middle of that about where the just above the level of the stone slabs|clarify
+g|have you got the stone slabs yeah right|check
+f|right|acknowledge
+f|yeah uh-huh right right|reply_y
+g|right|acknowledge
+g|you there yeah|align
+f|uh-huh yeah|reply_y
+g|right|ready
+g|have you got an outlaws' hideout to your right|query_yn
+f|yeah|reply_y
+f|that's quite a bit above though|check
+g|quite a b-- yeah that's right|reply_y
+f|uh-huh|acknowledge
+g|you want to go eh up up to that so you're just underneath the outlaws' hideout|instruct
+f|right|acknowledge
+f|right|acknowledge
+g|now right|ready
+g|you're direct underneath the ou-- outlaws' hideout|acknowledge
+g|you want to curve out to your right slightly so you're about two or three centimetres well five centimetres off the edge of the page|instruct
+f|right|acknowledge
+g|and then just go straight down|instruct
+g|have you got the noose|query_yn
+f|yeah uh-huh|reply_y
+g|uh-huh|acknowledge
+g|go go just go straight down from there so you're eh at the bottom of the noose on the right-hand side of it|instruct
+f|right|acknowledge
+g|just a straight line down|instruct
+f|right|acknowledge
+g|right now you want to curve down|instruct
+g|have you got the swan pond|query_yn
+f|no|reply_n
+g|you've not got the swan pond|acknowledge
+f|there's just a noose and then like to the left there's stone creek and below that there's a saloon bar but nothing else|explain
+g|aye right the saloon bar right|acknowledge
+g|well|ready
+g|basically from the noose you're wanting to get to underneath the saloon bar|instruct
+f|uh-huh|acknowledge
+g|what you've got to do is y-- ehm drop from the the noose in a sort of curve to your left|instruct
+f|right|acknowledge
+g|so that you're just about the level at the top of the saloon bar|instruct
+f|right|acknowledge
+f|right|acknowledge
+g|right now|ready
+g|just go along a a couple of centimetres not too much|instruct
+f|right|acknowledge
+g|and and curve curve up and then back down so you're ah|instruct
+g|you've not got the swan pond of course see i've got a swan pond there you need to go up over and round|explain
+f|mmhmm|acknowledge
+g|so you want to be going up|instruct
+g|up the way slightly and then back down|instruct
+f|right|ready
+f|so so should i be sh-- ehm to the left of the saloon bar yeah when i finish|check
+g|ehm y-- yes|reply_y
+g|you go underneath the saloon bar and finish to the to the left of it yeah so from from here you want to go up in a curve and then back down so you're at the same level you were originally avoiding the swan pond that i've got|instruct
+f|right|acknowledge
+f|right|acknowledge
+f|okay|acknowledge
+g|right|ready
+g|from there you just want to go g-- eh curves you're underneath the saloon bar|instruct
+f|right|acknowledge
+g|and from underneath the saloon bar|instruct
+g|well the finish is|explain
+g|ehm i was going to say where where the says finish but of course that's not particularly useful|explain
+g|ehm a couple of i'd say five centimetres above the saloon bar and just off a few centimetres off the side of the map on the left-hand side that's where the finish is|explain
+f|oh right ehm|acknowledge
+f|i've come down to the left of the saloon bar and i'm like at the bottom of the saloon bar just now|explain
+g|y-- right|ready
+g|you're bottom of the saloon bar|check
+f|uh-huh|reply_y
+g|right|ready
+g|you just want to curve up eh along past the saloon bar|instruct
+f|right|acknowledge
+g|and|ready
+g|it's it's about eh it's just a few centimetres out from the left-hand side of the page a few centimetres up from the saloon bar it's|instruct
+f|oh right|acknowledge
+f|no i'm going towards the right just now|explain
+g|oh you're going towards the right sorry|acknowledge
+f|uh-huh|reply_y
+g|right|ready
+g|you just want you want to be you're at the bottom of the saloon bar|instruct
+f|uh-huh|acknowledge
+g|and you want to just head up head up to your left basically in in a diagonal past the saloon bar|instruct
+f|oh right|acknowledge
+f|right okay|acknowledge
+f|hang on|instruct
+f|right|acknowledge
+g|right|ready
+g|and you should be sort of just a few centimetres from the side of the left-hand side of the page|instruct
+f|right|acknowledge
+g|is that right|align
+f|yeah uh-huh|reply_y
+g|well|ready
+g|that's it|instruct

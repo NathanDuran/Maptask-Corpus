@@ -3,30 +3,30 @@ import random
 import pickle
 
 
-def split_sets(output_dir, transcript_files, train_set_split=0.8):
+def split_sets(output_dir, transcript_list, train_set_split=0.8):
     random.seed(42)
 
     # Calculate number of transcripts in each set
-    num_train = int(len(transcript_files) * train_set_split)
-    num_val = int((len(transcript_files) - num_train) / 2)
-    num_test = len(transcript_files) - num_train - num_val
+    num_train = int(len(transcript_list) * train_set_split)
+    num_val = int((len(transcript_list) - num_train) / 2)
+    num_test = len(transcript_list) - num_train - num_val
     num_dev = int(num_train / 2)
 
     # Randomise the transcripts
-    random.shuffle(transcript_files)
+    random.shuffle(transcript_list)
 
     # Select the number of training and dev transcripts
-    train_indices = random.sample(range(len(transcript_files)), num_train)
-    train_split = [transcript_files[i].split('.')[0] for i in range(len(transcript_files)) if i in train_indices]
+    train_indices = random.sample(range(len(transcript_list)), num_train)
+    train_split = [transcript_list[i].split('.')[0] for i in range(len(transcript_list)) if i in train_indices]
     dev_split = random.sample(train_split, num_dev)
     # Remove from transcript list so we don't select again
     for index in sorted(train_indices, reverse=True):
-        del transcript_files[index]
+        del transcript_list[index]
 
     # Select the number of test and validation transcripts
-    test_indices = random.sample(range(len(transcript_files)), num_test)
-    test_split = [transcript_files[i].split('.')[0] for i in range(len(transcript_files)) if i in test_indices]
-    val_split = [transcript_files[i].split('.')[0] for i in range(len(transcript_files)) if i not in test_indices]
+    test_indices = random.sample(range(len(transcript_list)), num_test)
+    test_split = [transcript_list[i].split('.')[0] for i in range(len(transcript_list)) if i in test_indices]
+    val_split = [transcript_list[i].split('.')[0] for i in range(len(transcript_list)) if i not in test_indices]
 
     # Ensure no data is in more than one set
     if any(el in test_split for el in train_split):
@@ -53,7 +53,7 @@ def save_text_data(path, data, verbose=False):
         print("Saved data to file %s." % path)
 
 
-def load_text_data(path, verbose=True):
+def load_text_data(path, verbose=False):
     with open(path, "r") as file:
         # Read a line and strip newline char
         lines = [line.rstrip('\r\n') for line in file.readlines()]
@@ -83,10 +83,10 @@ def dialogue_to_file(path, dialogue, utterance_only, write_type):
 def remove_file(data_dir, file, utterance_only):
     # Remove either text or full versions
     if utterance_only:
-        if os.path.exists(data_dir + file + "_utt" + ".txt"):
-            os.remove(data_dir + file + "_utt" + ".txt")
+        if os.path.exists(os.path.join(data_dir, file + '_utt.txt')):
+            os.remove(os.path.join(data_dir, file + '_utt.txt'))
     else:
-        if os.path.exists(data_dir + file + ".txt"):
-            os.remove(data_dir + file + ".txt")
+        if os.path.exists(os.path.join(data_dir, file + '.txt')):
+            os.remove(os.path.join(data_dir, file + '.txt'))
 
 

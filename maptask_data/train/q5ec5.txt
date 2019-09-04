@@ -1,0 +1,140 @@
+g|right er|ready
+g|the start is at a diamond mine|explain
+f|yes|reply_y
+g|now we're do this the same way as we did it before there's a wee man walking along|instruct
+f|uh-huh|acknowledge
+g|so as we can er it'll be fae the perspective of the viewer|instruct
+g|right is is the guy walking along|align
+f|how can i|query_yn
+f|right|reply_y
+g|right the guy is standing so that the diamond mine will be on his left-hand side|explain
+f|okay|acknowledge
+g|mmhmm|align
+f|right|reply_y
+g|now you walk down just past it|instruct
+f|just past the diamond mine|acknowledge
+g|aye and turn to your left|instruct
+f|so that's in below the diamond mine towards the centre of the page|check
+g|and that's correct|reply_y
+f|okay|acknowledge
+g|right now|ready
+g|there's a graveyard on your left-hand side|query_yn
+f|no|reply_n
+f|the diamond mine's on my left-hand side|explain
+g|well walk towards the centre of the page|instruct
+f|okay|acknowledge
+g|with the diamond mine on your left-hand side|instruct
+f|okay|acknowledge
+g|and then is there a graveyard|query_yn
+f|no i have no graveyard|reply_n
+g|well is there a fast flowing stream further on|query_yn
+f|i have a fast running creek|explain
+g|well go along until you're sort of just below the fast running creek but no diet directly below it|instruct
+f|so i'm just|check
+f|aye|acknowledge
+g|just before you're be-- more or less ab-- to it|instruct
+f|at the canoes|check
+g|no no no no no no|reply_n
+f|you want me above the canoes|check
+g|i don't ken anything about canoes|explain
+f|oh they're directly below the below the fast running creek|explain
+g|well go up to the top of the page keeping the fast running creek to your right-hand side|instruct
+f|okay so when it's when i come past the diamond mine i've to go diagonally towards the fast running creek|check
+g|well no you go along and then up|clarify
+f|along and then up|check
+g|aye|reply_y
+g|but keep your fast flowing creek on your right-hand side|clarify
+f|on my right-hand side|acknowledge
+g|right and you circuit it|instruct
+f|circuit it|acknowledge
+g|keeping it on your right-hand side|instruct
+f|right okay|acknowledge
+g|then come straight back down the paper|instruct
+f|through the apache camp|check
+g|no|reply_n
+g|go down towards the apache camp|instruct
+f|right|acknowledge
+g|and just before you come to it skirt it keeping it on your left-hand side diagonally|instruct
+g|right|align
+f|right|acknowledge
+g|so you should now be|instruct
+g|do you see a walled city|query_yn
+f|yes|reply_y
+g|well head toward the walled city but keep it on your left-hand side when you get to it|instruct
+f|keep it on my left|check
+g|aye|reply_y
+f|okay|acknowledge
+g|so you're at the walled city above the walled city|align
+f|i'm at|reply_y
+f|i'm above the walled city|reply_y
+g|well circuit it keeping it on your right on your left sorry|instruct
+f|keeping it on my left|acknowledge
+g|uh-huh|reply_y
+g|and now|ready
+g|go straight down the paper|instruct
+f|straight down the paper|acknowledge
+f|past the ghost town|check
+g|we don't have a ghost town|explain
+f|okay eh|acknowledge
+g|now|ready
+g|there must be something there because there's a big loop|explain
+g|where is your ghost town|query_w
+f|it's between the walled city and the carved wooden pole just|reply_w
+g|is it south of the walled city i assume this is sou--|check
+f|sou-- south of the wall yes|reply_y
+g|well keep keep it whatever it is on your left and circuit it so that you're facing|instruct
+g|do you see the stone creek and the flat rocks|align
+f|stone creek flat rocks yes|reply_y
+g|well go between them|instruct
+f|go between with the ghost town on my left|check
+g|uh-huh|reply_y
+g|go between the flat rocks|instruct
+f|just towards the saloon|check
+g|we don't have a saloon|explain
+g|the flat rocks|clarify
+f|okay|acknowledge
+g|right at at at the flat rocks turn and come down the bottom towards the buffalo|instruct
+f|t-- t-- so oh well i'll go past the saloon bar i'll keep it on my right and down towards the buffalo|explain
+g|don't go in|instruct
+f|i'll try hard not to|explain
+g|ken i knew you will|explain
+g|scrumpy jacks|explain
+f|aye|reply_y
+f|doctor rose|explain
+g|down towards the buffalo|instruct
+f|right|acknowledge
+g|you circuit them keeping them on your right|instruct
+f|okay|acknowledge
+g|now you should be going along the bottom of the paper now|align
+f|yes|reply_y
+g|now do you is there a cattle ranch|query_yn
+f|no|reply_n
+g|"o" "k" corral|query_yn
+g|no|acknowledge
+f|no|reply_n
+g|well|ready
+g|there's obviously you've no got a cattle ranch|explain
+f|mmhmm|reply_y
+g|so you head for the fort|instruct
+f|head for the fort|acknowledge
+g|uh-huh|acknowledge
+f|for the "u" "s" cavalry|explain
+g|i think the apaches will be after you so you better hurry|explain
+f|okay|acknowledge
+g|right|ready
+g|and the buffalo and all|explain
+f|ah|acknowledge
+g|now|ready
+f|mm probably the saloon manager as well|explain
+g|you owe money i suppose|query_yn
+g|right and go bet-- between the fort and the bottom of the paper|instruct
+f|okay|acknowledge
+g|and then turn to your right by the fort|instruct
+f|okay|acknowledge
+g|and then just up a wee bit and it's the finish on a sort of level with the carved wooden pole|instruct
+f|okay|acknowledge
+g|that's you|explain
+f|right that me|check
+g|mmhmm|reply_y
+g|alles gemacht|explain
+f|i want to know why i didnae get in the saloon bar|explain

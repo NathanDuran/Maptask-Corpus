@@ -1,0 +1,219 @@
+g|okay laura|ready
+g|could you go to the start cross which is just above the site of the forest fire please|instruct
+f|yeah okay i've got that|acknowledge
+g|right|acknowledge
+g|and can you pa-- i want you to just go slightly to the left just and skim the side of the site of the forest fire so that you're nearly at the edge of this page|instruct
+g|okay|ready
+f|okay straight left yeah|check
+g|and can y--|instruct
+g|uh-huh|reply_y
+g|and then turn l-- go down the way and sort of skim along the p-- the side of the page okay for about f-- five inches|instruct
+g|y-- i know there's nothing there but on my map there's a picnic site which you have to try and avoid|explain
+g|okay|align
+f|right so|ready
+f|straight the end of them roughly at the end of the page and then straight down for about five inches|check
+g|uh-huh|reply_y
+g|just so that you're about an inch above the bottom of the page|clarify
+g|okay|align
+f|an inch above the bottom|check
+g|uh-huh|reply_y
+f|okay|acknowledge
+g|right if that's|acknowledge
+g|okay|align
+g|and then can you turn right|instruct
+f|to my right yeah|check
+g|mmhmm|reply_y
+f|well obviously|ready
+g|well|ready
+g|i don't know i don't know any more|explain
+f|well put one way if i go the other way it's off the page so|explain
+g|right exactly|acknowledge
+g|go the other way for about go straight horizontally along for two inches|instruct
+g|right|align
+f|okay|reply_y
+g|and then|instruct
+f|i've got um adventure playground just there yeah|explain
+g|yeah um|acknowledge
+g|well|ready
+g|just there|check
+f|well|ready
+g|or is it above that sort of|check
+f|yeah|reply_y
+g|right|ready
+g|i want you to stop after two inches and then go up directly up right vertically up until you come to you sort of skim to the left-hand side of your adventure playground|instruct
+g|right|align
+g|and stop just above the climbing frame|instruct
+f|look oh right okay|acknowledge
+f|i was wanting for a separate climbing frame|explain
+g|certainly different|acknowledge
+g|right so you're sort of in the l-- top left-hand corner of the adventure playground of the climbing frame right|align
+f|yeah|reply_y
+g|right|ready
+g|from then on i want you to go sort of horizontally along sort of s-- just a couple of millimetres above|instruct
+f|millimetres|check
+g|no|reply_n
+g|above the adventure playground|clarify
+f|right okay|acknowledge
+g|right|align
+g|go to your right for about wait a minute seven inches maybe horizontally along|instruct
+f|about halfway along the page or just after halfway|check
+g|uh-huh|reply_y
+g|you should have an a farmyard|explain
+f|yeah|acknowledge
+f|to above that|query_yn
+g|yeah mmhmm|reply_y
+f|okay|acknowledge
+g|right|ready
+g|then stop|instruct
+g|now|ready
+g|do you have|query_yn
+f|above where i am just now i h--|explain
+g|private fields don't you|query_yn
+f|uh-huh|reply_y
+g|well|ready
+g|they're not actually on my map but above these private fields you should have a granite quarry|explain
+g|do you|query_yn
+f|right yeah|reply_y
+g|right|ready
+g|what i want you to do is stop there and where you've stopped and go straight up right skimming|instruct
+f|the side of the private fields okay|acknowledge
+g|and to the right of the granite quarry then i want you to sort of to go over the granite quarry in a circle sort of half moon|instruct
+f|towards the left|check
+g|towards the left yeah|reply_y
+f|right half moon|acknowledge
+f|does it need to be quite close to the quarry|query_yn
+g|quite close yeah|reply_y
+f|right okay|acknowledge
+g|right|align
+f|back down again|check
+g|it's down for about an inch not too far stop|reply_w
+f|right okay|acknowledge
+g|right|ready
+g|now stop there|instruct
+f|stop|acknowledge
+g|you should have a waterfall|explain
+f|yeah|acknowledge
+g|on the left-hand side|explain
+f|mmhmm|acknowledge
+g|right and|ready
+g|do you have a train crossing just below the waterfall|query_yn
+f|n-- no|reply_n
+f|the train crossing's quite a bit above the waterfall|reply_w
+g|right|acknowledge
+g|i've got that one as well but there's ac-- also one below the waterfall|explain
+f|all right|acknowledge
+f|i don't have anything below it|explain
+g|right so|ready
+g|if you can take up where you left off and|instruct
+f|right the granite quarry|acknowledge
+g|go to the left and sort of go under the waterfall about an inch below the waterfall|instruct
+f|in a curve or just straight|query_w
+g|sort of in a slight curve|reply_w
+g|below it and then up again past the "w" right up to the top of the the waterfall keeping to the sort of left of the waterfall|instruct
+f|past oh right okay|acknowledge
+g|and can you sort of stop just above the waterfall|instruct
+f|right|acknowledge
+f|yeah that's where i stopped so|explain
+g|and right right|acknowledge
+g|go to the right to the end of the waterfall at the right|instruct
+g|okay|align
+g|just sort of alo-- skim along the top of the waterfall for an inch|instruct
+f|right i've done that|acknowledge
+g|and then up for an inch and a half|instruct
+f|right|ready
+f|i've got a public footpath there|explain
+g|oh my god what's the public footpath like is it|query_w
+f|it just says public footpath and there's just like a little sign with a little man walking on it|reply_w
+g|right|ready
+g|can you sort of dodge|instruct
+f|it's just sort|explain
+f|have you got the lion country|query_yn
+g|no|reply_n
+f|well|ready
+g|ah this is stu-- right|explain
+f|right okay|ready
+f|where am i going from there anyway|query_w
+g|right|ready
+g|you s-- got to the sort of right-hand side of the waterfall right|align
+g|like you're supposed to go straight up for about an inch|instruct
+f|right|reply_y
+g|but can you go-- go straight up|query_yn
+f|right|acknowledge
+f|well i can do it|reply_y
+f|i can go up to the side of the wa--|reply_w
+g|and|ready
+g|right okay|acknowledge
+g|and you should just be below some cornfields well about an inch below some cornfields|align
+f|well i'm a few inches below it yeah|reply_y
+g|okay just|acknowledge
+f|do you want me to go right up to the cornfields here|check
+g|no no|reply_n
+g|about an inch below the cornfields|clarify
+f|right okay|acknowledge
+g|right|ready
+g|stop|instruct
+g|now|ready
+g|away to the you can see see the granite quarry can't you|align
+g|just above them you should have a f--|explain
+f|the sorry what can i see|query_w
+g|the granite quarry|reply_w
+f|away down the bottom again where we started u--|check
+g|don't don't don't move it|instruct
+g|just like t--|ready
+g|can you just see it|align
+f|yeah|reply_y
+g|to the right of that have you got a fall-- a fallen cairn|query_yn
+f|fallen cairn yeah|reply_y
+g|right|ready
+g|can you go from where you are to the right down sort of diagonally towards the right and sweep below the fallen cairn|instruct
+f|so i'm basically going from where i am underneath the fallen cairn like|check
+g|the fallen cairn|clarify
+f|sort of right okay|acknowledge
+g|mmhmm|reply_y
+g|and up towards the right-hand side of the fallen cairn|instruct
+f|right|acknowledge
+g|right|acknowledge
+f|far above it or what|query_w
+g|um go up about an inch above it|reply_w
+f|right okay|acknowledge
+g|and sort of start going to your left|instruct
+g|now|ready
+g|above this fallen cairn you should have some limestone cliffs|align
+f|nope|reply_n
+f|i've got lion country|explain
+g|right oh nightmare|acknowledge
+f|how far above the fallen cairn is the limestone|query_w
+g|two two inches ten about ten centimetres two inches|reply_w
+f|well that's practically where my lion country is|explain
+g|right okay|acknowledge
+g|can you skim along the left-hand side of the lion country then and just come up to the bottom of the east lake|instruct
+f|along the left-hand side back out to left and then up to the lake yeah|check
+g|just|ready
+g|uh-huh|reply_y
+g|and just go straight up to the lake|clarify
+g|and then|ready
+f|right okay|acknowledge
+g|straight up|clarify
+f|straight up to the lake|acknowledge
+g|and then|ready
+g|and then|ready
+g|you haven't got a finish cross have you no alright then|query_yn
+f|no i don't|reply_n
+g|skim along the bottom of the lake towards the left and|instruct
+f|towards sorry should i have gone from the fallen cairn to the right-hand side of the east lake|query_yn
+g|no no|reply_n
+g|no no|reply_n
+g|you just sort of the middle of the east lake|explain
+f|oh right okay|acknowledge
+g|at the bottom|explain
+g|and then skim along to the left|clarify
+f|right|acknowledge
+g|and|ready
+g|you've got a little bit right just go keep going along to the left|instruct
+f|i've got cornfields|explain
+g|and in between the cornfields and the east lake ehm can you put your cross that's the finish|instruct
+f|in between there|check
+g|right|reply_y
+g|sort of yeah in the middle|clarify
+f|so that's it|check
+g|stop that's it|reply_y

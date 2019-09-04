@@ -1,0 +1,194 @@
+f|yeah|reply_y
+g|right|ready
+g|at the bot-- bottom of the map on the right-hand side have you got a missionary camp there|query_yn
+f|i've got the starts marked|explain
+g|right okay|acknowledge
+g|to the left right have you got ehm what is it it says gorillas with two gorillas and you know trees two tree|query_yn
+f|no|reply_n
+g|no|check
+f|no|reply_n
+g|okay right|ready
+g|start from the top of the missionary camp|instruct
+g|right|align
+f|right|reply_y
+f|from the start cross|check
+g|yeah|reply_y
+g|go two centimetres to the left|instruct
+f|right|acknowledge
+g|okay|align
+g|go down|instruct
+f|down towards missionary camp|check
+g|aye|reply_y
+g|just right down uh-huh|clarify
+f|right|ready
+f|i'm i've stopped right above it|explain
+g|then|ready
+g|you've what|query_w
+f|i'm right above the missionary camp|reply_w
+g|just go right down to round down to the bottom of the r-- left-hand side of it|instruct
+f|right|acknowledge
+g|okay|align
+f|so go round it|check
+g|uh-huh|reply_y
+g|round to the left uh the left yeah|check
+f|keep going down|check
+g|uh-huh|reply_y
+g|just stop where you when you reach the missionary camp you know just about s--|clarify
+g|then|ready
+g|turn left all the way down all the way along|instruct
+f|to the banana tree|query_yn
+g|yeah|reply_y
+g|i think that must be the gorillas|explain
+f|i've got a thing that says banana tree|explain
+g|banana tree i've not got that at all|explain
+f|it's a tree with big leaves and it's got a bunch of bananas on it|explain
+g|well|ready
+g|just go left|instruct
+g|okay|align
+f|right|reply_y
+f|so should i stop there|query_yn
+f|it's just underneath the rope bridge|explain
+g|underneath the rope bridge|acknowledge
+f|you know it's it's about five centimetres down and slightly to the left of it|explain
+g|the rope bridge|check
+f|do you not have that|query_yn
+g|yeah i've got a rope bridge|reply_y
+g|you're supposed to pass through well|instruct
+g|supposed to start from the missionary camp go right down to the whatever|instruct
+g|and go back right to the top to the rope bridge|instruct
+f|so i've got to go to the rope bridge|check
+g|yeah|reply_y
+g|have to cross it|instruct
+f|right|ready
+f|so i'm at the rope bridge|explain
+g|right|acknowledge
+f|i just went straight north from the banana tree|explain
+g|okay|ready
+g|turn left just cross it turn to the left|instruct
+f|to the right|check
+g|left|clarify
+f|right|explain
+f|it'll be right to get across it|explain
+g|do well|ready
+g|you're supposed to be on the right-hand side of that|instruct
+f|well|ready
+f|i'm on the left-hand side i would've had to just cross the river|explain
+g|i think you must have different things on your map okay never mind|explain
+g|you're on the right-hand side of it yeah are you on the|align
+f|i'm on the left-hand side of it and i'll need to go r-- r-- right to cross it|clarify
+g|yeah you have to cro-- you have to go to the right-hand side of it|instruct
+f|right|ready
+f|so i'm on the right-hand side|explain
+g|right|ready
+g|go along|instruct
+g|go left about four centimetres|instruct
+g|have you got a waterfall|query_yn
+f|yeah|reply_y
+f|it's on the right-hand side of the map|explain
+g|to your|query_yn
+g|okay right|ready
+g|go that go up to that|instruct
+f|right i'm at the waterfall|acknowledge
+g|right|ready
+g|go straight up|instruct
+g|have you got lost steps|query_yn
+f|yeah|reply_y
+g|right|ready
+g|go straight up to that|instruct
+f|that's quite a bit up|check
+g|yeah|reply_y
+f|right i'm there|acknowledge
+g|right around it it's just from the top right round it|instruct
+g|have you got fallen pillars|query_yn
+f|yeah|reply_y
+f|so i've to go|check
+g|right go right up to the lost steps right go right round it from the top|clarify
+g|then go down to the|instruct
+f|right round it cross my route|check
+g|yeah|reply_y
+g|then go right right round it|clarify
+g|okay|align
+g|to the fallen pillars|instruct
+f|right|reply_y
+f|the fallen pillars are down diagonally|check
+g|yeah|reply_y
+f|past the gazelles|check
+g|at the what|query_w
+f|gazelles i've got|reply_w
+f|they're about halfway down that diagonal line doesn't matter|explain
+f|right|ready
+f|i'm at the fallen pillars|explain
+g|fallen pillars|acknowledge
+f|just underneath the "s"|explain
+g|fallen pillars|acknowledge
+g|okay|ready
+g|you have to go right from there right right|instruct
+g|have you got ancient ruins|query_yn
+f|i've got ruined city|reply_w
+f|it's probably the same thing|explain
+g|well|ready
+g|just go right to the top there|instruct
+g|from there you have to go up to the ancient end|instruct
+f|do i go underneath the fallen pillars|query_yn
+g|yeah underneath the fallen pillars|reply_y
+f|right|ready
+f|and then go up to about where about the middle of it or|query_w
+g|the ancient the ancient ruins to the left of it|reply_w
+f|right|acknowledge
+g|okay|ready
+g|have you got stones|query_yn
+f|i've got rock fall|reply_w
+g|rock fall|acknowledge
+g|to the left|query_yn
+f|it's to the right and up|reply_w
+g|just go right up to there|instruct
+f|right i'm at it|acknowledge
+g|okay|acknowledge
+f|goes diagonally up|check
+g|yeah|reply_y
+f|right|acknowledge
+f|says rock fall here|explain
+g|rock fall okay|acknowledge
+g|turn|instruct
+g|have you got white mountains|query_yn
+f|yeah|reply_y
+g|alright|ready
+g|go up to there and|instruct
+f|i'll do i go up the left-hand side of the rock fall|check
+g|no i'd y--|reply_n
+g|where are you at the bottom of it or the top of it|query_w
+f|i'm at the bottom of it i'm at the bottom bottom left-hand corner|reply_w
+g|well|ready
+g|just turn left don't go over it just just turn left|instruct
+f|turn right|check
+f|go underneath it|check
+g|uh-huh go underneath it|reply_y
+f|right|ready
+f|'til i'm directly under the white mountain|check
+g|no|reply_n
+g|just o-- you have to go over it|instruct
+f|so i go|query_w
+g|all the way round over it|clarify
+f|right|acknowledge
+g|then you go right all the way under it|instruct
+g|have you got soft furnishing stores|query_yn
+f|no|reply_n
+g|have you got gazelles|query_yn
+f|yes|reply_y
+g|right|ready
+g|from the white mountains go right down to the gazelles|instruct
+f|right i'm at the gazelles|acknowledge
+f|they're a-- sort of in the middle of the map|check
+g|no|reply_n
+g|and then turn left|instruct
+g|gazelles right go right round it|instruct
+f|towards the ruined city|query_yn
+g|no just|reply_n
+g|you've got down to the gazelles yeah|align
+f|yeah|reply_y
+g|just go underneath it right and just turn|instruct
+f|left or right-hand side|query_w
+g|l-- ehm left|reply_w
+f|right|acknowledge
+g|turn left two or three centimetres that's you finished|instruct
+f|okay|acknowledge

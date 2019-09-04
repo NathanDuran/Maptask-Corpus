@@ -1,0 +1,150 @@
+g|okay|ready
+g|now you're starting ehm above the diamond mine|instruct
+f|mmhmm|acknowledge
+g|and er the desert is below to your left|explain
+f|uh-huh|acknowledge
+g|right|align
+g|now|ready
+g|go go south from the diamond mine until you are still above the desert|instruct
+g|okay|align
+f|okay|reply_y
+g|now|ready
+g|if you tell me what's to your right at the what's to your right|query_w
+f|ehm|ready
+f|the canoes|reply_w
+g|canoes|acknowledge
+f|and a fast running creek|reply_w
+g|and a fast running creek|acknowledge
+g|and do you have a graveyard|query_yn
+f|no|reply_n
+g|do you have a carved wooden pole in this area|query_yn
+f|right away down the very bottom|reply_w
+g|right okay|acknowledge
+g|now|ready
+g|go go right from the diamond mine|instruct
+f|okay|acknowledge
+g|okay|align
+g|now you've got to pass|instruct
+g|there's actually a graveyard to the right of the diamond mine on my map|explain
+f|below it|query_yn
+g|no|reply_n
+g|on the same level as the diamond mine|explain
+f|mm|acknowledge
+g|and so you're going to pa-- you're going to pass by the graveyard as well|instruct
+f|mm|acknowledge
+g|and then you're going to go up and over the top of the f-- uh|instruct
+g|what i've got is a fast flowing river|explain
+f|mmhmm|acknowledge
+g|do you have you have your c--|query_yn
+f|fast running creek|reply_w
+g|fast running creek|acknowledge
+g|where is that on a level with the diamond mine or is it slightly below|query_w
+f|it's just slightly above|reply_w
+g|slightly above|check
+g|right|ready
+g|well i've got a fast flowing river here|explain
+g|so|ready
+g|what you'd best to do is go along past the bottom go along okay sorry go along to your right and veer slightly upwards as you reach the creek|instruct
+f|mmhmm|acknowledge
+g|and then go over and round the creek to your right|instruct
+g|and then ehm|ready
+g|do you have an apache camp|query_yn
+f|uh-huh|reply_y
+g|right|ready
+g|see when you're over the top of the fast or your creek or the river that i've got here when you're over the top of that and in line vertically in line with the apache camp|align
+f|mmhmm|reply_y
+f|mmhmm|reply_y
+g|go south until just above the apache camp|instruct
+f|okay|acknowledge
+g|right|align
+g|when you reach the apache camp|instruct
+g|ehm do you have a walled city|query_yn
+f|right away on the far left|reply_w
+g|right|ready
+g|well you're going to go from above the apache camp to the walled city but you've got to avoid a carved wooden pole|instruct
+g|which in my map is slightly above the level of the apache camp|explain
+f|no this is vertically in line with the walled city below it|explain
+g|right|acknowledge
+f|okay so|ready
+g|right i've got one of them as well|explain
+f|right|acknowledge
+g|so|ready
+g|but there's another one a carved wooden pole here which is halfway between the walled city and the apache camp|explain
+g|okay|align
+f|mmhmm|reply_y
+g|but slightly above the level of the apache camp|explain
+f|so|ready
+f|i'd be better to go underneath it|check
+g|okay|align
+g|uh-huh|reply_y
+f|right|acknowledge
+g|so you've got so you're going from above the apache camp underneath the carved wooden pole and over the top of the walled city|align
+g|and then when you reach the far si-- yo-- your left-hand side of the walled city travel southwards until you come to the level of some flat rocks|instruct
+f|uh-huh|acknowledge
+g|and go bel--|instruct
+g|do you have a stone creek|query_yn
+f|uh-huh|reply_y
+g|right so|ready
+g|what i want you to do is go between the flat rocks and the stone creek|instruct
+g|but do you have anything between the walled city and the carved wooden pole|query_yn
+f|ghost town|reply_w
+g|a ghost town|check
+g|so you're going to|instruct
+g|that's not on my map|explain
+g|you've got to avoid that i think|instruct
+f|okay|acknowledge
+g|so go south down past the walled city underneath your ghost town and then slightly up sort of northeast direction between the flat rocks and the stone creek|instruct
+f|between|acknowledge
+f|well|ready
+f|it'd be better if i s-- s-- between the walled city and the ghost town no to go underneath it above it|explain
+f|or have you got something else there|query_yn
+g|i've not got anything betw-- between the carved wooden pole and the walled city|reply_n
+g|but the map shows a curve a "c"-shaped curve|explain
+f|right|acknowledge
+f|score that out|explain
+g|right|align
+f|right|reply_y
+g|and sort of and then slightly up underneath the flat rocks and above the stone creek|instruct
+f|right|acknowledge
+g|okay|align
+g|then|ready
+g|go slightly to your right beyond the flat rocks until you are above the level of the buffalo|instruct
+f|so i i'll be avoiding the saloon bar|check
+g|i don't have a saloon bar here|explain
+f|i've got here|check
+g|right|ready
+g|okay so avoid the saloon bar|reply_y
+f|right|acknowledge
+g|and ehm then right then ehm|ready
+g|just straight down to the right of the buffalo|instruct
+f|to the right|check
+g|y--|reply_y
+g|so that so that you're on you're on the right of the buffalo|clarify
+f|right|acknowledge
+g|okay|align
+g|and go underneath the buffalo|instruct
+g|now|ready
+g|do you have a cattle ranch|query_yn
+f|no|reply_n
+g|ehm do you have a fort|query_yn
+f|mmhmm|reply_y
+g|so you're going to go from the buffalo to the fort but you've got to avoid the cattle ranch on the way and you'll have to go up and over the top of the cattle ranch|instruct
+f|right|acknowledge
+g|which on my map is halfway between the buffalo and the fort|explain
+g|okay|align
+f|right|reply_y
+f|that on the the level between the fort mm|query_yn
+g|it's almost on level with the fort but it's slightly higher than the fort|reply_w
+f|so|check
+g|so you need to be go up on a sort of hill|clarify
+f|mmhmm|acknowledge
+g|over the cattle ranch|clarify
+g|underneath buffalo or over the cattle ranch|clarify
+f|right|acknowledge
+g|then underneath the fort|instruct
+f|under the fort|check
+g|underneath the fort uh-huh|reply_y
+g|and come out at the left-hand side of the fort and finishing ehm not beside but on the same level as the the carved wooden pole the base of the carved woode-- wooden pole|instruct
+f|right|acknowledge
+g|okay that's you finished|instruct
+f|okay|acknowledge

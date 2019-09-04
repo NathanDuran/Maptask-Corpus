@@ -1,0 +1,186 @@
+g|okay|ready
+g|you're starting at the ehm|instruct
+g|left-hand side of the cliffs|instruct
+f|yeah|acknowledge
+f|i've got a start point|explain
+g|right got start point|check
+f|mmhmm|reply_y
+g|right|acknowledge
+g|oh you're going to do a backward "s"|instruct
+g|okay|align
+g|you're going to do a backward "s" you|instruct
+f|right|acknowledge
+g|right|ready
+g|you're going to go down slightly for about a centimetre|instruct
+f|is this before or after the backward "s"|query_w
+g|this is before it|reply_w
+f|right|acknowledge
+g|i'm explaining how to do the backward "s"|explain
+f|right|ready
+f|go downwards|check
+f|for about a centimetre|check
+g|s-- for a centimetre right|reply_y
+g|you're going to ehm|instruct
+g|follow ehm a line it's diagonal it's like a five o'clock line|instruct
+g|do you know what i'm talking about|align
+f|yeah|reply_y
+g|and you're going by this time you should be just at the left-hand side at bottom of the cliffs|instruct
+f|right|acknowledge
+g|okay|align
+f|mmhmm|reply_y
+g|going to do a half circle you're going to do it towards the page|instruct
+f|towards the end of the page|check
+g|mmhmm|reply_y
+g|the opposite of an indifference curve if that's the way i could explain it|instruct
+f|so|ready
+f|right okay|acknowledge
+g|okay|align
+f|so ehm|ready
+f|would that starting at the bottom of the cliffs a half circle towards the left-hand side of the page|check
+g|uh-huh|reply_y
+g|okay|align
+f|right|reply_y
+g|right|ready
+g|do you have a forge|query_yn
+f|no|reply_n
+g|no|acknowledge
+g|well|ready
+g|you're going to do another circle|instruct
+f|uh-huh|acknowledge
+g|half circle it's as if you're going round something|instruct
+f|uh-huh|acknowledge
+g|right|align
+g|go round something imagine there's something there you're going to go round it you're going to head off towards the page|instruct
+g|right|align
+g|do a half circle and see when you come to the point just at the end of that half circle|instruct
+f|uh-huh|acknowledge
+g|are you at it|align
+f|yeah|reply_y
+g|right|ready
+g|head up in a diagonal lo-- line towards a one o'clock|instruct
+g|do you have an old pine|query_yn
+f|yes|reply_y
+g|head up to the top of that old pine|instruct
+f|right|acknowledge
+g|okay|align
+f|mmhmm|reply_y
+g|now you're going to come down again at a slight slant just a slight slant right a slight slope|instruct
+f|down on the l-- the left or the right-hand side of the pine|query_w
+g|you're going to come down on the right-hand side of the pine|reply_w
+f|right|acknowledge
+f|a slope towards the right|check
+g|uh-huh|reply_y
+g|you're going towards the page|clarify
+g|right|align
+f|right|reply_y
+g|not coming off it|clarify
+g|right|align
+g|do you have a pine forest|query_yn
+f|right|reply_y
+f|yeah|reply_y
+g|right|ready
+g|you're going to slope ehm down towards the pine pine forest but you're going to come closer closer to the pine forest when you're sloping|instruct
+g|do you know what i mean|align
+g|the gap between the path and the pine forest is getting smaller|instruct
+g|okay|align
+g|and then you should be at the bottom of the pine forest|instruct
+f|right|acknowledge
+g|okay|align
+g|right|ready
+g|you're going to do another half circle towards the towards the right you're going out of the page right another half circle out of the page|instruct
+f|a half circle to the right|check
+g|uh-huh|reply_y
+g|right|ready
+g|so the outer circle's like s-- ehm is right across from the edge of the page okay|align
+f|okay|acknowledge
+g|do you have a bakery|query_yn
+f|yeah|reply_y
+g|okay|ready
+g|go down slightly from that half circle just very very slightly|instruct
+f|uh-huh|acknowledge
+g|right|ready
+g|you're going to head off again towards the right and go right round that bakery|instruct
+f|all the way round it|check
+g|all the way round|reply_y
+g|are you at crane bay|query_yn
+g|like see the the first peak in great crane bay|align
+g|are you opposite directly opposite f-- up from it|query_yn
+f|ehm not yet|reply_n
+f|but i will be in a minute|explain
+g|right|ready
+g|do that|instruct
+f|yeah right|acknowledge
+g|okay|align
+g|go straight down for about three centimetres|instruct
+g|see you come to that ehm curve in the bay|align
+g|you want to be about a centimetre away just from crane bay|instruct
+g|right|align
+f|right|reply_y
+g|follow that curve round 'til you come to the second peak|instruct
+f|right|acknowledge
+g|okay|ready
+g|are you at wheatfields|query_yn
+f|no d--|reply_n
+g|no|acknowledge
+f|i don't|explain
+g|no|acknowledge
+f|no|reply_n
+g|okay|acknowledge
+g|right you're going to head off towards a leftward ehm slant sloping down again|instruct
+f|how far down|query_w
+g|about three centimetres|reply_w
+f|right|reply_y
+g|okay|align
+g|go straight along for another three centimetres|instruct
+g|to the left|instruct
+f|to the left|check
+g|are you above a rocket warehouse|query_yn
+f|yes|reply_y
+g|okay|acknowledge
+g|right|ready
+g|you're going to slants go to the end of the rocket warehouse if you know what i mean|instruct
+g|see how the top|align
+f|uh-huh|reply_y
+g|of the rocket warehouse|align
+g|go to the end of that|instruct
+f|parallel to the the rocket warehouse|check
+g|uh-huh|reply_y
+f|right okay|acknowledge
+g|right|ready
+g|slope s-- slope down again to the left directly|instruct
+f|to directly to the left so to|check
+g|directly to|reply_y
+f|to the left|check
+g|like you're sloping down like a seven o'clock line|clarify
+f|uh-huh|acknowledge
+g|okay|align
+f|to the left of the rocket warehouse|check
+g|uh-huh|reply_y
+f|how far down|query_w
+g|you should be about ehm six centimetres above the bottom of the page|reply_w
+f|so below the rocket warehouse|check
+g|no|reply_n
+g|you're at the left-hand side of the ro--|clarify
+f|s-- stop at the left|check
+g|you should be just an inch away from the edge of the page now|align
+f|yeah|reply_y
+g|right okay|align
+f|uh-huh|reply_y
+g|go straight down again for three centimetres|instruct
+f|uh-huh|acknowledge
+g|and then curve towards the old lighthouse|instruct
+f|round which side of the cave|query_w
+g|hmm i don't have a cave|explain
+g|ehm go towards the lighthouse|instruct
+f|uh-huh|acknowledge
+f|ehm just slope towards it|check
+g|slope towards it|reply_y
+g|you're forming another half circle again|instruct
+f|ehm a half circle towards|query_w
+g|the l-- old lighthouse|clarify
+f|right|acknowledge
+g|and that's you once you get to the old lighthouse|instruct
+f|right|acknowledge
+g|okay|align
+f|okay|reply_y
+g|that's it finished|instruct

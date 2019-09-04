@@ -1,0 +1,104 @@
+g|right oh shit right you ready ehm are you there kara|align
+f|i'm here|reply_y
+g|good|acknowledge
+g|right|ready
+g|have have you got a start point|query_yn
+f|yeah|reply_y
+g|it's it's above uh falls crest falls|explain
+f|yeah|acknowledge
+f|mm|acknowledge
+g|right|align
+g|right|ready
+g|have you got anything to the left of the crest falls|query_w
+f|uh along the bottom of the page there's a banana tree on the far left|reply_w
+g|yeah|acknowledge
+g|right|ready
+g|well what we need to do is right you start above you start above the falls you drop down the side of the falls go along the bottom round the banana tree and then up|instruct
+f|yeah|acknowledge
+g|and have you you got a footbridge|query_yn
+f|yeah|reply_y
+g|and what you do is you go up and then you turn right and go along a couple of inches before you get to the footbridge|instruct
+f|okay|acknowledge
+g|okay|align
+g|right so yo-- and you just like go along as if you're walking across the footbridge th-- the line goes along the footbridge|instruct
+f|okay|acknowledge
+g|and it immediately drops straight down after that|instruct
+f|okay|acknowledge
+g|okay|align
+g|about an inch|instruct
+g|and there's a p--|explain
+g|have you got a poisoned stream there|query_yn
+f|no|reply_n
+g|no right|acknowledge
+g|well you have to go down about an inch and then along to your right|instruct
+g|and have you got a temple|query_yn
+f|yeah|reply_y
+g|a good couple of inches to your right|query_yn
+f|yeah|reply_y
+g|well you go along down and then you curve up just before the seo the old temple|instruct
+f|okay|acknowledge
+g|right and you go up about an inch above it|instruct
+f|okay|acknowledge
+g|eh have you got anything to the left of that|query_w
+f|slate mountain|reply_w
+g|right|ready
+g|go up round the top of slate mountain and then down|instruct
+f|okay|acknowledge
+g|right and|ready
+g|have you got an abandoned truck|query_yn
+f|yeah|reply_y
+g|right|ready
+g|go down underneath the truck and stop just after the truck|instruct
+f|okay|acknowledge
+g|right after the writing|instruct
+g|right|ready
+g|have you to the left of that down a bit have you got baboons|query_yn
+f|no|reply_n
+f|i don't have anything|explain
+g|right|acknowledge
+g|well we what we have to do is like draw like a cup shape thing round if you go down about an inch and along about no down about an inch and a half along an inch and a half and then up|instruct
+f|up and then a cup|check
+g|an-- in a cul-- in a kind of you know bowl-shaped thing right|clarify
+f|okay|acknowledge
+f|yeah|acknowledge
+g|and then you head up|instruct
+g|have you got a white mountain above that|query_yn
+f|yeah|reply_y
+f|yeah|reply_y
+g|right|ready
+g|if you head up round that|instruct
+f|okay|acknowledge
+g|up the left-hand side of it and then head straight up about three inches|instruct
+f|okay|acknowledge
+g|have you got something above that|query_w
+f|a lemon grove|reply_w
+g|right|ready
+g|go round the lemon grove t-- turn to your right|instruct
+f|okay|acknowledge
+g|okay|align
+g|and you got a pyramid|query_yn
+f|yeah|reply_y
+g|right|acknowledge
+g|go along up round the outside of the pyramid like up the left-hand side down the right-hand side and along the bottom about a half an inch well just straight underneath the writing where it says pyramid|instruct
+f|okay|acknowledge
+f|oh and then go left|check
+g|yeah|reply_y
+f|okay|acknowledge
+g|so it's you're almost drawing a triangle round it but not quite|clarify
+f|yeah|acknowledge
+g|right|ready
+g|underneath that have you got a cobbled street and a remote village|query_yn
+f|y-- i just a remote village|reply_w
+g|right|acknowledge
+g|well so we've got something right above there|explain
+g|right|align
+f|okay|reply_y
+g|between so what we need to do is come down to the you sort of at a very slight angle to the left|instruct
+f|okay|acknowledge
+g|you go down right down to the remote village and then curve underneath it and along 'til you get the end of the remote village|instruct
+f|okay|acknowledge
+f|okay|acknowledge
+g|right|ready
+g|that's it|explain
+f|then that's it|check
+g|uh-huh that's it|reply_y

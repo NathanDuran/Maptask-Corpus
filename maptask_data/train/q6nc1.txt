@@ -1,0 +1,221 @@
+g|you start to the left of sandy shore|instruct
+g|eh make your way down towards the well go to the left of the well|instruct
+f|the well|query_w
+g|the well just ehm opposite sandy shore|reply_w
+f|opposite sandy shore|acknowledge
+f|the well|query_w
+g|the well at the tip of crane bay|reply_w
+f|the tip of crane bay|acknowledge
+f|okay|ready
+f|you mean the right-hand side|check
+g|no|reply_n
+g|it's at to the left of crane bay|explain
+f|ah right d--|acknowledge
+g|oh the well is to the left of the crane bay|explain
+g|right|ready
+g|you have to go around the well to the left of the well|instruct
+f|well|query_w
+g|the well|reply_w
+g|you know where crane bay is|align
+f|yeah|reply_y
+f|it's just a thingmy yeah|explain
+g|it's just at the tip of crane bay|explain
+f|just at the top left-hand|check
+g|the tip the tip of crane bay the bottom of crane bay|clarify
+f|oh right okay|acknowledge
+g|just opposite sandy shore|clarify
+g|right|align
+f|okay|reply_y
+g|right now|ready
+g|you go down sandy shore round past the well|instruct
+f|down sandy shore round past the well|check
+g|uh-huh|reply_y
+g|keeping to the left|clarify
+g|right|align
+f|the well|query_w
+g|the well|reply_w
+f|what is the well|query_w
+g|the well you know a well where you throw the bucket into the water then|reply_w
+f|well|ready
+f|there's no well here|explain
+g|is there no well there|check
+f|no|reply_n
+g|right okay right never mind|acknowledge
+g|you go|instruct
+f|you've got an iron bridge and local residents and stuff and hills|explain
+g|what have you got what what is uh|query_w
+g|see on your map at the bottom of cra-- bay crane bay|align
+g|what have you got|query_w
+f|iron bridge|reply_w
+g|iron bridge|acknowledge
+g|yeah|ready
+g|well go round that|instruct
+g|right|align
+f|go around that|check
+g|uh-huh|reply_y
+f|the top of it or the bottom of it|query_w
+g|the bottom of it|reply_w
+f|uh-huh|acknowledge
+g|go around it and ehm up towards your right|instruct
+g|right|align
+g|now|ready
+g|you know where the local residents stay|align
+f|uh-uh uh-huh|reply_y
+g|right now|ready
+g|you know how there's a groove in crane bay|align
+f|a groove in crane bay|acknowledge
+f|yeah|reply_y
+f|a slight one|explain
+g|right|align
+f|mmhmm|reply_y
+g|uh-huh right|ready
+g|you go up to there and at that point you turn right|instruct
+f|you go up to there and turn|query_w
+g|right|clarify
+f|right|check
+g|uh-huh|reply_y
+g|you go along um now you go along do-- you know the ehm hang on hang on right wait stop there a minute|instruct
+f|uh-huh|acknowledge
+g|is there a wood to the right of crane bay|query_yn
+f|yeah|reply_y
+f|woodlands|explain
+g|woo-- right okay|acknowledge
+f|woodlands trees and all that yeah|check
+g|uh-huh yeah|reply_y
+g|right|ready
+g|don't go right to the very end go about to the middle between crane bay and the wood and stop there|instruct
+g|right|align
+f|crane bay and wood and stop middle|check
+g|uh-huh stop in the middle|reply_y
+g|don't go right along to the woods|clarify
+g|right|align
+f|uh-huh|reply_y
+g|now|ready
+g|have you got a does crane bay go on into a forked stream|query_yn
+f|it's got a sort of a stream gurgling brook|reply_w
+g|right okay|acknowledge
+g|go ehm|ready
+g|beside that stream|instruct
+f|mmhmm|acknowledge
+g|right ehm|align
+f|this this map is hopeless by the way|explain
+g|go beside the stream|instruct
+f|uh-huh|acknowledge
+g|now|ready
+g|have you got farmed land|query_yn
+f|ehm i've got na-a-a-a-a|reply_w
+g|right well|ready
+f|i've got gurl-- g-- gurgling brook right at the right at the bottom is a dead tree|explain
+g|does it|query_yn
+g|yeah yeah right|acknowledge
+g|see before the dead tree does the stream divide|query_yn
+f|it sort of just goes round doesn't div--|reply_w
+f|yeah it divides|reply_y
+g|right|acknowledge
+g|go down to the division|instruct
+g|right|align
+f|uh-huh|reply_y
+g|right down to the division beside the stream stop there|instruct
+f|uh-huh|acknowledge
+g|right|ready
+g|see to the right of the dead tree|align
+g|what is it|query_w
+f|nothing much it's just mountain stream that's|reply_w
+g|right|ready
+g|well go round that to the right of it go round it|instruct
+f|around it|check
+g|uh-huh|reply_y
+f|uh-huh|acknowledge
+g|right|align
+g|then|ready
+g|you stop just at the bottom of the dea-- not just ehm|instruct
+g|you know where it says dead tree|align
+f|mmhmm|acknowledge
+g|just stop at the bottom there at the bottom of the dead tree just a few millimetres below the dead tree|instruct
+g|right|align
+f|okay|reply_y
+f|my map is turning out really really bad|explain
+f|okay go|acknowledge
+g|right|ready
+f|dead tree murgey|acknowledge
+g|go ehm right|ready
+g|from the dead tree go down a few centimetres|instruct
+f|uh-huh|acknowledge
+g|right|align
+f|yeah|reply_y
+g|have you gone down a wee bit yeah|align
+f|yeah|reply_y
+g|right now|ready
+g|is you know how the forked stream divided|align
+f|mmhmm|reply_y
+g|see at the bottom of the left-hand of the division|align
+g|is there a lagoon|query_yn
+f|mm yeah|reply_y
+g|right uh|ready
+g|you know where you stopped|align
+f|mmhmm|reply_y
+g|take it along to the lagoon|instruct
+f|right to the lagoon|check
+g|uh-huh|reply_y
+f|mmhmm|acknowledge
+g|right|ready
+g|stop there|instruct
+g|now|ready
+g|go down the lagoon next to the lagoon mark it next to the lagoon|instruct
+f|i go right down to the lagoon|check
+g|uh-huh|reply_y
+g|and stop at the bottom of the lagoon|clarify
+f|mmhmm|acknowledge
+g|right|align
+g|right you got it|align
+f|yeah|reply_y
+g|right|ready
+g|now see further down from the lagoon is there rock fall|query_yn
+g|and green bay|query_yn
+f|there's green bay yeah|reply_y
+g|right|ready
+g|there's a pirate ship isn't there|query_yn
+f|yeah|reply_y
+g|right|ready
+g|have you got just above green bay is there rock fall|query_yn
+f|no rock fall|reply_n
+f|there's a computer controlled sub|explain
+g|right right|ready
+g|from the bottom of the lagoon take your marker round that sub|instruct
+f|around it|check
+g|uh-huh|reply_y
+f|right down to it around it|check
+g|uh-huh|reply_y
+g|above it you know round it|clarify
+f|above it yeah|acknowledge
+g|right okay|acknowledge
+g|and ehm now|ready
+g|green bay|align
+f|angie yeah green bay|reply_y
+g|there's a kind of ehm|explain
+g|right take it round round there|instruct
+g|righ--|ready
+g|there's a kind of eh tip made at green bay|explain
+g|you know where the sub is|align
+f|mmhmm|reply_y
+f|right that right down to the left|check
+g|uh-huh yeah yeah|reply_y
+f|how about it|query_w
+g|take it through there|instruct
+f|uh-huh|acknowledge
+g|right|align
+g|stop there|instruct
+g|now|ready
+g|take it to the pi--|instruct
+g|is there a pirate ship there|query_yn
+f|yeah|reply_y
+g|right well|ready
+g|take it down a bit|instruct
+f|down a bit|acknowledge
+g|from that tip|instruct
+g|right|align
+f|mmhmm|reply_y
+g|down a few centimetres and take it down to the right towards the pirate ship and that's where you finish|instruct
+f|okay|acknowledge
+f|fine|acknowledge
+g|got it|align

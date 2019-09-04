@@ -1,0 +1,173 @@
+g|okay do you have a diamond mine|query_yn
+f|yeah|reply_y
+g|if you go from the start|instruct
+f|mmhmm|acknowledge
+g|and go down and to the left of the diamond mine|instruct
+f|okay|acknowledge
+g|and|ready
+f|straight down|check
+g|just as you get to the bottom of the diamond mine stop|instruct
+f|straight down chris|check
+g|yeah|reply_y
+f|okay|acknowledge
+f|okay here i am|acknowledge
+g|move right across the page|instruct
+f|underneath the words diamond mine|check
+g|yeah|reply_y
+g|do you have a wagon wheel|query_yn
+f|no|reply_n
+g|okay|acknowledge
+g|about halfway between the diamond mine and the edge of the page imagine a an obstacle|explain
+g|draw a line|instruct
+f|halfway between|check
+g|the diamond mine and the edge of the page on the right|clarify
+f|mmhmm|acknowledge
+g|imagine an obstacle|clarify
+f|mmhmm|acknowledge
+g|draw the line across an--|instruct
+f|i've a cactus|explain
+f|do you have a cactus|query_yn
+g|no|reply_n
+f|do you have a r--|query_yn
+g|draw|instruct
+f|sorry okay|acknowledge
+g|draw across to the right and up round the imaginary obstacle which is halfway between the diamond mine and the end of the page|instruct
+f|okay|acknowledge
+f|go up over it|check
+g|yeah|reply_y
+g|do you have a rift valley|query_yn
+f|mmhmm|reply_y
+g|at the top corner|check
+f|yeah|reply_y
+g|okay|ready
+g|go right over the top edge of the rift valley and come down in the middle of it between the two sort of groups of cactuses or whatever they are|instruct
+f|okay|acknowledge
+g|okay|align
+f|yeah|reply_y
+g|now go down about three inches|instruct
+g|do you have a stone creek|query_yn
+f|about three inches one two three|acknowledge
+f|i've got rocks|explain
+g|do you have rocks|query_yn
+g|and stone creek to the left of the rocks|query_yn
+f|yeah|reply_y
+f|no|reply_n
+g|okay|acknowledge
+g|imagine that about four inches to the left of the rocks there's a creek|explain
+g|draw a line between the rocks and this creek|instruct
+f|i've got rapids|explain
+g|okay|acknowledge
+g|well that'll do|instruct
+f|okay|acknowledge
+f|so come down over the top top edge of the rocks yeah|check
+g|yeah|reply_y
+f|and then down the middle in between my rapids and my rocks|check
+g|yeah|reply_y
+g|yeah|reply_y
+g|and then stop|instruct
+f|okay|acknowledge
+f|right|acknowledge
+g|now do you have white water|query_yn
+f|that'll be the rapids i would imagine|explain
+f|no i don't have white water|reply_n
+g|okay|acknowledge
+g|where i've said the creek is|align
+f|mmhmm|acknowledge
+g|below that and slightly to the left there's an obstacle|explain
+g|draw the line between where i said the creek is and the other obstacle to the left|instruct
+f|right|ready
+f|i'm in between the rocks and on my right and the rapids in the middle|explain
+g|okay|acknowledge
+f|and you want me to move which from which direction le--|query_w
+g|left|clarify
+f|left|acknowledge
+f|underneath underneath the rapids yeah|check
+g|yeah|reply_y
+g|i think so|reply_y
+f|okay|acknowledge
+f|yeah|acknowledge
+g|right now|ready
+g|come down the page 'til you're about th-- two thirds of the way down the page|instruct
+f|i've got a manned fort in the way|explain
+g|ehm where is it in relation to the side of the page|query_w
+f|right it's about two inches in from the left-hand side|reply_w
+g|okay well|acknowledge
+f|oh wait a minute stone creek|explain
+g|doesn't matter alright er|instruct
+f|see the stone creek you were talking about|align
+g|yeah|reply_y
+f|is that right down at the bottom of the page|query_yn
+g|no no|reply_n
+f|no|acknowledge
+g|there's another one there|explain
+f|okay|acknowledge
+g|right|ready
+g|where's your manned fort|query_w
+f|directly beneath me at the moment it's about two inches in it's about two thirds of the way down the page|reply_w
+g|two inches in|acknowledge
+f|and it's about|reply_w
+g|okay well keep|ready
+f|t-- two inches down from where i am now|reply_w
+g|keep to the right of it|instruct
+f|keep to the right of it okay|acknowledge
+f|and move down|check
+g|yeah|reply_y
+g|'til you're about two thirds of the way down|clarify
+g|the page|clarify
+f|okay|acknowledge
+g|now|ready
+g|you've got to make your way all the way over to the other side of the page now|instruct
+f|to the right-hand side|check
+g|yeah|reply_y
+g|do you have an outlaws' hideout|query_yn
+f|yeah|reply_y
+f|it's above me|explain
+g|okay well you go up towards it but draw just beneath the words outlaws' hideout|instruct
+f|okay|acknowledge
+g|is that right over in the right-hand side|check
+f|yeah|reply_y
+g|okay|acknowledge
+f|and there's a gold mine directly beneath it|explain
+g|no i don't have that|reply_n
+f|okay|acknowledge
+f|i'm below the word i'm below the letter "w"|explain
+g|okay|acknowledge
+g|move slightly more to the right 'til you're about an inch away from the edge of the page|instruct
+f|okay|acknowledge
+g|do you have a noose at the bottom of the page|query_yn
+f|yeah|reply_y
+g|draw a straight line down keeping a-- an inch away from the edge of the page round under the noose|instruct
+f|okay|acknowledge
+g|now do you have a swan pond|query_yn
+f|no|reply_n
+g|okay|acknowledge
+g|oh where you are at the moment|align
+f|mmhmm|acknowledge
+g|underneath the noose|align
+f|mmhmm|acknowledge
+g|how far are you underneath it|query_w
+f|about half an inch|reply_w
+g|okay|acknowledge
+g|well a bit further below that actually you need to go|instruct
+f|okay|acknowledge
+g|sloping slightly down|instruct
+f|mmhmm|acknowledge
+g|for another thr-- three inches i would say to the left|instruct
+g|okay|align
+g|stop there|instruct
+f|mmhmm|reply_y
+g|now imagine a circle you have to go up and carrying on to the left as if there's a bump in the route|instruct
+g|okay|align
+f|okay|acknowledge
+f|how far should i be from the bottom of the page|query_w
+g|about two three inches|reply_w
+g|going up 'til about four and coming back to about three again|clarify
+f|well i'm only about an inch from the bottom of the page just now|explain
+g|no you have to be higher up than that|reply_n
+f|right|acknowledge
+f|okay|acknowledge
+g|do you have the saloon bar|query_yn
+f|yeah|reply_y
+g|go underneath the words saloon bar|instruct
+f|sounds odd but okay|acknowledge
+g|and then go up and stop when you're i-- in a direct line with the roof of the saloon bar and about an inch away from the left-hand side of the page|instruct

@@ -1,0 +1,284 @@
+g|okay|ready
+g|start off above the diamond mine|instruct
+f|okay yeah|acknowledge
+g|right|align
+g|now|ready
+g|go south from the diamond mine until you are just above the desert|instruct
+f|so that's with the diamond mine on on your right|query_yn
+g|that's that's correct uh-huh|reply_y
+g|and go below the diamond mine|instruct
+f|mmhmm|acknowledge
+g|and below the graveyard below the graveyard but above the carved wooden pole|instruct
+f|oh hang on i don't have a graveyard|explain
+g|okay|ready
+g|so you don't have a graveyard|check
+g|do you have a fast flowing river|query_yn
+f|fast running creek|reply_w
+g|ehm mm don't know yeah it could be could be|explain
+f|is that to the right that'll be to my right to my right|query_yn
+g|to your|check
+g|right uh-huh|reply_y
+f|right|ready
+f|so i continue and go below the fast running creek|check
+g|no|reply_n
+g|go just until you go go below the diamond mine until just before the fast fast flowing river|clarify
+f|i don't have a fast flowing river|explain
+g|you have a fast flowing creek|check
+f|i've a fast flowing running creek|reply_y
+f|which is on the far right-hand corner|explain
+g|mmhmm|acknowledge
+f|so you have|check
+g|well|ready
+g|do you have an apache camp|query_yn
+f|yeah got an apache camp|reply_y
+g|okay|acknowledge
+f|but that's like at forty-five degrees south east|explain
+g|right|acknowledge
+g|okay then|ready
+g|right|ready
+g|you're going to go below the diamond mine|instruct
+f|right|acknowledge
+g|do you have a graveyard|query_yn
+f|no no graveyard|reply_n
+g|don't have a graveyard|check
+f|no|reply_n
+g|do you have a desert|query_yn
+f|yes got a desert|reply_y
+f|which if i continue straight down past the diamond mine|explain
+g|no don't go don't go any further than the desert don't go onto the desert|instruct
+f|okay|acknowledge
+f|so i'm still below the diamond mine|check
+g|right|align
+g|you d-- uh-huh below the diamond mine|reply_y
+f|right okay|acknowledge
+g|and then go to your right|instruct
+f|my right right okay|acknowledge
+g|you've got neither a graveyard nor a fast flowing river|check
+f|i've got a fast running creek|reply_w
+g|okay right you've got a fast flowing fast running creek|acknowledge
+g|i don't have a fast running creek|explain
+f|how unlucky|acknowledge
+g|so ehm ehm i'm kind of stuck|explain
+f|can i just go straight to the saloon bar|query_yn
+g|erm mark no just wait|reply_n
+g|i know you're thirsty but just wait 'til you get to the desert|explain
+f|right okay|acknowledge
+g|well okay then right|ready
+g|you've got a creek i've got a river|explain
+f|yes|acknowledge
+g|so they must be linked somehow|explain
+f|yeah|acknowledge
+g|so do you want to just go along to your right|instruct
+f|okay|acknowledge
+g|and then go up and over the top of where the creek is|instruct
+f|right okay|acknowledge
+g|and then down south again|instruct
+f|okay|acknowledge
+g|down south again until just above the apache camp|instruct
+f|right okay|acknowledge
+g|and pass that by go to your sou-- southwest of the apache camp|instruct
+f|passing above it|check
+g|uh-huh|reply_y
+f|but to the southwest|check
+g|uh-huh|reply_y
+f|okay|acknowledge
+g|right|ready
+g|take the southwest direction|clarify
+f|passing above it right|acknowledge
+g|now|ready
+g|do you have a walled city|query_yn
+f|yes|reply_y
+g|and do you have a desert|query_yn
+f|yes|reply_y
+g|well|ready
+g|pass from above the apache camp um and over the top of the walled city but between the desert and the walled city|instruct
+f|between them|check
+g|uh-huh|reply_y
+g|so that's over the top of the walled city|clarify
+f|right okay|acknowledge
+g|okay|acknowledge
+f|but i'm that's not in a straight line|explain
+g|oh that's fair enough|acknowledge
+g|right just just go between those two|clarify
+f|right okay right okay|acknowledge
+g|right|align
+f|right|reply_y
+g|and then|ready
+f|okay i'm between|explain
+g|continue south|instruct
+f|okay|acknowledge
+g|right|align
+g|until|instruct
+g|do you you you have no carved wooden pole at all|query_yn
+f|yes|reply_y
+g|a totem pole sort of c-- thing|check
+f|yes uh-huh|reply_y
+g|right|ready
+f|but right at the very bottom|explain
+g|well okay|acknowledge
+g|do you have any flat rocks|query_yn
+f|yes uh-huh|reply_y
+g|ch-- do you have a stone creek in that area|query_yn
+f|yes|reply_y
+g|right|acknowledge
+f|they're all on a diagonal|explain
+g|right okay|acknowledge
+f|carved wooden pole stone creek flat rocks|explain
+g|right okay right|ready
+g|what you do then is you go south from the walled city|instruct
+f|right|acknowledge
+g|and you follow a sort of curve ehm|instruct
+g|how do you describe the last south|query_yn
+g|sort of from g-- go in a|instruct
+f|an "s"|explain
+g|sort of "c" shape to cover the bottom of a "c"|instruct
+g|right|align
+g|from when you pass down below the walled city|instruct
+f|right i right wait|acknowledge
+g|go in a "c"-shaped curve|instruct
+f|right from|check
+g|right|align
+g|and then go between the flat rocks and the stone creek|instruct
+g|okay can you do that|align
+g|you pass in a pass|instruct
+f|right|acknowledge
+f|i i'm at the walled city right|explain
+g|oh you're at the walled city|acknowledge
+f|right|acknowledge
+g|you're just above it have you come down|align
+f|i'm just i'm just come down|reply_w
+g|uh-huh|acknowledge
+f|so i'm still at the parallel with the base|reply_w
+g|right|acknowledge
+f|right|align
+g|right|reply_y
+f|the carved wooden pole is right at my bot-- right at the bottom i've got a ghost town in between the walled city and|explain
+g|between the walled city and what|query_w
+f|the carved wooden pole|reply_w
+f|there's a ghost town|explain
+g|right|acknowledge
+g|oh well i don't have this on my map|explain
+g|so ehm|ready
+g|do you have flat rocks|query_yn
+f|yes|reply_y
+g|in line with the ghost town|query_yn
+f|mm more or less yeah more or less|reply_y
+g|right then|ready
+g|pass pass below the ghost town|instruct
+f|right okay|acknowledge
+g|but above the carved wooden pole and above the stone creek|instruct
+f|right okay|acknowledge
+g|right|align
+f|so between the ghost town and sort of like a forty-five degree line or something|check
+g|so you're just|instruct
+g|yeah|reply_y
+g|well then just make sure yous you miss that uh-huh uh-huh|clarify
+f|right|ready
+f|below the go below the wooden pole|check
+g|no|reply_n
+g|don't go don't go below the wooden pole|clarify
+f|right|ready
+f|so between the ghost town and the wooden pole|check
+g|uh-huh|reply_y
+g|but don't go below the level of the stone creek|clarify
+f|right okay so i'm passing above the stone creek and i'm going up to above the flat rocks|check
+g|right|align
+g|no|reply_n
+g|below the flat rocks|clarify
+f|right okay right i know what you mean right|acknowledge
+g|you got to p-- you've got to pass below the flat rocks|clarify
+f|okay|acknowledge
+g|right|ready
+g|so you're taking a sort of north|instruct
+f|right okay i'm below the flat rocks|acknowledge
+g|right below the flat rocks|acknowledge
+f|yeah|acknowledge
+g|okay|ready
+g|you want to veer ver-- to your right curve round to your right and go in a south south direction|instruct
+g|and do you have buffalo|query_yn
+f|pas-- yeah|reply_y
+f|got a saloon bar as well above that though|explain
+g|no you're not going into a saloon bar mark|instruct
+f|right i know|acknowledge
+g|right|acknowledge
+f|not just now|acknowledge
+f|right okay|ready
+f|due south|check
+g|right|ready
+g|go south|reply_y
+g|pa-- past buffalo|instruct
+f|right|acknowledge
+f|that means i've passed the bar|explain
+g|and then just in a s-- sort of virtual straight line past the bar mark|instruct
+f|right okay|reply_y
+g|okay|align
+f|right|acknowledge
+g|and and do you have a cattle ranch|query_yn
+f|no|reply_n
+g|okay erm|acknowledge
+f|no|reply_n
+g|do you have a fort|query_yn
+f|yes|reply_y
+g|right|acknowledge
+g|well|ready
+g|go past the buffalo|instruct
+f|mmhmm|acknowledge
+f|below them|query_yn
+g|above the right below the buffalo below the buffalo right|reply_y
+f|below the buffalo right|acknowledge
+f|so turn to my left|check
+g|that's right turn to your left|reply_y
+f|below the buffalo|acknowledge
+g|below the buffalo|acknowledge
+f|right|acknowledge
+g|right|align
+g|at about at the level of the top of the fort right in line with the top of the fort|instruct
+f|okay|acknowledge
+f|pass straight across|query_yn
+g|no don't pass straight across right|reply_n
+g|just curve downwards in a a "u" slight "u" a very very very slight curve and then pass upwards in a like an upside-down "u" because you want to avoid the cattle ranch which lies between the fort and the buffalo|instruct
+g|there's a cattle there's a cattle ranch|explain
+f|right|ready
+f|there's a cattle ranch between your buffalo and your fort|check
+g|that's right|reply_y
+f|right|ready
+f|so i've got to go along and uh over a "u" shape right|check
+g|you've go up and over the cattle ranch|clarify
+f|and then to the along to the fort|check
+g|then down|clarify
+g|uh-huh that's right|reply_y
+f|right hang on hang on right right|acknowledge
+f|i'm doing my "u" now right|explain
+g|right|acknowledge
+g|and then down underneath the fort sort of um to your left|instruct
+f|right|acknowledge
+g|mmhmm over the cattle ranch right|align
+f|over the over the "u"|check
+f|right|reply_y
+f|down and then down to the left and then south|check
+g|and then da-- travel south and then|clarify
+f|before i reach the fort or on the other side|check
+g|before you reach the fort|clarify
+f|right|acknowledge
+g|before you reach the fort|clarify
+f|so down south right|check
+g|go down south|reply_y
+g|and then do you have anything else between the fort and the cattle ranch|query_yn
+f|no|reply_n
+g|you don't|check
+g|okay then|ready
+g|so just go south and then straight along underneath the fort|instruct
+f|okay|acknowledge
+g|emerging at the left-hand side of the fort and you've to finish opposite the base more or less opposite the base of the carved wooden pole|instruct
+f|i have to proceed|check
+g|but still to the left of the fort|instruct
+f|right|ready
+f|so i just go straight up north|check
+g|right straight up north yeah|reply_y
+g|and finish erm beyond the fort|clarify
+f|right|ready
+g|and be at this at|clarify
+f|i'm above the fort|explain
+f|at the base of the wooden|explain
+g|to the left of the fort and level with the base of the wooden pole but not actually beside the wooden pole|clarify
+f|right okay|acknowledge

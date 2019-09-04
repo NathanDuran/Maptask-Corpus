@@ -1,0 +1,542 @@
+g|right|ready
+g|do you have crest falls|query_yn
+f|crest falls|reply_y
+g|mmhmm|acknowledge
+g|well on the the eastern side of the water bit you|explain
+g|see where the water is|align
+f|yeah|reply_y
+f|the water at the bottom of crest falls|check
+g|no|reply_n
+g|at the top|clarify
+g|right|ready
+g|see how there's a bit of rock at the sides at the top|align
+f|yeah|reply_y
+g|the rocks|align
+g|well o-- on the eastern side|explain
+g|right|align
+f|mm|reply_y
+g|r-- okay|ready
+g|take the middle of the falls|explain
+f|right|acknowledge
+g|and go slightly to the east|explain
+f|right|acknowledge
+g|and up about three quarters of an inch|explain
+f|mmhmm|acknowledge
+f|that's the start|explain
+g|that's your start point|explain
+g|you've got that|acknowledge
+g|i should have worked that out shouldn't i|query_yn
+f|aye|reply_y
+g|right|ready
+g|do you have mm banana something there|query_yn
+f|banana tree|reply_w
+g|right|acknowledge
+g|i don't|explain
+g|right|ready
+g|come along from the start point to just come straight west to the edge of the falls above the where the edge it would start to come down|instruct
+f|seagulls|check
+f|seagulls aye|check
+g|just past the seagulls|clarify
+f|right|acknowledge
+g|now|ready
+g|come at a an angle of about a hundred and ninety-five degrees|instruct
+f|mmhmm|acknowledge
+g|come down to|instruct
+g|right|ready
+g|you see the the middle line in the waterfalls|align
+f|yeah|reply_y
+g|the waterfall line|align
+f|see where it finishes|check
+g|at the bottom of that line|instruct
+g|right|align
+f|uh-huh|reply_y
+g|across from that i finished that line there|instruct
+f|got it|acknowledge
+g|right|acknowledge
+g|and now|ready
+g|curve round|instruct
+g|ehm see where a-- to the bottom of the "c" of crest right you know where the "c" is|align
+f|yeah|reply_y
+g|well maybe go two inches to the west of that|instruct
+f|mmhmm|acknowledge
+g|and put a point there|instruct
+f|got it|acknowledge
+g|and draw a curve between these two points|instruct
+f|what kind of curve|query_w
+g|a curved mainly to the the west so very shallow curve right not straight down then curve round just any point to join them it won't really matter|clarify
+f|is that from the point with the seagulls|check
+g|no|reply_n
+g|f-- the point from|clarify
+f|halfway down|check
+f|so it's going to go up the way|check
+g|uh-huh|reply_y
+f|it's an upwards curve|check
+f|or a downwards curve|query_yn
+g|what do you mean|query_w
+f|eh is it curving up towards the footbridge or is it down towards the bottom of the paper|clarify
+g|down|reply_w
+f|the curve down|acknowledge
+g|down|clarify
+f|just a sh-- shallow curve|check
+g|uh-huh|reply_y
+g|to where i told you the wh-- to mar-- two wh-- inches to the|clarify
+f|yeah|acknowledge
+g|west of "c" to that point|clarify
+f|right|acknowledge
+f|just shallow wee curve|check
+g|uh-huh right|reply_y
+g|a positive gradient|clarify
+f|right|acknowledge
+g|now|ready
+g|go straight across from there to about two and a half inches from the edge of the paper|instruct
+f|i'll need to go to about an inch|explain
+g|what's there|query_w
+f|a banana tree|reply_w
+f|i've got a banana tree|clarify
+g|another banana tree|check
+f|i've got a banana tree in the bottom left-hand corner of the paper|clarify
+f|so i'd need to come due west|explain
+g|the extreme bottom|check
+f|yeah|reply_y
+g|it's right down in the corner|check
+f|it's about|clarify
+f|right in the corner yeah|reply_y
+f|it's in the bottom portion really|clarify
+g|right|ready
+g|just now you you'll be about an inch above the bottom|align
+f|yeah|reply_y
+g|can you go straight across to about at that level from the bottom to about two inches from the the west|query_yn
+f|no|reply_n
+f|i'd need to go to about an inch|clarify
+f|have you got anything west|query_yn
+g|there's nothing on my map there|reply_n
+g|how far|query_w
+g|right|ready
+g|to go up on the east side of the banana trees|align
+f|yeah that's|reply_y
+g|how far out would you have to be|query_w
+f|well|ready
+f|just about half an inch of where i am the now to the west|reply_w
+f|then i'd need to go up and i've got a footbridge directly above that|explain
+g|how is the banana tree area really big it's a s--|query_yn
+f|yeah|reply_y
+f|it's a huge big banana tree it's about one and a half times the size of crest falls|clarify
+g|and it stretches from the below the footbridge|check
+f|stretches|reply_w
+f|yeah|reply_y
+f|ju-- aba-- it's about an inch below the footbridge to about an inch fae the edge of the page fae the bottom of the page then about an inch in and it's about an inch and a half across|clarify
+g|an inch in from where|query_w
+f|an inch in from the left-hand side of the page|reply_w
+g|and what do you mean an inch and a half across|query_w
+f|well that's how wide it is the banana tree|clarify
+g|that wide|check
+f|aye|reply_y
+f|it's about that wide|clarify
+g|that wide or that wide|check
+f|that wide|clarify
+f|where are we going to go anyway are we going try to get up the|query_w
+g|thing is right you go along the bottom right and my route about just over an inch from the side of the page|instruct
+f|mmhmm|acknowledge
+g|goes up again until you're almost on a level with footbridge|instruct
+f|well is that only an inch from the side|check
+g|uh-huh|reply_y
+f|oh i can do that|explain
+g|that's what i told you to go over three inches|clarify
+f|oh sorry|acknowledge
+g|along the bottom|clarify
+g|right|align
+g|come along for three inches|instruct
+f|right|reply_y
+f|then go up level with footbridge|check
+g|no|reply_n
+g|now|ready
+g|you'll be about|align
+f|an inch fae the edge and an inch fae the bottom|reply_w
+g|well should make it just more than an inch from the maybe about two inches from the edge|instruct
+f|what|query_w
+g|right|align
+f|i can't do that it's the banana tree|explain
+g|right okay|acknowledge
+g|you'll have to go round them then|instruct
+g|now go up to where|instruct
+g|go slightly curving|instruct
+f|mmhmm|acknowledge
+g|ehm until you're at the "f" not to the "f" but on a level with the "f"|instruct
+f|how far west of it|query_w
+g|and end up on the same sort of the same vertical|instruct
+f|mmhmm|acknowledge
+f|as the tree trunk|explain
+g|axis as|instruct
+g|what tree trunk|query_w
+f|the banana tree trunk|reply_w
+g|i don't have the banana tree|explain
+f|oh you've no got that|acknowledge
+f|so it's a bit|explain
+g|right|ready
+g|make it that you're about three inches above the point you are just now three inches due north|instruct
+f|right|acknowledge
+g|and curve round your banana trees right if you've got to|instruct
+f|to how far from the edge of the page a couple of inches|check
+g|an inch and a half say from there|clarify
+f|right|acknowledge
+g|right|align
+f|got you|acknowledge
+g|now from that point you'll probably be just over two inches from the footbridge|align
+f|aye|reply_y
+g|draw a line from there to the the left-hand side of the footbridge|instruct
+g|right|align
+f|east due east|check
+g|well almost due east you'll be just below the|clarify
+f|yeah|acknowledge
+g|think i'd on the picture right because you're going to go over the footbridge|clarify
+g|okay|align
+f|right|acknowledge
+f|so i want to go|check
+g|so|ready
+g|just go up to the edge of the footbridge|clarify
+f|right|acknowledge
+f|so i'm below the footbridge or right at the edge|check
+g|right|ready
+g|see the bridge bit along the top|clarify
+f|where i can go over it|check
+g|uh-huh|reply_y
+g|where you can go over it|clarify
+f|right|acknowledge
+f|got you|acknowledge
+g|right|ready
+g|don't draw a line over the footbridge|instruct
+g|there isn't one here|explain
+f|right|acknowledge
+g|do you have a poisoned stream there|query_yn
+f|no|reply_n
+g|on the other side of the foot--|query_yn
+g|right|acknowledge
+g|when you come off the footbridge go for about half a centimetre at the very most|instruct
+f|so i'm on the right-hand side of the footbridge and i'm going half a centimetre|check
+g|uh-huh|reply_y
+g|half a centimetre out|clarify
+f|east|check
+g|uh-huh|reply_y
+f|right|acknowledge
+g|and now|instruct
+f|where's the poison stream come from slate mountain|query_w
+g|there isn't a slate mountain on this one|explain
+f|right|acknowledge
+g|but it's below slate mountain|reply_w
+g|now draw a line due south|instruct
+f|mmhmm|acknowledge
+g|for about an inch and a half so y--|instruct
+g|you're still above the start point|align
+f|yeah|reply_y
+g|right eh|acknowledge
+g|you have an old temple|query_yn
+f|yeah|reply_y
+g|now see where the "m" of|align
+f|yeah|reply_y
+g|stream is|align
+f|no|reply_n
+f|i've no got stream|explain
+g|oh sorry right|acknowledge
+f|i'll need be on the mountain somewhere|explain
+g|okay|acknowledge
+g|right|ready
+g|on this level|instruct
+f|right|acknowledge
+g|draw a line straight over 'til you're above the "s" of start|instruct
+f|right due east above lef-- "s" in start|acknowledge
+g|right|acknowledge
+f|i'm about a half an inch above the "s"|explain
+g|so you'll be about|instruct
+g|right|acknowledge
+g|and from there draw in a curve to the the base|instruct
+g|see the base bit of the old temple|align
+f|yeah|reply_y
+g|looks as if it's brick or something|align
+f|aye|reply_y
+g|draw a curve to there|instruct
+f|what the left-hand side|check
+g|uh-huh|reply_y
+f|just a wee curve going up towards abandoned truck|check
+g|there's no aban--|reply_w
+f|eh well slate mountain you've no got slate mountain white mountain|check
+g|no no not that way|reply_n
+f|am i going down towards the bottom right-hand corner or up towards the top left-hand corner with the the curve|query_w
+g|right|ready
+g|you've come across from the footbridge|align
+f|right to the start yeah|reply_y
+g|okay|align
+g|you're just at start now|align
+f|yeah|reply_y
+g|now you know where the old temple is|align
+f|yeah|reply_y
+g|well just draw a wee curve joining those two points|clarify
+f|what kind of curve though|query_w
+f|'cause i mean i'm walking downwards|explain
+g|well as if|reply_w
+f|an "n" curve or a "u" curve|query_w
+f|know what i mean|align
+g|you'll see right say t-- imagine a clock face|clarify
+f|right|acknowledge
+g|between three o'clock and six o'clock|clarify
+f|right|acknowledge
+g|that would be the cur-- that quarter of the clock the way just picture that the way that would go|clarify
+f|between three o'clock|acknowledge
+g|you're starting off flat and getting steeper|clarify
+f|right|acknowledge
+g|from six 'til three|clarify
+f|right i've got it|acknowledge
+f|right|ready
+f|i'm right at the very side of the old|check
+f|temple and right on the side of it|check
+g|uh-huh|acknowledge
+g|right|acknowledge
+g|now go s-- straight up straight north until about an i-- inch above the top of the temple|instruct
+g|that'll be you near the mountain|align
+f|got you|acknowledge
+f|yeah|reply_y
+f|i'm a quarter of the way up the mountain halfway up the mountain nearly|explain
+g|right|acknowledge
+g|now|ready
+g|don't draw a line but say|instruct
+g|go in a s-- an inch and a half|align
+g|how far are you fr-- how far are you from the "k" of abandoned truck|query_w
+f|i'm about right i'm on a level with that|reply_w
+g|uh-huh|acknowledge
+f|and i'm about three inches to the right of it|reply_w
+g|right|acknowledge
+g|half take half that distance|instruct
+f|uh-huh|acknowledge
+g|and go up from there go up just over two inches|instruct
+f|right|acknowledge
+g|and that'll|instruct
+f|remote village you got a remote village|query_yn
+g|not that high up|clarify
+f|not that hi--|acknowledge
+f|well i'm about an inch below|explain
+g|well|ready
+f|the "v" in that|explain
+g|no maybe take it down another inch then|clarify
+f|all right so about|acknowledge
+f|so that'll be me about two inches below the "v" in village|check
+g|uh-huh|reply_y
+f|right|acknowledge
+g|and about an inch above the top of the truck at the most|clarify
+f|yeah|acknowledge
+g|uh-huh there|acknowledge
+f|and i want to draw a line from|check
+g|no|reply_n
+g|well where you are ju-- put a put a wee point there|clarify
+f|right got one|acknowledge
+g|now from where you are just now on the line connect those two points|instruct
+f|where i am just now|check
+g|to the|instruct
+g|right|ready
+g|you're just an inch above the old temple|align
+f|yeah|reply_y
+g|go to that point two inches below the "v" of village|clarify
+f|mmhmm|acknowledge
+f|straight|check
+g|uh-huh|reply_y
+g|and now|ready
+g|say a s-- three quarters of a centimetre below the "k" of truck|align
+f|yeah|reply_y
+g|now go down to there three quarters of a centimetre uh-huh|reply_y
+f|so it's me going round the old mountain|check
+g|directly below the "k"|clarify
+f|right|acknowledge
+g|now go how far you'll be about three quarters of a centimetre below the word abandoned truck the words|align
+f|yeah|reply_y
+g|go straight across 'til you're under the "a" by the same distance|instruct
+f|yeah|acknowledge
+g|now do you have baboons|query_yn
+f|no|reply_n
+g|right|acknowledge
+g|from there go down two inches until you're about an inch from the line you drew to the footpath|instruct
+f|right|acknowledge
+g|go straight down|instruct
+g|right|align
+f|mmhmm|acknowledge
+g|and now go across until you're about three quarters of an inch from the side of the page if you can do that|instruct
+f|yeah|acknowledge
+g|right|acknowledge
+g|in fact to be safe make it half an inch to get round these baboons|instruct
+g|now|ready
+g|have you got anything between this point and white mountain|query_yn
+f|nope|reply_n
+g|right|acknowledge
+g|from here|ready
+g|go up to go straight up to avoid the baboons|instruct
+f|straight up|acknowledge
+f|how far|query_w
+g|ehm|ready
+g|to about the where you started off to make that a "u" shape that bit of path|reply_w
+g|you know how you've come down and along|align
+f|uh-huh|reply_y
+f|well i've come down i've went above slate mountain down by the abandoned truck|explain
+g|uh-huh|acknowledge
+g|right|ready
+g|from the "a" of abandoned truck|align
+f|aye|acknowledge
+g|you've went down|align
+f|uh-huh|reply_y
+g|and then along|align
+f|yeah|reply_y
+g|now go back up to about that level to make it a "u" shape|clarify
+f|right|acknowledge
+f|so if there's just a wee totty bit of monkeys or baboons or whatever you call them|check
+g|in that space there|clarify
+f|so you want like nine o'clock 'til twelve o'clock|check
+g|it's maybe about a couple of inches wide|clarify
+g|make sure you're ehm|explain
+f|i go north and then across a bit eh|check
+g|make sure you're still at least two inches from the gap that down that "u" shape will be at least two inches at all points|clarify
+g|right|align
+g|so just go up to make that a "u"|clarify
+g|and you're about half an inch from the side of the paper|align
+f|yeah|reply_y
+g|uh-huh|acknowledge
+f|so i want to go where am i ending up beside the "a" again|check
+g|well just go straight up until you're on the level of where you star-- at "a" below "a" three quarters of a centimetre below "a"|clarify
+f|right|acknowledge
+g|right|ready
+g|from there draw a line straight to the bottom left-hand starting point of white mountain maybe just to about half a centimetre to the w-- the left of it|instruct
+f|right that's me|acknowledge
+f|level with the "a" and then up to the bottom left-hand bit of white mountain|check
+g|uh-huh|reply_y
+f|how am i far from it|query_w
+g|where th-- about|reply_w
+f|centimetre from the bottom|query_yn
+g|at th-- not even that|reply_n
+f|right|acknowledge
+g|about half that|reply_w
+f|right|acknowledge
+g|right|acknowledge
+g|and now|ready
+g|they'll if you g-- as you go up that side of white mountain there's a wee sort of ledge bit|explain
+g|you see that where it goes flat|align
+f|i'm in the|reply_w
+g|you go up quite steep|explain
+f|uh-huh|acknowledge
+g|on the mountain and then it flattens out a wee bit|explain
+f|yeah|acknowledge
+f|right at the top about|check
+g|no|reply_n
+g|below there about a third of the way up|clarify
+f|uh-huh|acknowledge
+g|there's a wee bit that's almost at a horizontal|clarify
+f|no|reply_n
+g|no it'll be a different drawing maybe|acknowledge
+g|right|ready
+g|you see about two thirds of the way up the mountain|align
+f|uh-huh|reply_y
+g|its gradient changes to slightly less steep|align
+f|mm a wee bit|reply_y
+f|mm a totty totty wee bit aye|acknowledge
+g|uh-huh slightly|acknowledge
+g|uh-huh|acknowledge
+g|well|ready
+g|go up follow the side of the mountain up to that point still staying about half a centimetre away to a centimetre|instruct
+f|right|acknowledge
+g|and then have you got anything above that point above white mountain|query_yn
+f|i've got lemon grove that's about two inches above it|reply_y
+g|do you have a pyramid|query_yn
+f|aye|reply_y
+g|right|acknowledge
+g|go|instruct
+g|where is the top of the lemon grove uh in relation to the pyramid|query_w
+f|just on the bottom of it|reply_w
+g|right|acknowledge
+g|now|ready
+g|go straight up just now until you're about on go due north until you're on a level with about the a third of the way up the pyramid|instruct
+g|you see the black marks up the side of the pyramid|align
+f|uh-huh the second one|reply_y
+g|until you're level with the second one|instruct
+f|so i'm going to go by the west side of the lemon grove|check
+g|uh-huh|reply_y
+g|and now would that take you above the lemon grove|query_yn
+f|yeah|reply_y
+g|now go straight across until you're about an inch from the second black mark of the pyramid|instruct
+f|black mark|acknowledge
+f|got you|acknowledge
+g|now|ready
+g|from there go to a point a centimetre above the peak of the pyramid|instruct
+f|got you|acknowledge
+g|right|acknowledge
+g|and then draw a straight line down the other side|instruct
+g|um you see the the bottom right-h-- right-hand corner of the pyramid|align
+f|yeah the far away one the one that's|reply_y
+g|the one that would be at the front of the pyramid|align
+f|yeah|reply_y
+g|right the face not the one that would be at the back not the extreme right-hand point|align
+f|right|reply_y
+f|mmhmm|reply_y
+g|about an inch out from there put a dot and join those two points and the|instruct
+f|right|acknowledge
+f|immediately below that i've got a poisoned scream stream about two centimetres below it|explain
+g|two centimetres|acknowledge
+g|the poisoned stream in this one is a bit further below that see i've got two poisoned streams on this map|explain
+f|mm|acknowledge
+g|now|ready
+g|from there draw a slightly sloping curve again to below the "d" of pyramid|instruct
+g|right just slope it round the natural way it would go|instruct
+f|mmhmm|acknowledge
+g|right|align
+g|curve it round|instruct
+f|curve it round with the like that or like that|query_w
+g|to below the d--|reply_w
+g|right|ready
+g|where you are just now remember you do drew the test tube earlier|align
+f|is it an arc curve|query_yn
+f|uh-huh|reply_y
+g|it would be like the bottom half of that test tube|reply_w
+f|so it's like that|check
+g|uh-huh|reply_y
+g|to below the "d"|clarify
+g|right|ready
+g|do you have a cobbled street|query_yn
+f|got that's about a s--|explain
+f|no|reply_n
+f|it's about a centimetre below th-- the "d"|explain
+g|right|acknowledge
+g|from there go carry on straight across until you're below the far left-hand base point of the pyramid|instruct
+f|yeah|acknowledge
+g|right|acknowledge
+f|so about an inch yeah|check
+g|uh-huh|reply_y
+g|now at about a hundred and ninety-five degrees so that's just five degrees more than south|instruct
+f|mmhmm|acknowledge
+g|to the west side go down about well make it a hundred and|instruct
+g|what did i say there|query_w
+f|hundred and ninety-five you said|reply_w
+g|right that's fine|acknowledge
+f|right|acknowledge
+g|from there go down|instruct
+g|do you have a remote village|query_yn
+f|yeah|reply_y
+g|you see the the two dark thick lines that are in that drawing of remote village|align
+f|yeah|reply_y
+g|go down until straight down at that angle until you're about a centimetre to the side t-- to the west of the line|instruct
+f|so you've got the remote village it's got two hills it's got the remote village is in the middle of two hills with hills behind|check
+g|uh-huh|reply_y
+g|uh-huh|reply_y
+f|and you want the the hill on the left-hand side|check
+g|uh-huh|reply_y
+g|until you're about a centimetre to the w-- west of that|clarify
+f|you're about a centimetre|check
+f|right|acknowledge
+g|so just draw|clarify
+f|dead on the level of it uh-huh|check
+g|uh-huh|reply_y
+f|right|acknowledge
+f|got you|acknowledge
+g|now|ready
+g|from there draw another curve until you're below the "r" of r-- about a centimetre below the "r" of remote|instruct
+f|uh-huh|acknowledge
+g|right|align
+g|and then go straight across to below the "e" of village|instruct
+f|uh-huh|acknowledge
+g|and then go about an inch further than that on the same level and that's your finishing point|instruct
+f|so that'll be just about below the pyramid the extreme right-hand edge|check
+g|uh-huh|acknowledge
+g|just there|clarify
+f|right|acknowledge

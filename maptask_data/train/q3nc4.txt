@@ -1,0 +1,162 @@
+g|okay|ready
+g|the start's above the crest falls|explain
+f|right|acknowledge
+g|you start there and go to the left|instruct
+f|mmhmm|acknowledge
+g|a bit and then down by the side of the crest falls|instruct
+g|and then along roughly horizontally to about an inch from the left-hand side of the page then go up|instruct
+f|an inch from the left-hand side of the page|check
+g|yeah|reply_y
+f|past the banana tree|check
+g|well i've not got a banana tree on mine|explain
+f|okay|ready
+f|and then to where|query_w
+g|and then go up the way by about four inches three inches|reply_w
+f|three inches okay|acknowledge
+g|have you got baboons marked on yours|query_yn
+f|no|reply_n
+g|no right|acknowledge
+g|have you got a footbridge marked|query_yn
+f|i have|reply_y
+g|okay|acknowledge
+g|well turn right so that you go across the footbridge|instruct
+f|turn right so i go across the footbridge right|acknowledge
+g|and watch out beyond it|instruct
+g|have you got a poisoned stream marked|query_yn
+f|no|reply_n
+g|no right|acknowledge
+g|well just beyond the footbridge is a poisoned stream|explain
+f|right|acknowledge
+g|so and are you on the footbridge footbridge|align
+f|mmhmm|reply_y
+g|okay|acknowledge
+g|well go to the end of the footbridge|instruct
+f|right|acknowledge
+g|and then down|instruct
+f|straight down|check
+g|straight down by about an inch|clarify
+f|okay|acknowledge
+g|bit more than an inch|instruct
+f|right|acknowledge
+g|eh now go horizontally along towards your right|instruct
+f|for how long|query_w
+g|about three inches|clarify
+g|have you got an old temple marked|query_yn
+f|i do|reply_y
+g|right okay|acknowledge
+g|well you go up the left-hand side of the old temple as you see it|instruct
+f|straight up or|query_yn
+g|straight up yeah|reply_y
+f|curve round|query_yn
+f|okay|ready
+g|okay eh|acknowledge
+g|now have you got something marked eh just above the old temple or to the left of the old temple|query_w
+f|i've got slate mountain|reply_w
+g|slate mountain okay|acknowledge
+g|well go above that and round|instruct
+f|straight up|check
+g|still going to your left|instruct
+f|still going to my left|check
+g|y-- well y-- you're straight up just beyond the old temple|align
+f|uh-huh|reply_y
+g|okay|acknowledge
+g|now g-- you're wanting to go left|clarify
+g|have you got an abandoned truck marked|query_yn
+f|uh-huh|reply_y
+g|right|acknowledge
+g|well you're wanting to go just below that but missing out any obstacles|instruct
+f|right so i'm going underneath this mountain and along to the abandoned truck not underneath the mountain above the mountain|check
+g|that there are|instruct
+g|above the mountain yeah|reply_y
+f|so it's to the right of the mountain that i'm going|check
+g|no it's to the|reply_n
+g|the abandoned truck's to the left of the old temple|explain
+f|yes|acknowledge
+f|but the m-- the mountain's a-- between the abandoned truck and the old temple|explain
+g|right okay|acknowledge
+g|so is the the mountain roughly level with the abandoned truck|query_yn
+f|more or less yes|reply_y
+g|more or less okay|acknowledge
+g|go above the the mountain|instruct
+f|right|acknowledge
+g|and then dip down under the abandoned truck|instruct
+f|okay|acknowledge
+g|so you're under the abandoned truck|align
+f|i'm under the abandoned truck|reply_y
+g|go along to the left-hand edge of the abandoned truck|instruct
+f|right|acknowledge
+g|and then down by|instruct
+g|have you got baboons marked|query_yn
+f|no|reply_n
+g|no okay|acknowledge
+g|go eh about an inch down after the abandoned truck|instruct
+f|right|acknowledge
+g|inch and a half say|instruct
+f|okay|ready
+g|eh and then horizontally along 'til about half an inch from the left-hand side of the page|instruct
+f|okey-doke|ready
+g|okay|acknowledge
+g|now go vertically up|instruct
+g|have you got white mountain marked|query_yn
+f|i do|reply_y
+g|you do okay|acknowledge
+g|go up to the left-hand side of white mountain|instruct
+f|do you want me to come in the page at all|query_yn
+g|yes|reply_y
+g|just a wee bit so that you are not far from white mountain when you go past it|reply_w
+g|then go up beyond white mountain|instruct
+f|on its left-hand side|check
+g|eh yeah it's on its left-hand side|reply_y
+g|'til you're about eh two and a half inches from the top of the page and just about above white mountain|instruct
+f|right|acknowledge
+f|ehm have you got a lemon grove marked|query_yn
+g|no|reply_n
+f|right|acknowledge
+f|two and a half inches from the top of the page|check
+g|yeah roughly|reply_y
+f|and above white mountain|check
+g|have you got a pyramid marked|query_yn
+f|uh-huh|reply_y
+g|right okay|acknowledge
+g|well go horizontally along and over the top of the pyramid and down the s-- other side of the pyramid|instruct
+g|have you got cobbled street marked|query_yn
+f|no|reply_n
+g|no okay|acknowledge
+g|well go underneath the pyramid|instruct
+f|horizontally|check
+g|yes|reply_y
+g|that's so so that'll be you moving to your left|clarify
+f|right|acknowledge
+g|and then to the edge of the pyramid|instruct
+f|okay|acknowledge
+g|the left-hand edge|instruct
+g|and then go down at a bit of an angle|instruct
+f|which way|query_w
+g|slightly acute angle|clarify
+f|southwest|check
+g|yes that way yeah|reply_y
+f|okay|acknowledge
+f|for how long|query_w
+g|for just a wee bit just maybe a couple of inches|clarify
+f|right|acknowledge
+g|and then go down|instruct
+g|have you got remote village marked|query_yn
+f|uh-huh|reply_y
+g|right okay|acknowledge
+g|well you're wanting to go down just to the left of remote village|instruct
+f|okay|acknowledge
+g|and then underneath remote village|instruct
+f|right that doesn't have to be in a straight line or anything|query_yn
+g|eh aye|reply_y
+g|fairly horizontal|clarify
+g|and the finish is just southeast of remote village|explain
+f|oh i do have a poisoned stream marked|explain
+f|sorry|query_w
+g|well there's two poisoned streams marked|explain
+f|uh-huh|acknowledge
+g|yeah|acknowledge
+f|so the finish is where|query_w
+g|it's just southeast of the remo-- remote village|clarify
+f|southeast of the remote village so it's there|acknowledge
+f|okay|ready
+g|okay that's you finished|explain

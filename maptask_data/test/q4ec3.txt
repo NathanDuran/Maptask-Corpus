@@ -1,0 +1,229 @@
+g|right ehm|ready
+g|you've got to take your line down from the start to just vertically to just to the left of burnt forest|instruct
+f|to the left of burnt forest|check
+g|mmhmm|reply_y
+f|so it's not far down|check
+g|no|reply_n
+g|it's a tiny bit|clarify
+g|okay and while you're doing that go in to your right a bit but it doesn't really matter|instruct
+g|okay ehm|ready
+g|have you got a ravine|query_yn
+f|yeah|reply_y
+g|right|acknowledge
+g|take that same line still down vertically to the left of the ravine|instruct
+f|there's a cottage on my map|explain
+g|well just draw round it|instruct
+f|the left of the ravine|check
+g|uh-huh|reply_y
+g|is the cottage in the way there no|query_yn
+f|it's next to the ravine|reply_w
+g|well that's okay|acknowledge
+g|right now take that take the line|instruct
+g|is the cottage directly beside the ravine|check
+f|mmhmm|reply_y
+f|right next to it|clarify
+g|is there a space between them yeah|check
+f|mmhmm|reply_y
+g|right take the line and go to your right underneath the cottage|instruct
+g|can you do that|align
+f|no|reply_n
+f|'cause the ravine's on the right of the cottage|explain
+g|yeah|acknowledge
+g|but i want you to draw up through between the cottage and the ravine|instruct
+f|and down through|check
+g|no|reply_n
+g|up through go g--|clarify
+g|go down vertically until you're and draw underneath the cottage and then come up|instruct
+f|mmhmm|acknowledge
+g|between the cottage and the ravine|instruct
+f|i've just come down there|explain
+g|you weren't meant to|explain
+f|right|acknowledge
+g|okay right|ready
+g|you went down past burnt forest|align
+f|i went underneath burnt forest|reply_w
+g|well|acknowledge
+g|you weren't meant to|explain
+f|well you said draw round the cottage|explain
+g|okay right|ready
+g|you're meant to come down from the start|clarify
+f|mmhmm|acknowledge
+g|vertically right past burnt forest|clarify
+f|mmhmm|acknowledge
+g|keep drawing vertically|clarify
+f|oh right down past the carpenter's cottage|check
+g|past the cottage|reply_y
+f|and then go right|check
+g|then go right underneath the cottage|clarify
+f|uh-huh|acknowledge
+g|go up through between the cottage and the ravine 'til you get t-- to stop just above the ravine|clarify
+f|uh-huh|acknowledge
+g|and do you have a remote village|query_yn
+f|no|reply_n
+g|well on my map to the right of burnt cottage there's a remote village|explain
+g|okay|align
+f|right of the burnt forest|check
+g|uh-huh|reply_y
+g|and that's just situated above the ravine|clarify
+f|uh-huh|acknowledge
+g|okay|align
+g|so i want you to imagine i want you to imagine that the remote village is there just to the right of the burnt forest right so it's kind of like in a triangle|instruct
+f|right|acknowledge
+g|so draw your line to the right horizontally above the ravine okay|instruct
+g|then do you have a pine forest|query_yn
+f|a pine grove|check
+g|a pine grove uh-huh|acknowledge
+f|uh-huh|reply_y
+g|i want you to draw the line keep going to your right okay so you're sort of like drawing towards the top of the pine grove then stop and go from left to right in a diagonal underneath the pine grove|instruct
+f|a diagonal|check
+g|from from the top of the ravine to underneath the pine grove|clarify
+f|so it's like diagonally down|check
+g|uh-huh|reply_y
+g|okay and then|ready
+g|do you have anything underneath pine grove|query_w
+f|avalanche|reply_w
+g|mm is that just right beneath it|query_yn
+f|it's un-- underneath it to the right|reply_w
+g|do you have concealed hideout|query_yn
+f|yeah|reply_y
+f|it's that's underneath the avalanche|explain
+g|okay right i wa--|instruct
+g|that's fine|acknowledge
+g|right|ready
+g|i want you to go draw to your to your right under the pine grove avoiding the avalanche|instruct
+f|underneath the pine grove|check
+g|uh-huh|reply_y
+f|down or|check
+g|can you go between the pine grove and the avalanche|query_yn
+f|uh-huh|reply_y
+g|to get past it yeah|query_yn
+g|well draw that way|clarify
+f|down to the concealed hideout|check
+g|not co-- not completely down|reply_n
+g|just get past the avalanche right|clarify
+f|past the avalanche|check
+g|and then ehm eventually i want you to go round concealed hideout|instruct
+f|right|acknowledge
+g|okay|align
+f|wh-- what do you mean round|query_w
+g|to|instruct
+g|to the right of concealed hideout|reply_w
+f|so right over to the end of the page|check
+g|uh-huh|reply_y
+g|and i want you to draw underneath concealed hideout stop just underneath concealed bit there|instruct
+g|okay are you there|align
+f|mmhmm|reply_y
+g|right|ready
+g|do you have a boat house to your left|query_yn
+f|right at the bottom|reply_w
+g|oh do you not have another one to your right of the concealed hideout|query_yn
+f|yeah right of the concealed hideout uh-huh|reply_y
+g|draw to just before the boat house writing starts there right okay that's where i want you to be|instruct
+f|what from the concealed hideout to the boat house|check
+g|uh-huh|reply_y
+f|so would it bypass the river|check
+g|yeah|reply_y
+g|i don't want you to go near the river at all|clarify
+f|but i have to go near it to go to the boat house|explain
+g|no i want you to go to the boat house on your right on your on your left|clarify
+f|i don't have one on my left|explain
+g|thought you did|explain
+f|got one underneath the concealed hideout|explain
+g|well i've got one i've got one to the left of the concealed hideout|explain
+f|what the other side of the page|check
+g|uh-huh|reply_y
+f|oh no mine's is underneath the concealed hideout|explain
+g|have you drawn down to there|query_yn
+f|no|reply_n
+g|good|acknowledge
+g|right imagine you've got a boat house to the left of the concealed hideout|instruct
+g|right|ready
+g|do you see where in can you see crane bay|align
+f|mmhmm|reply_y
+g|do you see where there's where the coastline comes round it's um there's a sort of like jutting out bit there's like a point|align
+f|yeah|reply_y
+g|just underneath concealed hideout|align
+f|mmhmm|reply_y
+g|or just to the right of it|align
+g|okay|acknowledge
+g|i want you to|instruct
+g|you see where it comes down like that|align
+f|mmhmm|reply_y
+g|well i want you to follow follow the line of the coa-- the coast there|instruct
+g|so draw from concealed hideout vertically downwards 'til you come to that jutting out bit of the coastline then until until on that incline draw you know follow the line of the coast but don't don't go on to crane bay until you come to the the next bit that comes up okay stop there|instruct
+f|mmhmm|acknowledge
+f|mmhmm|acknowledge
+g|right do you have ehm coconut palm to your left|query_yn
+f|no|reply_n
+g|no|acknowledge
+g|do you have pebbled shore|query_yn
+f|mmhmm|reply_y
+g|well i want you to draw|instruct
+g|uh i've got pebbled shore and above that i've got coconut palm|explain
+f|mmhmm|acknowledge
+g|right|align
+g|so imagine you've got a tree there and i want you to draw between where that tree would be where the pebbled shore is so just keep drawing go make your line go down a bit right and just to come to above pebbled shore and just stop the end there|instruct
+g|and then ehm i don't suppose you've got finished marked on your map no|query_yn
+g|right|ready
+g|have you got anything below pebbled shore|query_w
+f|washed stones|reply_w
+g|well|ready
+f|and flagship and bay|reply_w
+g|right see wh-- see where the flagship is|align
+f|mmhmm|reply_y
+g|right|acknowledge
+g|and see where the pebbled shore is|align
+f|mmhmm|reply_y
+g|imagine a a triangle with ehm an equilateral triangle with the pebbled shore flagship and finish|explain
+g|right can you s--|align
+f|mmhmm|acknowledge
+f|yeah|reply_y
+g|sort of see where that is|align
+g|right|ready
+g|imagine the finish is there|explain
+g|draw roughly down to there|instruct
+f|ehm bypassing pebbled shore|check
+g|it would be just just|instruct
+g|near mmhmm|reply_y
+g|but you just right near the end of the page|instruct
+f|so i just go down to the right of pebbled shore|check
+g|yeah uh-huh|reply_y
+f|uh-huh|acknowledge
+f|and down like|check
+g|no no not to the right|reply_n
+f|the right as you face the map|check
+g|no|reply_n
+f|well what side then|query_w
+g|the left|clarify
+g|you've dr-- you've drawn above t-- pebbled shore|align
+f|uh-huh|reply_y
+g|well just draw in a diagonal to your left|instruct
+f|to the end of the page|check
+g|mmhmm|reply_y
+g|right quite far down|instruct
+f|and then down|acknowledge
+g|and then|ready
+f|but then i've got washed stones there|explain
+g|well i want you to avoid that|instruct
+f|uh-huh|acknowledge
+f|so i go underneath the beach the pebbled shore again|check
+g|and go|instruct
+g|uh-huh|reply_y
+g|no well i don't know|reply_w
+g|where's your where's your washed stones|query_w
+f|it's below pebbled shore to the left|reply_w
+g|well that's okay|reply_y
+g|just draw round it and past it|instruct
+f|to the left yeah|check
+g|yeah|reply_y
+f|and then that's the finish|query_yn
+g|and then the finish is just ehm on a horizontal with the flagship near to the coast about a centimetre away from the coast|clarify
+f|near the coast|check
+g|mmhmm|reply_y
+f|right there|acknowledge
+g|okay|align
+f|okay|reply_y
+g|is that just beside the flagship yeah|align
+f|mmhmm|reply_y
+g|okay|acknowledge
+f|i bet they're totally different|explain

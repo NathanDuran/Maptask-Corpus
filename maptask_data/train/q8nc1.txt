@@ -1,0 +1,180 @@
+f|do you know where it is you've to take me then on the map|query_yn
+g|uh-huh|reply_y
+g|i've got a route i've got a dotted line|explain
+f|oh right|acknowledge
+g|but it's i don't see how it works if you haven't got for example got any pelicans|explain
+f|right|acknowledge
+f|eh can you be sure that does it say can you be sure they are pelicans|query_yn
+g|it says pelicans underneath them|reply_w
+g|amongst other indications like the big saggy bit under the beak and stuff|reply_w
+g|you know what i mean|align
+g|if you haven't got the same stuff and i'd go for a big|explain
+f|yeah i think we're all right okay uh-huh|explain
+g|right|ready
+g|the start is above the summit of the extinct volcano in the bottom right-hand corner of the page|explain
+g|have you got one of them|query_yn
+f|uh i have got that|reply_y
+f|it says start|explain
+g|right|acknowledge
+g|it says start|check
+f|uh-huh hmm|reply_y
+g|well you take the dotted line down to the left until it's below the volcano and you go along to the left under the tribal settlement|instruct
+f|right|ready
+f|i haven't got a tribal settlement|explain
+g|aha|acknowledge
+f|right|ready
+f|so i just i go sh-- sh-- straight down|check
+g|so i 'pose you just|instruct
+g|you go sort of off the top of the volcano sort of thing|clarify
+g|above the volcano and then down past it on the left|clarify
+f|right|acknowledge
+f|right|acknowledge
+g|and then sort of down along the page straight along the bottom of the page|instruct
+f|straight along about the same level as the volcano|check
+g|a bit below it a bit below it|reply_w
+g|and then there's a there's a on mine there's a tribal settlement|explain
+g|right|align
+f|right i haven't got one of them|explain
+g|in the bottom left-hand corner of the page|explain
+g|so you go round that|instruct
+f|i know|acknowledge
+f|but i don't have one of them|explain
+g|aye|acknowledge
+g|well imagine it's there|instruct
+f|mm-mm right|acknowledge
+f|have you got a rope bridge|query_yn
+g|uh-huh uh-huh uh-huh|reply_y
+f|right|acknowledge
+g|after you've gone round the tribal settlement you go up and then you cross the rope bridge from left to right|instruct
+f|i've got a|explain
+f|right|acknowledge
+g|okay|align
+g|once you get to the other side of the rope bridge you go down about an inch and then you go straight along again towards the right and up|instruct
+f|wait a minute down about an inch|acknowledge
+g|okay|align
+f|right|acknowledge
+f|round the machete|check
+g|well i suppose so aye|reply_y
+g|i haven't got a machete|explain
+f|oh you haven't got one|acknowledge
+g|but i suppose it would probably be a good idea to go round it|reply_y
+f|right|acknowledge
+g|anyway you go down about an inch and along|instruct
+f|mmhmm to the right right|acknowledge
+g|to the right until you come just to the left of the collapsed shelter and go straight up past it to the left of it|instruct
+g|if you've got a collapsed shelter|query_yn
+f|uh-huh i've got one|reply_y
+f|right so i'm going up that|acknowledge
+g|right|align
+f|uh-huh|reply_y
+g|right so then|ready
+g|you go up to about the middle of the page the whole page|instruct
+f|right|acknowledge
+g|right|align
+f|above the crevasse|check
+f|have you got a crevasse|query_yn
+g|uh-huh that's must be why you go all the way up there|reply_y
+f|mmhmm|acknowledge
+g|and i suppose you go over the top of the crevasse and down between that and the saxon barn|instruct
+g|have you got a saxon barn|query_yn
+f|uh-huh|reply_y
+f|so i k-- i go over the top of the crevasse|check
+g|well|ready
+g|well i haven't got one|explain
+g|but i suppose you do|reply_y
+f|mm i i sort of jump|explain
+g|uh-huh|acknowledge
+f|right|acknowledge
+g|that's you know what i mean it goes up to the middle of the page to above th-- the level of the saxon barn and then it goes across towards the left over the crevasse presumably and down between that and the saxon barn and then along under the saxon barn do you see what i mean|align
+f|mmhmm|reply_y
+f|uh-huh|reply_y
+g|and once you get to the other side of the saxon barn underneath it you go down about an inch to avoid the pelicans|instruct
+f|oh right|acknowledge
+f|which i haven't got right|explain
+g|right|align
+g|uh-huh|acknowledge
+g|go down about an inch and along about an inch and then back up again to the left of the pelicans if you see what i mean|instruct
+f|right|acknowledge
+g|right|align
+f|mmhmm|reply_y
+g|have you got a white mountain|query_yn
+f|mmhmm|reply_y
+g|right|acknowledge
+g|well after the invisible pelicans you go up the page and eh in slightly s-- and then past to the past the white mountain to the left of it|instruct
+f|behind the white mountain or or to the s-- which side of the white mountain|query_w
+g|to the left of it|reply_w
+g|you sort of go|clarify
+f|go i'm going like round behind it|check
+g|why behind wh--|query_w
+f|or in front of it|check
+g|what do you mean behind it or in front of it|query_w
+g|you don't go through it you just go past it|clarify
+f|right|acknowledge
+f|so this side of it then|check
+g|uh-huh|reply_y
+g|like to the left of it|clarify
+f|right|acknowledge
+g|you like go go past it sort of do an outline of it to the left of it don't touch it|instruct
+f|oh right|acknowledge
+f|right round the top|check
+g|what do you mean round the top|query_w
+f|right|ready
+f|see where it's written white mountain|align
+g|mmhmm|reply_y
+f|do i go between that and the actual drawing of the mountain or do i go round the top of the mountain|clarify
+g|your mountain must be different from mine|explain
+g|just go up the side of the page straight past the whole lot|clarify
+f|right|acknowledge
+f|right okay|acknowledge
+g|right|align
+f|right|reply_y
+g|so have you gone past the top of the mountain to the left of it|align
+f|uh-huh|reply_y
+g|have you got a golden beach in the top left-hand corner of the page|query_yn
+f|no|reply_n
+g|well i have you don't actually go to it|explain
+g|you just sort of once you get past the top of the mountain go straight up but ehm leave like a couple of inches on the left and a couple of inches from the top of the page|instruct
+g|right|align
+f|right|reply_y
+g|and make that point a corner so that you turn to the right|instruct
+f|right|acknowledge
+g|and eh go along another couple inches|instruct
+g|have you got a slate mountain|query_yn
+f|uh-huh|reply_y
+g|well go up the si-- up the left-hand side of it round the top and down the right-hand side of it and round the word slate mountain just sort of do a circle round it|instruct
+f|right|acknowledge
+f|so i'm going right round|check
+g|uh-huh|reply_y
+g|until you come sort of to sort of underneath it underneath the words slate mountain|clarify
+f|mmhmm|acknowledge
+g|and then ehm|ready
+g|sort of drop down again down the middle of the page a couple of inches|instruct
+f|i can't do that|explain
+g|why not|query_w
+f|'cause i've got some submerged rocks|reply_w
+g|aye well|acknowledge
+f|have you got them|query_yn
+g|is that underneath the slate mountain|query_yn
+f|mmhmm|reply_y
+g|well go between them and the slate mountain until you get to the other side of the submerged rocks i suppose they must be under it|instruct
+f|right|acknowledge
+f|and i've got a secret valley|explain
+f|have you got that|query_yn
+g|uh-huh|reply_y
+g|so presumably are the the submerged rocks above the secret valley|query_yn
+f|uh-huh|reply_y
+g|right well|acknowledge
+g|go down past to the left s-- hand side of the submerged rocks|instruct
+f|mmhmm|acknowledge
+g|and then past the left-hand side of the secret valley|instruct
+f|right|acknowledge
+g|and then along the bottom of the secret valley|instruct
+g|and that's the finish|explain
+f|oh right|acknowledge
+f|i've got|explain
+f|you haven't got the other golden beach|query_yn
+g|uh-huh uh-huh|reply_y
+g|but we don't get that far|explain
+f|we don't need it and that's it right|acknowledge
+g|that seems to be it yeah|acknowledge
+f|okay then|acknowledge

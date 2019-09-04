@@ -1,0 +1,160 @@
+g|okay|ready
+g|um|ready
+g|do you have a telephone kiosk|query_yn
+f|yeah|reply_y
+g|it's at the bottom left|check
+f|uh-huh|reply_y
+g|right|ready
+g|if you move so that if you move left and down so that you're on the left of the telephone kiosk on the way down you're almost at the bottom of the page almost in the extreme left-hand corner|instruct
+f|mmhmm|acknowledge
+g|now|ready
+g|do you have a stone circle|query_yn
+f|no|reply_n
+g|you don't|acknowledge
+g|um if you move right along the bottom of the page until you're about quarter the way along the page|instruct
+f|the very bottom of the page|check
+g|yeah|reply_y
+g|well|ready
+g|v-- closeish to the bottom|reply_w
+f|couple of centimetres|check
+g|yeah|reply_y
+f|right|acknowledge
+g|now|ready
+g|you should be about quarter the way along the page|instruct
+g|do you have a farmer's gate|query_yn
+f|yeah|reply_y
+g|you do|acknowledge
+g|well|ready
+g|can you move upwards so that you're left of the farmer's gate|instruct
+f|mmhmm|acknowledge
+g|right um|ready
+g|now|ready
+g|do you have a ruined monastery|query_yn
+f|no|reply_n
+f|oh in the middle of the page|check
+g|yeah uh-huh|reply_y
+f|yeah|reply_y
+g|um do you have any other obstacles between the gate and the monastery|query_yn
+f|only an overnight accommodation place but that's quite far away|reply_w
+g|okay|acknowledge
+g|what you want to do is move from the farmer's gate to the le-- from the left of the farmer's gate right and up until you're left of the ruined monastery|instruct
+f|so|ready
+f|i go round the left of the farmer's gate and up|check
+g|uh-huh|reply_y
+g|yeah and up|reply_y
+g|up and right|clarify
+f|and straight up to the|check
+g|and straight up to the l-- right of the ruined monastery|clarify
+f|so diagonally|check
+g|mm|reply_y
+f|that's me|acknowledge
+g|right|ready
+g|now if you move over the top of the ruined monastery and left and stop at the end of the ruined monastery if you see what i mean the left-hand side|instruct
+f|okay|acknowledge
+g|and then move downwards a few centimetres and left|instruct
+f|how far|query_w
+g|er mm do you have a stile|query_yn
+f|quite a bit up|check
+g|mmhmm|reply_y
+f|yeah|reply_y
+g|well|ready
+g|what you want to do is move along until you are level with the left of the stile|reply_w
+g|and then move up to the top of the stile so that you're on the left-hand side of it|instruct
+f|okay|acknowledge
+g|now|ready
+g|if you move right so that you are level with the right-hand edge of the stile now and above it|instruct
+f|that's me|acknowledge
+g|uh-huh|acknowledge
+g|and then up|instruct
+f|do you have a popular tourist spot|query_yn
+g|ah no|reply_n
+f|no okay|acknowledge
+g|right|ready
+g|if you move up a few centimetres and stop and then move right a few centimetres and stop|instruct
+f|okay|acknowledge
+g|okay|ready
+g|now do you have a dead tree about ha-- three quarters of the way up the page on the right-hand side|query_yn
+f|ehm no|reply_n
+g|you do--|check
+f|well|ready
+f|i've got a dutch elm|explain
+g|yeah well tha-- that's fine|acknowledge
+g|now|ready
+g|if you can move so that from where you are at the moment diagonally until you're underneath the tree|instruct
+f|it's about just above the middle of the page on the right-hand side|align
+g|that's right that's right yeah|reply_y
+g|so you have a diagonal line|instruct
+f|to whereabouts sorry|query_w
+g|just underneath the bottom of the tree|clarify
+f|right okay|acknowledge
+g|now|ready
+g|if you can move around the tree so that you end up at the top of it on the right-hand side|instruct
+f|right|acknowledge
+g|now|ready
+g|on this map there is a viewpoint a great viewpoint and an east lake|explain
+f|uh-huh|acknowledge
+f|at the top|align
+g|uh-huh|reply_y
+f|yeah|acknowledge
+g|do you have a great viewpoint|query_yn
+f|yeah|reply_y
+f|top left-hand corner|explain
+g|no there's another one as well|explain
+g|on this one|explain
+f|i've got a|explain
+f|i've got the east lake|explain
+g|uh-huh hmm|acknowledge
+f|and then underneath that on the right i've got a rocket launch pad|explain
+g|yeah|acknowledge
+g|on this one the viewpoint is underneath that and almost on the mid line maybe slightly left|explain
+f|right okay|acknowledge
+g|right|ready
+g|so|ready
+g|if you can move from the where you are at the moment upwards and left so that you are just below the bottom of the lake and about midway along the lake|instruct
+f|so i'm going up the edge of the page|check
+g|you can move diagonally i reckon you could move diagonally 'cause you're going to be midway along the lake|clarify
+g|oh yeah i see what you mean|explain
+g|no|reply_n
+g|midway along from the left to the right not from like the top to the bottom if you see what i mean|clarify
+f|so i'm|check
+g|okay|ready
+f|i'm at the|check
+g|right|ready
+g|just take where you are at the moment|instruct
+f|right|ready
+f|i'm at the top right-hand corner of the dutch elm tree|explain
+g|of the tree yeah right|acknowledge
+g|the lake on this map has a viewpoint|explain
+f|uh-huh|acknowledge
+g|which is halfway along the bottom of the lake|explain
+f|mmhmm|acknowledge
+g|and you want to move from where you are at the moment 'til halfway along the bottom of the lake|instruct
+f|okay|acknowledge
+f|diagonally about|check
+g|diagonally yeah|reply_y
+f|and have you got a rocket launch pad|query_yn
+g|no|reply_n
+f|well|ready
+f|it's underneath the right-hand point of the lake|explain
+g|on the right yeah uh-huh|acknowledge
+f|so will i just sort of go round that|query_yn
+g|so go round it|reply_y
+g|to the left|clarify
+f|right okay|acknowledge
+g|and end up halfway along the bottom of the lake|clarify
+f|right|acknowledge
+f|okay|acknowledge
+g|right now|ready
+g|if you follow the bottom of the lake along to the left|instruct
+f|mmhmm|acknowledge
+g|and continue doing that until the lake effectively stops|instruct
+f|and then it goes up and|align
+g|then it goes up|reply_y
+f|yeah|acknowledge
+g|in a sort of a curve|explain
+g|and if you can follow if you can continue to move left basing it on the line that you you're at just now until the left completely fini-- until the lake completely finishes|instruct
+f|mmhmm|acknowledge
+g|because there's a bit above you|explain
+f|right okay|acknowledge
+g|so|ready
+g|if you cn you can actually do that and stop then that's that's it finished|instruct

@@ -1,0 +1,162 @@
+g|you got a start which is above a diamond mine|instruct
+f|yep|acknowledge
+g|yeah|align
+f|yep|reply_y
+g|yeah|ready
+g|well if you draw a line from the start from the left-hand side of the cross|instruct
+f|uh-huh|acknowledge
+g|straight down to an inch below th-- the diamond mine|instruct
+f|right okay right|acknowledge
+g|you don't have a wagon wheel do you|query_yn
+f|no|reply_n
+f|i've got a swamp on the left-hand side|explain
+g|no|acknowledge
+g|yeah|acknowledge
+f|and i've got rapids just directly below the rap-- the the diamond wine mine about another say two inches or so three inches maybe|explain
+g|you've got a rift valley at the top|query_yn
+f|yep|reply_y
+g|top right-hand side|query_yn
+g|draw a line along to your right|instruct
+f|mmhmm|acknowledge
+f|how far|query_w
+g|like uh like a horizontal line|instruct
+f|uh-huh|acknowledge
+f|have you got a cactus|query_yn
+g|no|reply_n
+g|draw it along to the cactus|reply_w
+f|right okay|acknowledge
+f|right|acknowledge
+g|and then|ready
+g|if you go if you go straight up along to your right and down through the the centre of the rift valley|instruct
+g|like through the midpoint of the rift valley|instruct
+f|alright right okay|acknowledge
+g|so you're going down into the rift valley|instruct
+f|right minute okay|acknowledge
+g|yeah|acknowledge
+g|then|ready
+g|you've got rocks|query_yn
+f|yep|reply_y
+g|below your rift valley|query_yn
+f|mmhmm|reply_y
+g|and you don't have a stone creek though do you|query_yn
+f|nope|reply_n
+g|you got something there|query_yn
+f|whereabouts|query_w
+g|just like along from the rocks it's to the left of the rocks|reply_w
+f|i've got rapids and just past the middle middle left say|reply_w
+g|right okay|acknowledge
+g|i've got white water which'll be the same as the rapids|explain
+f|yeah|acknowledge
+g|but above just above it and to the right i've got a stone creek|explain
+f|no|reply_n
+f|i don't have anything like that|explain
+g|so you're wanting to go betwee-- down to from the rift valley down passing the left-hand side of the rocks and then going just above the white water|instruct
+f|do i want to go under do you these your rocks you've got they've whatever it is|query_yn
+f|what is it you've got just above the rapids|query_w
+g|a stone creek|reply_w
+g|so you want to go under it|reply_y
+f|so i want to go under that|check
+g|so you're just like going just above the white water|clarify
+f|right|acknowledge
+g|and then you should be on the left-hand side of the white water|align
+f|yep|reply_y
+g|so you want to come down straight down until you're about two inches|instruct
+g|do you have an outlaws' hideout|query_yn
+f|i've got from the bottom i've got saloon bar stone creek manned fort|reply_w
+g|manned fort|check
+g|do you have a noose|query_yn
+f|down on the right-hand side|query_yn
+g|uh-huh|reply_y
+f|uh-huh|reply_y
+g|you've got an outlaws' hideout above the noose|query_yn
+f|oh yeah right uh-huh|reply_y
+g|yeah|check
+f|uh-huh|reply_y
+g|well|ready
+g|do you want to come straight down from the white water 'til you're about|instruct
+f|my white water's on the left-hand side of the map|explain
+g|uh-huh|acknowledge
+f|so i'm cutting right across to the|check
+g|no|reply_n
+g|come come straight down in a straight line|clarify
+f|oh tom|acknowledge
+g|until just below until you're about|clarify
+f|just below the line of white the outlaws' hideout|query_yn
+g|yeah just keep below|reply_y
+f|right okay i'm there|acknowledge
+g|and then come along sort of sweeping up to right underneath the outlaws' hideout so you're crossing the whole page|instruct
+f|right okay|acknowledge
+f|that's ab-- oh you don't have the fort|explain
+g|where's the fort|query_w
+f|it's just it's like um|reply_w
+g|is it underneath the stone creek like directly underneath|query_yn
+f|no it's above|reply_n
+f|i've got a saloon bar directly under beneath the stone creek on the left-hand side|explain
+g|so is it to your right of the stone creek and just up a bit|query_yn
+f|no|reply_n
+f|to my left and up a wee bit|explain
+g|to your left and up a wee bit|check
+f|i've got erm|explain
+f|you got stone slabs|query_yn
+g|yeah|reply_y
+f|in the centre|query_yn
+f|right it's left it's above that it's about the same|reply_w
+g|mmhmm|reply_y
+f|do you have a gold mine|query_yn
+g|no|reply_n
+f|oh i've got a gold like a mine between my outlaw's hideout hideout and the noose|explain
+g|and you've got stone slabs as well|check
+f|and i've got stone slabs|reply_y
+f|the the out-- the gold mine is to the same right as the m-- manned fort is to the left and the gold mine is right in but practically in the middle between the outlaws' hideout and the noose|explain
+g|okay|acknowledge
+f|so i want to come across 'til i'm underneath the outlaws' hideout|align
+g|yeah|reply_y
+g|so it's like it should be a sort of diagonal line going up to get to it and you're at a lower point on the left-hand side|clarify
+f|oh right|acknowledge
+f|i must be going underneath the i'm going underneath the fort then because that's underneath|explain
+g|and the line's|clarify
+g|okay|acknowledge
+g|and your sort of line's gradually s-- sloping up|clarify
+f|right|acknowledge
+f|uh-huh|acknowledge
+g|'til it gets quite close the ide-- outlaws' hideout|clarify
+f|okay that's where i am|acknowledge
+g|and then the line's going like straight down and past the noose|instruct
+g|alright so if you've got something in the way there you'll have to go right round it|instruct
+f|okay|ready
+f|is this is it to the the right-hand side of the noose|check
+f|but nearer the side of the page|check
+g|yeah|reply_y
+f|right|ready
+g|yeah|reply_y
+f|okay i'm underneath the noose|acknowledge
+g|okay|ready
+g|i've got a swan's pond|explain
+g|which you won't have|explain
+f|no|reply_n
+f|don't have anything|explain
+g|erm it's about it's like on the same line as the saloon bar|explain
+f|right okay|acknowledge
+g|but underneath the stone slabs|explain
+f|right okay|acknowledge
+g|so you'll need to go round it kind of thing like up and round it|instruct
+f|i've got it|acknowledge
+f|over it|check
+g|yeah|reply_y
+f|okay|acknowledge
+f|am i heading down towards the saloon bar|query_yn
+g|and then|instruct
+g|yeah|reply_y
+g|and then you're going right round under the under the saloon bar up to the finish and that's us|instruct
+f|where's the finish|query_w
+g|have you not got a finish cross|query_yn
+f|nope|reply_n
+g|no|check
+g|the finish cross is directly|reply_w
+g|know how you can see the roof of the saloon bar|align
+f|yeah|reply_y
+g|about an inch along is the centre point of that cross|reply_w
+g|so if you take line right up to about there|instruct
+f|right okay|acknowledge
+f|that's okay right that's it|acknowledge
+g|okay that's it|align

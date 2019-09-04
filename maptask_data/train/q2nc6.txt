@@ -1,0 +1,106 @@
+g|okay|ready
+g|go from the start|instruct
+f|yeah|reply_y
+g|eh come down the page|instruct
+g|you have the diamond mine|query_yn
+f|yeah|reply_y
+g|come down the page to below the l-- words diamond mine|instruct
+f|right|ready
+f|go round on the left-hand side of it|check
+g|eh yeah|reply_y
+f|okay|acknowledge
+g|now if you move to about halfway across the page|instruct
+f|mmhmm|acknowledge
+g|slightly up the way|instruct
+f|okay|acknowledge
+g|there's there's an obstacle there there's a wagon wheel|explain
+g|do you have that|query_yn
+f|no i don't|reply_n
+g|er if you imagine that that's just about halfway across the page|instruct
+f|yeah okay|acknowledge
+g|and go round it to the right and up|instruct
+f|and up|acknowledge
+f|er how far you keep on going to the right to the top|check
+g|no|reply_n
+g|er go round it to the right go up about another inch and then carry on to the right 'til you're almost at the top of the page|instruct
+g|do you have the rift valley|query_yn
+f|yeah i do|reply_y
+g|well you go round the cactus on the left|instruct
+f|yeah|acknowledge
+g|and come right down the centre of the rift valley|instruct
+f|ah 'cause of my cactus is below the rift valley|explain
+g|directly below it|check
+f|yeah|reply_y
+f|well two inches to the left of it|clarify
+g|erm well if you stay to the right of the cactus then|instruct
+f|right of the cactus|acknowledge
+g|and st-- straight down|instruct
+g|do you have rocks|query_yn
+f|yeah|reply_y
+g|okay|acknowledge
+g|do you have the stone creek on the left of the rocks|query_yn
+f|no|reply_n
+f|i've my rocks are right on the right-hand side|explain
+g|okay|ready
+g|imagine exactly halfway across the page to the left of the rocks there's a an obstacle|explain
+f|okay|acknowledge
+g|and come f-- down from the rift the rift valley avoiding the cactus and start to move left|instruct
+f|okay|acknowledge
+g|between the rocks and this imaginary obstacle|instruct
+f|okay|acknowledge
+g|until you're exactly halfway across the page|instruct
+f|halfway across the page|check
+g|yeah|reply_y
+f|okay|acknowledge
+g|do you have white water|query_yn
+f|i've got rapids on my left|explain
+g|are they s--|query_yn
+g|are they slightly below where you are now|query_yn
+f|eh they're at the same level|reply_w
+g|okay|acknowledge
+g|well go up and round them|instruct
+f|okay|acknowledge
+g|and then straight down 'til you're about two thirds down the page|instruct
+f|okay|acknowledge
+g|do you have an outlaws' hideout on the other side of the page|query_yn
+f|i do|reply_y
+f|yeah|reply_y
+g|well you've to move from where you are now right and up to just below the letters of that outlaws' hideout|instruct
+f|okay|acknowledge
+g|now you have to go carry on to the right until you're about an inch away from the edge of the page and start to come down|instruct
+f|right i've got a gold mine here|explain
+g|a gold mine|acknowledge
+g|where about|query_w
+f|er just ehm just to the right and above it|reply_w
+g|is it bet-- bet-- between you and the outlaws' hideout|query_yn
+f|ye-- no|reply_n
+f|it's er it's on the other side of the outlaws' outlaws' hideout|clarify
+g|on the right or left|query_w
+f|well the outlaws' hideout hideout's at the top and then below is the gold mine|clarify
+g|okay|acknowledge
+g|well go between the gold line gold mine and the outlaws' hideout|instruct
+f|right okay and then down|acknowledge
+g|and then straight down keeping about an inch away from the edge of the page|instruct
+g|do you have the noose|query_yn
+f|yeah|reply_y
+g|you've to go below the noose about two inches below the noose|instruct
+f|okay|acknowledge
+f|and then across|query_yn
+g|and then across|acknowledge
+g|but there's a swan pond|explain
+g|do you have that|query_yn
+f|no i don't|reply_n
+g|okay|acknowledge
+g|well what you've got to do is moving across to the left you should be about three inches from the bottom of the page|instruct
+f|yeah|acknowledge
+g|it would be a-- draw a curve up the way about another inch higher|instruct
+f|mmhmm|acknowledge
+g|and come back down to the same level about four inches across|instruct
+f|okay|acknowledge
+g|do you have the saloon bar|query_yn
+f|yeah i do|reply_y
+g|well move from where you are now down to below the words of saloon bar|instruct
+f|yeah|acknowledge
+g|and then up 'til and the finish is just here on er the same level as the roof of the saloon bar and about an inch two inches from the edge of the page on the left|instruct
+f|okay|acknowledge
+g|okay|acknowledge

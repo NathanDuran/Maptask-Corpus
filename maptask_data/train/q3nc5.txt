@@ -1,0 +1,122 @@
+g|right|ready
+g|you're at the start|instruct
+f|mmhmm|acknowledge
+g|and i want you to go down towards the bottom of the page past the site of the forest fire|instruct
+f|okay|acknowledge
+f|which side will i pass it on|query_w
+g|on the left|reply_w
+f|okay|acknowledge
+g|go down and go underneath the picnic site|instruct
+f|i don't have a picnic site|explain
+g|well it's d-- eh gosh|acknowledge
+f|how many inches down from the forest fire should i go|query_w
+g|well it's a couple of inches from the bottom of the page|reply_w
+f|right|acknowledge
+f|'kay|acknowledge
+g|so ehm i want you to do a "u" round it|clarify
+f|do a "u" round it|check
+g|yeah|reply_y
+g|to come back up ehm on the right-hand side of it|clarify
+g|okay|align
+f|so are you going down the way the way i would normally write a "u"|check
+g|am i what|query_w
+f|are you underneath it or above it|check
+g|well if you started off and you came down the page you went underneath it and go back up the other side of it upwards|reply_y
+f|ah right okay|acknowledge
+g|okay|align
+g|go past the adventure playground|instruct
+f|underneath it|query_yn
+g|no|reply_n
+g|ehm up the side of it on the left of it|clarify
+f|okay|acknowledge
+g|and then turn right and go along to about the centre of the page in a straight line|instruct
+f|right|acknowledge
+g|ehm well a wee bit past the centre of the page|instruct
+f|'kay|acknowledge
+g|then turn to your left and go upwards|instruct
+f|mmhmm|acknowledge
+g|until you reach the granite quarry and turn left round the granite quarry over the top of it|instruct
+f|right|acknowledge
+g|and come back down to go just above the top of the train crossing|instruct
+f|don't have a train crossing|explain
+g|right well eh|acknowledge
+f|well i do have a train crossing at the top|explain
+g|well don't go up there|instruct
+g|ehm right|ready
+g|we've just come round the top of the granite quarry|align
+f|right|reply_y
+g|and if you come down eh|instruct
+f|on the right side of it|query_w
+g|mm|query_w
+f|or the left side of it|query_w
+g|on the left side of it|reply_w
+g|just a wee bit|reply_w
+f|eh right|acknowledge
+g|and then go s-- straight along towards the left-hand side of the page|instruct
+f|right|acknowledge
+g|and then turn up to the right and go past the waterfall|instruct
+f|right|acknowledge
+f|on its right-hand side|query_yn
+g|on its left-hand side sorry|reply_n
+f|on its left-hand side right|acknowledge
+g|and at the top of the waterfall turn right g-- just go along to the edge of the waterfall|instruct
+f|right|acknowledge
+g|and then turn left and go upwards for a w--|instruct
+f|mmhmm|acknowledge
+g|a couple of strokes and then turn right|instruct
+f|uh-huh|acknowledge
+g|go along about an inch|instruct
+f|ehm how how far was i going above the waterfall|query_w
+g|ehm|acknowledge
+f|couple of inches|query_yn
+g|yeah|reply_y
+f|right|acknowledge
+g|and then come down in an a diagonal line towards the right down to about half|instruct
+f|goes towards the public footpath|query_yn
+g|i don't have a public footpath|explain
+f|mm right s--|acknowledge
+g|do you have a fallen cairn|query_yn
+f|no i don't|reply_n
+g|well it's about halfway down the page but|explain
+f|halfway down the page|acknowledge
+g|on the right|explain
+f|oh i do have a fallen cairn yes uh-huh|explain
+f|right|ready
+f|so i'm coming diagonally down|check
+g|uh-huh|reply_y
+f|from the waterfall|check
+g|to go underne-- well from above the waterfall|clarify
+f|uh-huh|acknowledge
+g|to go underneath the fallen cairn|clarify
+f|from there|check
+g|mmhmm|reply_y
+f|a straight line|check
+g|aye|reply_y
+g|well diagonal one|reply_w
+f|uh-huh|acknowledge
+g|mmhmm|acknowledge
+f|right|acknowledge
+g|okay|ready
+f|that's weird|explain
+g|and then er turn after you've been underneath the fallen cairn|instruct
+f|mmhmm|acknowledge
+g|turn left and go back up the other side of it|instruct
+f|mmhmm|acknowledge
+g|up past the limestone cliffs|instruct
+f|don't have any|explain
+g|e-- ehm|acknowledge
+f|so i'm going up to my left for or straight up for how many inches|query_w
+g|well lean slightly to the left and go up for a couple of inches|reply_w
+f|right|acknowledge
+g|and then go straight up towards east lake|instruct
+f|rightee-ho|acknowledge
+g|and then turn left when you reach east lake|instruct
+f|mmhmm|acknowledge
+g|and go along to the finish|instruct
+f|which is where|query_w
+g|just on the left-hand side of east lake|reply_w
+f|at the the jutty-out bit|check
+g|mmhmm|reply_y
+f|okey-doke|acknowledge
+g|right|acknowledge
+f|that's me i think|explain

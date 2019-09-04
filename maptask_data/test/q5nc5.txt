@@ -1,0 +1,142 @@
+g|right|ready
+g|see the start|align
+f|you got to say sarah and danielle|instruct
+g|oh aye sarah and danielle|explain
+f|right|acknowledge
+g|right|ready
+g|see the start|align
+f|it's above the diamond mine|check
+g|right|reply_y
+f|right|reply_y
+g|okay|ready
+g|i want you go down about three inches|instruct
+f|where down past the diamond mine|check
+g|yeah|reply_y
+f|right|acknowledge
+g|just down at the side just straight down|clarify
+f|okay|acknowledge
+g|and then go round in a curve underneath the diamond mine|instruct
+f|right mm|acknowledge
+g|then you want to start like carry on that curve for about f-- four or five inches just gradually heading up the way|instruct
+g|right|align
+f|so i'm making a curve round the diamond mine yeah|check
+g|no no no no|reply_n
+f|no no no no|acknowledge
+g|f-- past the diamond mine|clarify
+g|not that not that steep a curve like just|clarify
+f|pass it|check
+f|yeah just slightly|acknowledge
+g|just like just more a wee bit more than a straight line along past the diamond mine|clarify
+f|yeah right okay right|acknowledge
+g|i sp-- i don't suppose you've got a graveyard have you|query_yn
+f|ehm no|reply_n
+g|no right|acknowledge
+f|got a fast running creek and canoes and things|explain
+g|yeah okay|ready
+g|what you want to do is is you want to be sort of like going up and then curving right round the fast flowing creek|instruct
+f|what round up the top of it|check
+g|yeah over the top|reply_y
+f|right|acknowledge
+g|and down the right-hand side|instruct
+f|the right-hand side|acknowledge
+g|right|align
+f|yeah|reply_y
+g|see your apache camp|align
+f|yeah|reply_y
+g|right|ready
+g|head down towards that and then just curve down the left-hand side that|instruct
+f|so|ready
+f|i'm bypassing canoes|check
+f|yeah|reply_y
+g|canoes|query_w
+f|oh well|ready
+f|maybe you don't have canoe|explain
+g|no|reply_n
+g|i've no got any canoes|explain
+f|right okay|ready
+f|left-hand side of the apache|check
+g|do you see the carved wooden pole|query_yn
+f|ehm no|reply_n
+f|don't have one|explain
+g|no|acknowledge
+g|you see the walled city|query_yn
+f|yeah|reply_y
+g|right well|ready
+g|when you when you're coming down the left-hand of the apache camp just keep heading along and go over the top of the walled city|instruct
+f|over the top|acknowledge
+f|okay|acknowledge
+g|okay|align
+g|and then just like a nice big curve heading down about six inches|instruct
+f|mmhmm|reply_y
+f|now where which way am i heading down|query_w
+g|you see the carved wooden pole at the bottom|query_yn
+f|aye|reply_y
+g|well|ready
+g|you you need to be about two inch you you need to end up about two inches from the top there|instruct
+f|from the top|check
+g|two inches above it|clarify
+f|and it's on the left well i'm coming from the left to go to above it|check
+g|yeah|reply_y
+f|right|acknowledge
+g|sort of curving round|clarify
+g|now see stone creek|query_yn
+f|yeah|reply_y
+g|right|ready
+g|you're just heading along past that|instruct
+g|you see the flat rocks|query_yn
+f|no|reply_n
+g|no|acknowledge
+f|no|reply_n
+g|great ehm|acknowledge
+g|okay|ready
+g|head up ehm past stone creek you need to be going at about up curving up to the right at about a forty-five degree angle|instruct
+f|so i'm going over stone creek|check
+g|aye|reply_y
+f|well|ready
+f|above it anyway|check
+f|on no wait a minute i have got flat rocks|explain
+g|right you well da--|acknowledge
+g|right|ready
+g|you're going past you're going up over stone creek|instruct
+g|and your line's just about touching where flat rocks is written|instruct
+f|yeah|acknowledge
+f|okay|acknowledge
+g|so that's where you want to end up|instruct
+f|right|acknowledge
+f|right|acknowledge
+g|now keep heading to the right a bit|instruct
+f|mmhmm|acknowledge
+g|further until you're about an inch away from the edge of the paper|instruct
+f|right|acknowledge
+f|right|acknowledge
+g|right|ready
+g|see the buffalo|query_yn
+f|mmhmm|reply_y
+g|ah|acknowledge
+g|right right|ready
+g|head down the right sand hand side of the paper|instruct
+g|and curve underneath the buffalo|instruct
+f|yeah|acknowledge
+f|right|acknowledge
+g|do you see a cattle ranch no|query_yn
+f|nope|reply_n
+g|right ehm|ready
+g|you see that fort|query_yn
+f|mmhmm|reply_y
+g|away at the other side|query_yn
+g|right|ready
+g|you're heading to go under that but like on your way about halfway between the buffalo and the fort there's a wee blip in your line|instruct
+f|mmhmm|acknowledge
+g|like you're going over the top something and then coming back down and going under the fort|instruct
+f|yeah|acknowledge
+g|so just do that|instruct
+f|right|acknowledge
+f|and then go under the fort|check
+g|right|ready
+g|where are you now then|query_w
+f|i'm under the fort|reply_w
+g|right|ready
+g|you just want to curve up the left-hand side of the fort just curve a nice big curve round it|instruct
+f|mmhmm|acknowledge
+g|and that's it you're finished|instruct
+f|good|acknowledge

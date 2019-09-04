@@ -1,0 +1,238 @@
+f|go|instruct
+g|okay we're going to start above th-- directly above the telephone kiosk|instruct
+f|okay|acknowledge
+g|do you have that|query_yn
+f|i've got the start yeah|reply_y
+g|okay|ready
+g|you're going to move around the left of the telephone kiosk the same distance as you are above it|instruct
+g|you're about what half an inch above it|align
+f|uh-huh|reply_y
+g|okay|acknowledge
+f|downwards|check
+g|downwards sort of skipping|clarify
+f|to the left-hand side|check
+g|yeah|reply_y
+g|down until you're about an inch from the bottom of the page you should be skipping the edge of the page by about half an inch|instruct
+g|okay|align
+f|okay|acknowledge
+g|now take it do you have a stone circle at the bottom|query_yn
+f|no|reply_n
+g|no you don't|acknowledge
+g|okay|ready
+g|now are you like if you come in a wee bit so that you're about an inch away from both edges|instruct
+f|okay|acknowledge
+g|okay|align
+g|if you get to that point|instruct
+f|okay|reply_y
+g|now move along about an inch|instruct
+f|to the right|check
+g|to the right|reply_w
+g|directly horizontally across|instruct
+f|okay|acknowledge
+g|okay|align
+g|now curve up and out a wee bit and then straight up|instruct
+f|up and up and left or right|check
+g|so that you're|instruct
+g|see where your farmer's gate is|align
+f|right|acknowledge
+g|okay|ready
+g|we're going to come up on the left-hand side of that you'll just skim it by about a centimetre|instruct
+g|okay|align
+f|up and to the right|check
+g|up to the left-hand side of it yeah until you're at the top left-hand corner of the drawing|clarify
+f|of the broken gate|check
+g|of the broken gate that's correct|reply_y
+f|okay|acknowledge
+g|okay|ready
+g|now|ready
+g|you're going to move right|instruct
+g|you know where the meadow is in the bottom right-hand corner|align
+f|yeah|reply_y
+g|okay|acknowledge
+g|see the third seagull along|align
+f|yeah|reply_y
+g|okay|align
+g|now go upwards until you're level with the point you're at at the f-- the broken gate|instruct
+f|sorry have i to go round the top of it|check
+g|no no|reply_n
+g|don't don't draw anything yet|instruct
+g|just like say with your finger an imaginary point|clarify
+f|above the third seagull|check
+g|above the seagull so that both like your pen|clarify
+g|and your finger are level|clarify
+f|okay|acknowledge
+f|right|acknowledge
+g|okay|align
+f|okay|reply_y
+g|now if you raise your right this imaginary point up about three quarters of an inch say|instruct
+g|okay|align
+f|okay|reply_y
+g|see the point you're at there|align
+g|draw a diagonal line linking these two points|instruct
+f|okay|acknowledge
+f|right|acknowledge
+g|okay|acknowledge
+g|now|ready
+g|do you have a ruined monastery|query_yn
+f|eh not near where i am just now|reply_n
+f|it's in the middle of the page|explain
+g|yeah|reply_y
+g|right up at the middle of the page|query_yn
+f|yeah|reply_y
+g|okay|align
+g|now if you say put make a point that that's just off the top right-hand turret or whatever it is you know just the top right-hand edge of that|instruct
+f|okay yeah|acknowledge
+g|it's about a centimetre off it|instruct
+f|okay|acknowledge
+g|okay|acknowledge
+g|if you draw a kind of diagonal line curving yourself|instruct
+f|round the monastery down to where i was|check
+g|eh just from that edge to where you were|clarify
+f|right okay|acknowledge
+f|do you have the overnight accommodation|query_yn
+g|no|reply_n
+g|but you can go through that|clarify
+f|okay|acknowledge
+f|okay okay|acknowledge
+g|okay|align
+f|right|reply_y
+g|now do you have the west lake down to your left|query_yn
+f|no|reply_n
+g|okay|acknowledge
+g|right if you draw like a curved arch from the point you're at eh over the top of the the ruins|instruct
+f|right|acknowledge
+g|okay|align
+g|back down to like say a point that's level only on the other side|instruct
+g|okay|align
+f|right|reply_y
+g|right|ready
+g|what you're going to do is you're going to continue your downward line for about another inch moving down towards let me see in a compass direction it would be southwest|instruct
+g|right just continue down the way|instruct
+f|right|acknowledge
+f|okay|acknowledge
+g|moving both outwards and downwards|instruct
+f|right|acknowledge
+g|okay|align
+g|now skim a line that's pointing diagonally up if you take a point about an inch and a half from the edge of the page|instruct
+f|level with where i am|check
+g|level from where you are|clarify
+g|okay|align
+f|okay|reply_y
+g|then move that point up half an inch so you've got a kind of diagonal line again|instruct
+f|right|acknowledge
+g|okay this is the left-hand edge of the page yeah|align
+f|yeah okay|reply_y
+g|okay|acknowledge
+g|if you connect these two points|instruct
+f|okay|acknowledge
+g|do you have a stile above you|query_yn
+f|yeah|reply_y
+g|okay|ready
+g|are you downwards and slightly to the left of the stile|align
+f|i'm down and about an inch to the left|reply_w
+g|an inch to the okay|acknowledge
+g|you could come in a wee bit so that when you go up you uh you go up to the top left-hand corner of the stile but you're only say about a centimetre from the edge so that's your line|instruct
+f|okay|acknowledge
+g|your point should be downwards you probably got the distance correct down the way but that'll be your route|instruct
+f|up to the top of the stile|check
+g|yeah|reply_y
+g|top left-hand corner|clarify
+f|okay|acknowledge
+g|now if you like sort of draw a line along the top of that as if we're skirting round the ex-- the edge of it|instruct
+f|okay|acknowledge
+g|again now we're going to move straight up about an inch and a half|instruct
+f|from the right-hand corner of the stile|check
+g|uh-huh|reply_y
+g|do you have an obstacle there|query_yn
+f|i've got a popular tourist spot slightly to the right and up from the stile|explain
+g|okay|acknowledge
+g|now we go up|instruct
+g|right so you're at a point that's probably about two to three inches away from both the top edge and the left-hand side edge is that correct|align
+f|no not at the moment|reply_n
+g|no|acknowledge
+g|right can you see that point well if you imagine a point|align
+f|up in the top left-hand corner|check
+g|right the top left-hand corner|clarify
+g|if you come down about three inches|instruct
+f|aye right okay|acknowledge
+g|okay|align
+f|i've got i've got|explain
+g|and you come in about three inches okay there's a point|instruct
+f|i've got a great viewpoint there|explain
+g|oh wait a minute|acknowledge
+f|okay|align
+g|no no|reply_n
+g|i've got a great viewpoint away up in the top left-hand corner|explain
+f|yeah|reply_y
+f|that's what i thought you were talking about|explain
+g|no|reply_n
+g|if you diagonally if you came in the same distance again|instruct
+g|do you get it sh--|align
+g|oh wait a minute what would that be hold on|ready
+g|one two three say four inches ac-- in fact chris|instruct
+f|okay|acknowledge
+g|four inches away from the top edge four inches away from the the edge on the left-hand side|instruct
+f|right|acknowledge
+g|now on my map that should be that's like up from the stile|explain
+f|right|acknowledge
+g|okay|align
+g|now if you're at that point do you have a a dead tree it's an elm tree down to your|query_yn
+f|yeah|reply_y
+f|right over the other side of the page|check
+g|okay|acknowledge
+g|now see there the letter "d"|align
+f|mmhmm|reply_y
+g|that one oh i've got dead tree you've got elm tree|explain
+f|i've got dutch elm|explain
+g|is it|query_yn
+g|dutch elm|acknowledge
+g|is it written underneath the tree|query_yn
+f|yeah|reply_y
+g|okay|acknowledge
+g|see the first letter of dutch say|align
+f|mmhmm|acknowledge
+g|okay about a centimetre below that|align
+f|right|acknowledge
+g|okay if you draw a line is that a can you ha-- have a diagonal line going from where you are right down to|instruct
+f|yeah|acknowledge
+g|yeah|align
+g|do you go through anything|query_yn
+f|no|reply_n
+g|okay|acknowledge
+g|see the popular viewpoint what happened to it did we go round it or what|query_w
+f|no we just stayed away from it|reply_w
+g|oh never went anywhere near it|check
+f|no w-- well we went round the popular tourist spot we avoided the great viewpoint|clarify
+g|yeah okay went round that that's fine|acknowledge
+g|okay you're going to curve half a circle around that tree|instruct
+f|up the way|check
+g|up the way|reply_y
+g|so that|clarify
+g|see the third branch from the left|align
+f|uh-huh|reply_y
+g|until you're say above that that's your half circle|clarify
+f|okay|acknowledge
+g|okay you've done a "u" turn|align
+g|now|ready
+g|if you draw like a kind|instruct
+g|let's see|ready
+g|see where you have the east lake at the top|align
+f|yeah|reply_y
+g|right if you draw a line if you go from the "e" in lake down the way|instruct
+g|okay|align
+f|okay|reply_y
+g|on to the edge of the lake|instruct
+f|right|acknowledge
+g|and then say about half a centimetre from the edge of the lake if you connect those two points|instruct
+f|okay|acknowledge
+g|now skirt the edge of the lake to the left move left along the edge of the lake|instruct
+f|okay|acknowledge
+g|for about three inches|instruct
+f|to the corner|check
+g|yeah to the corner|reply_y
+g|so you're just past go past that co-- don't go up or anything like that just go past the corner for about an inch|clarify
+f|okay|acknowledge
+f|right|acknowledge
+f|right|acknowledge
+g|and finish there|instruct
+g|okay|align

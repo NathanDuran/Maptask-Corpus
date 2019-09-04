@@ -1,0 +1,292 @@
+g|right greg|ready
+g|you've got the start with the "x"|align
+f|top left-hand corner|check
+g|yeah|reply_y
+f|yes|reply_y
+g|you want to come down to about a centimetre left to the left of the haystack uh in a southwesterly direction|instruct
+f|southeasterly|explain
+g|southeasterly direction yeah|acknowledge
+f|right|acknowledge
+g|now eh|ready
+g|go down about the same distance to directly south below the starting point at about just below the level of the carpenter's house so from the haystack go down to directly below the starting cross to a level just below the carpenter's house|instruct
+f|where it says carpenter|check
+g|well across from that directly below the start|reply_w
+f|mmhmm|acknowledge
+g|so it's going to be in a southwesterly direction|clarify
+f|avoiding the blacksmith|query_yn
+g|what blacksmith|query_w
+f|right|ready
+f|there's a blacksmith next to the carpenter on the left-hand side of it|reply_w
+g|right|ready
+g|i see right|acknowledge
+g|eh take the line towards well along horizontally to eh|instruct
+g|the carpenter's got a couple of stiles|explain
+f|yes|acknowledge
+g|and dykes|explain
+g|just take it about oh i don't know about a couple of centimetres to the bottom you know a couple of cen-- eh about an inch|instruct
+f|an inch|check
+g|no not even an inch about half an inch|reply_n
+g|take it horizontally which takes you about oh about an inch and a half away from the carpenters just below where the carpenter is|instruct
+f|at the stiles just at the stiles|check
+g|just below the stiles below|reply_w
+g|take it down a centimetre and across a centimetre from the last stile to the left horizontally|clarify
+f|okay|acknowledge
+g|right and that|ready
+g|have you got that|align
+f|yes|reply_y
+g|right eh|ready
+g|you've got green bay at the top|query_yn
+g|see green bay|query_yn
+g|no no green bay|query_yn
+f|no green bay|reply_n
+g|well eh|ready
+g|in a northwesterly direction northeasterly direction sorry and you want a line about oh one two hchchch i would take it maybe two and a half inches northwest avoiding the carpenter's house all the way up so you want a north w-- easterly direction about dwrlr thirty five to forty degrees just below forty-five|instruct
+f|for how many inches|query_w
+g|for about two and a half inches|reply_w
+g|right eh|ready
+g|eh about two inches to the slightly below east next you want to go east about s-- just below east for about two inches|instruct
+f|over towards the the seven beeches|check
+g|over towards the seven beeches|reply_y
+g|and you want to finish up about an inch high and about oh three quarters of an inch to the left of the seven beeches|instruct
+f|okay|acknowledge
+g|right|ready
+g|you want to come past the seven beeches|instruct
+g|have you got the chapel|query_yn
+f|no|reply_n
+g|you've not got a chapel|acknowledge
+g|just below well you want to come down aloalo let me see south just off south the same about the same you know how you came below east you want the same to the east of south about the same sort of about five degrees off basically|instruct
+f|right mmhmm|acknowledge
+g|to|instruct
+f|so slightly southeast|check
+g|slightly southeast|reply_y
+g|about five degrees southeast|clarify
+f|mmhmm|acknowledge
+g|and you want to come across you want to come down about two inches again just below where it says eh seven beeches|instruct
+f|right|acknowledge
+g|well that'll be about a centimetre below the beech trees|explain
+f|mmhmm|acknowledge
+f|so finish up next to the "s" of seven|check
+g|basically yes|reply_y
+f|okay|acknowledge
+g|right on my drawing i've got a chapel that's about an inch long on the on the map it starts directly below the "s" and eh|explain
+g|we've got to go round this in sort of a circular direction you're going to be moving east and then back and finishing about under the second beech tree the right-hand beech tree so you want to what you want to do is you're going down about two inches again but you've got a eh a net move east of about an inch so from the "s" you've got about two inches down and one inch two inches south and about one inch east and you want to come round eh about about one inch one inch east and one inch south and do a curve|instruct
+f|curve that one|check
+g|right curve it|reply_y
+g|and then you want to go in a southwest of there like direction until you meet the eh the what i ini-- what i init-- ini-- i initially said|instruct
+g|okay|align
+g|this is complicated|explain
+f|how about|query_w
+g|but what your point your initial point mark a point two inches south one inch east of the where you stopped the last time|instruct
+f|uh-huh|acknowledge
+g|okay have you done that yes|align
+f|yes|reply_y
+g|eh to get the curve i would go one inch down from where your your point is just now and|instruct
+f|one inch south|check
+g|one inch south|reply_y
+g|and one inch east and now you want to do a curve from your initial point to that point then down to the two inch|instruct
+f|then then straight down to the two inch mark|check
+g|no|reply_n
+g|it's southwest er about five ten degrees off south to the southwest to finish under the beech tree the the right-hand beech tree|clarify
+f|going southwest|check
+g|going southwest|reply_y
+f|to finish under the second beech tree i would have to go southeast if i only moved over one inch to the east in the first movement because you said two inches|explain
+g|well make it one and a half inch sorry one and a half inch east|clarify
+f|what's one and a half|query_w
+g|you what you want to do is you want to clear the eh first movement round the chapel will have to clear the beech trees and then come down again to under the first ts on the right-hand beech tree|clarify
+f|right|ready
+f|i'll try and describe it to you what i think|explain
+f|i've come down from to the "s" i'm at the "s" just now|explain
+g|right|acknowledge
+f|of seven i'll continue down but curving round to my right|explain
+g|yeah|acknowledge
+f|okay until i've done a quarter curve a quarter of a circle|explain
+g|that's right yeah|acknowledge
+g|and that should be just on the level of the the very end of the wee leaves on the beech trees|clarify
+f|ah in mine that's far more than an inch|explain
+g|well i'll wait to do it until the end then|clarify
+f|right that's okay right i know that n--|acknowledge
+f|and now i can head back|check
+g|right|reply_y
+f|s-- in a s-- southeasterly direction to|check
+g|see what southwesterly aye|reply_y
+f|southwesterly to the point below this trunk of the second beech tree|check
+g|oh that's right yeah|reply_y
+f|right i'll draw that then|acknowledge
+f|right|acknowledge
+g|do you have reclaimed fields|query_yn
+f|yes|reply_y
+g|so eh|ready
+g|you'll be wanting to go|instruct
+f|it's about an inch and a half to two inches below where i am just now|explain
+g|about an inch and a half to two inches below where you are the now|acknowledge
+g|the reclaimed fields|check
+f|mmhmm|reply_y
+g|aye see er|acknowledge
+g|well what you want to do here is you want to go round it in a sort of tube like f-- form like a test tube you want to do a test tube round it|instruct
+g|so you want to go well you're two inches down eh|instruct
+f|will i go down continuing the same gradient i'm on will i go down 'til i'm just above the reclaimed fields|query_yn
+g|well you've got|reply_w
+g|what have you got reclaimed fields and then sort of soiled ground to the right-hand side of it|query_yn
+f|eh there's nothing to the right-hand side|explain
+f|on the left-hand side there's a whitewashed cottage|explain
+g|whitewashed cot--|acknowledge
+g|on the right-hand side|query_yn
+f|on the left-hand side|clarify
+g|left-hand side whitewashed|acknowledge
+g|eh well|ready
+g|we're going we're going to go round the right-hand side of it|instruct
+f|right|acknowledge
+g|okay|align
+g|so you want to come|instruct
+g|do you have crane bay|query_yn
+f|yes|reply_y
+g|well what my map does it does this test tube thing round the reclaimed fields then it heads south towards the|instruct
+g|you've got a lower right-hand tip and then you've got two tips off crane bay on the right-hand side which are just about on the same level|explain
+g|can you see that just above the "b" of crane bay|align
+g|so i want to come round the c-- reclaimed fields and you're heading west and then you head south and you follow the line of crane bay|instruct
+g|yeah|align
+f|right okay|acknowledge
+f|so will i move down to nearer reclaimed fields|query_yn
+g|move down to nearer reclaimed fields|reply_y
+g|go round it|instruct
+f|right right d-- un--|acknowledge
+f|under what letter will i finish the test tube shape|query_w
+g|eh just past the "r" just past the the drawing of the reclaimed fields|reply_w
+f|that that would be me right over at the whitewashed cottage then next to that|explain
+g|just to the left-hand side|reply_w
+g|well don't go that far then come about an inch before it|instruct
+f|right|acknowledge
+f|and it's that'll be about under the the "c" of reclaimed|check
+g|okay that'll f-- do fine yes|reply_y
+f|right|acknowledge
+g|have you got that|align
+f|uh-huh|reply_y
+g|well just below that south of that there's a point just above the "b" of crane bay|explain
+f|mmhmm|acknowledge
+f|like a wee sort of an|check
+f|a wee bay bit in it|check
+g|a wee point|clarify
+g|there's a sm-- a smiley face and then there's a|explain
+f|there's no smiley face|reply_n
+g|see if you want to come due south to that point and then follow the coast a bit|instruct
+f|follow the coast to where|query_w
+g|follow the coast round eh|reply_w
+g|you've got it does a curve and then it meets a point then it goes just about south crane bay it's got a curve and then it goes due south|explain
+g|can you see that|align
+f|mmhmm|reply_y
+g|i've got a meadow to the left of that due south pee|explain
+f|a vast meadow|query_yn
+g|a vast meadow|reply_y
+f|i've got a vast meadow up just below the blacksmiths and carpenters|explain
+g|well is that huge big and there's nothing at all in that space|query_yn
+f|uh-huh|reply_y
+f|except a vast meadow|clarify
+g|about halfway up the page|query_yn
+f|about halfway up the page it's empty on mine|reply_w
+g|well you want to well anyway follow crane bay round the curve|instruct
+f|mmhmm|acknowledge
+g|goes going going|instruct
+f|following the contour more or less|query_yn
+g|going west following the contour|reply_y
+g|until you meet just where you stop going west|clarify
+g|and we head south we head southwest there coming out you see it goes you go just about due south then it finishes it's about an inch and a half long|instruct
+f|uh-huh|acknowledge
+g|and just where it finishes there come about you want to be about an inch to the west of that where you where you stop after going southwest|instruct
+f|so it's south on the actual crane bay then it's about an inch and a half going south|check
+g|yeah|reply_y
+f|and then about an inch going west|check
+g|that's right|reply_y
+g|just about a centimetre above|explain
+f|the west tip|check
+g|the west hand|explain
+g|yeah|acknowledge
+f|right|acknowledge
+f|okay|ready
+f|now have you got attractive cliffs there|query_yn
+g|yes|reply_y
+f|mmhmm|acknowledge
+g|and you want to follow across the top of them west|instruct
+f|across the top|query_yn
+g|west|clarify
+g|just below i've got a vast meadow there|explain
+f|mmhmm|acknowledge
+f|right|acknowledge
+f|where will i stop that line abo-- across the top|query_w
+g|eh about a centimetre after attract-- attractive cliffs|reply_w
+f|right|acknowledge
+g|you want to go down about ten degrees off south southwest|instruct
+f|mm about a hundred and ninety degrees|check
+g|about eh aye|reply_y
+g|about a hundred and ninety-five i would say|clarify
+f|okay|acknowledge
+f|towards crashed spaceship|query_yn
+g|i've not got crashed spaceship er spaceship|explain
+g|and that's that's|explain
+f|do you have the chestnut tree|query_yn
+g|yeah i've got the chestnut tree|reply_y
+g|that's my f-- your finishing point|explain
+f|eh well|ready
+f|i've got a crashed spaceship|explain
+f|the right the the straight distance between attractive cliffs and chestnut tree about half of that distance between them in a straight line and then two inches over to the west|explain
+g|that's just about on the edge of the page|check
+f|uh-huh|reply_y
+g|yeah|acknowledge
+f|there's a crashed spaceship|clarify
+f|we're assuming that the top of the map is north|query_yn
+f|i would imagine right|acknowledge
+g|yes|reply_y
+f|right|ready
+f|so where will i go now|query_w
+g|s-- so where are you at bottom of the attractive cliffs|query_yn
+f|no|reply_n
+f|i'm at the top|explain
+g|the top|acknowledge
+g|well you want one nine five|clarify
+f|right|acknowledge
+f|to where|query_w
+g|to the bottom of the attractive cliffs just about ah about a centimetre below the attractive cliffs|reply_w
+f|right|acknowledge
+g|eh you've got a space craft about here|check
+f|about a|explain
+g|how far from the edge of the page|query_w
+f|well the s-- i just now i'm an inch to the an inch east ah no a centimetre east of the crashed spaceship and at the very top of it|reply_w
+g|well eh|ready
+g|so can you come below it|query_w
+g|you're going to have to come below it yes|check
+g|or can you go round the top|query_w
+f|oh i can come straight down past the side of it i can come south just now if i want to|reply_w
+g|s-- can you come south and then come slightly west then south again or can you go s-- we-- can you go west just now then south and then east to the finish|query_w
+f|i can't go i can't go west just now really|reply_w
+g|you can't go west|acknowledge
+g|take it a bit more southwest until you're below it|instruct
+f|uh-huh|acknowledge
+f|i could go i could go west past the top of it if you wanted to right over to the edge of the page|explain
+g|well do that yeah do that|instruct
+g|and you want to go south when you get about half a centimetre to the edge of the page|instruct
+f|right|acknowledge
+g|until the bottom of the chestnut tree|instruct
+f|in the very bottom|check
+g|the very bottom of the chestnut tree|reply_y
+f|right|acknowledge
+f|ba-- but above the words chestnut tree|check
+g|yeah|reply_y
+g|the bottom of the trunk of the chestnut tree|clarify
+f|mmhmm|acknowledge
+g|and then you want to go east along the line of the bottom of the chestnut tree to about oh half an inch away from the bottom|instruct
+f|right|acknowledge
+g|and then you want to go up to the the mid portion of the chestnut tree to finish just below where the the f-- eh the leaf-line starts|instruct
+f|over at the tree itself|query_yn
+g|well you're about half an inch away from it|reply_w
+f|so|ready
+f|i'm here just now above the "c" of chestnut|explain
+g|yeah|acknowledge
+g|you want to go up like about|clarify
+f|due north|check
+g|due north about half just where the wee bump in the tree is|clarify
+f|right|acknowledge
+g|and that's your finish with a big cross|instruct
+f|right|acknowledge
+f|there's no finish point marked on this|explain
+g|yeah|acknowledge
+g|there's your big cross|clarify
+f|right|acknowledge
