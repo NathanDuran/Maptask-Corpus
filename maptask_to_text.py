@@ -1,8 +1,7 @@
-import os
 from maptask_utilities import *
 from process_transcript import *
 
-# Switchboard archive directory
+# Maptask archive directory
 archive_dir = 'maptask_archive'
 
 # Processed data directory
@@ -41,7 +40,7 @@ train_split, val_split, test_split, dev_split = split_sets(metadata_dir, transcr
 
 # Process each transcript
 for transcript in transcript_list:
-# for transcript in ['q1ec1.txt']:
+
     # Get the id for this transcript
     transcript_name = str(transcript.split('.')[0])
 
