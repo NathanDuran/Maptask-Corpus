@@ -32,20 +32,22 @@ g|starting off we are above a caravan park|instruct
 f|mmhmm|acknowledge
 
 ## Dialogue Acts
-Dialogue Act    |  Count
---- |  :---:
-acknowledge | 5605
-instruct    | 4267
-reply_y     | 3230
-explain     | 2160
-check       | 2137
-ready       | 2062
-align       | 1778
-query_yn    | 1758
-clarify     | 1193
-reply_w     | 916
-reply_n     | 884
-query_w     | 772
+Dialogue Act                   |        Labels        |  Count   |    %     |   Train Count   | Train %  |   Test Count    |  Test %  |    Val Count    |  Val %  
+--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+Acknowledge                    |     acknowledge      |   5605   |  20.94   |      4433       |  21.04   |       527       |  20.29   |       645       |  20.82  
+Instruct                       |       instruct       |   4267   |  15.94   |      3390       |  16.09   |       417       |  16.06   |       460       |  14.85  
+Yes-Reply                      |       reply_y        |   3230   |  12.07   |      2530       |  12.01   |       304       |  11.71   |       396       |  12.78  
+Explain                        |       explain        |   2160   |   8.07   |      1669       |   7.92   |       219       |   8.43   |       272       |   8.78  
+Check                          |        check         |   2137   |   7.99   |      1683       |   7.99   |       232       |   8.93   |       222       |   7.17  
+Ready                          |        ready         |   2062   |   7.70   |      1559       |   7.40   |       222       |   8.55   |       281       |   9.07  
+Check Attention                |        align         |   1778   |   6.64   |      1444       |   6.85   |       130       |   5.01   |       204       |   6.58  
+Yes-No-Question                |       query_yn       |   1758   |   6.57   |      1350       |   6.41   |       191       |   7.35   |       217       |   7.00  
+Clarify                        |       clarify        |   1193   |   4.46   |       970       |   4.60   |       116       |   4.47   |       107       |   3.45  
+Non Yes-No-Reply               |       reply_w        |   916    |   3.42   |       729       |   3.46   |       83        |   3.20   |       104       |   3.36  
+No-Reply                       |       reply_n        |   884    |   3.30   |       692       |   3.28   |       101       |   3.89   |       91        |   2.94  
+Non Yes-No-Question            |       query_w        |   772    |   2.88   |       618       |   2.93   |       55        |   2.12   |       99        |   3.20  
+
+![Label Frequencies](maptask_data/metadata/Maptask%20Label%20Frequency%20Distributions.png)
 
 ## Metadata
 - Total number of utterances:  26762
@@ -69,8 +71,8 @@ query_w     | 772
 - word_freq = Dictionary with {word : frequency} pairs.
 - vocabulary = Full vocabulary - Gluon NLP [Vocabulary.](http://gluon-nlp.mxnet.io/api/modules/vocab.html#gluonnlp.Vocab)
 - vocabulary_size = Number of words in the vocabulary.
-- label_freq = Dictionary with {dialogue act label : frequency} pairs.
-- labels = Full labels - Gluon NLP [Vocabulary.](http://gluon-nlp.mxnet.io/api/modules/vocab.html#gluonnlp.Vocab)
+- label_freq = [Dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) containing all data in the Dialogue Acts table above.
+- labels = Full labels - List of all DA labels.
 - num_labels = Number of labels used from the Maptask data.
 
 Each data set also has:
