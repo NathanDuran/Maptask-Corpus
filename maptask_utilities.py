@@ -178,7 +178,8 @@ def plot_label_distributions(data, num_labels=None, title=None, fig_size=(10, 10
     plt.legend(ncol=1, loc="upper right", frameon=True)
     plt.ylabel('%', fontsize=font_size)
     plt.xlabel('Labels', fontsize=font_size)
+    plt.xticks(rotation=45)
     if title:
         plt.title(title, fontsize=font_size)
-
+    plt.tight_layout()
     return fig
