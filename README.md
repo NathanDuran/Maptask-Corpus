@@ -2,7 +2,7 @@
 Utilities for Processing the [HCRC Map Task Corpus](http://groups.inf.ed.ac.uk/maptask/)
 for the purpose of dialogue act (DA) classification.
 The data has been randomly split, with the training set comprising 80% of the dialogues (102), and test and validation
-sets 10% each (13). 50% of the training set is used as a development set (51).
+sets 10% each (13).
 
 ## Scripts
 The maptask_to_text.py script processes all dialogues into a plain text format.
@@ -61,8 +61,6 @@ Non Yes-No-Question            |       query_w        |   772    |   2.88   |   
 - Maximum length of dialogue in test set: 292
 - Number of dialogue in val set: 13
 - Maximum length of dialogue in val set: 439
-- Number of dialogue in dev set: 51
-- Maximum length of dialogue in dev set: 682
 
 ### Keys and values for the metadata dictionary
 - num_utterances = Total number of utterance in the full corpus.

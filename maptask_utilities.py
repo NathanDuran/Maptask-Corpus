@@ -14,7 +14,6 @@ def split_sets(output_dir, transcript_list, train_set_split=0.8):
     num_train = int(len(transcript_list) * train_set_split)
     num_val = int((len(transcript_list) - num_train) / 2)
     num_test = len(transcript_list) - num_train - num_val
-    num_dev = int(num_train / 2)
 
     # Randomise the transcripts
     random.shuffle(transcript_list)
@@ -22,7 +21,7 @@ def split_sets(output_dir, transcript_list, train_set_split=0.8):
     # Select the number of training and dev transcripts
     train_indices = random.sample(range(len(transcript_list)), num_train)
     train_split = [transcript_list[i].split('.')[0] for i in range(len(transcript_list)) if i in train_indices]
-    dev_split = random.sample(train_split, num_dev)
+
     # Remove from transcript list so we don't select again
     for index in sorted(train_indices, reverse=True):
         del transcript_list[index]
@@ -44,9 +43,8 @@ def split_sets(output_dir, transcript_list, train_set_split=0.8):
     save_text_data(os.path.join(output_dir, 'train_split.txt'), train_split)
     save_text_data(os.path.join(output_dir, 'val_split.txt'), val_split)
     save_text_data(os.path.join(output_dir, 'test_split.txt'), test_split)
-    save_text_data(os.path.join(output_dir, 'dev_split.txt'), dev_split)
 
-    return train_split, val_split, test_split, dev_split
+    return train_split, val_split, test_split
 
 
 def save_text_data(path, data, verbose=False):

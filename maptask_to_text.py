@@ -23,20 +23,18 @@ full_set_file = "full_set"
 train_set_file = "train_set"
 test_set_file = "test_set"
 val_set_file = "val_set"
-dev_set_file = "dev_set"
 
 # Remove old files if they exist, so we do not append to old data
 remove_file(data_dir, full_set_file, utterance_only_flag)
 remove_file(data_dir, train_set_file, utterance_only_flag)
 remove_file(data_dir, test_set_file, utterance_only_flag)
 remove_file(data_dir, val_set_file, utterance_only_flag)
-remove_file(data_dir, dev_set_file, utterance_only_flag)
 
 # Get a list of all the transcript files
 transcript_list = os.listdir(os.path.join(archive_dir, 'transcripts'))
 
 # Split into training, validation, test  and development sets
-train_split, val_split, test_split, dev_split = split_sets(metadata_dir, transcript_list[:], train_set_split=0.8)
+train_split, val_split, test_split = split_sets(metadata_dir, transcript_list[:], train_set_split=0.8)
 
 # Process each transcript
 for transcript in transcript_list:
@@ -83,25 +81,3 @@ for transcript in transcript_list:
 
     # Append all dialogue utterances to sets file
     dialogue_to_file(os.path.join(data_dir, set_file), dialogue, utterance_only_flag, 'a+')
-
-    # If it is also in the development set write it there too
-    if dialogue.conversation_id in dev_split:
-
-        set_dir = 'dev'
-        set_file = dev_set_file
-
-        # If only saving utterances use different directory
-        if utterance_only_flag:
-            set_dir = os.path.join(data_dir, set_dir + '_utt')
-        else:
-            set_dir = os.path.join(data_dir, set_dir)
-
-        # Create the directory if is doesn't exist yet
-        if not os.path.exists(set_dir):
-            os.makedirs(set_dir)
-
-        # Write individual dialogue to dev folder
-        dialogue_to_file(os.path.join(set_dir, dialogue.conversation_id), dialogue, utterance_only_flag, 'w+')
-
-        # Append all dialogue utterances to dev set file
-        dialogue_to_file(os.path.join(data_dir, set_file), dialogue, utterance_only_flag, 'a+')
