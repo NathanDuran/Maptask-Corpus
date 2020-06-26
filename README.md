@@ -51,8 +51,11 @@ Non Yes-No-Question            |       query_w        |   772    |   2.88   |   
 
 ## Metadata
 - Total number of utterances:  26762
-- Max utterance length:  115
+- Maximum utterance length:  115
+- Mean utterance length: 6.2
+- Total number of dialogues: 128
 - Maximum dialogue length: 682
+- Mean dialogue length: 209
 - Vocabulary size: 2189
 - Number of labels: 12
 - Number of dialogue in train set: 102
@@ -65,7 +68,10 @@ Non Yes-No-Question            |       query_w        |   772    |   2.88   |   
 ### Keys and values for the metadata dictionary
 - num_utterances = Total number of utterance in the full corpus.
 - max_utterance_len = Number of words in the longest utterance in the corpus.
+- mean_utterance_len = Average number of words in utterances.
+- num_dialogues = Total number of dialogues in the corpus.
 - max_dialogues_len = Number of utterances in the longest dialogue in the corpus.
+- mean_dialogues_len = Average number of utterances in dialogues.
 - word_freq = Dictionary with {word : frequency} pairs.
 - vocabulary = Full vocabulary - Gluon NLP [Vocabulary.](http://gluon-nlp.mxnet.io/api/modules/vocab.html#gluonnlp.Vocab)
 - vocabulary_size = Number of words in the vocabulary.
