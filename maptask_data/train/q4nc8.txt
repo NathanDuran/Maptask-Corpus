@@ -3,7 +3,7 @@ g|paul we're starting top left|instruct
 f|right you've got a diamond mine|align
 g|i've got a diamond mine|reply_y
 f|okay|acknowledge
-g|okay drop s-- straight down to the "d" of|instruct
+g|okay drop straight down to the "d" of|instruct
 f|right that's okay right okay right|acknowledge
 g|okay|acknowledge
 g|this is very difficult|explain
@@ -17,7 +17,7 @@ f|hold on hold on my pen's run out oh no it's working|explain
 g|okay you're going to draw you're going to underline diamond mine|instruct
 f|underline it right|acknowledge
 f|so right underline it along to the "e"|check
-g|und-- underline it un-- underline it along to the "e"|clarify
+g|underline it underline it along to the "e"|clarify
 f|of diamond|check
 f|pen's not working very well|explain
 g|okay|align
@@ -25,13 +25,13 @@ f|right|reply_y
 g|right and continue the line until you're until you're directly below the "h" of highest viewpoint|instruct
 f|of highest viewpoint|check
 f|right|acknowledge
-f|so i've just got an an east line a right-hand a line going thr-- to the right all the way from|check
+f|so i've just got an an east line a right-hand a line going to the right all the way from|check
 g|a line going|clarify
-g|going to the right towards the "h" and stop at the "h" undernea-- under unde-- un-- no underneath the "h" don't|clarify
+g|going to the right towards the "h" and stop at the "h" under no underneath the "h" don't|clarify
 f|okey-doke|acknowledge
 f|okay|acknowledge
 f|but i'm out|explain
-g|just go s-- go right don't go up yet|clarify
+g|just go go right don't go up yet|clarify
 f|right|acknowledge
 f|i'm about two centimetres from the "h" below it|check
 g|yeah you're below the "h" yeah|reply_y
@@ -42,10 +42,10 @@ f|straight up to the seagulls|acknowledge
 f|which one the top one|query_w
 g|there's see how there's seagulls on the top left of the mountain there|align
 f|okay|acknowledge
-g|just g-- just bypassing the just skirting the "h" go straight up to the seagulls|instruct
+g|just just bypassing the just skirting the "h" go straight up to the seagulls|instruct
 f|okay|acknowledge
 g|okay|align
-g|and then turn right and and go along the the t--|instruct
+g|and then turn right and and go along the the|instruct
 f|so i'm just going over the top of the hill|check
 g|going over the top of the mountain yeah|reply_y
 f|right okay|acknowledge
@@ -61,10 +61,10 @@ f|yes i have|reply_y
 g|you have got a safari truck|check
 f|below an overgrown gully|explain
 g|right|acknowledge
-f|you've not got an overg--|check
+f|you've not got an|check
 g|where's your where's your field station|query_w
 f|where's my field station|acknowledge
-f|across from the safari truck at the opposite side of the page virtually the same pa-- position|reply_w
+f|across from the safari truck at the opposite side of the page virtually the same position|reply_w
 g|how it's virtually the same position|check
 f|virtually the same position the other side left-hand side of the page just up slightly|clarify
 g|it's up slightly|check
@@ -72,7 +72,7 @@ f|aye just slightly aye|reply_y
 g|okay right|acknowledge
 f|a centimetre up|clarify
 g|right what what you've got to do here is you've got to drop down towards the safari truck|instruct
-f|y-- okay|acknowledge
+f|okay|acknowledge
 f|which side of the safari truck|query_w
 g|ehm drop down 'til until you're|reply_w
 f|towards the right-hand side of it or towards|query_w
@@ -86,7 +86,7 @@ f|yes|reply_y
 g|drop down towards that|reply_w
 f|right okay but|acknowledge
 g|and and stop just just above the safari truck|instruct
-f|am i draw--|query_yn
+f|am i|query_yn
 f|so i'm at the right-hand side of the highest viewpoint at the moment|explain
 f|okay and|align
 g|yeah uh-huh|reply_y
@@ -99,7 +99,7 @@ f|right|acknowledge
 f|skirt it to the left or right|query_w
 g|'cause i i don't have an overgrown gully|explain
 f|okay|acknowledge
-g|so skirt it and co-- and come back so that you're directly above the right-hand wheel of the safari truck|instruct
+g|so skirt it and and come back so that you're directly above the right-hand wheel of the safari truck|instruct
 f|okay|acknowledge
 f|right above where that wee "t" sort of handlebar type thing is|check
 g|yeah yeah that one yeah|reply_y
@@ -114,9 +114,9 @@ g|right you're|ready
 g|right you now need to turn left|instruct
 f|okay i'm directly in line with the field station at this|explain
 g|right that's fine okay|acknowledge
-g|you you want to turn left and head towards the field station but don't right wait a minute and and stop when you are at er when you're directly below the "t" of highest viewpoint the the f-- "t" of highest|instruct
+g|you you want to turn left and head towards the field station but don't right wait a minute and and stop when you are at er when you're directly below the "t" of highest viewpoint the the "t" of highest|instruct
 f|right okay|acknowledge
-g|stop direct--|instruct
+g|stop|instruct
 f|so just doing a straight line|check
 g|straight line uh-huh|reply_y
 f|so i'm just at the other side of the safari truck now the left-hand side of it|explain
@@ -127,11 +127,11 @@ g|yeah fine|acknowledge
 f|okay|align
 g|ehm|ready
 g|okay now|ready
-g|you're ov--|align
+g|you're|align
 g|aye just wait a minute i'm just at a complete blank where we are|explain
 g|right we're|explain
 f|eh we're just at the safari truck the top left-hand corner of it|explain
-g|you're just at the l-- you're just at the left of the|explain
+g|you're just at the you're just at the left of the|explain
 g|right okay|acknowledge
 g|ehm you|ready
 f|under "t"|explain
@@ -142,7 +142,7 @@ f|i've got a banana tree|explain
 f|yeah|reply_y
 f|right|acknowledge
 g|right|ready
-g|drop down 'til you're level with the top of the leaves of the banana tree d-- you're coming straight down and the banana tree is on your left|instruct
+g|drop down 'til you're level with the top of the leaves of the banana tree you're coming straight down and the banana tree is on your left|instruct
 f|right|acknowledge
 f|okay|acknowledge
 f|so i'm going straight down|check
@@ -173,15 +173,15 @@ f|i have yes|reply_y
 g|right okay|acknowledge
 g|come down nearly to the top of the rock fall|instruct
 f|just straight down south there's a massive line going south|check
-g|strai--|clarify
+g||clarify
 g|massive line going south|clarify
-f|so it's a c-- ni--|check
+f|so it's a|check
 g|nearly to the nearly to the top of the rock fall|clarify
 f|and the same line as the start to the bottom of the diamond line mine at the very beginning|check
 g|yeah that's right uh-huh yeah yeah|reply_y
 f|right|acknowledge
 g|that one|reply_y
-f|straight down to the rock rock f-- at the bottom of it|check
+f|straight down to the rock rock at the bottom of it|check
 g|down at you're at the bottom of the rock fall|align
 g|no no sorry|reply_n
 g|top of the rock fall|align
@@ -193,7 +193,7 @@ f|so i'm going up sort of north northeast|check
 g|yeah|reply_y
 f|right|acknowledge
 f|so i'm going just a straight line up|check
-g|and just a straight diagonal line up t-- up to the rope bridge|clarify
+g|and just a straight diagonal line up up to the rope bridge|clarify
 g|and across the rope bridge|clarify
 f|and then across it|query_yn
 f|right i'm at the other side of it now|explain
@@ -216,9 +216,9 @@ g|uh-huh|acknowledge
 f|so i'm going to go down|check
 g|basically what you're doing on my map you're dropping nearly straight down|clarify
 f|right okay|acknowledge
-g|going to the right very slightly and a-- and skirting the giraffes the gir-- the|clarify
+g|going to the right very slightly and and skirting the giraffes the the|clarify
 f|okay|acknowledge
-f|right i'm just going through the side of the crocodiles right 'cause i presume that's what oh no i'm i'm c-- i'm cutting his head off eh i'll go round that right there you are i've done a wee circle|explain
+f|right i'm just going through the side of the crocodiles right 'cause i presume that's what oh no i'm i'm i'm cutting his head off eh i'll go round that right there you are i've done a wee circle|explain
 g|just go round them|instruct
 f|right|ready
 f|i'm going down to the right of the giraffes|explain
@@ -237,7 +237,7 @@ f|so i'm at the bottom of the giraffes just now|check
 g|you're at the bottom of the giraffes|reply_y
 f|i'm in line with the letter "s" of giraffes that's where my last line is|explain
 g|yeah that's fine|acknowledge
-g|right basically the gr-- the great lake's down at the bottom|explain
+g|right basically the the great lake's down at the bottom|explain
 f|mmhmm|acknowledge
 f|left-hand side|align
 g|so you|reply_w
@@ -246,14 +246,14 @@ f|right okay|acknowledge
 g|okay|align
 f|now i've got a disused disused warehouse in between the giraffes and the great lake|explain
 g|well|ready
-f|so how should i s--|query_yn
+f|so how should i|query_yn
 f|my line be about|query_yn
 g|is it is it above it or below it|query_w
 f|it's to the right-hand side of it|reply_w
-g|it's the right sai-- hand side|acknowledge
+g|it's the right hand side|acknowledge
 g|well i would go above the disused warehouse|instruct
 f|uh-huh|acknowledge
-f|right okay so i'm s--|check
+f|right okay so i'm|check
 f|uh-huh i see where you're going|acknowledge
 g|okay|align
 f|and i'm going to the bottom of the great lake so i'm sort of doing a a squiggly line|check
@@ -263,7 +263,7 @@ g|above the disused warehouse below the great lake|clarify
 f|okay|acknowledge
 f|i'm below the great lake just now|explain
 g|and|instruct
-g|finishing level with th-- the c-- come u-- straight up towards the field station|instruct
+g|finishing level with the come straight up towards the field station|instruct
 f|right okay|acknowledge
 g|finishing level with the giraffes' kneecaps|instruct
 f|the giraffes' kneecaps|check

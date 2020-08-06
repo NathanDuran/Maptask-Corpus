@@ -1,3 +1,6 @@
+import string
+
+
 class Dialogue:
     def __init__(self, conversation_id, num_utterances, utterances):
         self.conversation_id = conversation_id
@@ -38,7 +41,10 @@ def process_transcript(transcript, moves_g, moves_f, excluded_chars, excluded_ta
 
         # Check just in case excluded chars are in text
         if any(char in excluded_chars for char in text):
-            print("Excluded char found!")
+            # Tokenise text and remove incomplete words i.e. 'th--'
+            tokens = text.split(' ')
+            tokens = [token for token in tokens if '--' not in token]
+            text = ' '.join(join_punctuation(tokens))
 
         # Get the appropriate speaker DA
         if speaker == 'g':
@@ -70,3 +76,22 @@ def get_da_list(moves):
             da_list.append(da)
 
     return da_list
+
+
+def join_punctuation(tokens, characters='.,;?!'):
+    # characters = set(characters)
+
+    try:
+        tokens = iter(tokens)
+        current = next(tokens)
+
+        for char in tokens:
+            if char in string.punctuation:
+                current += char
+            else:
+                yield current
+                current = char
+
+        yield current
+    except StopIteration:
+        return

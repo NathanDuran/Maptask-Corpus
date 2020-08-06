@@ -16,12 +16,12 @@ f|right|acknowledge
 g|you're going along mm long a bit and then start going up 'til you're sort|instruct
 f|along to your left|check
 g|along to my right|clarify
-f|wait a minute a-- along to your|check
+f|wait a minute along to your|check
 f|first of|check
 g|along to my right in the direction of the cattle stockade|clarify
 f|oh my god oh my god|acknowledge
 f|along to your right are you sure it's your not your left|check
-g|along t--|clarify
+g|along|clarify
 g|no|reply_n
 g|along to my right|clarify
 g|directly in front of me i have the bandit territory on the left|explain
@@ -46,7 +46,7 @@ g|well you just sort of|instruct
 f|will i sort of try and avoid it or|query_yn
 g|yeah|reply_y
 g|just sort of come up a bit 'til you're sort of level with the with the cattle part and then go down underneath it underneath it 'til like 'til the end of it|instruct
-f|oh i've to come up t-- and then go back down again|check
+f|oh i've to come up and then go back down again|check
 g|right|align
 g|yeah|reply_y
 g|just up slightly so you're sort of level with the little guys hat at the bandit territory|clarify
@@ -57,9 +57,9 @@ f|well my map's looking quite funny at the moment but never mind right|explain
 g|right|ready
 g|you go back down underneath the cattle stockade|instruct
 f|again|check
-g|no tho-- sorry|reply_n
+g|no sorry|reply_n
 f|i've come|explain
-g|i thought you were j--|explain
+g|i thought you were|explain
 g|are you there|align
 g|right|ready
 g|when you get to the cattle stockade go straight up|instruct
@@ -85,7 +85,7 @@ g|right|align
 g|go back along towards the left|instruct
 f|right|acknowledge
 g|just below the trout farm|instruct
-f|to yo-- to you--|check
+f|to to|check
 f|oh i'll just go to the left i don't care if it's your left or my left|explain
 f|right|acknowledge
 g|well it's my left anyway|explain
@@ -93,7 +93,7 @@ g|start to slowly walk go down the way|instruct
 g|have you got a picture of a great rock|query_yn
 f|uh-huh|reply_y
 g|yeah it's just|acknowledge
-g|come down 'til you're about ehm two in-- two to three inches above that|instruct
+g|come down 'til you're about ehm two two to three inches above that|instruct
 f|right|acknowledge
 g|okay|align
 f|right|reply_y
@@ -102,9 +102,9 @@ f|okay|acknowledge
 g|if you know what i mean if you just walk up|instruct
 g|and then start going back up the way again to the outside of a gold mine|instruct
 g|have you got a gold mine|query_yn
-f|i've got a to-- i've got|reply_w
+f|i've got a i've got|reply_w
 f|right|ready
-f|i've came down to an inch ab-- two inches above the great rock right|explain
+f|i've came down to an inch two inches above the great rock right|explain
 g|right|acknowledge
 f|to the right of the great rock|explain
 f|and then above the great rock i've got a totem pole and then i've got a gold mine|reply_w
@@ -120,10 +120,10 @@ f|right okay|acknowledge
 g|okay|align
 f|right|acknowledge
 f|and then right up to the gold mine|check
-g|u-- up to the gold mine|reply_y
+g|up to the gold mine|reply_y
 f|to the left or to the right|query_w
 g|well|reply_w
-g|once you get to the gold mine you start going to m-- my right|instruct
+g|once you get to the gold mine you start going to my right|instruct
 g|and you've got another great rock|explain
 f|i haven't|explain
 g|have you got the indian country|query_yn
@@ -137,16 +137,16 @@ f|mmhmm|acknowledge
 g|right|align
 f|well i've come up to the sort of bottom left-hand corner of the gold mine right|explain
 g|right you're|acknowledge
-g|go above the gold mine above the little dr-- drawing bits of the gold mine|instruct
+g|go above the gold mine above the little drawing bits of the gold mine|instruct
 f|right okay|acknowledge
 f|right|acknowledge
 f|to the and then along to the indian country which is below it|check
 g|yeah|reply_y
 g|go down the way so that you miss the great rock|instruct
 f|right|acknowledge
-g|and then back up above the tote-- above the wigwams|instruct
+g|and then back up above the above the wigwams|instruct
 f|of the indian country|check
-g|o-- of the indian country|reply_y
+g|of the indian country|reply_y
 g|right|ready
 g|go above them|instruct
 f|right|acknowledge
@@ -156,7 +156,7 @@ f|i've got an indian country then a ravine|explain
 f|and then the carved stones|reply_y
 g|well avoid the ravine|instruct
 f|right|acknowledge
-g|and go ehm above the indian s-- above the carved stones sorry|instruct
+g|and go ehm above the indian above the carved stones sorry|instruct
 f|right|acknowledge
 g|right|ready
 g|go round and above them heading back to the left again|instruct
@@ -173,7 +173,7 @@ f|right|acknowledge
 f|to the left of the carved stones right|check
 g|to the left of the carved stones|reply_y
 g|and then sort of go back a bit to the right|instruct
-g|and you're sort of undernea--|instruct
+g|and you're sort of|instruct
 f|back up|check
 g|back towards the right|clarify
 f|towards the ravine|check

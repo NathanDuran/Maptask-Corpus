@@ -7,7 +7,7 @@ g|well|ready
 g|they're in the bottom left-hand corner|explain
 f|bottom|acknowledge
 g|roughly up a bit huh|explain
-f|o-- of the camp or of the map|query_w
+f|of the camp or of the map|query_w
 g|of the map|reply_w
 f|of the map|acknowledge
 f|now|ready
@@ -75,7 +75,7 @@ f|oh yeah which are where|query_w
 g|well|ready
 g|have you got fallen pillars|query_yn
 f|mm yeah i do yeah|reply_y
-g|it's sor-- it's|reply_w
+g|it's it's|reply_w
 g|in the finishing point|query_yn
 f|no|reply_n
 g|no|check
@@ -88,7 +88,7 @@ f|all right so you've the rope bridge and the waterfall and the fallen pillars|c
 f|so at the moment i'm at the waterfall|explain
 g|uh-huh|acknowledge
 g|well you want to go straight up|instruct
-f|do--|query_w
+f||query_w
 f|straight up|acknowledge
 g|and you've got the lost steps|align
 f|yeah|reply_y

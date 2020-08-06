@@ -14,7 +14,7 @@ f|mmhmm|acknowledge
 g|then you turn left|instruct
 g|go|instruct
 f|aye|acknowledge
-f|le-- i'm going back down south|explain
+f|i'm going back down south|explain
 g|you're coming you're coming back you're coming down the map so you're turning left that's into that's into the map|instruct
 f|aye|acknowledge
 f|aye right|acknowledge
@@ -31,7 +31,7 @@ g|then so you're coming down the side of the caravan park|clarify
 f|right|acknowledge
 f|now is there anything i should be watching for|query_yn
 g|not not to the|reply_n
-g|if you come do-- have you come down past the caravan park|query_yn
+g|if you come have you come down past the caravan park|query_yn
 f|aye|reply_y
 g|you turn left|instruct
 f|immediately past the caravan park|check
@@ -50,7 +50,7 @@ f|left come out turn left then turn left again and get to the bottom then turn l
 g|yeah|reply_y
 f|right|acknowledge
 g|and left back up into the map|instruct
-f|how f-- how h-- how|query_w
+f|how how how|query_w
 g|be careful for the old mill you'll see it it should be on your right-hand side|instruct
 f|right|acknowledge
 g|you go up past the the old mill keeping the old mill on your right-hand side|instruct
@@ -81,7 +81,7 @@ g|what|query_w
 f|a forest|reply_w
 g|is there|check
 f|aye|reply_y
-f|but but the ma--|explain
+f|but but the|explain
 g|i think you're on the wrong one|explain
 f|the maps have been drawn by different explorers|explain
 g|aye aye|acknowledge
@@ -93,13 +93,13 @@ g|mm|acknowledge
 f|unfortunately right|acknowledge
 g|can you manage that|query_yn
 f|right i've managed to get through it|reply_w
-g|right now you should em-- hopefully emerge at the cottage yeah|align
+g|right now you should hopefully emerge at the cottage yeah|align
 f|at the abandoned cottage|reply_y
 f|aye|reply_y
 g|that should be on your left-hand side|align
 f|yes|reply_y
 g|okay|align
-g|you go up round the aband-- uh abandoned cottage|instruct
+g|you go up round the uh abandoned cottage|instruct
 f|uh-huh|acknowledge
 g|keeping it always on your left|instruct
 f|right|acknowledge
@@ -153,13 +153,13 @@ f|no you cannae|reply_y
 f|i shouldnae be doing that anyway|explain
 g|uh-huh i know|reply_y
 f|but i'm heading towards the edge of the map|clarify
-g|which edg-- you he-- are you heading towards your left-hand edge of the map|query_yn
+g|which you are you heading towards your left-hand edge of the map|query_yn
 f|my right-hand edge of the map|reply_w
 g|yes your right-hand edge my left-hand edge|explain
 f|this edge here|reply_w
 g|oh|acknowledge
 f|right aye|ready
-f|well it's it's the difference between le-- right and left i think|explain
+f|well it's it's the difference between right and left i think|explain
 g|uh-huh|acknowledge
 f|uh-huh|acknowledge
 g|okay you're|ready
@@ -184,7 +184,7 @@ g|you go up the map past the abandoned cottage turn left|instruct
 f|oh by the by the abandoned cottage and turn left|check
 g|left yes|reply_y
 f|right i've got that|acknowledge
-f|i just mis-- misread you|explain
+f|i just misread you|explain
 g|so the abandoned cottage should now be below you on the map|align
 f|it's aye|reply_y
 f|but it's still to my left|explain
@@ -196,14 +196,14 @@ g|you turn round to a abandoned cottage so always keeping it on your left-hand s
 f|aye|acknowledge
 g|okay you got that much|align
 f|mmhmm|reply_y
-g|now you turn to your right sh-- wi-- should be taking you towards the edge of the paper away from the abandoned cottage|instruct
+g|now you turn to your right should be taking you towards the edge of the paper away from the abandoned cottage|instruct
 f|it's taking me straight buh up a up a up again|explain
 g|no it's no|reply_n
 g|how many sides of the abandoned cottage have you past|query_w
 f|passed it twice|reply_w
 g|you've passed twice|acknowledge
 g|should pass it again on your left|instruct
-f|right c--|ready
+f|right|ready
 g|so you've anyway after you've turned around the cottage|instruct
 f|you come straight back down|check
 g|aye|reply_y
@@ -211,7 +211,7 @@ f|you said a hundred and eighty degrees should be three hundred sixty you should
 g|oh three hundred sixty|acknowledge
 f|right|ready
 f|so that's that's right|acknowledge
-f|so i'm coming back d-- back down the paper again|check
+f|so i'm coming back back down the paper again|check
 g|ah|acknowledge
 g|yeah back down the paper|reply_y
 f|uh-huh aye turn right|acknowledge
@@ -230,7 +230,7 @@ g|okay you got the lake|align
 f|there's two lakes|explain
 f|i've got a lake right|reply_y
 g|you've got a lake|acknowledge
-g|now you skirt around the inside o-- side of the lake that's side of the lake that is nearest to the middle of the map|instruct
+g|now you skirt around the inside side of the lake that's side of the lake that is nearest to the middle of the map|instruct
 f|uh-huh|acknowledge
 g|okay|align
 g|you should see a trig point|explain
@@ -245,12 +245,12 @@ g|uh we turn right there at that bulge|instruct
 g|okay|align
 g|since you don't have a trig point we'll use that instead|explain
 f|uh-huh|acknowledge
-g|turn right now go diagonally down towards the bot-- not a steep diagonal towards the middle|instruct
+g|turn right now go diagonally down towards the not a steep diagonal towards the middle|instruct
 f|uh-huh|acknowledge
 g|edge of the map|instruct
 f|right|acknowledge
 g|okay|align
-g|now should come to a mon-- do you have a monument|query_yn
+g|now should come to a do you have a monument|query_yn
 f|i have a monument|reply_y
 g|go round the monument keeping the monument always on your left|instruct
 f|always on my left|check

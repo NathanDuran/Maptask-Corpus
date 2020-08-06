@@ -16,7 +16,7 @@ utterance_only_flag = False
 # Excluded dialogue act tags i.e. 'uncodable'
 excluded_tags = ['uncodable']
 # Excluded characters for ignoring i.e. '=='
-excluded_chars = {'<', '>', '(', ')', '#', '|', '=', '@', '*'}
+excluded_chars = {'<', '>', '(', ')', '#', '|', '=', '@', '*', '-'}
 
 # Files for all the utterances in the corpus and data splits
 full_set_file = "full_set"

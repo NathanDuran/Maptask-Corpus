@@ -30,12 +30,12 @@ f|below it|query_yn
 g|no|reply_n
 g|on the same level as the diamond mine|explain
 f|mm|acknowledge
-g|and so you're going to pa-- you're going to pass by the graveyard as well|instruct
+g|and so you're going to you're going to pass by the graveyard as well|instruct
 f|mm|acknowledge
-g|and then you're going to go up and over the top of the f-- uh|instruct
+g|and then you're going to go up and over the top of the uh|instruct
 g|what i've got is a fast flowing river|explain
 f|mmhmm|acknowledge
-g|do you have you have your c--|query_yn
+g|do you have you have your|query_yn
 f|fast running creek|reply_w
 g|fast running creek|acknowledge
 g|where is that on a level with the diamond mine or is it slightly below|query_w
@@ -79,9 +79,9 @@ g|okay|align
 g|uh-huh|reply_y
 f|right|acknowledge
 g|so you've got so you're going from above the apache camp underneath the carved wooden pole and over the top of the walled city|align
-g|and then when you reach the far si-- yo-- your left-hand side of the walled city travel southwards until you come to the level of some flat rocks|instruct
+g|and then when you reach the far your left-hand side of the walled city travel southwards until you come to the level of some flat rocks|instruct
 f|uh-huh|acknowledge
-g|and go bel--|instruct
+g|and go|instruct
 g|do you have a stone creek|query_yn
 f|uh-huh|reply_y
 g|right so|ready
@@ -96,9 +96,9 @@ f|okay|acknowledge
 g|so go south down past the walled city underneath your ghost town and then slightly up sort of northeast direction between the flat rocks and the stone creek|instruct
 f|between|acknowledge
 f|well|ready
-f|it'd be better if i s-- s-- between the walled city and the ghost town no to go underneath it above it|explain
+f|it'd be better if i between the walled city and the ghost town no to go underneath it above it|explain
 f|or have you got something else there|query_yn
-g|i've not got anything betw-- between the carved wooden pole and the walled city|reply_n
+g|i've not got anything between the carved wooden pole and the walled city|reply_n
 g|but the map shows a curve a "c"-shaped curve|explain
 f|right|acknowledge
 f|score that out|explain
@@ -118,7 +118,7 @@ f|right|acknowledge
 g|and ehm then right then ehm|ready
 g|just straight down to the right of the buffalo|instruct
 f|to the right|check
-g|y--|reply_y
+g||reply_y
 g|so that so that you're on you're on the right of the buffalo|clarify
 f|right|acknowledge
 g|okay|align
@@ -144,7 +144,7 @@ f|right|acknowledge
 g|then underneath the fort|instruct
 f|under the fort|check
 g|underneath the fort uh-huh|reply_y
-g|and come out at the left-hand side of the fort and finishing ehm not beside but on the same level as the the carved wooden pole the base of the carved woode-- wooden pole|instruct
+g|and come out at the left-hand side of the fort and finishing ehm not beside but on the same level as the the carved wooden pole the base of the carved wooden pole|instruct
 f|right|acknowledge
 g|okay that's you finished|instruct
 f|okay|acknowledge

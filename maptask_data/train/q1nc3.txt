@@ -37,7 +37,7 @@ f|like|ready
 f|which side do you go round|query_w
 g|you're going vertically downwards past the diamond mine|reply_w
 f|straight down|check
-g|you know just c-- you're curving just curving round the diamond|reply_w
+g|you know just you're curving just curving round the diamond|reply_w
 f|uh-huh|acknowledge
 g|mine uh-huh|reply_y
 f|uh-huh|acknowledge
@@ -47,7 +47,7 @@ g|uh-huh|reply_y
 f|right right underneath the diamond mine|acknowledge
 f|where do i stop|query_w
 g|well do|ready
-g|have you got a graveyard sort of in the middle of the page on a level to the c-- er diamond mine|query_yn
+g|have you got a graveyard sort of in the middle of the page on a level to the er diamond mine|query_yn
 f|no|reply_n
 f|i've got a fast running creek|explain
 g|a fast flowing river eh|check
@@ -71,13 +71,13 @@ g|ehm i've got uh-huh|reply_y
 g|carved wooden pole|explain
 f|yeah|acknowledge
 f|no i don't have that|explain
-g|er that's the s-- that's the apache camp|explain
-f|right so w-- anyway so at the diamond mine right|align
+g|er that's the that's the apache camp|explain
+f|right so anyway so at the diamond mine right|align
 g|mmhmm|reply_y
 f|and i have to curve underneath|check
 f|start go down come underneath the diamond mine|check
 g|curve underneath|reply_y
-g|have you got s-- see between the fast flowing river and the diamond mine have you got anything|query_yn
+g|have you got see between the fast flowing river and the diamond mine have you got anything|query_yn
 f|nope|reply_n
 g|right so|ready
 f|got canoes|reply_w
@@ -85,15 +85,15 @@ g|i've got a graveyard there|explain
 f|right i see|acknowledge
 f|whereabouts is that|query_w
 g|eh really just right in the middle of the two the fast flowing mine fast flowing river and the diamond mine|reply_w
-f|s-- right|ready
+f|right|ready
 f|so where've i to go have i to go round that graveyard or something|query_yn
 g|uh-huh|reply_y
 g|you've to miss the graveyard so if you|instruct
 g|right you've curved round right|align
-f|i've g-- right i mean that i i'm still at diamond mine so i'm not sure where to go|explain
+f|i've right i mean that i i'm still at diamond mine so i'm not sure where to go|explain
 g|mmhmm|acknowledge
 g|so|ready
-g|if you go o--|instruct
+g|if you go|instruct
 g|well just start slightly going up the way|instruct
 f|mmhmm|acknowledge
 f|to the fast running creek|check
@@ -107,7 +107,7 @@ f|uh-huh|acknowledge
 g|and the fast flowing river just imagine that|instruct
 g|right|align
 f|uh-huh|acknowledge
-g|and you j-- you're going round that you're going round the graveyard|instruct
+g|and you you're going round that you're going round the graveyard|instruct
 f|like as above it|check
 g|no|reply_n
 g|below it|instruct
@@ -128,7 +128,7 @@ f|but i can't imagine where the graveyard is right|explain
 g|i know you don't|acknowledge
 g|right|ready
 g|it's just|explain
-g|just imagine it's the same size as the diamond mine and the fast flowing river i-- right but it's parked in the middle|instruct
+g|just imagine it's the same size as the diamond mine and the fast flowing river right but it's parked in the middle|instruct
 f|right right okay|acknowledge
 f|so where are we now|query_w
 g|so|ready
@@ -167,28 +167,28 @@ f|but it's away down at the bottom of the page|explain
 g|oh right|acknowledge
 g|and where's your apache camp|query_w
 f|just before we're halfway down the page|reply_w
-f|do-- have you got flat rocks|query_yn
+f|have you got flat rocks|query_yn
 g|mmhmm|reply_y
 f|right|ready
 f|it's just above that it's about a couple of inches but up above that|reply_w
 g|yeah that's right|acknowledge
-g|so if you like c-- curve round the|instruct
+g|so if you like curve round the|instruct
 f|apache camp|check
 g|no|reply_n
-g|don't curve round it j--|instruct
-g|just you're going m-- forty-five degree angle eh towards the bottom eh left of the page you're going that way you know|instruct
+g|don't curve round it|instruct
+g|just you're going forty-five degree angle eh towards the bottom eh left of the page you're going that way you know|instruct
 f|towards the walled city|check
 g|uh-huh|reply_y
 f|right|ready
 f|so i'm going round|check
 g|and you're going round the outside of the walled city|instruct
-f|on what s-- on what side|query_w
+f|on what on what side|query_w
 g|you're going round the top of the walled city and round the left of it on the left-hand side|reply_w
 f|so|ready
 f|and that's at an angle of forty-five degrees|check
 g|no|reply_n
 f|right i see right|acknowledge
-f|so from the walled city to where i am just there it's at a forty-five degree angle to where i just wa-- came from|check
+f|so from the walled city to where i am just there it's at a forty-five degree angle to where i just came from|check
 g|no|reply_n
 f|right see where the fast running creek is right|align
 g|yes|reply_y
@@ -200,7 +200,7 @@ g|if you do it then do a forty-five degree line for maybe about three inches 'ti
 g|that height what you're you've to come down the middle of the page take the forty-five degree line down to the middle of the page|instruct
 g|right|align
 f|so i should be around the middle of the page|check
-g|no not the mi-- the centre no not|reply_n
+g|no not the the centre no not|reply_n
 f|see where i am just now right|align
 f|i've come i've come round the top of the fast running creek|explain
 g|uh-huh|acknowledge
@@ -215,7 +215,7 @@ f|right so i'm above the walled city now and i've curved right round it|explain
 g|yes|acknowledge
 g|mmhmm|acknowledge
 f|i'm just into the left so i'm down at the left-hand side of the page i'm just at the bottom of the walled city|explain
-g|the walled city is just above the cen-- halfway up the page right|align
+g|the walled city is just above the halfway up the page right|align
 f|uh-huh uh-huh uh-huh|reply_y
 g|and you've you've just curved round that|align
 f|towards the left|explain
@@ -223,7 +223,7 @@ f|uh-huh|reply_y
 g|and how far is it away from the left-hand side of the page|query_w
 f|about two inches|reply_w
 g|that's fine|acknowledge
-g|so if you've i-- yeah you've curved round|align
+g|so if you've yeah you've curved round|align
 f|mmhmm|reply_y
 g|right|ready
 g|are you in line with the bottom of the walled city|align
@@ -232,7 +232,7 @@ f|have i to cut|check
 g|no|reply_n
 g|right|ready
 g|just take it down there so i can tell you how many more inches to go down|instruct
-f|so i'm at bottom where the writing is of the walled city so i'm just just t-- in a straight line down there curve right round it 'til i'm there|check
+f|so i'm at bottom where the writing is of the walled city so i'm just just in a straight line down there curve right round it 'til i'm there|check
 g|uh-huh just there yeah|reply_y
 g|so uh-huh|reply_y
 f|and er am i going back to the right now|query_yn
@@ -242,7 +242,7 @@ f|i'm going straight down right|acknowledge
 g|in a slight curve you're taking it down maybe about to as far as a a third of the way up the page|instruct
 f|mmhmm|acknowledge
 f|i'm taking it down there|check
-g|you're com--|instruct
+g|you're|instruct
 g|uh-huh|reply_y
 f|in a curve|check
 g|just a very slight curve you know really just about vertically you're going down|clarify
@@ -269,7 +269,7 @@ f|see the carved wooden pole at the bottom of the page near where the three|alig
 f|can you see a fort|query_yn
 g|yes|reply_y
 f|right|ready
-g|at the v--|check
+g|at the|check
 f|see above it that's the carved wooden pole|explain
 g|uh-huh|acknowledge
 f|and the right|explain
@@ -283,18 +283,18 @@ f|mmhmm|reply_y
 g|i don't have anything|explain
 f|right well|ready
 f|so where am i going from walled city|query_w
-f|i'm at the ghost town that's it ri-- right between the carved pole and the walled city i'm right in the middle of that|explain
+f|i'm at the ghost town that's it right between the carved pole and the walled city i'm right in the middle of that|explain
 g|right|ready
 g|well you should curve just you you'll have to go below the|instruct
 f|ghost town|query_yn
 g|uh-huh|reply_y
-f|right i s-- aye|acknowledge
+f|right i aye|acknowledge
 g|right just curve round it|instruct
 f|mmhmm|acknowledge
 g|and have you got a stone creek|query_yn
 f|mmhmm|reply_y
 g|where's that|query_w
-g|is that about a third of the way u-- up the page|query_yn
+g|is that about a third of the way up the page|query_yn
 f|uh-huh mmhmm|reply_y
 f|to like right-hand side|explain
 g|right|ready
@@ -307,7 +307,7 @@ f|below the flat rocks|check
 g|uh-huh|reply_y
 f|uh-huh|acknowledge
 f|and i go underneath the flat rocks|check
-g|so it's just like a c--|instruct
+g|so it's just like a|instruct
 g|uh-huh|reply_y
 g|it's like a curve|clarify
 f|right|acknowledge
@@ -321,16 +321,16 @@ f|right okay|acknowledge
 f|you got buffalo|query_yn
 g|mmhmm|reply_y
 g|that's down at the bottom right|check
-f|bottom pa--|reply_y
+f|bottom|reply_y
 f|uh-huh bottom right uh-huh|reply_y
 g|well|ready
-g|what you're doing is you're you should be about an in-- an inch off the end of the page|instruct
+g|what you're doing is you're you should be about an an inch off the end of the page|instruct
 f|uh-huh i am just now|acknowledge
 g|the right|acknowledge
 f|uh-huh|acknowledge
 g|so you're just it's a vertical line basically down eh|instruct
 f|to the buffalo|query_yn
-g|round the b-- the buffalos|instruct
+g|round the the buffalos|instruct
 g|uh-huh|reply_y
 f|round the buffalos|check
 g|uh-huh|reply_y
@@ -342,7 +342,7 @@ f|uh-huh|reply_y
 g|so have you got a cattle ranch|query_yn
 f|to where|query_w
 f|no|reply_n
-g|have you got anyth--|query_yn
+g|have you got|query_yn
 f|i take it it's between the fort and the buffalo|check
 g|have you got anything there|query_yn
 f|no|reply_n
@@ -376,7 +376,7 @@ f|so on what side on the left or right|query_w
 g|on the left-hand side|reply_w
 f|on the left-hand side of the fort|check
 g|mmhmm|reply_y
-f|so i've got to go right round the f--|check
+f|so i've got to go right round the|check
 g|on the left-hand side you've|clarify
 f|i've got to go right round the fort|check
 g|uh-huh|reply_y
@@ -391,7 +391,7 @@ g|no|reply_n
 g|an inch from the left-hand side of the page|instruct
 f|right uh-huh i'm there|acknowledge
 g|is that you|align
-f|i-- but is the finishing point at the fort|check
+f|but is the finishing point at the fort|check
 g|no|reply_n
 g|it's above|clarify
 f|right above the fort och i've just got a general gist there|acknowledge

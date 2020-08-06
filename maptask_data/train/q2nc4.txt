@@ -24,11 +24,11 @@ g|the diamond mine and the edge of the page on the right|clarify
 f|mmhmm|acknowledge
 g|imagine an obstacle|clarify
 f|mmhmm|acknowledge
-g|draw the line across an--|instruct
+g|draw the line across|instruct
 f|i've a cactus|explain
 f|do you have a cactus|query_yn
 g|no|reply_n
-f|do you have a r--|query_yn
+f|do you have a|query_yn
 g|draw|instruct
 f|sorry okay|acknowledge
 g|draw across to the right and up round the imaginary obstacle which is halfway between the diamond mine and the end of the page|instruct
@@ -78,7 +78,7 @@ g|draw the line between where i said the creek is and the other obstacle to the 
 f|right|ready
 f|i'm in between the rocks and on my right and the rapids in the middle|explain
 g|okay|acknowledge
-f|and you want me to move which from which direction le--|query_w
+f|and you want me to move which from which direction|query_w
 g|left|clarify
 f|left|acknowledge
 f|underneath underneath the rapids yeah|check
@@ -87,7 +87,7 @@ g|i think so|reply_y
 f|okay|acknowledge
 f|yeah|acknowledge
 g|right now|ready
-g|come down the page 'til you're about th-- two thirds of the way down the page|instruct
+g|come down the page 'til you're about two thirds of the way down the page|instruct
 f|i've got a manned fort in the way|explain
 g|ehm where is it in relation to the side of the page|query_w
 f|right it's about two inches in from the left-hand side|reply_w
@@ -107,7 +107,7 @@ f|directly beneath me at the moment it's about two inches in it's about two thir
 g|two inches in|acknowledge
 f|and it's about|reply_w
 g|okay well keep|ready
-f|t-- two inches down from where i am now|reply_w
+f|two inches down from where i am now|reply_w
 g|keep to the right of it|instruct
 f|keep to the right of it okay|acknowledge
 f|and move down|check
@@ -136,7 +136,7 @@ g|move slightly more to the right 'til you're about an inch away from the edge o
 f|okay|acknowledge
 g|do you have a noose at the bottom of the page|query_yn
 f|yeah|reply_y
-g|draw a straight line down keeping a-- an inch away from the edge of the page round under the noose|instruct
+g|draw a straight line down keeping an inch away from the edge of the page round under the noose|instruct
 f|okay|acknowledge
 g|now do you have a swan pond|query_yn
 f|no|reply_n
@@ -152,7 +152,7 @@ g|well a bit further below that actually you need to go|instruct
 f|okay|acknowledge
 g|sloping slightly down|instruct
 f|mmhmm|acknowledge
-g|for another thr-- three inches i would say to the left|instruct
+g|for another three inches i would say to the left|instruct
 g|okay|align
 g|stop there|instruct
 f|mmhmm|reply_y
@@ -170,4 +170,4 @@ g|do you have the saloon bar|query_yn
 f|yeah|reply_y
 g|go underneath the words saloon bar|instruct
 f|sounds odd but okay|acknowledge
-g|and then go up and stop when you're i-- in a direct line with the roof of the saloon bar and about an inch away from the left-hand side of the page|instruct
+g|and then go up and stop when you're in a direct line with the roof of the saloon bar and about an inch away from the left-hand side of the page|instruct

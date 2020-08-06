@@ -30,9 +30,9 @@ g|go straight up north|instruct
 f|mmhmm|acknowledge
 g|until you get to a kind of level above the shelter|instruct
 f|alright|acknowledge
-g|and turn east to r-- and travel right along|instruct
+g|and turn east to and travel right along|instruct
 f|alright|acknowledge
-g|past the shel-- the shelter that's over the top|instruct
+g|past the the shelter that's over the top|instruct
 f|uh-huh|acknowledge
 g|right|ready
 g|then south|instruct
@@ -46,7 +46,7 @@ g|there's a savannah|query_yn
 g|right|acknowledge
 g|you want to travel east until you get to before the savannah|instruct
 f|mmhmm|acknowledge
-g|then tau-- turn north up|instruct
+g|then turn north up|instruct
 f|mmhmm|acknowledge
 g|don't go round about it just go up before it|instruct
 f|mmhmm|acknowledge
@@ -97,7 +97,7 @@ g|right|ready
 g|have you got the lake|query_yn
 f|no|reply_n
 g|mm-mm|check
-f|to the f-- no|reply_n
+f|to the no|reply_n
 g|the roman baths|query_yn
 f|no|reply_n
 g|hmm antelopes|query_yn
@@ -109,12 +109,12 @@ f|no beside this no|reply_n
 g|no but right the way over|query_yn
 f|right over to the east again|reply_w
 g|aye right|acknowledge
-g|go up to about the l-- the level with the bottom of the lake|instruct
+g|go up to about the the level with the bottom of the lake|instruct
 f|level with the bottom of the lake|acknowledge
-g|straight north to up to the l-- level with the bottom of the lake|instruct
+g|straight north to up to the level with the bottom of the lake|instruct
 f|alright|acknowledge
 g|and then east 'til you get to the front of the lake|instruct
-f|i'm go-- i'm going to hit the round rocks|query_yn
+f|i'm i'm going to hit the round rocks|query_yn
 f|no|query_yn
 g|no|reply_n
 f|right|acknowledge

@@ -7,7 +7,7 @@ f|mmhmm|acknowledge
 g|directly above it about on my map about half an inch from the top of the telephone kiosk|explain
 f|yeah got you|acknowledge
 g|okay|ready
-g|it's a dotted line that moves around to the left of the k-- telephone kiosk down|instruct
+g|it's a dotted line that moves around to the left of the telephone kiosk down|instruct
 f|mmhmm|acknowledge
 g|passing around the left-hand side of the stone circle|instruct
 f|stone circle|check
@@ -24,7 +24,7 @@ f|uh-huh|acknowledge
 g|okay|align
 f|right|reply_y
 g|then go straight straight on|instruct
-f|to the r--|check
+f|to the|check
 g|horizontally about and for about another inch|instruct
 f|to the right|check
 g|yeah to the right|reply_y
@@ -68,7 +68,7 @@ f|right|acknowledge
 g|okay we're going to move up from there to the ruined monastery|instruct
 f|right|acknowledge
 g|and your route's|instruct
-f|h-- have you got overnight accommodation on yours|query_yn
+f|have you got overnight accommodation on yours|query_yn
 g|no i don't|reply_n
 f|well i've got overnight accommodation in a diagonal line between the ruined monastery and the point i'm at just now|explain
 g|in a diagonal line|check
@@ -77,8 +77,8 @@ f|it's about if upwards was north it would be northwest of where i am just now|c
 g|yeah oh that sounds that sounds like the same route that i have here|acknowledge
 g|does that take you up to the top right-hand corner say of the the ruined monastery you know just off the ruined monastery|query_yn
 f|erm well|ready
-g|by that pa--|query_yn
-f|if i was goi-- to go up in a straight line just now i'd end up slightly to the right of the ruined monastery|reply_w
+g|by that|query_yn
+f|if i was to go up in a straight line just now i'd end up slightly to the right of the ruined monastery|reply_w
 g|okay|acknowledge
 g|well it's slightly diagonally northwest as you said|instruct
 f|yeah well that's through the overnight accommodation then|explain
@@ -147,7 +147,7 @@ g|and then once you're past the stile go straight up about two inches|instruct
 f|uh-huh|acknowledge
 g|okay|ready
 f|yeah|acknowledge
-g|right at this point across t-- and down to the right-hand side of your page do you have a dead tree|query_yn
+g|right at this point across and down to the right-hand side of your page do you have a dead tree|query_yn
 f|eh no|reply_n
 f|i have a dutch elm but erm|explain
 g|well that's|explain
@@ -158,7 +158,7 @@ g|above|check
 f|well it's on the very far right-hand side of the page though|explain
 g|right|ready
 g|yeah|reply_y
-g|on the ri-- dilect directly right across from where you are do you have a great viewpoint a drawing of a telescope i have here|query_yn
+g|on the dilect directly right across from where you are do you have a great viewpoint a drawing of a telescope i have here|query_yn
 f|eh it's directly above where i am just now directly above the stile about four inches|reply_w
 g|yeah i've got that|acknowledge
 g|i've got another one across to the right|explain
@@ -170,7 +170,7 @@ f|yeah|reply_y
 g|where you are just now should be horizontally across from say just below the bottom right-hand tip of it that's how high you should be on the map|align
 f|the great viewpoint|check
 g|no|reply_n
-g|no from the ea-- the bottom right-hand corner of the east lake|clarify
+g|no from the the bottom right-hand corner of the east lake|clarify
 f|bottom right-hand corner uh-huh|acknowledge
 g|okay|align
 f|uh-huh|reply_y
@@ -197,7 +197,7 @@ g|yeah go straight through it|reply_y
 f|towards the dutch elm|check
 g|yeah|reply_y
 f|and which side of the dutch elm should i end up on|check
-g|y-- you're going to draw a line around the outside of it so you should be underneath the dutch elm|clarify
+g|you're going to draw a line around the outside of it so you should be underneath the dutch elm|clarify
 f|right|acknowledge
 f|so i'm drawing a line around the top of the dutch elm ending up at underneath it|check
 g|yeah that's right|reply_y
@@ -213,14 +213,14 @@ f|uh-huh|acknowledge
 g|is it beneath the stile or|query_w
 f|slightly beneath it the base of the dutch elm is about maybe half an inch below the bottom of the stile|reply_w
 g|uh-huh|acknowledge
-g|and away f-- is it about an inch away from the right-hand side of the page|query_yn
+g|and away is it about an inch away from the right-hand side of the page|query_yn
 f|yeah uh-huh|reply_y
 g|oh must be the same tree i would think anyway|explain
 f|mmhmm|reply_y
 g|sounds similar|explain
 g|okay you're going to come around the outside of that|instruct
 f|yeah|acknowledge
-g|you'll be about an inch away from the right-hand s-- edge of the page|instruct
+g|you'll be about an inch away from the right-hand edge of the page|instruct
 f|right|acknowledge
 g|okay|align
 f|mmhmm|reply_y
@@ -251,7 +251,7 @@ f|uh-huh|reply_y
 g|erm if you draw a line if you are just about directly beneath that "e"|instruct
 f|mmhmm|acknowledge
 g|okay draw a line up to the water's edge maybe just to the right of that "e"|instruct
-f|s-- straight up|check
+f|straight up|check
 g|straight up yeah|reply_y
 f|just slightly to the right of the "e"|check
 g|mmhmm|reply_y
@@ -265,7 +265,7 @@ g|okay|align
 g|that's pointing|instruct
 f|bottom left-hand edge|check
 g|yeah|reply_y
-g|if if your line is pointing you-- you're not we're not going to take it that far but if your line is pointing towards the great viewpoint which is on the top left-hand corner|explain
+g|if if your line is pointing you're not we're not going to take it that far but if your line is pointing towards the great viewpoint which is on the top left-hand corner|explain
 f|uh-huh|acknowledge
 g|and you're still underneath the east lake then that's you|explain
 f|right|acknowledge

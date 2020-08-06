@@ -41,7 +41,7 @@ g|then|ready
 g|turn to the right|instruct
 f|mmhmm|acknowledge
 f|how far|query_w
-g|a-- to about the middle of the page just r-- round the next obstacle|reply_w
+g|to about the middle of the page just round the next obstacle|reply_w
 f|round it|check
 g|yes round the top of it|reply_y
 f|round the top okay|acknowledge
@@ -56,22 +56,22 @@ f|halfway round|query_w
 g|yeah|reply_y
 f|or all the way|query_w
 g|don't no don't go all the way round it|reply_n
-f|ha--|acknowledge
+f||acknowledge
 f|halfway right halfway round|acknowledge
 g|go|instruct
 g|go along the top and then at the other side ehm go downwards but still sloping for about an inch downwards but still sloping slightly to the left|instruct
 f|and and sloping to the left|check
 g|well|ready
-g|just as if you were going d-- if you as if you were walking down a hill|clarify
+g|just as if you were going if you as if you were walking down a hill|clarify
 f|right okay right right that's it|acknowledge
 g|mmhmm|acknowledge
-g|and then ehm still heading in the le-- towards the left|instruct
+g|and then ehm still heading in the towards the left|instruct
 f|mmhmm|acknowledge
 g|but a very very slight slope upwards for about three inches but just a small one|instruct
 f|i'm going to end up tracing my path back if i do go to the left|explain
 g|well|ready
 g|don't go|instruct
-g|have you g-- d-- how far down have you gone|query_w
+g|have you how far down have you gone|query_w
 g|don't go too far down|instruct
 f|right|acknowledge
 f|i'm not even halfway up|reply_w
@@ -82,7 +82,7 @@ f|i'm sort of stuck in between a waterhole and a savannah|explain
 g|uh-huh|acknowledge
 g|well|ready
 g|don't don't go as far along as the savannah|instruct
-g|just before you get to the front of the s-- in-- just before you get to the savannah slope upwards|instruct
+g|just before you get to the front of the just before you get to the savannah slope upwards|instruct
 f|slope up straight line up|check
 g|yeah|reply_y
 g|almost a straight line just about four inches to the mountain|instruct
@@ -104,7 +104,7 @@ f|right i'm there|acknowledge
 g|and once you get to the top of the mountain turn to the left again|instruct
 f|left|acknowledge
 f|just round the sort of round rocks|check
-g|ehm b-- between the the hot wells and the mountain to the left and down between the two|instruct
+g|ehm between the the hot wells and the mountain to the left and down between the two|instruct
 f|mm it's hot springs i've got here and then white mountain|explain
 g|well yeah|acknowledge
 g|uh-huh|acknowledge
@@ -113,7 +113,7 @@ f|so i'm at the top of the white mountain just up|explain
 g|not the white mountain|reply_n
 g|the slate mountain|explain
 f|well|ready
-f|put it this way i'm at the left of some mou-- i'm now opposite some mountain|explain
+f|put it this way i'm at the left of some i'm now opposite some mountain|explain
 f|right|align
 g|right okay ehm|ready
 g|right okay ehm|ready
@@ -122,9 +122,9 @@ f|opposite a white mountain the top of the white mountain|reply_w
 g|okay|acknowledge
 f|right|align
 g|right okay|reply_y
-g|ehm under are you g-- g-- down the side of the mountain 'til you're underneath the hot wells|instruct
+g|ehm under are you down the side of the mountain 'til you're underneath the hot wells|instruct
 f|okay|acknowledge
-f|ins-- un-- well|ready
+f|well|ready
 f|i don't have hot wells i have hot springs|explain
 f|right i'm coming down the mountain right|acknowledge
 g|okay|acknowledge
@@ -138,7 +138,7 @@ f|and underneath it right i've done that|acknowledge
 g|right you underneath it now|align
 f|yes|reply_y
 g|right okay ehm|ready
-g|heading towards the left go down about an inch t-- a slope|instruct
+g|heading towards the left go down about an inch a slope|instruct
 f|heading towards the left|check
 g|mmhmm|reply_y
 f|you want me to have is it a diagonal slope|check
@@ -164,7 +164,7 @@ f|for how far along|query_w
 g|ehm about three inches|reply_w
 f|okay|acknowledge
 g|towards it|clarify
-g|are y-- are you at it now|align
+g|are are you at it now|align
 f|i'm at the lake|reply_y
 g|right|ready
 g|go round the outside of the lake ah|instruct
@@ -186,13 +186,13 @@ f|right|ready
 f|i'm halfway round the lake|explain
 g|right|acknowledge
 g|well|ready
-g|go down to the bottom half of the lake but ehm start straightening out as if you were going back to where you started but le-- leave about an inch between the path where you went round the lake and the path where you're coming out of it|instruct
+g|go down to the bottom half of the lake but ehm start straightening out as if you were going back to where you started but leave about an inch between the path where you went round the lake and the path where you're coming out of it|instruct
 f|you want me to trace back my steps|check
 g|no|reply_n
 g|you've gone halfway round the lake|align
 f|right|reply_y
 g|right|acknowledge
-g|go down the sort of slightly flat side the the side that's about an inch of the lake f-- just follow that down|instruct
+g|go down the sort of slightly flat side the the side that's about an inch of the lake just follow that down|instruct
 f|i don't have a flat side|explain
 g|oh dear|acknowledge
 g|right okay|ready
@@ -212,7 +212,7 @@ g|now|ready
 g|when you've done that you should be ehm about equal with where you started going round the lake but about an inch and a half down from there|align
 f|yeah|reply_y
 g|right|ready
-g|so then head downwards about three and a half inches to the a-- where the antelopes are|instruct
+g|so then head downwards about three and a half inches to the where the antelopes are|instruct
 f|yeah|acknowledge
 g|ehm|acknowledge
 g|and go underneath them|instruct

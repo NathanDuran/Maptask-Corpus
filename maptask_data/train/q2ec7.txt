@@ -3,7 +3,7 @@ g|do you have a start|query_yn
 g|up at crane bay|query_yn
 f|yeah start|reply_y
 f|yeah|reply_y
-f|on the san-- on the sandy shore|query_yn
+f|on the on the sandy shore|query_yn
 g|on the|query_yn
 g|yeah|reply_y
 g|do you have a well|query_yn
@@ -13,10 +13,10 @@ g|do you follow me|align
 f|no i don't have i don't have a well|reply_n
 g|do you have local residents|query_yn
 f|yeah|reply_y
-f|i've got a b-- er two little houses with local residents underneath|explain
+f|i've got a er two little houses with local residents underneath|explain
 g|right okay|acknowledge
 g|well|ready
-g|s-- do you see the corner where the the shore the crane bay comes down and then turns in|align
+g|do you see the corner where the the shore the crane bay comes down and then turns in|align
 f|yes|reply_y
 g|before it comes into the mouth of the river|align
 f|yes|reply_y
@@ -45,7 +45,7 @@ g|to the point|clarify
 g|see where the point is|align
 g|oh yeah yeah yeah|reply_y
 g|go up as if you're can cross over the iron bridge or whatever it is you've got there|clarify
-f|so i g-- i'm going to cross over the iron bridge|check
+f|so i i'm going to cross over the iron bridge|check
 g|cross over the bridge|reply_y
 f|right okay|acknowledge
 g|okay|acknowledge
@@ -62,7 +62,7 @@ f|just above the fork|check
 f|where where the dead tree is|check
 g|uh-huh|reply_y
 g|above that you know before before the river forks|clarify
-f|be-- before the river forks okay|acknowledge
+f|before the river forks okay|acknowledge
 g|uh-huh|acknowledge
 g|right|align
 f|right i've got it|reply_y
@@ -71,25 +71,25 @@ g|do you have farmed land|query_yn
 f|farm land|acknowledge
 g|just there just to the right of the tree|query_yn
 f|no|reply_n
-g|right well i've got f--|ready
+g|right well i've got|ready
 f|i've mountain stream|explain
-g|and the lagoon on the other s-- the lagoon right|query_yn
+g|and the lagoon on the other the lagoon right|query_yn
 f|yes|reply_y
 g|well|ready
-g|on the s-- you're on the side of the mountain stream aren't you|align
+g|on the you're on the side of the mountain stream aren't you|align
 f|yeah yeah|reply_y
 g|right|ready
-g|well i want you to do a back-- a backwards "c" as if you're you're going round farmland and cutting the river cutting across the stream just below the dead tree|instruct
+g|well i want you to do a a backwards "c" as if you're you're going round farmland and cutting the river cutting across the stream just below the dead tree|instruct
 f|right|acknowledge
 f|okay|acknowledge
-g|so that ins-- stop when you get to the bottom of the dead tree|instruct
+g|so that stop when you get to the bottom of the dead tree|instruct
 f|so remind me what i'm i'm i've got to go underneath the dead tree|check
 g|no|reply_n
 g|from where you are right|clarify
 g|just at the fork before the fork of the river|clarify
 f|yeah|acknowledge
 f|yes|acknowledge
-g|i want you to do a back-- a backwards "c"|clarify
+g|i want you to do a a backwards "c"|clarify
 f|right|reply_y
 g|right|align
 g|cutting just at don't cross the river the other way from the river|clarify
@@ -97,7 +97,7 @@ f|yeah okay|acknowledge
 g|see what i mean|align
 g|and cut the river or the stream below the level of the trees so that you're stopping just under the tree|clarify
 f|okay right|acknowledge
-f|so i go undern-- and now i'm underneath the tree|check
+f|so i go and now i'm underneath the tree|check
 g|you're now underneath the tree|reply_y
 f|okay|acknowledge
 f|yeah i've got it|reply_y
@@ -105,7 +105,7 @@ g|right|align
 g|now i want you to go directly south for about seven centimetres about two inches|instruct
 f|right|acknowledge
 g|right|align
-f|have you got treas-- er tr-- buried treasure|query_yn
+f|have you got er buried treasure|query_yn
 g|no|reply_n
 f|okay|acknowledge
 g|then i want you to go directly west no to your just say to your left for about the same amount to bring you up to the shore of the lagoon|instruct
@@ -128,7 +128,7 @@ f|yeah|reply_y
 g|do you have a rock fall|query_yn
 f|no|reply_n
 g|right|acknowledge
-g|well f--|ready
+g|well|ready
 g|see if you follow the coast of that on the right-hand side no sorry the left-hand side of the map|align
 f|yes|reply_y
 g|all the way down right|align
@@ -139,7 +139,7 @@ g|right|align
 g|i want you to take your line from the bottom of the lagoon|instruct
 f|to there|check
 g|sort of but|reply_y
-g|make sure you sort of um curve it up a wee bit so that you're missing i-- 'cause i've got rocks|instruct
+g|make sure you sort of um curve it up a wee bit so that you're missing 'cause i've got rocks|instruct
 f|okay|acknowledge
 g|so curve it up a wee bit|instruct
 g|towards it and get to that point|instruct
@@ -155,13 +155,13 @@ g|right|ready
 g|now beside the pirate ship i've got a cross like for the finish|explain
 f|beside the pirate ship|check
 g|yeah|reply_y
-g|just to the left of the pir--|clarify
+g|just to the left of the|clarify
 f|so do i have to go round the outside of green bay|query_yn
 g|no|reply_n
 g|what you do is you do an "l" shape in the water|instruct
 f|in the water|check
 g|to get to it just to get to the pirate ship|instruct
-f|by the pir-- so i'm going to the pirate ship|check
+f|by the so i'm going to the pirate ship|check
 g|you're going you're doing an "l" shape to the pirate ship|clarify
 f|yeah i've got you okay|acknowledge
 g|there that's the finish|clarify

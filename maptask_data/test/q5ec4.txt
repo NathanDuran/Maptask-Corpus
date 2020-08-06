@@ -1,6 +1,6 @@
 g|right|ready
 g|you start at the top left|instruct
-f|to--|check
+f||check
 f|right oh sorry okay|acknowledge
 g|right|ready
 g|and eh have you got cliffs below that just below and to the right|query_yn
@@ -22,7 +22,7 @@ g|right|acknowledge
 g|well sort of pretend there's a forge right below the cliffs right and instead of right so you go down round the bottom of the forge so like draw a sort of a pretend semicircle|instruct
 f|a pretend semicircle to the|check
 g|well like you know a pretend loop|clarify
-f|inside or the outs--|query_yn
+f|inside or the|query_yn
 f|aye|acknowledge
 f|to the inside or the outside of the map|query_yn
 g|right start right so you're just below the cliffs|align
@@ -37,8 +37,8 @@ f|right okay|acknowledge
 g|right|align
 g|and then you go up the inside of the pine tree|instruct
 f|the inside|check
-g|right not th-- no that the left of the pine tree so the that's outside of the map|instruct
-f|t-- t-- to the left of the pine tr--|check
+g|right not no that the left of the pine tree so the that's outside of the map|instruct
+f|to the left of the pine|check
 g|uh-huh|reply_y
 f|up past the pine tree|check
 g|uh-huh|reply_y
@@ -57,7 +57,7 @@ g|have you got a pine forest|query_yn
 g|on right|acknowledge
 f|yes|reply_y
 g|well you slope down with the pine forest on your right|instruct
-f|pine forest on my right f--|check
+f|pine forest on my right|check
 g|aha so don't go round the pine forest just like pass down by it|instruct
 f|so i'm cut|check
 f|right okay|acknowledge
@@ -69,14 +69,14 @@ f|right stop at the "p"|acknowledge
 f|right|acknowledge
 g|right|align
 g|and then sort of loop round a wee bit more don't don't draw your line in the same angle sort of make it a bit flatter and then draw another wee loop|instruct
-f|a bit flatter th-- what on the same|check
+f|a bit flatter what on the same|check
 f|does this have have i to cross a stream|query_yn
 g|what|query_w
 f|have i to cross a stream|query_yn
 g|no|reply_n
 g|i haven't got a stream|explain
 g|i suppose just avoid the stream|instruct
-g|but g-- sort of like as though|clarify
+g|but sort of like as though|clarify
 f|it runs|explain
 g|you're drawing a nose right say this is the face you're drawing and then you've got to sort of do a sort of round bit for the nose|clarify
 f|is that beneath so is the nose to come beneath the pine forest|check
@@ -98,7 +98,7 @@ f|round the bakery|check
 g|uh-huh|reply_y
 g|and then come right back in|instruct
 f|okay|acknowledge
-g|un-- underneath the bakery and maybe in past the bakery about two centimetres just before the canal|instruct
+g|underneath the bakery and maybe in past the bakery about two centimetres just before the canal|instruct
 g|have you got a canal|query_yn
 f|no i don't have a canal|reply_n
 g|all right|acknowledge
@@ -131,11 +131,11 @@ g|is that sort of above the lighthouse|align
 f|yes|reply_y
 g|right|acknowledge
 g|well sort of sticking to the coast|instruct
-g|you know wher-- go-- whe-- whe-- where the coast goes up and down vertical|align
+g|you know where the coast goes up and down vertical|align
 f|yes|reply_y
 g|right|align
 g|sort of don't go vertically down it but start sloping down towards around the top of the rocket warehouse|instruct
-f|around the top of the w-- rocket warehouse|check
+f|around the top of the rocket warehouse|check
 g|uh-huh|reply_y
 f|right okay|acknowledge
 g|and then slope the line right out to the side of the page|instruct
@@ -143,10 +143,10 @@ f|right out to the side of the page|check
 g|uh-huh|reply_y
 f|right|acknowledge
 g|the outside of the page and then eh sort of draw a|instruct
-g|are you about th-- in line with the rocket bit or have you done that|align
+g|are you about in line with the rocket bit or have you done that|align
 f|no|reply_n
 f|i'm past the rocket|reply_w
-g|no but like s-- see where your line is at the side of the page is that at rocket like where the words rocket are written|align
+g|no but like see where your line is at the side of the page is that at rocket like where the words rocket are written|align
 f|oh aye near enough|reply_y
 g|right|acknowledge
 g|so we just like take the line down vertically down the side of the page|instruct

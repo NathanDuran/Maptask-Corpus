@@ -14,7 +14,7 @@ f|uh-huh|reply_y
 g|eh and then|ready
 g|do you have the stone circle|query_yn
 f|no i've got|reply_n
-g|below th-- well|ready
+g|below well|ready
 g|i've got a stone circle directly below telephone kiosk|explain
 g|if you come down right into the corner of the page|instruct
 g|ehm|instruct
@@ -44,13 +44,13 @@ g|have you got anything above that|query_yn
 f|overnight accommodation|reply_w
 g|overnight accommodation i haven't got any of that|explain
 g|ehm right|ready
-g|you want come across diagonally from the top left-hand corner the farmer's gate or bro-- broken gate whatever ehm to maybe two inches above the meadow in a slight di-- er just a very slight diagonal ehm oh to the right-hand side|instruct
+g|you want come across diagonally from the top left-hand corner the farmer's gate or broken gate whatever ehm to maybe two inches above the meadow in a slight er just a very slight diagonal ehm oh to the right-hand side|instruct
 f|to the right-hand side of the meadow|check
 g|yeah|reply_y
-g|you'll end up maybe th--|clarify
+g|you'll end up maybe|clarify
 g|hang on about|clarify
 f|almost in the corner well|check
-g|about th-- er|clarify
+g|about er|clarify
 g|well|ready
 g|no|reply_n
 g|about three inches|clarify
@@ -68,10 +68,10 @@ g|have you got a ruined monastery|query_yn
 f|yeah oh above|reply_y
 f|like sort of the middle of the page just about|query_yn
 g|yeah|reply_y
-g|ehm you should be just to th-- the right-hand side of that you know like down but to the right-hand side of that|align
+g|ehm you should be just to the right-hand side of that you know like down but to the right-hand side of that|align
 f|yeah|reply_y
 g|now|ready
-g|you want to ho-- eh slope up eh or move up towards the right-hand side of that if there's nothing in your way|instruct
+g|you want to eh slope up eh or move up towards the right-hand side of that if there's nothing in your way|instruct
 g|okay|align
 f|okay|reply_y
 g|now|ready
@@ -92,11 +92,11 @@ f|right okay|acknowledge
 g|have you got a west lake|query_yn
 f|no|reply_n
 g|ah right|ready
-g|you've got a s-- have you got a stile|query_yn
+g|you've got a have you got a stile|query_yn
 f|yeah|reply_y
 f|and a popular tourist spot|explain
 g|popular tourist spot|acknowledge
-g|where i-- where is that in relation to the monastery|query_w
+g|where where is that in relation to the monastery|query_w
 f|monastery|acknowledge
 f|right|ready
 f|in relation to the stile it's to the right and about an inch above it to the stile|explain
@@ -107,11 +107,11 @@ g|i i haven't got that|explain
 g|hang on we'll need to deal with this west lake thing anyway|explain
 g|ehm it's directly above the farmer's gate ehm if you come down|explain
 f|what is|query_w
-g|t-- to l-- the west lake|reply_w
-f|oh well that'll be the popular tourist spot b-- above the stile|explain
+g|to the west lake|reply_w
+f|oh well that'll be the popular tourist spot above the stile|explain
 f|is the lake above the stile|query_yn
 g|no|reply_n
-g|the lake is above the farmer's gate i-- in between the farmer's gate and the stile|explain
+g|the lake is above the farmer's gate in between the farmer's gate and the stile|explain
 g|ehm if you come down level on the left-hand side with the bottom of the ruined monastery|instruct
 f|level on the left|check
 g|okay|align
@@ -120,18 +120,18 @@ f|uh-huh|reply_y
 g|eh come down to the|clarify
 f|go to the bottom|check
 g|the bottom left-hand side|clarify
-g|and then just slope k-- eh slightly down eh and come over to about an inch and a half away from the right eh the left-hand side of the page|instruct
+g|and then just slope eh slightly down eh and come over to about an inch and a half away from the right eh the left-hand side of the page|instruct
 f|okay|acknowledge
 g|eh you've got the stile yeah|check
 f|up above that|check
 g|well|ready
-g|if you stop eh at the left-hand si-- you know down from the left-hand side of that and then go once you're there go straight up to the top left-hand side of the stile|instruct
+g|if you stop eh at the left-hand you know down from the left-hand side of that and then go once you're there go straight up to the top left-hand side of the stile|instruct
 f|over the stile|check
 g|yeah over the stile|reply_y
 g|over the right-hand side and then just go almost directly up for about an inch and a half|instruct
 f|okay|acknowledge
 f|i'm going to go right through the popular tourist spot then|check
-g|well come rou-- eh|clarify
+g|well come eh|clarify
 g|that's just slightly to the right of the stile isn't it up and to the right|check
 f|uh-huh|reply_y
 g|well|ready
@@ -141,14 +141,14 @@ f|come round the left-hand side of the popular tourist|check
 g|yeah|reply_y
 g|go up the left-hand side of the stile er of the popular tourist spot|clarify
 f|right okay|acknowledge
-g|ehm i-- i'm just assuming where that is ehm|explain
+g|ehm i'm just assuming where that is ehm|explain
 g|and then come over the top of it and head down diagonally towards the bottom of|instruct
 g|well|ready
 g|i've got it as a dead tree you've got it as another you've what is it description yeah|explain
 f|dutch tree|explain
 f|so|ready
 f|i'm going i'm going away i'm really going back down towards the ruined monastery|check
-g|well if you come dow--|instruct
+g|well if you come|instruct
 g|yes it's|reply_y
 g|a diagonal across the page eh to the towards to the bottom well to the right|clarify
 g|you know ehm you come round it round the right-hand side of it and back over to the to the you know the other side you know loop round it|instruct
@@ -162,21 +162,21 @@ g|i've got another one just below the east lake|explain
 f|no|reply_n
 f|it's a rocket launch pad|explain
 g|right okay|ready
-g|if eh you come round to the left ha-- top left of the of the picture of the tree right|instruct
+g|if eh you come round to the left top left of the of the picture of the tree right|instruct
 f|right aye i said it was|reply_y
 g|or is that where you are anyway yeah|align
 g|then just just just skrai straight up er until you meet the lake edge of the lake|instruct
 f|aye|ready
-f|what pad-- what part of the is it bit that's lowest down or the bit|query_w
+f|what what part of the is it bit that's lowest down or the bit|query_w
 g|well|ready
-g|if you just go straight up from the edge of the tree and then once you get there f--|clarify
+g|if you just go straight up from the edge of the tree and then once you get there|clarify
 f|to get to any part of the lake right|check
 g|yeah|reply_y
-g|just straight up 'til you ge-- meet that|clarify
+g|just straight up 'til you meet that|clarify
 g|and then just go along following the lake to the left and that's us finished|instruct
 f|at the great viewpoint|check
 g|yeah|reply_y
 g|oh no no|reply_n
-g|you don't need to go as far as that just to the ve-- just just kind of level with the edge of the lake|clarify
+g|you don't need to go as far as that just to the just just kind of level with the edge of the lake|clarify
 f|okay|acknowledge
 g|there you go|acknowledge

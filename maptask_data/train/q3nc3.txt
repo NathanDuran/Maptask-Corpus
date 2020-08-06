@@ -28,7 +28,7 @@ f|right|acknowledge
 g|and then turn right above the adventure playground|instruct
 g|okay|align
 f|which side of the adventure playground|query_w
-g|right you've gone up the s-- the l-- past the left of it|query_yn
+g|right you've gone up the the past the left of it|query_yn
 f|oh no|reply_n
 f|i went up past it|reply_w
 f|okay|acknowledge
@@ -117,7 +117,7 @@ g|down to the fallen cairn|instruct
 f|that's miles away isn't it|query_yn
 g|on the right|reply_w
 f|eh i've got lion county directly on the right|explain
-g|well come down in a slope to about half-- halfway down the page in a diagonal line|instruct
+g|well come down in a slope to about halfway down the page in a diagonal line|instruct
 f|mmhmm|acknowledge
 g|to your right|instruct
 f|uh-huh|acknowledge

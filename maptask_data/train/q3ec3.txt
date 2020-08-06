@@ -39,13 +39,13 @@ g|middle of the right|acknowledge
 g|almost slap-bang in the middle|check
 f|mmhmm|reply_y
 g|right okay|acknowledge
-g|go l-- right until you're underneath the right-hand edge of that just past the right-hand edge of it|instruct
+g|go right until you're underneath the right-hand edge of that just past the right-hand edge of it|instruct
 f|i've also got privately owned fields|explain
-f|you sh-- oh|explain
-g|will you hit them if you g-- if you go through that|query_yn
+f|you oh|explain
+g|will you hit them if you if you go through that|query_yn
 f|could well do|reply_w
 f|they are due right of the start and directly below the granite quarry|explain
-g|right if you just g-- if you're at the top of the right at the top of the adventure playground just eh almost touching it if you go straight right there will you miss them|query_yn
+g|right if you just if you're at the top of the right at the top of the adventure playground just eh almost touching it if you go straight right there will you miss them|query_yn
 f|mmhmm yes i will indeed|reply_y
 g|right|acknowledge
 g|if you go right along there until you're at the right-hand edge of the granite quarry|instruct
@@ -58,7 +58,7 @@ f|it's up to the right|explain
 g|it's up at|explain
 f|do you want me to go in between the two of these|check
 g|uh-huh|reply_y
-g|but stay quite close to g-- the granite quarry|clarify
+g|but stay quite close to the granite quarry|clarify
 f|i'll have to curve in 'cause privately owned fields are to the|explain
 g|yeah that's okay right|acknowledge
 f|okay|ready
@@ -74,7 +74,7 @@ f|well i do|reply_y
 f|at the very top left-hand page|reply_w
 g|ah right|acknowledge
 g|there's another i've got another one marked|explain
-g|ehm okay if you go round in a s-- kind of semicircle round the top of the granite quarry until you're like level with the bottom of it of the actual wee wee drawing|instruct
+g|ehm okay if you go round in a kind of semicircle round the top of the granite quarry until you're like level with the bottom of it of the actual wee wee drawing|instruct
 f|so basically i'm round the other side|check
 g|uh-huh|reply_y
 f|okay|acknowledge
@@ -83,7 +83,7 @@ f|do you have a waterfall|query_yn
 g|yeah|reply_y
 f|underneath the waterfall|check
 g|i want you to go up up past on the left-hand side of the waterfall if you can|clarify
-f|but you w-- you want me to go to underneath it|check
+f|but you you want me to go to underneath it|check
 g|right i want you to go|clarify
 g|i want you to go underneath it and then round the left-hand side of it from where you are now|clarify
 f|okay|acknowledge
@@ -100,7 +100,7 @@ g|can you go can you go up the left-hand side of the public footpath|query_yn
 f|i can indeed|reply_y
 g|right|acknowledge
 g|go up that|instruct
-g|until have you got corn cornfu-- fields marked at the top|query_yn
+g|until have you got corn fields marked at the top|query_yn
 f|yes|reply_y
 g|right|acknowledge
 g|well don't don't go up as far as the cornfields but go up in that direction|instruct
@@ -114,19 +114,19 @@ g|right have you got have you got a fallen you've got a fallen cairn haven't you
 f|right at the very bottom|check
 g|no|reply_n
 f|eh sorry in the middle i mean|check
-g|in e-- up sort of to the right-hand northeast of the granite quarry|clarify
+g|in up sort of to the right-hand northeast of the granite quarry|clarify
 f|uh-huh|acknowledge
 g|right|acknowledge
-g|can you go fs-- see from where you are now can you go directly eh southeast to the f-- bottom of the fallen cairn|instruct
+g|can you go see from where you are now can you go directly eh southeast to the bottom of the fallen cairn|instruct
 f|the bottom of it|check
 g|uh-huh|reply_y
 f|underneath it|check
-g|un-- go underneath it yeah|reply_y
+g|go underneath it yeah|reply_y
 f|okay|acknowledge
-g|right and come up the o-- the right-hand side of the fallen cairn go like north up the right-hand side of it|instruct
+g|right and come up the the right-hand side of the fallen cairn go like north up the right-hand side of it|instruct
 f|how far up|query_w
 g|eh just stop at the top of it|clarify
-g|'til i s-- see what you've got|reply_w
+g|'til i see what you've got|reply_w
 f|right|acknowledge
 g|right have you got limestone cliffs above where you are now|query_yn
 f|no|reply_n
@@ -141,40 +141,40 @@ g|lion country no|acknowledge
 g|right can you go straight can you go straight north from where you are now to the bottom of the east lake|query_yn
 g|is have you got a lake at the top there|query_yn
 f|yes i do|reply_y
-f|the lion country's slightly in the way it's slightly to the left how f--|explain
+f|the lion country's slightly in the way it's slightly to the left how|explain
 f|whereabouts in east lake do you want me to join|query_w
-g|well you s-- you've got the limestone cliffs|query_yn
+g|well you you've got the limestone cliffs|query_yn
 g|have you no you don't|acknowledge
 f|no i don't|reply_n
-f|there's three points on the east lake i-- the m-- on the bottom|explain
+f|there's three points on the east lake the on the bottom|explain
 g|mmhmm|acknowledge
-f|do you how far do you want me to s--|query_w
+f|do you how far do you want me to|query_w
 f|whereabouts on|query_w
-g|well just go about the middle of the t-- sort of bottom line if you can head for the middle of the bottom line|clarify
+g|well just go about the middle of the sort of bottom line if you can head for the middle of the bottom line|clarify
 f|so that's basically to the right of the lake|check
 g|no|reply_n
 f|i mean the right-hand side of the lake|check
-g|yeah well but don't go too f-- eh yeah on the right|reply_y
+g|yeah well but don't go too eh yeah on the right|reply_y
 f|there's two sort of coastlines on the bottom of the east lake if you like one comes down one goes sort of across a bit|align
 g|mmhmm|reply_y
 f|do you wish me to join the west|check
 g|right|acknowledge
 g|you've got the one that's coming more almost like almost eh horizontal|clarify
 f|all right|acknowledge
-f|you want me to m--|check
+f|you want me to|check
 g|head for the middle of that if you can|clarify
 f|okay|acknowledge
 f|that's going past lion country to the right|explain
 g|right that's fine|acknowledge
 f|okay|acknowledge
-g|now eh if you go follow the line of the lake follow the line l-- of the lake left|instruct
+g|now eh if you go follow the line of the lake follow the line of the lake left|instruct
 f|going west|check
 f|right|acknowledge
 g|and eh just stop when you're just past the bottom like the corner|instruct
 f|mm|acknowledge
 g|and that should be the finish|explain
-f|so that's b-- almost below|check
-g|almost below the b-- the like of the bit that goes up the top corner|clarify
+f|so that's almost below|check
+g|almost below the the like of the bit that goes up the top corner|clarify
 f|oh right|acknowledge
 f|okey-dokey|acknowledge
 g|that's you|explain

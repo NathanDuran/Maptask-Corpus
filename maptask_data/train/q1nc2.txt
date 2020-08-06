@@ -1,8 +1,8 @@
 g|right ehm eh|ready
 g|the start is down at the bottom|explain
-g|i-- d-- do you just have a plain bit of paper|query_yn
+g|do you just have a plain bit of paper|query_yn
 f|no|reply_n
-f|i've got er w-- mountains|explain
+f|i've got er mountains|explain
 g|oh the right|acknowledge
 g|see the have you got a stony desert down at the bottom right-hand corner|query_yn
 f|yes|reply_y
@@ -10,7 +10,7 @@ g|well|ready
 g|the start is just just above that|explain
 f|it's just above that|check
 f|yeah i know|acknowledge
-f|th-- that's marked on my map as well|explain
+f|that's marked on my map as well|explain
 g|right|acknowledge
 g|ehm right|ready
 g|we'll be working our way ehm up to the top and then back kind of down to the middle where the finish is|instruct
@@ -22,10 +22,10 @@ g|yeah|reply_y
 g|right|ready
 g|and we're going left from that and kind of round round left past the stony desert and down until you're kind of level with the bottom of the stony desert|instruct
 f|right|ready
-f|so i-- i'm going left|check
+f|so i'm going left|check
 g|uh-huh|reply_y
 f|and how far left|query_w
-g|left from the start and y-- just just kind of round the outside of the desert you know right round the outline and then keep going down until you're kind of level with the stony desert|clarify
+g|left from the start and just just kind of round the outside of the desert you know right round the outline and then keep going down until you're kind of level with the stony desert|clarify
 f|but just round the outline of the desert|check
 g|yeah|reply_y
 f|right right|acknowledge
@@ -39,7 +39,7 @@ f|i'm going along the bottom of the paper|check
 g|uh-huh|reply_y
 g|you're going you're still going along left|clarify
 f|how far to the end of the bit of paper|query_w
-g|about an inch an i-- 'bout an inch from the the s-- the left-hand side of the paper|reply_w
+g|about an inch an 'bout an inch from the the the left-hand side of the paper|reply_w
 g|just keep going along straight|clarify
 f|right|acknowledge
 g|and then we start going up|instruct
@@ -61,13 +61,13 @@ f|right-o|acknowledge
 g|kind of near to the bottom|explain
 f|okay|acknowledge
 g|right|align
-g|an-- and you carry on your line you've gone up about three inches and you start going right again|instruct
+g|and you carry on your line you've gone up about three inches and you start going right again|instruct
 f|mmhmm|acknowledge
 g|kind of a straight line about|instruct
 f|well|ready
 f|below the site of the plane crash|query_yn
 g|no no|reply_n
-g|wait a mi-- wait a minute|instruct
+g|wait a wait a minute|instruct
 f|above the site of the plane crash|query_yn
 g|yeah uh-huh|reply_y
 f|right|acknowledge
@@ -76,7 +76,7 @@ f|nearer the bottom of the page|check
 g|yeah|reply_y
 f|how far up from the bottom of the page|query_w
 g|about right|ready
-g|ther-- there should be about an inch in between the bottom of your page and your first line right|align
+g|there should be about an inch in between the bottom of your page and your first line right|align
 f|right that's fine|reply_y
 g|right|ready
 g|and then your plane crash is just kind of above that|reply_w
@@ -86,12 +86,12 @@ f|right after that|acknowledge
 g|'kay|acknowledge
 f|and then you go up three inches|check
 g|yeah uh-huh|reply_y
-g|and you're going about another er two and a half inches maybe until you're kind of in the centre of the page i d-- i don't mean i don't mean right in the centre i mean|instruct
+g|and you're going about another er two and a half inches maybe until you're kind of in the centre of the page i i don't mean i don't mean right in the centre i mean|instruct
 f|mean half way up|check
 g|uh-huh|reply_y
 g|lower centre|clarify
 g|yeah|reply_y
-f|another t-- right|acknowledge
+f|another right|acknowledge
 g|and that|explain
 f|just below the centre|check
 g|uh-huh|reply_y
@@ -107,12 +107,12 @@ g|and then you have to go down again|instruct
 f|wait i go past the collapsed shelter|check
 g|past the collapsed shelter|reply_y
 g|it's kind of underneath your line|explain
-g|and you go down again about half an inch kind of rou--|instruct
+g|and you go down again about half an inch kind of|instruct
 f|how long do i go along|query_w
 g|ehm it's kind of like a straight|reply_w
 f|a straight line|check
-g|a straight li--|reply_y
-g|not a str-- quite a straight line down but it's kind of it's vertical anyway|clarify
+g|a straight|reply_y
+g|not a quite a straight line down but it's kind of it's vertical anyway|clarify
 f|down for about half an inch|check
 g|yeah|reply_y
 f|right|acknowledge
@@ -138,24 +138,24 @@ f|oh uh-huh no|reply_n
 g|no|check
 g|where are you|query_w
 f|my inches must be different from yours 'cause i'm not even halfway across the page|reply_w
-f|i should be away at the other s-- side of the page|check
+f|i should be away at the other side of the page|check
 g|you should be kind of at the right-hand side|clarify
-f|how l-- how big's your page|query_w
+f|how how big's your page|query_w
 f|is it that size|query_yn
 g|uh-huh|reply_y
 f|uh-huh|acknowledge
-f|er two and a h-- two|check
+f|er two and a two|check
 g|right|ready
-g|j-- just go further along then 'til you're|instruct
+g|just go further along then 'til you're|instruct
 f|just go right along|check
 g|uh-huh|reply_y
 f|so where how far up the the right-hand side should it be|query_w
-g|you shou-- you should be|reply_w
-f|when i reach the right-hand side how f-- about halfway|query_w
+g|you you should be|reply_w
+f|when i reach the right-hand side how about halfway|query_w
 g|how how do you mean|query_w
-f|er you told me to draw a line going alo-- over to the right-hand side|check
+f|er you told me to draw a line going over to the right-hand side|check
 g|uh-huh|reply_y
-g|and you should be about two and a half inches fr-- from the right-hand side of the e-- edge of the page|clarify
+g|and you should be about two and a half inches from the right-hand side of the edge of the page|clarify
 f|two and a half inches one|acknowledge
 g|yeah|acknowledge
 f|two and a half right|acknowledge
@@ -169,7 +169,7 @@ g|well well|ready
 g|there is on mine|explain
 f|there's there's there's a a savannah further down|explain
 g|uh-huh|acknowledge
-g|well y--|ready
+g|well|ready
 g|you go past|instruct
 f|is the line about halfway up the page just now|query_yn
 g|no not quite|reply_n
@@ -186,8 +186,8 @@ g|yeah and|reply_y
 f|a vertical line up|check
 g|yeah|reply_y
 g|maybe about another two and a half inches|instruct
-f|so i should be f-- more than halfway up the page further|check
-g|are you sh--|query_w
+f|so i should be more than halfway up the page further|check
+g|are you|query_w
 g|you should be about exactly halfway up the page|reply_w
 g|and but you're still kind of at the right-hand side|clarify
 f|i know|acknowledge
@@ -230,7 +230,7 @@ f|three and a half inches|reply_w
 g|right|acknowledge
 g|right|ready
 g|now we're going kind of down about another inch|instruct
-f|am i meant to be a-- away over the left-hand side|check
+f|am i meant to be away over the left-hand side|check
 g|uh-huh|reply_y
 f|well|ready
 f|if i go down an inch i can't 'cause i'll go right through a hot spring i'll need to go further along|explain
@@ -238,7 +238,7 @@ f|i'll just take the line further along to the left|check
 g|yeah|reply_y
 f|right right|acknowledge
 g|right|ready
-g|wh-- tell me where are where you are now|query_w
+g|tell me where are where you are now|query_w
 f|halfway up the page a couple of inches off the left-hand side|reply_w
 g|right|acknowledge
 g|you seem to be kind of down a wee bit i think it doesn't matter|explain
@@ -255,7 +255,7 @@ f|no|reply_n
 f|i is it|check
 f|yeah|reply_y
 g|right|align
-g|and that kind of g-- that kind of takes you to th-- to the left-hand side of the page right|align
+g|and that kind of that kind of takes you to to the left-hand side of the page right|align
 f|mmhmm|reply_y
 g|and the line now should be going right up kind of a vertical line|instruct
 f|vertical line|acknowledge
@@ -266,10 +266,10 @@ g|at the right and you should be just about the top third of the page|clarify
 f|ehm no|reply_n
 g|no|acknowledge
 f|i had to avoid a mountain so|explain
-g|oh is th-- is there a white mountain there|query_yn
+g|oh is is there a white mountain there|query_yn
 f|yes|reply_y
 g|yeah you should be kind of|instruct
-f|what sh-- what side should i be|query_w
+f|what what side should i be|query_w
 g|just at the left of that|reply_w
 f|the left-hand side of it|check
 g|uh-huh|reply_y
@@ -297,10 +297,10 @@ g|and then we go about two inches straight along to your right|instruct
 f|is there any obstacles there|query_yn
 g|mm no|reply_n
 f|right i've done that|acknowledge
-g|and then ehm just just to the right of this on mine th-- there's a lake|explain
+g|and then ehm just just to the right of this on mine there's a lake|explain
 f|mmhmm that's right|acknowledge
 g|is that there|check
-g|well you you sh-- you|instruct
+g|well you you you|instruct
 f|it's about the first thing that has|reply_y
 g|right and|ready
 g|you take your line right round the outside of the lake|instruct
@@ -315,8 +315,8 @@ f|just circle the lake|check
 g|yeah just uh-huh|reply_y
 g|until you're kind of maybe half an inch down from the the left-hand side of the lake|instruct
 g|see what i mean|align
-f|mm i so i'm going vertically like the last i'm going round the lake and then taking it down half an inch past the lake taking the line pa--|check
-g|well y-- ehm wait a wee minute|ready
+f|mm i so i'm going vertically like the last i'm going round the lake and then taking it down half an inch past the lake taking the line|check
+g|well ehm wait a wee minute|ready
 g|you don't quite take it|reply_w
 g|know where yours says lake|align
 f|yeah|reply_y
@@ -334,7 +334,7 @@ g|do you have them|query_yn
 f|no|reply_n
 g|no|acknowledge
 g|well|ready
-g|mine goes after you've taken your li-- rou-- line round it's kind of like a circle but it's it's not joined|instruct
+g|mine goes after you've taken your line round it's kind of like a circle but it's it's not joined|instruct
 f|mmhmm|acknowledge
 g|it goes down maybe|instruct
 f|oh it's nearly like a circle circling right round|check
@@ -350,14 +350,14 @@ g|you loop down about an inch below that|instruct
 f|and what about|query_w
 g|carry on your line down about two and a half inches just straight down|instruct
 f|where the lake starts where|check
-g|yeah uh-huh wher-- where the lake starts but|reply_y
+g|yeah uh-huh where the lake starts but|reply_y
 g|right|ready
 g|put put your finger on where the lake starts|instruct
 g|right|align
 f|where it|check
 g|the wee bit that sticks up|instruct
 f|mmhmm|acknowledge
-g|a-- and go down about an inch|instruct
+g|and go down about an inch|instruct
 f|right|acknowledge
 g|which is where your line should be kind of passing through|instruct
 f|oh i see i see|acknowledge
@@ -369,10 +369,10 @@ g|and do you have antelopes|query_yn
 f|yes mmhmm|reply_y
 g|it should be kind of erm the line should be going round the antelopes|instruct
 f|what way|query_w
-g|to towar-- to your right your line should be at the left of the antelopes|reply_w
-f|oh i came o-- okay right|acknowledge
+g|to to your right your line should be at the left of the antelopes|reply_w
+f|oh i came okay right|acknowledge
 g|right|align
 f|mmhmm|reply_y
-g|and just carry on round the antelopes a-- and about an inch and a half just draw a line about an inch and a half to your right and that's your finish|instruct
+g|and just carry on round the antelopes and about an inch and a half just draw a line about an inch and a half to your right and that's your finish|instruct
 f|from the antelopes an inch and a half|check
 g|uh-huh|reply_y

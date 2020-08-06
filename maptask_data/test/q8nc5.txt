@@ -4,21 +4,21 @@ f|uh-huh|reply_y
 g|to the left of the burnt forest|query_yn
 f|yeah|reply_y
 g|right okay ehm right|ready
-g|you're going to start coming down but a-- but as you come down you're c-- you curve to the right|instruct
+g|you're going to start coming down but but as you come down you're you curve to the right|instruct
 f|to the right|check
 g|uh-huh|reply_y
-g|bel-- just just below the burnt forest without touching the burnt forest|instruct
+g|just just below the burnt forest without touching the burnt forest|instruct
 f|right|acknowledge
 f|how far|query_w
 g|right|ready
-g|you're what you're going to do is you're going to curve to the right and then back left okay so that when you come you're going to be about three to four inches below s-- directly below start|instruct
+g|you're what you're going to do is you're going to curve to the right and then back left okay so that when you come you're going to be about three to four inches below directly below start|instruct
 f|uh-huh|acknowledge
 g|understand what i mean|align
-g|so it's not going to it's n-- it's not going to be a straight line it's going to be a curve|instruct
+g|so it's not going to it's it's not going to be a straight line it's going to be a curve|instruct
 f|have you not got|query_yn
 f|have you not got the carpenter's cottage|query_yn
 g|no|reply_n
-f|how f-- how far below the burnt forest do i go|query_w
+f|how how far below the burnt forest do i go|query_w
 f|do i go right along the beneath it before i curve|query_yn
 g|no you just see how|reply_n
 f|i just go past it|query_yn
@@ -56,7 +56,7 @@ g|right|acknowledge
 g|well it doesn't doesn't matter|explain
 f|i'm now at the top left-hand side of the ravine|explain
 g|uh-huh|acknowledge
-g|you can go about a centimetre above the rav-- the ravine|instruct
+g|you can go about a centimetre above the the ravine|instruct
 g|okay|align
 g|and then|instruct
 f|still to the left of it|check
@@ -66,7 +66,7 @@ g|and then you're going to go straight along to the right in a straight line|ins
 f|have you got the pine grove|query_yn
 g|uh-huh|reply_y
 g|okay|ready
-g|bef-- so don't go as far as the pine grove|instruct
+g|so don't go as far as the pine grove|instruct
 f|mmhmm|acknowledge
 g|right|ready
 g|so you should be about ehm level with the top of the pine grove that that far up|align
@@ -80,7 +80,7 @@ f|okay|acknowledge
 f|mmhmm|acknowledge
 g|see what i mean|align
 f|uh-huh|reply_y
-g|so you go down until you're a-- ehm 'til you're at the bottom left-hand corner of the pine grove|instruct
+g|so you go down until you're ehm 'til you're at the bottom left-hand corner of the pine grove|instruct
 f|bottom left-hand corner|check
 g|mmhmm|reply_y
 f|but not ehm touching it or|check
@@ -102,14 +102,14 @@ g|but what you what you're going to do is you're going to right you've got we've
 f|mmhmm|acknowledge
 g|okay|align
 g|moving down all the time|instruct
-f|along wha-- what along the bottom of the pine grove or going past it|query_w
-g|you're just you're just you're going down but also to the right you're g-- you're n--|clarify
+f|along what along the bottom of the pine grove or going past it|query_w
+g|you're just you're just you're going down but also to the right you're you're|clarify
 f|towards the concealed hideout|query_yn
 g|uh-huh|reply_y
 f|where do i end up in relation to the concealed hideout|query_w
 g|right|ready
-g|what happens is you go you curve to the right and then back into the left and then you curve r-- to the right again acro-- along the top of this concealed hideout|instruct
-f|but i d-- i don't go along the bottom of the pine grove|check
+g|what happens is you go you curve to the right and then back into the left and then you curve to the right again along the top of this concealed hideout|instruct
+f|but i i don't go along the bottom of the pine grove|check
 g|no|reply_n
 f|so it's not much of a curve|check
 g|no|reply_n
@@ -128,10 +128,10 @@ f|no|reply_n
 f|but i haven't hit anything so|explain
 g|right okay|acknowledge
 g|ehm right|ready
-g|so you're u-- a-- where are you now then|query_w
+g|so you're where are you now then|query_w
 f|i'm to the right of the concealed hideout|reply_w
 g|okay|acknowledge
-g|right ehm you--|ready
+g|right ehm|ready
 g|have you got the boat house|query_yn
 f|uh-huh|reply_y
 g|right|ready
@@ -144,8 +144,8 @@ g|right|align
 g|okay right|ready
 g|have you got the crane bay|query_yn
 f|uh-huh|reply_y
-g|right y--|ready
-g|you're going to go straight down perpen-- eh straight down to the crane bay|instruct
+g|right|ready
+g|you're going to go straight down eh straight down to the crane bay|instruct
 f|and to the right of the boat house|check
 g|uh-huh|reply_y
 f|right well|ready
@@ -155,9 +155,9 @@ f|uh-huh|reply_y
 g|oh you've got a different boat house i've got two boat houses|explain
 f|you've got two|check
 g|uh-huh|reply_y
-g|so we've made a mistake you shou--|explain
+g|so we've made a mistake you|explain
 f|well|ready
-f|which w-- which|query_w
+f|which which|query_w
 g|right okay you|ready
 g|see my boat house is to the left of the concealed hideout|explain
 f|well|ready
@@ -172,7 +172,7 @@ g|uh-huh|reply_y
 g|just just scrub that bit out then and go back up to the concealed hideout|instruct
 f|okay|acknowledge
 g|right so|ready
-g|le-- so v-- we'll say we're at the bottom right-hand corner of the concealed hideout|align
+g|so we'll say we're at the bottom right-hand corner of the concealed hideout|align
 f|bottom right|check
 g|mmhmm|reply_y
 f|uh-huh|reply_y
@@ -183,16 +183,16 @@ g|you're going to go in a straight line along the left of the page|instruct
 g|okay|align
 f|the left|check
 g|to to the left of the page|reply_y
-g|not not right along i mean it in a l-- i mean in a left direction|clarify
+g|not not right along i mean it in a i mean in a left direction|clarify
 f|towards the|check
 f|you mean|check
 f|under the concealed hideout|check
 g|mmhmm|reply_y
-g|u-- under that a-- uh-huh al--|clarify
+g|under that uh-huh|clarify
 f|right|ready
 f|i'm going along under the i'm now at the bottom left-hand corner of the the concealed hideout right|explain
 g|right|acknowledge
-g|don't go right do--|clarify
+g|don't go right|clarify
 g|right|ready
 g|you can go a bit further about another inch|instruct
 f|right|acknowledge
@@ -200,12 +200,12 @@ g|okay|align
 g|now right|ready
 g|look down to the crane bay right|align
 f|uh-huh|reply_y
-g|ehm s-- straight down from that have you got an actual wee bay there like curves|query_yn
+g|ehm straight down from that have you got an actual wee bay there like curves|query_yn
 f|straight down from where|query_w
 g|from where you are at the moment|reply_w
 f|uh-huh uh-huh|reply_y
 g|right|ready
-g|so we'll go straight down then straight down and don't hit the bay but f-- but follow that curve in the bay so you're going to go straight down south|instruct
+g|so we'll go straight down then straight down and don't hit the bay but but follow that curve in the bay so you're going to go straight down south|instruct
 f|mmhmm|acknowledge
 g|okay|align
 f|mmhmm|reply_y
@@ -224,7 +224,7 @@ g|which is where is it on your map|query_w
 f|it's good bit further down opposite the other boat house but further down|reply_w
 g|oh you've got another boat house|check
 f|ah you still i still don't know where your boat house is|reply_w
-g|uh-huh but y-- right have|acknowledge
+g|uh-huh but right have|acknowledge
 g|oh god right|ready
 g|where are you now again|query_w
 f|i'm right crane bay there's two sort of little inlets in it at the top of it|align
@@ -252,13 +252,13 @@ g|is that right|align
 f|uh-huh|reply_y
 g|right now|ready
 g|right|ready
-g|what you're going to do now is moving down all the time but you're you're not going to follow the coastline as much you're going to m-- slightly move away from it|instruct
+g|what you're going to do now is moving down all the time but you're you're not going to follow the coastline as much you're going to slightly move away from it|instruct
 f|mmhmm|acknowledge
-g|okay f--|align
+g|okay|align
 g|eh but going down at the same time so down about an inch and a half|instruct
 f|towards the pebbled shore|query_yn
 g|uh-huh|reply_y
-f|directl-- straight towards it|check
+f|straight towards it|check
 g|ehm uh-huh yes more|reply_y
 g|or less but don't go as far as that|clarify
 f|mmhmm|acknowledge
@@ -275,13 +275,13 @@ g|right okay|ready
 g|move you're going to move to the left but moving down at the same time|instruct
 f|mmhmm|acknowledge
 g|okay|align
-g|until you unti-- for about two or three inches until you're about a centimetre from the left-hand side of the page|instruct
+g|until you for about two or three inches until you're about a centimetre from the left-hand side of the page|instruct
 f|right|acknowledge
 f|have you got washed stones at all|query_yn
 g|no|reply_n
 f|okay|acknowledge
 f|am i below the pebbled shore|query_yn
-g|where are your s--|query_w
+g|where are your|query_w
 g|uh-huh|reply_y
 g|you should be about a couple of inches below it but not directly under it|clarify
 f|to the left of it|check
@@ -307,7 +307,7 @@ g|uh-huh|reply_y
 g|uh-huh|reply_y
 f|mmhmm|reply_y
 g|right|ready
-g|so what you're going to is curve round your stones there and your the finish is just ehm about a centimetre from that black line that's marking the crane bay ac-- just acro-- directly across from the ship|instruct
+g|so what you're going to is curve round your stones there and your the finish is just ehm about a centimetre from that black line that's marking the crane bay just directly across from the ship|instruct
 f|okay|acknowledge
 f|okay there you go|acknowledge
 g|right|align

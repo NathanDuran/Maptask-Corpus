@@ -11,7 +11,7 @@ f|a big cross right|explain
 g|and go four centimetres along to your left|instruct
 f|right|acknowledge
 g|and slope|instruct
-g|no it doesn't matt--|explain
+g|no it doesn't|explain
 g|erm about|ready
 g|six centimetres down|instruct
 f|straight down|check
@@ -29,11 +29,11 @@ f|right|acknowledge
 g|er up vertically seven centimetres just straight up|instruct
 g|and curve to your right until you go across the rope bridge|instruct
 g|and go across the rope bridge er stop at the end|instruct
-g|c-- eh curve down going right again er go down by about three centimetres|instruct
+g|eh curve down going right again er go down by about three centimetres|instruct
 g|do you have an obstacle near you|query_yn
 f|there's a machete|reply_w
 g|a machete|acknowledge
-g|are we just underneath --neath it|query_yn
+g|are we just underneath it|query_yn
 f|right|reply_y
 g|will we hit it if we go along|query_yn
 f|no|reply_n
@@ -102,13 +102,13 @@ f|to the right uh-huh|reply_y
 g|are you directly opposite it right just about|query_yn
 f|mmhmm|reply_y
 g|well and|ready
-g|go fo-- go along until you're one centimetre from the base of the slate mountain|instruct
+g|go go along until you're one centimetre from the base of the slate mountain|instruct
 g|and er follow the slope of the slate mountain one centimetre away again|instruct
-f|b-- wh-- what do you mean|query_w
-g|you're one centimetre to the left of the slate mountain go up er fo-- the slope|clarify
+f|what do you mean|query_w
+g|you're one centimetre to the left of the slate mountain go up er the slope|clarify
 f|straight up the way|query_yn
 g|no|reply_n
-g|s-- follow the slope of the mountain|clarify
+g|follow the slope of the mountain|clarify
 f|up to the top of the mountain|check
 g|yeah|reply_y
 g|and over and round it|instruct
@@ -117,7 +117,7 @@ g|okay|align
 g|and you just erm come just under to the right-hand side about two centimetres under the slate mountain|instruct
 f|right|acknowledge
 g|to the right-hand side of the slate mountain yeah|align
-g|go al--|instruct
+g|go|instruct
 g|erm do you have any obstacles near you|query_yn
 f|well|ready
 f|there's submerged rocks to the left and below that there's a secret valley then there's golden beach to the right|reply_w
@@ -127,7 +127,7 @@ f|right|acknowledge
 g|and go|instruct
 g|er how close are you to the rocks whatever|query_w
 f|ehm about three four centimetres above them|reply_w
-g|a-- above it er to your is it to your left yeah|query_yn
+g|above it er to your is it to your left yeah|query_yn
 f|mmhmm|reply_y
 g|right|acknowledge
 g|do you have a secret valley|query_yn

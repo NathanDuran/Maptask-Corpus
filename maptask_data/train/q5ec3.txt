@@ -2,18 +2,18 @@ g|right|align
 f|right|reply_y
 g|now the start is above the diamond mine|explain
 f|right|acknowledge
-g|now you come down d-- the diamond mine eh down the map from the diamond mine now can you if you can imagine you're you-- y-- you're walking down that line the diamond mine would be on your left|instruct
+g|now you come down the diamond mine eh down the map from the diamond mine now can you if you can imagine you're you're walking down that line the diamond mine would be on your left|instruct
 f|uh-huh|acknowledge
-g|right you just pass the diamond mine and then you turn to y--|instruct
+g|right you just pass the diamond mine and then you turn to|instruct
 f|the diamond mine on my graph makes me on my right on it on its on my right|explain
 g|ah|acknowledge
 f|if i come straight down in a straight line from the start|explain
 g|mmhmm|acknowledge
 f|then the diamond mine's on my right|explain
 g|well it doesnae really matter|explain
-g|you leave y-- you turn left past the diamond mine so you're going into the map|instruct
+g|you leave you turn left past the diamond mine so you're going into the map|instruct
 f|right|acknowledge
-g|and you keep going d-- eh straight across|instruct
+g|and you keep going eh straight across|instruct
 f|mmhmm|acknowledge
 g|now you should be a graveyard on your left-hand side|explain
 f|no|reply_n
@@ -47,7 +47,7 @@ g|eh now there's an apache camp|explain
 f|uh-huh|acknowledge
 g|so there's a a right so there's obviously they're the apaches' canoes|explain
 f|right|acknowledge
-g|now y-- ye-- you keep the apache camp to your left-hand side|instruct
+g|now you keep the apache camp to your left-hand side|instruct
 f|right|acknowledge
 g|and then you turn into the middle of the paper turn right into the middle of the paper|instruct
 f|right|instruct
@@ -56,9 +56,9 @@ f|no|reply_n
 g|no|acknowledge
 g|is there a walled city|query_yn
 f|uh-huh|reply_y
-g|you wal-- go towards the walled city|instruct
+g|you go towards the walled city|instruct
 f|right|acknowledge
-f|am i above the walled s-- th-- the line i'm drawing should it be|query_yn
+f|am i above the walled the line i'm drawing should it be|query_yn
 g|above the walled city|reply_w
 f|right|acknowledge
 f|well i'll need to move up|explain
@@ -74,7 +74,7 @@ f|so i have to go along towards the walled city|check
 g|aye|reply_y
 f|so do i go along and then move up to go round it like that|check
 g|you're not supposed to use your hands|instruct
-g|aye you keep the walled city on your you you as the wee man walking along you'd be o-- on your left|clarify
+g|aye you keep the walled city on your you you as the wee man walking along you'd be on your left|clarify
 f|right so i go up and round right|acknowledge
 g|and circuit it|clarify
 g|and come straight back down the paper|instruct
@@ -114,16 +114,16 @@ g|now keep the buffalos to your right-hand side|instruct
 f|uh-huh|acknowledge
 g|and turn right immediately past them|instruct
 f|right|acknowledge
-g|now ther-- ther-- there's a cattle ranch|explain
+g|now there's a cattle ranch|explain
 f|right|acknowledge
 g|keep that on your left-hand side|instruct
 f|right|acknowledge
 g|are you by it|query_yn
 g|go by the cattle ranch|instruct
-f|a-- there isn't one on my page|explain
+f|there isn't one on my page|explain
 g|oh|acknowledge
 g|well is there a fort|query_yn
-f|s-- yes|reply_y
+f|yes|reply_y
 f|it's to my left but quite a bit in front|explain
 g|well head for it|instruct
 g|and go round it keeping it to your right go between the fort and the bottom of the paper|instruct
@@ -135,8 +135,8 @@ f|right|acknowledge
 f|how much by it|query_w
 g|just a wee bit|reply_w
 f|right|acknowledge
-f|'cause i've got a v-- carved wooden pole|explain
-g|the carved wooden pole is to the nor-- the s-- to the right of the finish|explain
+f|'cause i've got a carved wooden pole|explain
+g|the carved wooden pole is to the the to the right of the finish|explain
 f|above it|check
 g|aye|reply_y
 f|right i get it|acknowledge

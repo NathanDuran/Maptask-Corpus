@@ -10,7 +10,7 @@ f|okay|ready
 f|you mean the right-hand side|check
 g|no|reply_n
 g|it's at to the left of crane bay|explain
-f|ah right d--|acknowledge
+f|ah right|acknowledge
 g|oh the well is to the left of the crane bay|explain
 g|right|ready
 g|you have to go around the well to the left of the well|instruct
@@ -44,7 +44,7 @@ g|right okay right never mind|acknowledge
 g|you go|instruct
 f|you've got an iron bridge and local residents and stuff and hills|explain
 g|what have you got what what is uh|query_w
-g|see on your map at the bottom of cra-- bay crane bay|align
+g|see on your map at the bottom of bay crane bay|align
 g|what have you got|query_w
 f|iron bridge|reply_w
 g|iron bridge|acknowledge
@@ -74,12 +74,12 @@ f|you go up to there and turn|query_w
 g|right|clarify
 f|right|check
 g|uh-huh|reply_y
-g|you go along um now you go along do-- you know the ehm hang on hang on right wait stop there a minute|instruct
+g|you go along um now you go along you know the ehm hang on hang on right wait stop there a minute|instruct
 f|uh-huh|acknowledge
 g|is there a wood to the right of crane bay|query_yn
 f|yeah|reply_y
 f|woodlands|explain
-g|woo-- right okay|acknowledge
+g|right okay|acknowledge
 f|woodlands trees and all that yeah|check
 g|uh-huh yeah|reply_y
 g|right|ready
@@ -105,11 +105,11 @@ g|now|ready
 g|have you got farmed land|query_yn
 f|ehm i've got na-a-a-a-a|reply_w
 g|right well|ready
-f|i've got gurl-- g-- gurgling brook right at the right at the bottom is a dead tree|explain
+f|i've got gurgling brook right at the right at the bottom is a dead tree|explain
 g|does it|query_yn
 g|yeah yeah right|acknowledge
 g|see before the dead tree does the stream divide|query_yn
-f|it sort of just goes round doesn't div--|reply_w
+f|it sort of just goes round doesn't|reply_w
 f|yeah it divides|reply_y
 g|right|acknowledge
 g|go down to the division|instruct
@@ -128,7 +128,7 @@ g|uh-huh|reply_y
 f|uh-huh|acknowledge
 g|right|align
 g|then|ready
-g|you stop just at the bottom of the dea-- not just ehm|instruct
+g|you stop just at the bottom of the not just ehm|instruct
 g|you know where it says dead tree|align
 f|mmhmm|acknowledge
 g|just stop at the bottom there at the bottom of the dead tree just a few millimetres below the dead tree|instruct
@@ -194,7 +194,7 @@ g|green bay|align
 f|angie yeah green bay|reply_y
 g|there's a kind of ehm|explain
 g|right take it round round there|instruct
-g|righ--|ready
+g||ready
 g|there's a kind of eh tip made at green bay|explain
 g|you know where the sub is|align
 f|mmhmm|reply_y
@@ -206,7 +206,7 @@ f|uh-huh|acknowledge
 g|right|align
 g|stop there|instruct
 g|now|ready
-g|take it to the pi--|instruct
+g|take it to the|instruct
 g|is there a pirate ship there|query_yn
 f|yeah|reply_y
 g|right well|ready

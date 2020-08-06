@@ -3,7 +3,7 @@ g|do you have the start marked just above the diamond mine yeah|query_yn
 f|mmhmm|reply_y
 f|mmhmm|reply_y
 g|okay|acknowledge
-g|eh s-- straight down 'til you're just underneath the diamond mine and horizontally along under the diamond mine along|instruct
+g|eh straight down 'til you're just underneath the diamond mine and horizontally along under the diamond mine along|instruct
 g|you don't have the graveyard|query_yn
 f|the what|query_w
 g|graveyard|clarify
@@ -26,7 +26,7 @@ g|along from|query_yn
 g|right okay|acknowledge
 g|go down to the top of indian country|instruct
 f|mmhmm|acknowledge
-g|eh diagonally t-- down eh southwest 'til you're ehm underneath indian country about two inches away from it on your left|instruct
+g|eh diagonally down eh southwest 'til you're ehm underneath indian country about two inches away from it on your left|instruct
 f|say that again|query_w
 g|right go to indian country go horizontally along from it two inches and join a line from above it to|clarify
 g|right|ready
@@ -37,7 +37,7 @@ g|okay|align
 f|mmhmm|reply_y
 g|and then horizontally along above the gold mine|instruct
 f|mmhmm|acknowledge
-g|ehm round the left-hand side of the gold mine direct-- down for about five inches|instruct
+g|ehm round the left-hand side of the gold mine down for about five inches|instruct
 f|past the totem pole|check
 g|i haven't got a totem pole|explain
 g|eh 'til you're i would imagine 'til you're underneath the totem pole then|instruct
@@ -46,7 +46,7 @@ g|ehm you have a trout farm|query_yn
 f|nope|reply_n
 g|cavalry|query_yn
 f|right now|acknowledge
-g|no ca--|acknowledge
+g|no|acknowledge
 f|oh wait a minute wait a minute i've got a trout farm|explain
 g|okay|acknowledge
 g|ehm if you go|instruct
@@ -57,17 +57,17 @@ g|right okay|acknowledge
 g|if you kind of go curve down and then|instruct
 g|oh so you're five inches below the gold mine|align
 f|sort of|reply_w
-g|r--|acknowledge
+g||acknowledge
 f|i'm no sure how much an inch is to be honest but there we go|explain
 g|right okay eh|ready
 g|have you if you're underneath the totem pole then|instruct
 f|right|acknowledge
 g|is totem pole below the trout farm|query_yn
-f|no i--|reply_n
+f|no|reply_n
 f|well it's kind of opposite it|reply_w
 g|opposite it right|acknowledge
-g|go below the the totem pole then then and then acro-- horizontally across the page underneath the trout farm|instruct
-f|b-- below it|check
+g|go below the the totem pole then then and then horizontally across the page underneath the trout farm|instruct
+f|below it|check
 f|mmhmm|acknowledge
 g|then round 'til you're about an inch from the side two centimetres from the side of the page the trout farm|instruct
 f|right|acknowledge
@@ -84,7 +84,7 @@ g|uh-huh|reply_y
 g|and then are you under the bandit territory|align
 f|mmhmm|reply_y
 g|right|acknowledge
-g|just go s-- ehm to the left the bandit territory go north until you get to eh just about level to where the top of his the tree is|instruct
+g|just go ehm to the left the bandit territory go north until you get to eh just about level to where the top of his the tree is|instruct
 g|and that's the finish|explain
 f|what tree|query_w
 g|the tree in the bandit territory|clarify

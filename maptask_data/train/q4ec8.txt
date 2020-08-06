@@ -1,5 +1,5 @@
 g|right|ready
-g|ehm the diamond mine the d-- the diamond mine is like just eh to the the the right of you there|explain
+g|ehm the diamond mine the the diamond mine is like just eh to the the the right of you there|explain
 f|right i've got the diamond mine|acknowledge
 f|i've got the start and the diamond mine|explain
 g|right|acknowledge
@@ -7,7 +7,7 @@ g|now just go down beside the left-hand side of the diamond mine and eh just to 
 f|right|acknowledge
 g|then draw a line ehm a kind of go from there eh to just below the "s" of springboks|instruct
 f|don't have springboks|explain
-g|you don't have spri-- that's right|acknowledge
+g|you don't have that's right|acknowledge
 g|ehm okay right|ready
 g|in that case just draw a horizontal line to just below the eh to the the left of the "h" of highest viewpoint|instruct
 f|horizontal|check
@@ -44,16 +44,16 @@ g|so go on the outsides eh towards the paper edge ehm down to safari truck in a 
 f|right|acknowledge
 g|and then eh draw a diagonal line ehm from there across the top of safari truck down to field station|instruct
 f|that's on my map it's slightly above field station slightly above safari truck|explain
-g|what is above that f--|query_w
+g|what is above that|query_w
 f|above that's field station's on a level slightly above safari truck|reply_w
 g|right|acknowledge
 g|well mine's eh on the same level|explain
 g|ehm it what what is there anything else that's in eh that's causing it to be up like that|query_w
-f|well there's a banana tree direc-- directly below diamond mine|reply_w
+f|well there's a banana tree directly below diamond mine|reply_w
 g|right|acknowledge
 f|it's slightly below safari truck slightly below the level of safari truck|reply_w
 g|right okay|acknowledge
-g|well eh wh-- you're just next to the eh that what was the object you've just drawn past|query_w
+g|well eh you're just next to the eh that what was the object you've just drawn past|query_w
 f|i've just drawn past the overgrown gully|reply_w
 f|i'm now at the top right-hand corner of safari truck|explain
 g|right|acknowledge
@@ -61,10 +61,10 @@ g|ehm well draw eh a kind of diagonal line and then turn it|instruct
 f|up or down|query_w
 g|eh from right to left eh downwards|clarify
 g|eh underneath field station|instruct
-f|right that's way over the la-- the far left-hand side of the page on my map|explain
+f|right that's way over the the far left-hand side of the page on my map|explain
 g|where is field station|query_w
 f|field station's way over the far left|reply_w
-g|it's the far l-- uh|acknowledge
+g|it's the far uh|acknowledge
 g|well there's two field stations on my map|explain
 f|there's not one on mine|explain
 g|right|acknowledge
@@ -75,7 +75,7 @@ g|ehm in that case you want to draw the diagonal line and then|instruct
 g|where is banana tree|query_w
 f|banana tree is directly below diamond mine and it's slightly above the centre of the page|reply_w
 g|right|acknowledge
-g|so eh well draw this d-- diagonal line down and then change it to a curve at the top level of banana tree and curve it round banana tree ehm with the apex of the curve pointing to the top right-hand corner sorry left-hand corner|instruct
+g|so eh well draw this diagonal line down and then change it to a curve at the top level of banana tree and curve it round banana tree ehm with the apex of the curve pointing to the top right-hand corner sorry left-hand corner|instruct
 f|right what was that again sorry|query_w
 g|right|acknowledge
 f|this pen's running out i think|explain
@@ -88,7 +88,7 @@ g|right ehm right i'll just do the the bit at the safari truck right|explain
 g|draw a diagonal line from where you were|clarify
 g|right|align
 f|right|reply_y
-g|eh to the same just below the s-- the level of s-- the word safari truck and ab-- abou-- between banana tree and safari truck|clarify
+g|eh to the same just below the the level of the word safari truck and between banana tree and safari truck|clarify
 f|okay|acknowledge
 f|okay|acknowledge
 g|which is slightly above eh banana tree|explain
@@ -104,14 +104,14 @@ g|in that case eh well gold mine on my map is halfway between rock fall and bana
 f|okay|acknowledge
 f|directly below|check
 g|okay|align
-g|it's directly below banana tree and directly above rock fall a--|clarify
+g|it's directly below banana tree and directly above rock fall|clarify
 f|right|acknowledge
 g|and it's eh in the at the mid point of the two of that line|clarify
 f|okay|acknowledge
 g|right|align
 g|so ehm i want you to come down to two thirds of the way between eh rock fall and banana tree have|instruct
 f|is that two thirds beneath banana tree or two thirds up|check
-g|two t-- eh that's two third beneath banana tree|clarify
+g|two eh that's two third beneath banana tree|clarify
 f|right|acknowledge
 g|right ehm now there i want you to draw ehm a horizontal line to the left sorry to the right sorry eh to the right just eh so that you're on the other side of banana tree if you understand|instruct
 f|right|acknowledge
@@ -132,7 +132,7 @@ g|right|acknowledge
 f|to the right and below|clarify
 g|right and below right|acknowledge
 g|ehm what i want you to do is|instruct
-g|is there anything between the go-- eh between the where you are now and the rope bridge|query_yn
+g|is there anything between the eh between the where you are now and the rope bridge|query_yn
 f|no|reply_n
 g|right|acknowledge
 g|i want you to draw a line up to the rope bridge|instruct
@@ -149,7 +149,7 @@ g|and there's any other obstacles there|query_yn
 f|there's a disused warehouse at the bottom roughly about two a third of the way in from the right|reply_w
 g|right|acknowledge
 g|right|acknowledge
-g|is it eh bel-- is it above great lake and below g-- giraffes|query_yn
+g|is it eh is it above great lake and below giraffes|query_yn
 f|no|reply_n
 f|it's to the right of great lake on a level with it|clarify
 g|right|acknowledge

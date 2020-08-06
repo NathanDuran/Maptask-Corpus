@@ -2,7 +2,7 @@ g|okay the start part is at the top left-hand corner|instruct
 f|uh-huh|acknowledge
 g|okay|align
 f|uh-huh|reply_y
-g|ehm you're coming the s-- for three inches down below that|instruct
+g|ehm you're coming the for three inches down below that|instruct
 g|do you have a diamond mine there|query_yn
 f|yeah right|reply_y
 f|on the right-hand side roughly just|check
@@ -14,7 +14,7 @@ g|you just go straight down underneath it|instruct
 f|right okay oops that was|acknowledge
 g|do you have a graveyard just along from the diamond mine|query_yn
 f|no|reply_n
-f|i've got a gallows to the left like d-- below the left|explain
+f|i've got a gallows to the left like below the left|explain
 g|no|reply_n
 g|no|reply_n
 g|just ignore that|instruct
@@ -24,7 +24,7 @@ f|oh no i have got a gold mine but it's it's a it's a good bit below that|explai
 g|sorry no|reply_n
 g|i said a graveyard|explain
 f|oh sorry|acknowledge
-f|no oh no i s-- d--|reply_n
+f|no oh no i|reply_n
 g|no it's to the right-hand side of the diamond mine on my map there's a graveyard right beside it|explain
 g|okay|align
 f|no i haven't got that|reply_w
@@ -37,7 +37,7 @@ f|right|ready
 f|how far underneath the diamond mine|query_w
 g|it's about an inch or so|reply_w
 f|right okay five inches right along|acknowledge
-f|up along to near a r-- a ravine stuff thing|query_yn
+f|up along to near a a ravine stuff thing|query_yn
 g|no i don't have the ravine|reply_w
 f|i've got|explain
 g|do you have carved stones|query_yn
@@ -48,7 +48,7 @@ f|bit underneath it and i've got a ravine right in the middle between they two|e
 g|right well|ready
 g|try and ehm go as close to ravine as possible but up towards the carved stones|instruct
 f|right|acknowledge
-f|in a curve or a s-- tight angle|query_w
+f|in a curve or a tight angle|query_w
 g|in a curve|reply_w
 g|above the carved stones|clarify
 f|above the carved stones|check
@@ -95,7 +95,7 @@ f|right okay got that|acknowledge
 g|okay|ready
 g|just going curving along down the side of the gold mine|instruct
 f|right|acknowledge
-g|you're going quite far down maybe ab--|instruct
+g|you're going quite far down maybe|instruct
 g|wait a second what do you have underneath the gold mine anything|query_w
 f|i've i've got a gold mine a totem pole and then a great rock a really good bit down|reply_w
 g|right|acknowledge
@@ -103,13 +103,13 @@ f|and then bandit territory right at the bottom|reply_w
 g|right|acknowledge
 g|what you're trying to do is avoid the totem pole|instruct
 f|uh-huh|acknowledge
-g|go un-- i would say go underneath the totem pole|instruct
+g|go i would say go underneath the totem pole|instruct
 g|do you have a trout farm|query_yn
 f|eh aye|reply_y
 f|but it's away over to the right-hand side|explain
 g|the right yeah|acknowledge
 g|well|ready
-g|you're getting from underneath the totem pole above th-- which is above the great rock|instruct
+g|you're getting from underneath the totem pole above which is above the great rock|instruct
 f|uh-huh|acknowledge
 g|underneath that and then heading across to the right to the trout farm|instruct
 f|right okay|acknowledge
@@ -118,13 +118,13 @@ f|no|reply_n
 g|no|acknowledge
 g|well|ready
 f|i'm up shit creek i haven't got a cavalry|explain
-g|go s--|instruct
+g|go|instruct
 g|right|ready
 g|go straight underneath the trout farm|instruct
 f|right so|ready
-f|i'm coming from a totem pole at a di-- totem pole like in a dinai diagonal across to the trout farm|check
+f|i'm coming from a totem pole at a totem pole like in a dinai diagonal across to the trout farm|check
 g|yeah|reply_y
-g|sort of cu-- well curve sort of up to the trout farm|clarify
+g|sort of well curve sort of up to the trout farm|clarify
 f|right okay|acknowledge
 g|go along|instruct
 f|above or below the trout farm|query_w
@@ -136,7 +136,7 @@ g|to the right-hand side|instruct
 f|uh-huh|acknowledge
 g|and about about an inch away from the end of the sheet of paper|instruct
 f|uh-huh|acknowledge
-g|and then go straight d--|instruct
+g|and then go straight|instruct
 g|do you have a cattle stockade|query_yn
 f|right near near the corner|query_yn
 g|uh-huh|reply_y
@@ -152,7 +152,7 @@ f|right uh-huh|acknowledge
 g|um do you have anything between this cattle stockade and the bandit territory|query_yn
 f|i've got a parched river bed|reply_w
 g|right|acknowledge
-f|but it's sort of nearer the cattle stockade but roughly in the middle cattle stock--|explain
+f|but it's sort of nearer the cattle stockade but roughly in the middle cattle|explain
 g|is it sort of underneath the cattle stockade|query_yn
 f|aye just a wee bit under|reply_y
 g|right|acknowledge
@@ -165,7 +165,7 @@ f|right done that uh-huh|acknowledge
 g|right underneath it|instruct
 g|and then just come back up 'til you're level with the top of the plant thing about a|instruct
 f|what plant thing|query_w
-g|at th-- at the bandit territory|reply_w
+g|at at the bandit territory|reply_w
 f|oh right|acknowledge
 f|oh the cactus|check
 g|yeah the cactus|reply_y
@@ -174,4 +174,4 @@ g|so you're about an inch away from the edge of the sheet of paper|instruct
 f|uh-huh|acknowledge
 g|and just that's your cross is there that's it finished|instruct
 f|okey-dokey|acknowledge
-f|oh that looks an interes--|explain
+f|oh that looks an|explain

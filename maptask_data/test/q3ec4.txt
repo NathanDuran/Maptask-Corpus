@@ -1,13 +1,13 @@
 f|ah where do i start ross|query_w
 g|the start is ah here it's due north of the crest falls at the bottom right-hand side of your page|reply_w
 f|oh right i've got it see it anyway right|acknowledge
-g|right ehm go just beyond the crest falls to to y-- well it's my left anyway mmhmm i think it|instruct
+g|right ehm go just beyond the crest falls to to well it's my left anyway mmhmm i think it|instruct
 f|be my left as well|explain
-g|t-- ah yeah|acknowledge
-g|to y-- to the we-- to the west then|instruct
+g|ah yeah|acknowledge
+g|to to the to the west then|instruct
 g|okay|align
 f|west|acknowledge
-g|come s-- due south to level at the bottom of crest falls|instruct
+g|come due south to level at the bottom of crest falls|instruct
 f|how far do you west do you want me to go|query_w
 g|just beyond crest falls|clarify
 f|right okay yes|acknowledge
@@ -34,7 +34,7 @@ g|then do you have the old temple|query_yn
 f|yes|reply_y
 g|right|acknowledge
 g|go east and go north west of the old you know go north just to the west of the old temple|instruct
-f|do you go m-- go right|check
+f|do you go go right|check
 f|go to the right|check
 g|ah yeah|reply_y
 g|and go up to the left of the north temple of the old temple go north to the left of the old temple|clarify
@@ -54,7 +54,7 @@ f|right aye|reply_y
 g|right|acknowledge
 g|well see ah about an inch above the abandoned truck that is where you should be|explain
 f|right okay|acknowledge
-g|now are y--|ready
+g|now are|ready
 g|go straight across to the abandoned truck and then come south so that you're just underneath it|instruct
 f|how far right to my my left|check
 g|go to your left 'til you're uh ah until you're level and then south so that you're just underneath it you should be above it|clarify
@@ -63,18 +63,18 @@ g|you go to your left obviously yes 'cause that's where the abandoned truck is n
 f|right|acknowledge
 g|now do you have baboons|query_yn
 f|no right do i do i i stop before i reach the abandoned truck or after i reach the abandoned truck|query_yn
-g|stop after you reach the aba-- just just right after you've gone under it|clarify
+g|stop after you reach the just just right after you've gone under it|clarify
 g|okay|align
 f|right okay right|reply_y
-f|so i go back left again i keep going left agai-- i go down then i go left|check
+f|so i go back left again i keep going left i go down then i go left|check
 g|oh yeah|reply_y
-g|you s-- you you keep goi--|clarify
+g|you you you keep|clarify
 g|you go down and then you go left|clarify
-g|right an-- you you y-- right uh ye-- i don't suppose you've got the balloons the baboons|query_yn
+g|right you you right uh i don't suppose you've got the balloons the baboons|query_yn
 f|right okay let me cross this bit|acknowledge
 f|i haven't got any baboons no|reply_n
 g|ehm|acknowledge
-g|right do you know where y-- y-- a-- go down about two inches|instruct
+g|right do you know where go down about two inches|instruct
 g|okay|align
 f|right|reply_y
 g|'til you're about an inch above the path that you took to the footbridge|instruct
@@ -100,12 +100,12 @@ f|no|reply_n
 g|do you have the remote village|query_yn
 f|yes|reply_y
 g|the remote village is about|explain
-f|should b-- directly below me almost|explain
+f|should directly below me almost|explain
 g|are you just you should have gone just right under the pyramid should|align
 f|right i'm right under it|reply_y
 g|right exactly|acknowledge
 g|right|ready
-g|come across a tad 'til you are a-- r-- roughly a centimetre from the white mountain if you take a line up but not un-- a-- y-- y-- you know as-- it-- so that your line is the same direction that you took the line under the pyramid|instruct
+g|come across a tad 'til you are roughly a centimetre from the white mountain if you take a line up but not you know so that your line is the same direction that you took the line under the pyramid|instruct
 f|mmhmm|acknowledge
 g|just take it a wee bit further across so that you'll clear the remote village|instruct
 f|right all right no problem|acknowledge
@@ -114,12 +114,12 @@ f|right|ready
 f|i'm so i'm just above the white mountain|explain
 g|you're actually above it|check
 f|mmhmm|reply_y
-g|if you t-- if you take a line due south you're going to hit it|explain
+g|if you if you take a line due south you're going to hit it|explain
 g|all i want you to do is clear the remote village|instruct
 f|i have cleared it|explain
 f|right the remote village is like ah four inches below the pyramid in this|align
 g|yes|reply_y
-g|you are just b-- you are just below the pyramid|explain
+g|you are just you are just below the pyramid|explain
 f|right|acknowledge
 g|you've come out about a centimetre from|explain
 f|right|acknowledge
@@ -127,7 +127,7 @@ f|i'm in between the remote village and the pyramid|explain
 g|are you|check
 f|uh-huh|reply_y
 g|why|query_w
-f|because you told me to come under the per-- pyramid|reply_w
+f|because you told me to come under the pyramid|reply_w
 g|yeah|acknowledge
 g|you're under the pyramid|align
 g|okay right|reply_y

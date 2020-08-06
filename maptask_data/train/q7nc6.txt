@@ -20,13 +20,13 @@ f|yeah|reply_y
 g|and what you do is you go up and then you turn right and go along a couple of inches before you get to the footbridge|instruct
 f|okay|acknowledge
 g|okay|align
-g|right so yo-- and you just like go along as if you're walking across the footbridge th-- the line goes along the footbridge|instruct
+g|right so and you just like go along as if you're walking across the footbridge the line goes along the footbridge|instruct
 f|okay|acknowledge
 g|and it immediately drops straight down after that|instruct
 f|okay|acknowledge
 g|okay|align
 g|about an inch|instruct
-g|and there's a p--|explain
+g|and there's a|explain
 g|have you got a poisoned stream there|query_yn
 f|no|reply_n
 g|no right|acknowledge
@@ -58,7 +58,7 @@ f|i don't have anything|explain
 g|right|acknowledge
 g|well we what we have to do is like draw like a cup shape thing round if you go down about an inch and along about no down about an inch and a half along an inch and a half and then up|instruct
 f|up and then a cup|check
-g|an-- in a cul-- in a kind of you know bowl-shaped thing right|clarify
+g|in a in a kind of you know bowl-shaped thing right|clarify
 f|okay|acknowledge
 f|yeah|acknowledge
 g|and then you head up|instruct
@@ -73,7 +73,7 @@ f|okay|acknowledge
 g|have you got something above that|query_w
 f|a lemon grove|reply_w
 g|right|ready
-g|go round the lemon grove t-- turn to your right|instruct
+g|go round the lemon grove turn to your right|instruct
 f|okay|acknowledge
 g|okay|align
 g|and you got a pyramid|query_yn
@@ -88,7 +88,7 @@ g|so it's you're almost drawing a triangle round it but not quite|clarify
 f|yeah|acknowledge
 g|right|ready
 g|underneath that have you got a cobbled street and a remote village|query_yn
-f|y-- i just a remote village|reply_w
+f|i just a remote village|reply_w
 g|right|acknowledge
 g|well so we've got something right above there|explain
 g|right|align

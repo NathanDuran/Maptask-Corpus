@@ -31,7 +31,7 @@ g|uh-huh to the left|reply_y
 f|above the "e"|check
 g|no|reply_n
 f|oh right|acknowledge
-g|b-- just d-- st-- across from the "e"|clarify
+g|just across from the "e"|clarify
 f|okay|acknowledge
 g|okay|align
 f|just a centimetre and draw a dot|check
@@ -45,7 +45,7 @@ g|well it's kind of down 'cause your start's above the extinct volcano|clarify
 f|uh-huh|acknowledge
 g|okay|align
 f|right|reply_y
-g|so you've drawn a line down to th-- there|align
+g|so you've drawn a line down to there|align
 f|to where|query_w
 g|to that dot that i've just given you about a centimetre from the extinct volcano|reply_w
 f|right|acknowledge
@@ -74,7 +74,7 @@ f|okay|acknowledge
 g|down|instruct
 g|okay|align
 f|so like|check
-g|then st--|instruct
+g|then|instruct
 f|okay|reply_y
 g|so you're getting towards the bottom of the page|clarify
 f|okay|acknowledge
@@ -82,10 +82,10 @@ g|right|ready
 g|now stop|instruct
 f|uh-huh|acknowledge
 g|right|ready
-g|now you you sh-- you should be about two or three centimetres from the bottom of the page|align
+g|now you you you should be about two or three centimetres from the bottom of the page|align
 f|uh-huh|reply_y
 g|right|acknowledge
-g|y-- on my map i've got a tribal settlement along to the left towards the left-hand side of the page|explain
+g|on my map i've got a tribal settlement along to the left towards the left-hand side of the page|explain
 f|no i haven't|explain
 g|and what you're going to do is draw a straight line to the left|instruct
 f|mmhmm|acknowledge
@@ -104,13 +104,13 @@ g|you're now going to go up the page|instruct
 g|towards your rope bridge and you're going to cross the rope bridge|instruct
 f|mmhmm|acknowledge
 f|okay|acknowledge
-g|okay so go s--|instruct
+g|okay so go|instruct
 f|so do i go straight up then|check
 g|uh-huh just go straight up|reply_y
 g|and veer off to the right to the rope bridge|clarify
 g|you know how you've the rope bridge|align
 f|uh-huh|reply_y
-g|j-- just just go up as though you're going to|clarify
+g|just just go up as though you're going to|clarify
 f|oh right|acknowledge
 f|just doing a diagonal again towards it|check
 g|uh-huh|reply_y
@@ -141,7 +141,7 @@ f|uh-huh|reply_y
 g|right|ready
 g|just under the "o" of the collapsed shelter you're going straight right|instruct
 f|oh right so oh right|acknowledge
-g|until you're underneath the "o" of the collapsed shelter you're about th-- two centimetres below the "o" of the collapsed shelter actually|instruct
+g|until you're underneath the "o" of the collapsed shelter you're about two centimetres below the "o" of the collapsed shelter actually|instruct
 f|is there not a squiggly line there|check
 f|'cause i've got a machete in between the rope bridge and the collapsed shelter i couldn't go straight across|explain
 g|uh-huh|reply_y
@@ -162,7 +162,7 @@ f|is it not a couple of inches|check
 g|aye it's a couple of inches across to the collapsed shelter|reply_y
 g|but you're only going down about a couple of er you're only going down about an inch|clarify
 f|i'm going down more than that|explain
-g|well don't go d--|instruct
+g|well don't go|instruct
 g|just go down|instruct
 f|i think it'll be thing with the machete i think it'll be out of it|explain
 g|okay|acknowledge
@@ -172,7 +172,7 @@ f|uh-huh|reply_y
 g|until you're about|align
 f|to the "o" of the collapsed shelter|reply_w
 g|uh-huh|acknowledge
-g|but you're down a-- below the "o"|align
+g|but you're down below the "o"|align
 f|uh-huh okay right|reply_y
 g|okay|align
 f|okay|reply_y
@@ -207,19 +207,19 @@ g|okay|align
 f|okay|reply_y
 g|and now you now you're up here|instruct
 f|mmhmm|acknowledge
-g|now i want you to right you're going to v--|instruct
+g|now i want you to right you're going to|instruct
 g|see at the "n" of the saxon barn|align
 f|mmhmm|reply_y
 g|right if you want to draw a dot there|instruct
 f|okay|acknowledge
 g|okay|align
-g|that's where you're heading--|instruct
+g|that's where you're|instruct
 f|below it directly below it|check
 g|directly below it|clarify
 f|uh-huh|acknowledge
 g|that's where you want to head for|instruct
 f|okay|acknowledge
-g|but you're going to d-- go d-- like diagonally to it|instruct
+g|but you're going to go like diagonally to it|instruct
 f|okay|acknowledge
 g|but i want you to go up a tiny wee bit first then go down diagonally to it|instruct
 f|right okay|acknowledge
@@ -228,7 +228,7 @@ g|uh-huh|acknowledge
 g|so it's like a wee hump|instruct
 f|okay|acknowledge
 g|okay|align
-f|a--|acknowledge
+f||acknowledge
 f|it's just a like is it a kind of curvy hump|check
 g|uh-huh|reply_y
 f|okay then|acknowledge
@@ -242,13 +242,13 @@ f|uh-huh|acknowledge
 g|right you're underneath the "n" of the saxon barn now|align
 f|uh-huh|reply_y
 g|right|ready
-g|just underline saxon barn to the le-- go t-- left until you're underneath the "s"|instruct
+g|just underline saxon barn to the go left until you're underneath the "s"|instruct
 f|okay|acknowledge
 f|right okay|acknowledge
 g|okay|align
 g|right have you got a group of pelicans|query_yn
 f|no|reply_n
-g|right if you think see between this thi-- see how the saxon barn and the rope bridge are above each other|align
+g|right if you think see between this see how the saxon barn and the rope bridge are above each other|align
 f|uh-huh|reply_y
 g|well to the left i've got a bunch of pelicans|explain
 f|right okay|acknowledge
@@ -261,7 +261,7 @@ g|so what you're doing is you're|instruct
 f|are they in a straight are they like horizontal to the saxon barn|check
 g|are there they're horizontal to the saxon barn|reply_y
 f|uh-huh|acknowledge
-g|but they're they're th-- they're they're they're down a bit they're in between the saxon barn and the rope bridge if you can think about it|clarify
+g|but they're they're they're they're they're down a bit they're in between the saxon barn and the rope bridge if you can think about it|clarify
 f|okay|acknowledge
 g|see to like to make a triangle see the point of the triangle|align
 f|uh-huh|reply_y
@@ -299,7 +299,7 @@ g|so you're climbing up to|instruct
 g|oh you're climbing up to the top of the white mountain|instruct
 f|okay|acknowledge
 g|okay|align
-g|right up t-- up to the wee peak|instruct
+g|right up up to the wee peak|instruct
 f|all right just follow it then|check
 g|aye|reply_y
 g|just follow the the route|clarify
@@ -313,7 +313,7 @@ f|oh yeah i have uh-huh sorry|reply_y
 g|right|acknowledge
 g|go straight up as though you're heading for that big rock at the golden beach|instruct
 f|okay|acknowledge
-g|see the l-- rock at the right of this big black thing|align
+g|see the rock at the right of this big black thing|align
 f|uh-huh|reply_y
 f|right|ready
 f|i'm up|explain
@@ -322,7 +322,7 @@ g|just a wee bit below that rock and stop|instruct
 f|uh-huh|acknowledge
 g|right|ready
 g|now we're going|instruct
-g|completely rou-- we're going right now to the towards the slate mountain|instruct
+g|completely we're going right now to the towards the slate mountain|instruct
 f|okay|acknowledge
 g|okay|align
 g|so go right until you're at the bottom of the slate mountain|instruct
@@ -337,17 +337,17 @@ g|and i'll|instruct
 g|just at the left|reply_w
 f|oh mine's on the right|explain
 g|ah right|acknowledge
-g|but you you're y-- right okay you've got to the f-- top of the white mountain|align
+g|but you you're right okay you've got to the top of the white mountain|align
 f|uh-huh|reply_y
 g|right i wanted you to go straight up|instruct
 f|okay i'll go straight up|acknowledge
-f|how lo-- how far|query_w
+f|how how far|query_w
 g|ehm about three inches|clarify
 f|okay right got you|acknowledge
-g|just no i d-- i'll tell you what|clarify
+g|just no i i'll tell you what|clarify
 g|see your slate mountain|align
 g|you're going straight up until you're just parallel with the slate mountain|clarify
-g|you know and bu-- sorry|align
+g|you know and sorry|align
 f|mmhmm|reply_y
 g|see the bottom of the slate mountain|align
 f|mmhmm|reply_y
@@ -358,7 +358,7 @@ g|okay|align
 g|then i want you to go along|instruct
 f|oh|acknowledge
 g|to the right three inches 'til you're at the bottom of your slate mountain|instruct
-f|is that three inch--|check
+f|is that three|check
 f|oh i suppose so|explain
 g|uh-huh|reply_y
 g|you know what i mean|align
@@ -385,7 +385,7 @@ g|okay|align
 g|then have you got a secret valley|query_yn
 f|no oh yeah i have sorry yeah|reply_y
 g|right|ready
-g|go straight down straight down until you're at and just like miss the secret valley go round as though you're ent--|instruct
+g|go straight down straight down until you're at and just like miss the secret valley go round as though you're|instruct
 g|right okay|ready
 g|go straight down until you're at the bottom of the secret valley|instruct
 f|mmhmm|acknowledge
@@ -396,7 +396,7 @@ g|and then go along right as though you're underlining the secret valley|instruc
 f|right okay|acknowledge
 g|and see just about a centimetre from the "y"|align
 f|uh-huh|reply_y
-g|aron-- along to your right|align
+g|along to your right|align
 f|uh-huh|reply_y
 g|that's the cross and that's the finish|explain
 f|is it|check

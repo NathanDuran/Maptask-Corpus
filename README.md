@@ -23,6 +23,7 @@ By default:
 - Utterances are written one per line in the format *Speaker* | *Utterance Text* | *Dialogue Act Tag*.
 - Setting the utterance_only_flag == True, will change the default output to only one utterance per line i.e. no speaker or DA tags.
 - Utterances marked as *Uncodable* ('uncodable' tag) are removed.
+- Incomplete words have been removed i.e. 'th--'.
 
 ### Example Utterances
 g|okay|ready
@@ -56,12 +57,12 @@ Non Yes-No-Question            |       query_w        |   772    |   2.88   |   
 - Total number of dialogues: 128
 - Maximum dialogue length: 682
 - Mean dialogue length: 209
-- Vocabulary size: 2189
+- Vocabulary size: 1797
 - Number of labels: 12
 - Number of dialogue in train set: 102
 - Maximum length of dialogue in train set: 682
 - Number of dialogue in test set: 13
-- Maximum length of dialogue in test set: 292
+- Maximum length of dialogue in test set: 314
 - Number of dialogue in val set: 13
 - Maximum length of dialogue in val set: 439
 

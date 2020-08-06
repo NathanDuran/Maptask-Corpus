@@ -2,7 +2,7 @@ f|are we going to do it the same way as we did it the last time from the standpo
 g|right okay|reply_y
 f|right the wee man walking along the track right|align
 g|aye right|reply_y
-g|so you're standing at the s-- the start's above the stony desert which is to your left|explain
+g|so you're standing at the the start's above the stony desert which is to your left|explain
 f|er well it's no|explain
 f|it's behind me but the right|explain
 g|right|ready
@@ -10,7 +10,7 @@ g|if you're walking along the path then walk forward about a centimetre and a ha
 f|uh-huh|acknowledge
 g|and then veer in a curve to your left|instruct
 f|should i be seeing anything|query_yn
-g|no there's a site of a plane crash quite a bit a-- on the other side of the paper in front of you|reply_w
+g|no there's a site of a plane crash quite a bit on the other side of the paper in front of you|reply_w
 g|is that there no|query_yn
 f|no it's miles away|reply_n
 f|it's away up the top|explain
@@ -42,7 +42,7 @@ g|then go up|instruct
 f|so i turn to my right|check
 g|uh-huh turn to your right|reply_y
 f|uh-huh|acknowledge
-g|about five centi--|instruct
+g|about five|instruct
 g|have you got a collapsed shelter|query_yn
 f|aye|reply_y
 g|right|acknowledge
@@ -64,16 +64,16 @@ f|right|acknowledge
 g|and then go round to your left|instruct
 f|my left|check
 g|as you're the wee guy|clarify
-f|so that's going up the-- up the paper again|check
+f|so that's going up up the paper again|check
 g|oh no have you not turned down yet|align
-f|right i've turned-- i've turned down right by the collapsed shelter towards the bottom of the paper|reply_w
+f|right i've i've turned down right by the collapsed shelter towards the bottom of the paper|reply_w
 g|uh-huh|acknowledge
 g|and then go in a straight line|instruct
 f|uh-huh|acknowledge
 g|left|instruct
 f|left|acknowledge
 f|right|acknowledge
-g|and then turn right how far about f-- 'til you're directly above the start|instruct
+g|and then turn right how far about 'til you're directly above the start|instruct
 f|uh-huh|acknowledge
 f|right|acknowledge
 g|and then turn up the page to your left|instruct
@@ -129,7 +129,7 @@ g|right well go up round the lake in a circle|instruct
 g|have you got roman baths no|query_yn
 f|uh-huh|acknowledge
 f|no|reply_n
-g|right well just go round in a sort of circle circ-- circle the the lake|instruct
+g|right well just go round in a sort of circle circle the the lake|instruct
 f|uh-huh|acknowledge
 f|so where should i be heading doon the page uh|check
 g|and then head down the page|instruct

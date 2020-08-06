@@ -2,32 +2,32 @@ g|right ready|align
 f|yeah|reply_y
 g|okay|align
 f|okay|reply_y
-g|go n-- start at start|instruct
+g|go start at start|instruct
 g|do you have a start|query_yn
 f|yeah|reply_y
 g|do you have you're at start|align
 g|okay|acknowledge
 f|uh-huh|reply_y
 g|um alright|ready
-g|go directly south but make the shape of a little camel's hump direct--|instruct
+g|go directly south but make the shape of a little camel's hump|instruct
 f|what way|check
 g|directly south|clarify
 f|right|acknowledge
 g|say you know|ready
 f|how far is that how far south before i make a camel's hump|query_w
-g|the nor--|clarify
+g|the|clarify
 g|just just on your way south make a little hump|clarify
 g|and go down about oh three inches|reply_w
 f|like|ready
 f|how big's the hump like|query_w
 g|just like a wee little like a little hill|clarify
 f|aye|acknowledge
-f|but how-- how bi-- how long a one|query_w
+f|but how how long a one|query_w
 g|just like the well the three inch line going south should just be like a little just have a little a hump to|clarify
 f|a curve a curvy line|check
 g|it does|clarify
 g|pardon yeah yeah|reply_y
-g|sort of j-- well well just with one but i d-- i guess it doesn't matter so just go down south about three inches|clarify
+g|sort of well well just with one but i i guess it doesn't matter so just go down south about three inches|clarify
 f|right okay|acknowledge
 g|then go|ready
 f|one two|acknowledge
@@ -63,7 +63,7 @@ g|now we want to go um diagonally northeast and sort of avoid the obstacle on th
 f|yeah|acknowledge
 f|have you got a name written on it|query_yn
 f|that wee obstacle|query_yn
-g|c--|reply_w
+g||reply_w
 g|carpenter|reply_w
 f|yeah|acknowledge
 f|so have i|explain
@@ -73,8 +73,8 @@ g|and so now|ready
 g|we're right below the green bay|explain
 g|do you have that|query_yn
 f|no|reply_n
-f|n-- that's different in mine|explain
-g|okay anyway s--|acknowledge
+f|that's different in mine|explain
+g|okay anyway|acknowledge
 f|right wait a minute right hang on right|ready
 f|diagonal sort of like|check
 g|north yeah|clarify
@@ -95,7 +95,7 @@ f|along to some trees maybe roughly|query_yn
 g|yeah|reply_y
 f|right|acknowledge
 g|well we want to of this is what i okay well let's see|ready
-g|we want to go st-- east east about two inches|instruct
+g|we want to go east east about two inches|instruct
 f|right|acknowledge
 g|and then sort of slope down about two inches and approach the left of these trees|instruct
 f|right|acknowledge
@@ -112,14 +112,14 @@ g|so|ready
 g|it it doesn't go directly from it's sort of like more like a slope|clarify
 f|so|ready
 f|almost like half a "zed" shape|check
-f|you know like a z-- letter "zed"|check
+f|you know like a letter "zed"|check
 g|mmhmm|reply_y
 f|right okay i've done that|acknowledge
 g|you mean "zee"|query_yn
 f|yeah i mean "zed"|reply_y
 g|"zed" okay|acknowledge
 f|to me eh|reply_y
-g|so now so he-- alright|ready
+g|so now so alright|ready
 g|here we are|align
 f|right|acknowledge
 g|so now|ready
@@ -134,11 +134,11 @@ f|yeah|acknowledge
 g|got by and now|reply_w
 f|i'm|explain
 f|well|ready
-f|i'm not quite beyond well i'm just about bo-- at the bottom of them|explain
+f|i'm not quite beyond well i'm just about at the bottom of them|explain
 g|yeah yeah|acknowledge
 g|that's exactly where you should be|explain
 f|right okay|acknowledge
-g|but now is there something even be-- right below the trees|query_yn
+g|but now is there something even right below the trees|query_yn
 f|no there isn't|reply_n
 g|okay well|acknowledge
 f|there's a there's a bit a couple of bits down called fields|explain
@@ -157,19 +157,19 @@ f|right|acknowledge
 g|you want to take your index finger and do like a semicircle right from there to the top of the fields just like a sort of a|instruct
 f|like a big curve like|check
 g|yeah yeah|reply_y
-g|a s-- eh half a curve though|clarify
+g|a eh half a curve though|clarify
 f|yeah|acknowledge
 g|just so it's like a curve to the right and it's only that|clarify
 f|okay|acknowledge
 f|like if it like 'cause i'm left handed like if i put my hand on that and just swiveled my hand right round|check
-g|and s--|clarify
+g|and|clarify
 g|if you put your left index finger and just go to the right|clarify
 f|yeah|acknowledge
 g|and it's like a half semicircle half circle|clarify
 f|right okay|acknowledge
 g|okay so now|ready
 g|we're at the top|align
-f|to to right above the t-- th-- the fields|check
+f|to to right above the the fields|check
 g|fields yeah|reply_y
 f|right okay|acknowledge
 g|and then like|ready
@@ -177,13 +177,13 @@ g|say say you put your thumb|instruct
 f|so so yeah sorry|acknowledge
 g|put your left thumb right over the fields and then trace around it|instruct
 f|what|query_w
-g|put put y--|clarify
+g|put put|clarify
 f|bend it|check
 f|no i'm left handed so it'd be my right thumb|explain
 g|no no|reply_n
 g|your left i'm doing it with my left hand|explain
 f|oh right|acknowledge
-f|how h-- h--|query_w
+f|how|query_w
 g|put okay|ready
 g|put your put your left thumb just so the tip of your thumb is facing right is facing east|clarify
 f|right|acknowledge
@@ -200,8 +200,8 @@ g|yeah|acknowledge
 g|just well just use the right thing 'cause all you need to do is trace around your thumb|instruct
 f|will it not go through the fields|query_yn
 g|well|ready
-g|it should be you sh-- your thumb should be directly on the fields and then you should be going around it|clarify
-f|well it's the fiel--|ready
+g|it should be you your thumb should be directly on the fields and then you should be going around it|clarify
+f|well it's the|ready
 f|so|ready
 f|it's like just like tracing round the fields really|check
 g|yeah yeah|reply_y
@@ -227,7 +227,7 @@ f|uh|acknowledge
 g|and come right along to the edge of the bay|instruct
 f|uh-huh|acknowledge
 f|right|acknowledge
-g|and then s--|instruct
+g|and then|instruct
 f|right|ready
 f|right to the edge of the bay|check
 g|yeah like about|reply_y
@@ -239,7 +239,7 @@ g|in between|clarify
 g|and then|ready
 g|does the bay sort of slope down to the left|query_yn
 f|well|ready
-f|there's a it's li-- li-- there's a almost like a wee headland right where i'm coming down there's it's like a flat bit of the bay right and if you move to your left it's all like a headland jutting out into the bay like a a shallow curve|reply_w
+f|there's a it's there's a almost like a wee headland right where i'm coming down there's it's like a flat bit of the bay right and if you move to your left it's all like a headland jutting out into the bay like a a shallow curve|reply_w
 g|yeah|acknowledge
 f|going into the bay|reply_w
 g|yeah|acknowledge
@@ -259,7 +259,7 @@ g|do you have|query_yn
 f|what|query_w
 g|directly to your left do you have like cliffs and with a meadow on top of it|query_yn
 f|no|reply_n
-f|i've got attractive cliffs at the bottom of th--|reply_w
+f|i've got attractive cliffs at the bottom of|reply_w
 f|see where the bay goes down|align
 g|yeah|reply_y
 f|it the it's at the bottom there|reply_w
@@ -268,9 +268,9 @@ f|not above it no nothing|reply_n
 g|that okay|acknowledge
 f|there's a big empty space so|reply_w
 g|okay|acknowledge
-g|v-- but that okay|acknowledge
+g|but that okay|acknowledge
 g|what there is a meadow up there so|explain
-f|oh i've go-- i've got vast meadows but it's about six inches above it|explain
+f|oh i've i've got vast meadows but it's about six inches above it|explain
 g|okay no|acknowledge
 g|i have something that you don't then|explain
 f|right okay|acknowledge
@@ -296,15 +296,15 @@ f|i'm getting near the end of the edge of the paper though|explain
 g|yeah|acknowledge
 g|ah okay oh are you|check
 f|yeah|reply_y
-g|okay because alright s--|acknowledge
+g|okay because alright|acknowledge
 f|have you got a crashed spaceship down there|query_yn
 f|just below the attractive cliffs|query_yn
 g|no|reply_n
 g|all i have is a chestnut tree|reply_w
 f|no|reply_n
-f|i've got a chestnut tree right i've got attractive cliffs and then und-- straight underneath that|explain
+f|i've got a chestnut tree right i've got attractive cliffs and then straight underneath that|explain
 g|you have a spaceship|check
-f|ha i've got a chestnut tree right so d-- but on the left-hand side between the two that's where the spaceship is|explain
+f|ha i've got a chestnut tree right so but on the left-hand side between the two that's where the spaceship is|explain
 g|on the left of the chestnut tree|check
 f|yeah|reply_y
 f|see see the attractive cliffs and chestnut tree are sort of in a straight well not really a straight line but one under the other|align
@@ -312,16 +312,16 @@ g|yeah yeah|reply_y
 g|yeah|reply_y
 f|you've got a crashed space crashed spaceship on the left-hand side|explain
 g|okay|acknowledge
-g|'cause that's where we're su-- is do you have a f-- an that's where we're supposed to finish|explain
+g|'cause that's where we're is do you have a an that's where we're supposed to finish|explain
 f|oh right|acknowledge
 g|so|ready
 g|what you do if you're at the edge of the paper just drop down about|instruct
-f|i'm not at the edge i've g-- i've got about an inch and a half to go i'm|explain
+f|i'm not at the edge i've i've got about an inch and a half to go i'm|explain
 g|okay|acknowledge
 f|just above i've just come through the attractive cliffs|explain
 g|mm|acknowledge
 f|bit|instruct
-g|oke-- okay so another like very very slight slope to the left 'til you're about like a half uh a quarter of an inch away from the paper|instruct
+g|okay so another like very very slight slope to the left 'til you're about like a half uh a quarter of an inch away from the paper|instruct
 f|right|acknowledge
 g|and then you drop down about an inch and a half|instruct
 f|uh-huh|acknowledge
@@ -332,11 +332,11 @@ f|right|acknowledge
 g|then you just go bloop and like about tiny tiny bit up and draw an "x" and we're done it should be right to the left of the chestnut tree|instruct
 f|oh|acknowledge
 g|you're making me pick my nose|explain
-f|well we we might be in di-- the chestnut trees might be in different position|explain
+f|well we we might be in the chestnut trees might be in different position|explain
 f|is it a bloop like a kind of round bit|check
 g|yeah just|reply_y
 f|like what we did round the fields|query_yn
-g|sort of but very very j--|clarify
+g|sort of but very very|clarify
 f|earlier on|query_yn
 g|no|reply_n
 g|it's like it's so slight it's only like it's less than a quarter of an inch 'cause you just came to|clarify
@@ -349,14 +349,14 @@ f|i'm coming right wait a minute|ready
 f|i'm coming down the way right i've come across sort of diagonally in a curve past the cliff cliffs and i've dropped down about half an inch|align
 g|mmhmm|reply_y
 f|just over half an inch three quarters of an inch right|align
-g|so how f-- how|query_w
+g|so how how|query_w
 f|where do and i'm just above the spaceship right|align
 g|okay so|reply_y
 f|so where do you want do you want me to bloop round this round what i've got|query_yn
 g|is the eh is the spaceship right to the left of the tree|query_yn
 f|no|reply_n
 f|it's just above the tree|reply_w
-g|oh no you should be y--|reply_n
+g|oh no you should be|reply_n
 f|it's above it's well my tree might be different than your tree|explain
 g|okay|acknowledge
 g|well just just|ready

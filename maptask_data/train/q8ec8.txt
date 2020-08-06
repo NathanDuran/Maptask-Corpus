@@ -6,7 +6,7 @@ g|have you got starting right up the top left a diamond|query_yn
 f|yeah mmhmm|reply_y
 g|mine right|ready
 g|well just sort of go down follow it round sort of square go down then just take a right|instruct
-f|to there's i'm under the d--|check
+f|to there's i'm under the|check
 g|and end up at the "e" of the diamond mine know what i mean|instruct
 g|just go straight down and round it|instruct
 f|right|acknowledge
@@ -16,10 +16,10 @@ f|right|acknowledge
 f|no i haven't|reply_n
 g|have you got highest viewpoint|query_yn
 f|yes|reply_y
-g|well w-- from where are just now just go straight right|instruct
+g|well from where are just now just go straight right|instruct
 f|right|acknowledge
 g|and then just end up just go horizontally and just sort of eh end up just before the "h" in highest viewpoint|instruct
-f|ha-- so i'm under the "h"|check
+f|so i'm under the "h"|check
 g|just before just before it|reply_w
 f|on the same level as the diamond mine|check
 g|aye|reply_y
@@ -45,11 +45,11 @@ f|i've got an overgrown gully here as well|explain
 g|you've got a what|query_w
 f|an overgrown gully|reply_w
 f|well i can manage it straight down|explain
-g|well d-- just go round go round the overgrown gully however you want then just end up above safari truck|clarify
+g|well just go round go round the overgrown gully however you want then just end up above safari truck|clarify
 g|'cause i don't have overgrown gully|explain
 f|right|acknowledge
 f|to the top right of the safari truck|check
-g|eh it doesn't really matter 'cause we're going round it just end up anywhere t-- above a-- just above it|reply_w
+g|eh it doesn't really matter 'cause we're going round it just end up anywhere above just above it|reply_w
 f|right|acknowledge
 g|you've done that|align
 f|mmhmm|reply_y
@@ -63,7 +63,7 @@ g|go to just end up i don't know how you get there just get|instruct
 g|see the "s" of safari truck|align
 f|mmhmm|reply_y
 g|just sort of end up to the bottom left of that|instruct
-f|going round to the r-- left or the right|query_w
+f|going round to the left or the right|query_w
 g|to the left doesnae really matter but to the left|reply_w
 f|right i'm on the "s" of safari truck|explain
 g|right|acknowledge
@@ -76,13 +76,13 @@ g|have you got gold mine|query_yn
 f|no|reply_n
 g|have you got a rope bridge|query_yn
 f|yeah|reply_y
-g|well from the banana tree right just go straight down about christ so you're about a third of the way down the pa-- two thirds of the way down the page|instruct
+g|well from the banana tree right just go straight down about christ so you're about a third of the way down the two thirds of the way down the page|instruct
 f|level with the rope bridge|check
-g|a bit l-- lower than that|reply_w
+g|a bit lower than that|reply_w
 f|but straight down|check
 g|about three four centimetres lower than that|clarify
 f|right|acknowledge
-g|in fact d-- jus-- go just go down a wee bit further so you make sure you miss it|clarify
+g|in fact go just go down a wee bit further so you make sure you miss it|clarify
 f|have you got a rock fall|query_yn
 g|aye|reply_y
 f|how far above that should i be|query_w
@@ -103,8 +103,8 @@ g|have you got giraffes|query_yn
 f|i have|reply_y
 f|i've got crocodiles as well|explain
 g|where are they|query_w
-f|un-- just under the right-hand side of the rope bridge|reply_w
-g|well avoid them and then just go right round then go round the gira--|instruct
+f|just under the right-hand side of the rope bridge|reply_w
+g|well avoid them and then just go right round then go round the|instruct
 f|avoid them to the right or the left|query_w
 g|er it doesn't really matter|reply_w
 g|as long as you end up on the right of the giraffes and come round the bottom of the giraffes and end up sort of like underneath the "g"|clarify

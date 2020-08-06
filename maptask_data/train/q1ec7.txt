@@ -1,5 +1,5 @@
 g|okay right|ready
-g|i'm starting off from a-- above the caravan park|instruct
+g|i'm starting off from above the caravan park|instruct
 f|mmhmm|acknowledge
 g|okay|align
 f|mmhmm|reply_y
@@ -10,7 +10,7 @@ g|okay|align
 g|and you're going to go down and then you're going to do a "u" shape|instruct
 f|uh-huh|acknowledge
 g|and we're going to come up and we're going to have the old|instruct
-f|eh-- ehm are we just going are we going to go below the picket fence|query_yn
+f|ehm are we just going are we going to go below the picket fence|query_yn
 g|below what|query_w
 f|the picket picket fence|reply_w
 g|picket fence|acknowledge
@@ -21,7 +21,7 @@ g|right okay well|ready
 g|you want to have the old mill on your right-hand side so if that fence is below the old mill you want to keep that on your right-hand side|reply_w
 f|okay|acknowledge
 g|okay|align
-g|so you're going to come up and then you're going to come above the old mill and turn r--|instruct
+g|so you're going to come up and then you're going to come above the old mill and turn|instruct
 f|old mill|check
 g|old mill|reply_y
 f|oh right|acknowledge
@@ -42,9 +42,9 @@ f|just underneath the caravan park|query_yn
 g|no no|reply_n
 g|yeah|reply_y
 f|right|acknowledge
-g|the caravan park is directly a-- above the the base of the "u"|explain
+g|the caravan park is directly above the the base of the "u"|explain
 f|above right|acknowledge
-f|you're a-- okay right|acknowledge
+f|you're okay right|acknowledge
 g|right okay|align
 f|right right|reply_y
 g|and you're going to come up and the old mill well my old mill is going to be on the right so your mill wheel and the picket fence is going to be on the right-hand side|instruct
@@ -58,7 +58,7 @@ g|and then turn right slightly sort of ten degrees or something and turn east|in
 f|right okay|acknowledge
 g|okay|ready
 g|so just eh|instruct
-f|s-- below do i go below the forest then|query_yn
+f|below do i go below the forest then|query_yn
 g|i don't have a forest|explain
 g|where's abouts the forest|query_w
 f|ehm it's below the abandoned cottage and above the fenced meadow|reply_w
@@ -73,7 +73,7 @@ f|uh-huh|acknowledge
 g|turn up north|instruct
 f|right|acknowledge
 g|with the forest on your left-hand side|instruct
-f|oh so i go b-- so i go below the forest then|check
+f|oh so i go so i go below the forest then|check
 g|yeah go below the forest yeah|reply_y
 f|right|acknowledge
 f|right|acknowledge
@@ -88,7 +88,7 @@ f|uh-huh|acknowledge
 g|okay|align
 f|uh-huh|reply_y
 g|and then|ready
-f|past the m-- in between the monument and the cottage|check
+f|past the in between the monument and the cottage|check
 g|yeah|reply_y
 f|right|acknowledge
 g|uh-huh|acknowledge
@@ -128,20 +128,20 @@ g|and you're going to come up|instruct
 g|and you're going to have a west lake|query_yn
 f|uh-huh|acknowledge
 g|right|ready
-g|so you're going to almost follow the course of that right that west lake to the east the east side of it you're going to follow the c-- the course of it|instruct
+g|so you're going to almost follow the course of that right that west lake to the east the east side of it you're going to follow the the course of it|instruct
 f|just just coming in at the base of it then|check
 g|yeah just at the base|reply_y
 g|and then follow the course of it round sort of a "u" an "s" shape|clarify
-f|as if it's a very very big wide "u" so i'm going to avoid som--|check
+f|as if it's a very very big wide "u" so i'm going to avoid|check
 g|yeah|reply_y
-f|so that i so i'm avoiding something at the p--|check
+f|so that i so i'm avoiding something at the|check
 g|well|ready
 g|you've got a trig point do you have a trig point|query_yn
 f|no|reply_n
 g|no|acknowledge
 f|no|reply_n
 g|right|ready
-g|so in between your west lake and the tri-- ah there's a trig point|explain
+g|so in between your west lake and the ah there's a trig point|explain
 g|right|align
 f|right|reply_y
 g|so|ready
@@ -167,7 +167,7 @@ g|you're staying well below that|clarify
 f|oh right|acknowledge
 g|so in between it would be in between farmed land and i have a trig point|clarify
 f|okay right|acknowledge
-g|right okay so it's just above the just at the just before the tip of that west lake but just at the east co-- just at that east coast|clarify
+g|right okay so it's just above the just at the just before the tip of that west lake but just at the east just at that east coast|clarify
 g|right|align
 f|okay fine right|reply_y
 g|yeah|align
@@ -218,7 +218,7 @@ f|i've got a golf course|explain
 g|whereabouts|query_w
 f|ehm above and to the left of the monument|reply_w
 g|above and to the left|acknowledge
-f|there's a s-- there's a space between the golf course and the monument but it's sort of above and to the left just below east lake|explain
+f|there's a there's a space between the golf course and the monument but it's sort of above and to the left just below east lake|explain
 g|okay|acknowledge
 g|you want to keep the golf course on your left-hand side|instruct
 f|okay|acknowledge
@@ -234,7 +234,7 @@ f|see see this nuclear station|align
 g|yeah|reply_y
 f|ehm|ready
 f|could you|query_yn
-g|that'll be you're c-- going to come up north between the golf course and the nuclear test site|instruct
+g|that'll be you're going to come up north between the golf course and the nuclear test site|instruct
 f|between those two right|acknowledge
 g|yes so you're going to come between it|instruct
 f|so is the nuclear thing slightly to the right of the monument and above it|check

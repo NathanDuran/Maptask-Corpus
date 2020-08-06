@@ -13,7 +13,7 @@ f|oh no i don't have the parked i've got a different parked van|explain
 g|does it say parked van|query_yn
 f|not down here no|reply_n
 g|oh christ right|ready
-g|just get y-- down the side of the camera shop|instruct
+g|just get down the side of the camera shop|instruct
 g|right|align
 f|mmhmm|reply_y
 g|down about ten centimetres|instruct
@@ -42,7 +42,7 @@ f|no|reply_n
 f|yeah yeah|reply_y
 g|yeah|check
 g|well|ready
-g|go diagonal diagonally right until you're directly below the left-hand side the right-hand side of the disused monastery but ab-- you'll still be about ten centimetres below it|instruct
+g|go diagonal diagonally right until you're directly below the left-hand side the right-hand side of the disused monastery but you'll still be about ten centimetres below it|instruct
 g|okay|align
 f|right got you|reply_y
 g|right|acknowledge
@@ -98,12 +98,12 @@ g|then up and left diagonally about four centimetres|instruct
 g|okay|align
 f|right|acknowledge
 g|then|ready
-g|straight up 'til you're bel-- you're bel-- 'til you're below the "k" in lake but ehm about a centimetre from the edge of the lake|instruct
+g|straight up 'til you're you're 'til you're below the "k" in lake but ehm about a centimetre from the edge of the lake|instruct
 f|right|acknowledge
 g|okay|align
 f|uh-huh|reply_y
 g|then|ready
-g|left about s-- five centimetres and about up one|instruct
+g|left about five centimetres and about up one|instruct
 g|okay|align
 f|mmhmm yeah|reply_y
 g|that's the finish i think|instruct

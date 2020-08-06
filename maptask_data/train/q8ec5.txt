@@ -18,7 +18,7 @@ g|you should have something straight under the burnt forest|explain
 f|yes|reply_y
 f|a carpenter's cottage|explain
 g|right|ready
-g|we're going to the we're going to the l-- left-hand side of that|instruct
+g|we're going to the we're going to the left-hand side of that|instruct
 g|okay|align
 f|left|check
 g|but don't do it yet|instruct
@@ -45,11 +45,11 @@ g|okay|align
 f|we'll want to curve round the ravine and where the bottom of this|check
 g|no curve curve|reply_n
 g|see the start|align
-g|you want to be d-- y-- you're going to finish directly under the start|clarify
+g|you want to be you're going to finish directly under the start|clarify
 g|right|align
 f|yeah okay|reply_y
 g|opposite the bottom of the ravine|clarify
-f|opposite the bottom of the ravine so o--|check
+f|opposite the bottom of the ravine so|check
 g|right|ready
 g|so you're vertically under start but you're at the bottom of the ravine|clarify
 g|okay|align
@@ -111,18 +111,18 @@ f|okay|reply_y
 g|so|ready
 g|if you sort of curve round an inverted "s" shape|instruct
 f|an inverted "s"|acknowledge
-g|yeah well it's li-- like a "2"|instruct
+g|yeah well it's like a "2"|instruct
 g|right|align
 f|right|reply_y
 g|so that you miss the avalanche|instruct
 f|miss the avalanche okay|acknowledge
-g|and end up at the bottom of the concealed hide-- well the side of the concealed hideout anyway|instruct
+g|and end up at the bottom of the concealed well the side of the concealed hideout anyway|instruct
 f|okay|acknowledge
 g|okay|align
 f|right yeah|reply_y
 g|now|ready
 g|curve round until you're under the "c" of concealed hideout|instruct
-f|curve round 'til er i-- i'm just under the "c"|acknowledge
+f|curve round 'til er i'm just under the "c"|acknowledge
 g|right|align
 g|then two centimetres further left|instruct
 f|yeah|reply_y
@@ -136,7 +136,7 @@ g|you're now two centimetres to the left of "c"|clarify
 g|just about underneath it|clarify
 f|oh "c"|acknowledge
 g|okay|align
-f|is this along to l-- my left directly along two centimetres along from the "c"|check
+f|is this along to my left directly along two centimetres along from the "c"|check
 g|yeah|reply_y
 f|okay|reply_y
 g|okay|align
@@ -164,7 +164,7 @@ f|no|reply_n
 g|but you've got pebbled shore|query_yn
 f|yeah|reply_y
 g|now|ready
-g|follow the coast round don't do it yet right follow the y-- we're going to end up above the middle of the pebbled shore|instruct
+g|follow the coast round don't do it yet right follow the we're going to end up above the middle of the pebbled shore|instruct
 g|right|align
 f|above the middle okay|reply_y
 g|and follow the coast round but not too closely|instruct
@@ -183,7 +183,7 @@ g|and then go along 'til you're above the middle of the pebbled shore|instruct
 f|okay right|reply_y
 g|right now|ready
 g|you've got some washed pebbles haven't you underneath the pebbled shore|query_yn
-f|washed s-- yeah|reply_y
+f|washed yeah|reply_y
 g|right|ready
 g|go go|instruct
 g|hmm|ready
@@ -195,7 +195,7 @@ g|see the flagship the bottom of the flagship right|align
 f|yeah|reply_y
 g|along that is a line where the finish is right along that line|explain
 f|yeah along this line|acknowledge
-g|t-- about two centimetres inland|explain
+g|about two centimetres inland|explain
 f|two centimetres inland okay|acknowledge
 g|along the line from the bottom of the flagship|explain
 g|right|align
@@ -205,7 +205,7 @@ f|okay|reply_y
 g|right|ready
 g|don't do anything yet right|instruct
 g|now|ready
-g|see you're at the s-- so-- top of the pebbled shore right|align
+g|see you're at the top of the pebbled shore right|align
 f|yeah|reply_y
 g|now|ready
 g|go diagonally to the left-hand side of the page|instruct

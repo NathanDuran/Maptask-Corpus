@@ -51,7 +51,7 @@ g|down about an inch so you come you've come off the rope bridge and you drop do
 f|right|acknowledge
 f|erm i don't know if i can do that without going in the river actually|explain
 g|oh yeah|acknowledge
-g|i for-- yeah there's a river isn't there|explain
+g|i yeah there's a river isn't there|explain
 g|well|ready
 g|if you just take it so that you're running alongside the river|instruct
 f|just right along the edge of the river|check
@@ -61,21 +61,21 @@ g|and then|ready
 g|you have got a waterfall on the right-hand side|query_yn
 f|yeah|reply_y
 g|well then um|ready
-g|just 'til when you're about ehm level with the b-- with the bottom of the waterfall|instruct
+g|just 'til when you're about ehm level with the with the bottom of the waterfall|instruct
 f|mmhmm|acknowledge
 g|then you go straight upwards alongside the waterfall|instruct
 f|right|acknowledge
 g|have you got some lost steps there|query_yn
 f|erm yes i have|reply_y
 f|but quite a bit above maybe something like five inches or something above|explain
-g|oh no th--|reply_n
+g|oh no|reply_n
 g|these these are in the middle|explain
 g|have you got some fallen pillars|query_yn
 f|yes|reply_y
 g|okay|acknowledge
 g|well|ready
 g|where are you at the moment|query_w
-f|um d-- just stop beside the waterfall that's right over on the right-hand side|reply_w
+f|um just stop beside the waterfall that's right over on the right-hand side|reply_w
 g|yeah|acknowledge
 g|right you need to go upwards until you're level with the fallen pillars|instruct
 f|right okay|acknowledge
@@ -87,7 +87,7 @@ f|yes|reply_y
 g|if you imagine that they were there just where you've stopped|instruct
 f|mmhmm|acknowledge
 g|so you need to loop over the top of them as if you were going over something|instruct
-g|so you you're going u--|instruct
+g|so you you're going|instruct
 f|right|acknowledge
 f|so which way am i heading then left or right|query_w
 g|right|ready
@@ -106,15 +106,15 @@ g|yeah|acknowledge
 f|quite a small gappy bit|explain
 g|right|acknowledge
 g|then if you go down and underneath what|instruct
-g|i w-- i haven't got anything but i think that's where your flamingoes are|explain
+g|i i haven't got anything but i think that's where your flamingoes are|explain
 f|um well|ready
 f|they're just maybe an inch below and an inch to the left of the fallen pillars|explain
 g|right okay|acknowledge
 g|so if you then go right underneath the flamingoes|instruct
 f|right okay|acknowledge
-g|and and then up right up towards th--|instruct
+g|and and then up right up towards|instruct
 g|have you got ancient ruins|query_yn
-f|er i've got a ruined city abo-- maybe half the distance to the top from there|reply_w
+f|er i've got a ruined city maybe half the distance to the top from there|reply_w
 g|yeah okay|acknowledge
 g|right yeah that's right|acknowledge
 g|so you go right up to the ehm ruins|instruct
@@ -124,7 +124,7 @@ g|and then you|instruct
 g|keeping on the edge|reply_y
 g|maybe a bit in towards a bit heading towards the ruins|clarify
 f|right okay|acknowledge
-g|and then have you got some stones at the left-hand s-- on the left-hand side right in the top left-hand corner|query_yn
+g|and then have you got some stones at the left-hand on the left-hand side right in the top left-hand corner|query_yn
 f|erm i've no i haven't got anything up there|reply_n
 g|okay|acknowledge
 f|i've got a rock fall kind of fairly near to the centre|explain
@@ -155,7 +155,7 @@ g|you need to just run vertically along and then to get as if you were climbing 
 f|right okay|acknowledge
 g|up|instruct
 f|up on the left-hand side just go up up the side|check
-g|up th-- up the left yeah|reply_y
+g|up up the left yeah|reply_y
 g|up the side of the mountain and then down the other side|clarify
 f|right okay|acknowledge
 g|then|ready
@@ -177,7 +177,7 @@ g|okay|align
 g|and then|ready
 g|now now you should be level with the beginning of the mountain so you should be level with the left-hand side of the mountain|instruct
 f|oh right i see what you mean|acknowledge
-g|y-- you're going back on yourself|instruct
+g|you're going back on yourself|instruct
 f|yeah well i've got a rock fall there so i can't|explain
 g|right|acknowledge
 f|i've got a rock fall just across from that so|explain

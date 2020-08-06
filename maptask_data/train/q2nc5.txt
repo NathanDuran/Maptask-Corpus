@@ -8,7 +8,7 @@ f|okay|acknowledge
 g|eh now you're heading diagonally down and to the left about two inches eh 'til you're within about three quarters of an inch of the bottom of the page and at the bottom left-hand corner of the missionary camp|instruct
 f|okay|acknowledge
 g|right|ready
-g|eh to the left have you got gorillas at the bottom left-hand corner or a-- any sort of|query_w
+g|eh to the left have you got gorillas at the bottom left-hand corner or any sort of|query_w
 f|i've got a banana tree|reply_w
 g|banana tree right|acknowledge
 g|okay|ready
@@ -17,11 +17,11 @@ f|yeah|acknowledge
 g|eh curve round and up keeping a distance of about an inch from the left-hand side of the page|instruct
 f|uh-huh|acknowledge
 g|eh just a small curve and then a straight line|instruct
-g|are you at the bottom are you at the bottom left-hand corner of the banana trees or slight-- or just at the left of the banana trees|query_w
+g|are you at the bottom are you at the bottom left-hand corner of the banana trees or or just at the left of the banana trees|query_w
 f|um|reply_w
 f|yeah i've just moved up to the left i'm now up at the the leaves of it|reply_w
 g|right okay|acknowledge
-g|eh head up erm straight up about four in-- no about three inches|instruct
+g|eh head up erm straight up about four no about three inches|instruct
 f|okay|acknowledge
 g|have you got a rope bridge there|query_yn
 f|yeah|acknowledge
@@ -37,7 +37,7 @@ g|well head directly right over the rope bridge|instruct
 f|over the rope bridge|check
 g|yeah|reply_y
 f|right okay|acknowledge
-g|eh now once you're at the f-- far right-hand side of the rope bridge|instruct
+g|eh now once you're at the far right-hand side of the rope bridge|instruct
 f|uh-huh|acknowledge
 g|head down about half an inch just directly down about half an inch|instruct
 f|okay|acknowledge
@@ -78,7 +78,7 @@ f|going down to the bottom left-hand side of the pillar|check
 g|sorry bottom right-hand side of the fallen pillars curving round from where you are now down towards the bottom right of the fallen pillars|clarify
 f|oh yeah i see okay so i've just curved|acknowledge
 f|yeah got you|acknowledge
-g|okay right now it's just travelling underneath the fallen pillar the w-- the words fallen pillars about two inches the length of the whole entire drawing from one dot to another dot|instruct
+g|okay right now it's just travelling underneath the fallen pillar the the words fallen pillars about two inches the length of the whole entire drawing from one dot to another dot|instruct
 f|mmhmm|acknowledge
 f|oh|acknowledge
 g|eh that's about one and a half inches left so you should be at the bottom left-hand side of the fallen pillars now|instruct
@@ -95,7 +95,7 @@ f|i've got flamingoes just to my left|explain
 g|right okay|acknowledge
 f|no|query_yn
 f|there|query_yn
-g|yeah tha-- my route kind of circles round nothing in particular so i i assume that's the flamingoes|reply_w
+g|yeah my route kind of circles round nothing in particular so i i assume that's the flamingoes|reply_w
 f|mmhmm|acknowledge
 g|erm i suppose you'll be curving round eh well head towards the bottom left-hand corner the of the page for about an inch|instruct
 f|mmhmm|acknowledge
@@ -122,17 +122,17 @@ g|eh could you make the the curve of the kind of circle you've got there a bit n
 f|okay|acknowledge
 g|'til you're within about half an inch of it|instruct
 f|okay|acknowledge
-g|now head from the point you are now diagonally upwards until you're within a centimetre of the s-- leftmost seagull|instruct
+g|now head from the point you are now diagonally upwards until you're within a centimetre of the leftmost seagull|instruct
 f|okay|acknowledge
 g|at the ancient ruins of the ruined city|instruct
 f|okay|acknowledge
 g|right erm|ready
 g|right from that leftmost seagull erm or slightly to the left of it head straight up about three inches|instruct
 f|mmhmm|acknowledge
-g|i've got stones in my drawing about two inches from the top of the page a-- well about an inch and a half from the top of the page|explain
+g|i've got stones in my drawing about two inches from the top of the page well about an inch and a half from the top of the page|explain
 f|is it just like upwards and to the right of the ruins well your ruins|check
 g|just just|clarify
-g|just straight up from the s-- the the ruined city until you're within w-- until you've reached a point that's one and a half inches from the top of the page|clarify
+g|just straight up from the the the ruined city until you're within until you've reached a point that's one and a half inches from the top of the page|clarify
 f|okay|acknowledge
 g|and stop there|instruct
 g|now have you got the white mountain in your drawing|query_yn
@@ -143,7 +143,7 @@ g|eh go about half a centimetre below that and draw a line from where you are no
 f|diagonally|reply_y
 f|downwards|check
 g|no|reply_n
-g|you should be moving along a horizontal line sorry you should be moving along a horizontal line towards the word wh-- words white mountain but stop before the picture of the white mountain|clarify
+g|you should be moving along a horizontal line sorry you should be moving along a horizontal line towards the word words white mountain but stop before the picture of the white mountain|clarify
 f|okay|acknowledge
 f|that the words white mountain on mine are beneath the white mountain|explain
 g|yeah that's right yeah|reply_y
@@ -184,7 +184,7 @@ f|okay|acknowledge
 g|now carry on horizontally|instruct
 g|to the left about another inch|instruct
 f|mmhmm|acknowledge
-f|horizont--|acknowledge
+f||acknowledge
 f|to the left|check
 g|uh-huh|reply_y
 f|okay|acknowledge
@@ -194,7 +194,7 @@ g|right|acknowledge
 g|if you head straight down to the bottom left-hand side of the gazelles|instruct
 f|mmhmm|acknowledge
 f|okay|acknowledge
-g|and then f-- going underneath the gazelles|instruct
+g|and then going underneath the gazelles|instruct
 f|mmhmm|acknowledge
 g|go about two and a half inches to the right|instruct
 g|and that's the finish|explain

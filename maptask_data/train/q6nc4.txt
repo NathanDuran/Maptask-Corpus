@@ -22,7 +22,7 @@ g|well|ready
 g|the bottom the bottom left|acknowledge
 g|well|ready
 g|you want to just go ehm along to|instruct
-g|you got the stone you s-- you got a stone creek yes|query_yn
+g|you got the stone you you got a stone creek yes|query_yn
 f|stone creek|acknowledge
 f|no|reply_n
 g|you got stone slabs|query_yn
@@ -41,7 +41,7 @@ g|in a slight slight up gradient for about|instruct
 f|right|acknowledge
 g|ehm eh have you got the swan pond at the bottom|query_yn
 f|eh swamp's at the bottom left yeah|reply_w
-g|the s-- no the|explain
+g|the no the|explain
 f|and i've to go to the right|check
 g|ah you've to go to the right|reply_y
 g|no sorry right at the bottom of the map there's a swan pond|explain
@@ -58,10 +58,10 @@ f|right|acknowledge
 f|right|acknowledge
 f|right okay|acknowledge
 g|uh-huh ehm|acknowledge
-g|better make sure you're f-- a f-- a reasonable bit to the right-hand side of the map actually|instruct
-g|'cause there's a wh-- a wagon wheel here you've got to miss|explain
+g|better make sure you're a a reasonable bit to the right-hand side of the map actually|instruct
+g|'cause there's a a wagon wheel here you've got to miss|explain
 f|right|acknowledge
-g|right now y--|ready
+g|right now|ready
 g|you've got have you got a rift valley in the top right hand corner|query_yn
 f|yeah uh-huh uh-huh|reply_y
 g|and is that the only obstacle you've got|query_yn
@@ -83,7 +83,7 @@ f|yeah|reply_y
 f|quite a bit below|explain
 f|it uh-huh|acknowledge
 g|uh-huh quite a bit below|acknowledge
-g|it s-- now|ready
+g|it now|ready
 g|you want to go down straight down to about halfway to the rocks and then just miss the rocks on the left-hand side|instruct
 f|right|acknowledge
 g|a sort of miss them by go a diagonal line straight down in a diagonal line|instruct
@@ -128,7 +128,7 @@ g|you're above the rapids|instruct
 f|the rapids|query_yn
 f|uh-huh right|acknowledge
 g|and then|ready
-g|c-- and then|ready
+g|and then|ready
 g|come down the side of them at the side of them|instruct
 f|right okay|acknowledge
 g|right|align
@@ -137,7 +137,7 @@ g|so|ready
 g|have you got anything in the sort of vicinity round about here any obstacles|query_yn
 f|rapids well below the rapids there's a manned fort|reply_w
 g|well|ready
-g|you want to go ehm s-- straight down well curve out slightly from where you are and then curve back in eh straight down to|instruct
+g|you want to go ehm straight down well curve out slightly from where you are and then curve back in eh straight down to|instruct
 g|have you got the stone creek|query_yn
 f|yeah uh-huh|reply_y
 g|ehm sort of well ten centimetres above the stone creek in a line with just above the stone slabs that sort of level|instruct
@@ -158,13 +158,13 @@ g|right|ready
 g|have you got an outlaws' hideout to your right|query_yn
 f|yeah|reply_y
 f|that's quite a bit above though|check
-g|quite a b-- yeah that's right|reply_y
+g|quite a yeah that's right|reply_y
 f|uh-huh|acknowledge
 g|you want to go eh up up to that so you're just underneath the outlaws' hideout|instruct
 f|right|acknowledge
 f|right|acknowledge
 g|now right|ready
-g|you're direct underneath the ou-- outlaws' hideout|acknowledge
+g|you're direct underneath the outlaws' hideout|acknowledge
 g|you want to curve out to your right slightly so you're about two or three centimetres well five centimetres off the edge of the page|instruct
 f|right|acknowledge
 g|and then just go straight down|instruct
@@ -184,7 +184,7 @@ g|aye right the saloon bar right|acknowledge
 g|well|ready
 g|basically from the noose you're wanting to get to underneath the saloon bar|instruct
 f|uh-huh|acknowledge
-g|what you've got to do is y-- ehm drop from the the noose in a sort of curve to your left|instruct
+g|what you've got to do is ehm drop from the the noose in a sort of curve to your left|instruct
 f|right|acknowledge
 g|so that you're just about the level at the top of the saloon bar|instruct
 f|right|acknowledge
@@ -198,14 +198,14 @@ f|mmhmm|acknowledge
 g|so you want to be going up|instruct
 g|up the way slightly and then back down|instruct
 f|right|ready
-f|so so should i be sh-- ehm to the left of the saloon bar yeah when i finish|check
-g|ehm y-- yes|reply_y
+f|so so should i be ehm to the left of the saloon bar yeah when i finish|check
+g|ehm yes|reply_y
 g|you go underneath the saloon bar and finish to the to the left of it yeah so from from here you want to go up in a curve and then back down so you're at the same level you were originally avoiding the swan pond that i've got|instruct
 f|right|acknowledge
 f|right|acknowledge
 f|okay|acknowledge
 g|right|ready
-g|from there you just want to go g-- eh curves you're underneath the saloon bar|instruct
+g|from there you just want to go eh curves you're underneath the saloon bar|instruct
 f|right|acknowledge
 g|and from underneath the saloon bar|instruct
 g|well the finish is|explain
@@ -213,7 +213,7 @@ g|ehm i was going to say where where the says finish but of course that's not pa
 g|ehm a couple of i'd say five centimetres above the saloon bar and just off a few centimetres off the side of the map on the left-hand side that's where the finish is|explain
 f|oh right ehm|acknowledge
 f|i've come down to the left of the saloon bar and i'm like at the bottom of the saloon bar just now|explain
-g|y-- right|ready
+g|right|ready
 g|you're bottom of the saloon bar|check
 f|uh-huh|reply_y
 g|right|ready

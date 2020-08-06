@@ -32,7 +32,7 @@ f|i have a fast running creek|explain
 g|well go along until you're sort of just below the fast running creek but no diet directly below it|instruct
 f|so i'm just|check
 f|aye|acknowledge
-g|just before you're be-- more or less ab-- to it|instruct
+g|just before you're more or less to it|instruct
 f|at the canoes|check
 g|no no no no no no|reply_n
 f|you want me above the canoes|check
@@ -80,8 +80,8 @@ g|now|ready
 g|there must be something there because there's a big loop|explain
 g|where is your ghost town|query_w
 f|it's between the walled city and the carved wooden pole just|reply_w
-g|is it south of the walled city i assume this is sou--|check
-f|sou-- south of the wall yes|reply_y
+g|is it south of the walled city i assume this is|check
+f|south of the wall yes|reply_y
 g|well keep keep it whatever it is on your left and circuit it so that you're facing|instruct
 g|do you see the stone creek and the flat rocks|align
 f|stone creek flat rocks yes|reply_y
@@ -94,7 +94,7 @@ g|we don't have a saloon|explain
 g|the flat rocks|clarify
 f|okay|acknowledge
 g|right at at at the flat rocks turn and come down the bottom towards the buffalo|instruct
-f|t-- t-- so oh well i'll go past the saloon bar i'll keep it on my right and down towards the buffalo|explain
+f|so oh well i'll go past the saloon bar i'll keep it on my right and down towards the buffalo|explain
 g|don't go in|instruct
 f|i'll try hard not to|explain
 g|ken i knew you will|explain
@@ -127,7 +127,7 @@ f|ah|acknowledge
 g|now|ready
 f|mm probably the saloon manager as well|explain
 g|you owe money i suppose|query_yn
-g|right and go bet-- between the fort and the bottom of the paper|instruct
+g|right and go between the fort and the bottom of the paper|instruct
 f|okay|acknowledge
 g|and then turn to your right by the fort|instruct
 f|okay|acknowledge

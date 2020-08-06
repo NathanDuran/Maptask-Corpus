@@ -35,7 +35,7 @@ g|go south from the start|instruct
 f|south|acknowledge
 f|right|acknowledge
 g|right|align
-g|then you go left follow y-- up to oh heck go round where where the river goes|instruct
+g|then you go left follow up to oh heck go round where where the river goes|instruct
 g|you know how the the two bits of the crane come in crane bay come in like that then into the river|align
 f|yeah|reply_y
 g|well|ready
@@ -62,7 +62,7 @@ f|no|reply_n
 g|no well do a|instruct
 f|have i got to cross this babbling brook cross it|query_yn
 g|not again|reply_n
-g|you've cross it further down you've got to do a wide "c" just above the fork do a wide "c" so that you're coming across the river at b-- you know underneath the dead tree|clarify
+g|you've cross it further down you've got to do a wide "c" just above the fork do a wide "c" so that you're coming across the river at you know underneath the dead tree|clarify
 f|i'm coming|check
 f|oh right i see okay|acknowledge
 g|right|ready
@@ -93,14 +93,14 @@ f|mmhmm|reply_y
 f|right maybe so|acknowledge
 g|right|acknowledge
 g|right|ready
-g|so you're going south then see i come to the lagoon then when i go south and then i go left which would me-- mean you going right|clarify
-f|you don't have be-- treasure buried underneath your dead tree|check
+g|so you're going south then see i come to the lagoon then when i go south and then i go left which would mean you going right|clarify
+f|you don't have treasure buried underneath your dead tree|check
 g|no|reply_n
 f|no|check
 f|do you have hills to your the left of the dead tree and just up a bit|query_yn
 g|yes|reply_y
 f|okay|acknowledge
-f|so how f-- close do you want that "c" to take me towards the hills|query_w
+f|so how close do you want that "c" to take me towards the hills|query_w
 g|not close at all|reply_w
 f|not close at all|check
 g|it's over the other side of the river|explain
@@ -109,7 +109,7 @@ f|there are the the hills are on the left-hand side my left-hand side which is y
 f|uh-huh|reply_y
 g|oh because we're looking at the same picture|explain
 g|right|ready
-g|it's like you're starting at the s-- the sandy shore|align
+g|it's like you're starting at the the sandy shore|align
 f|yeah|reply_y
 g|going south then going along to the right and up and crossing the river|align
 f|mmhmm|reply_y
@@ -130,10 +130,10 @@ g|it it's like a backwards "c"|instruct
 f|right i've not crossed|acknowledge
 g|do you see what i mean|align
 f|backwards|check
-g|w-- round that way instead of round that way|clarify
+g|round that way instead of round that way|clarify
 f|like an "e"|check
 f|no|reply_n
-f|oh yeah like a backwards s--|acknowledge
+f|oh yeah like a backwards|acknowledge
 g|well a back a back like do a backwards "c" there sorry|clarify
 f|yeah i've got a backwards "c"|acknowledge
 f|yeah|acknowledge
@@ -163,7 +163,7 @@ f|right|ready
 f|on on the coast is that a jutted point|query_yn
 g|yes|reply_y
 g|right|ready
-g|take the line from the base of the lagoon from the point of the lagoon right down to the n-- most northerly point of green bay|instruct
+g|take the line from the base of the lagoon from the point of the lagoon right down to the most northerly point of green bay|instruct
 f|right|acknowledge
 g|do you have a pirate ship and the finish cross|query_yn
 f|pirate ship's right down the the the southern|reply_w

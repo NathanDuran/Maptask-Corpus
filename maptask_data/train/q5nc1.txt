@@ -64,7 +64,7 @@ g|now|ready
 g|you go round the top of the mill|instruct
 f|mmhmm|acknowledge
 g|and ehm|ready
-g|he-- continue heading towards your right past the mill|instruct
+g|continue heading towards your right past the mill|instruct
 f|right|acknowledge
 g|you should see um a fenced meadow down at the bottom|query_yn
 f|aye|reply_y
@@ -78,7 +78,7 @@ f|do you want me to go past the fenced meadow|query_yn
 g|eh|query_yn
 f|or just look at it|query_yn
 g|don't go near no|reply_n
-g|don't go near e-- either of the fenced meadows|instruct
+g|don't go near either of the fenced meadows|instruct
 f|can only see one fenced meadow|explain
 g|there are two|explain
 g|there's one above the caravan park and one over from the old mill|explain
@@ -87,7 +87,7 @@ f|no it's no on my map|explain
 g|oh well okay|acknowledge
 f|there's only the one at there's only the one at the bottom|explain
 g|oh well right|acknowledge
-f|right do you want me go along pa-- along like beside the fenced meadow and then go up or do you want me to go up before i get to the fenced meadow|query_w
+f|right do you want me go along along like beside the fenced meadow and then go up or do you want me to go up before i get to the fenced meadow|query_w
 g|ehm don't know|reply_w
 g|i want you to go up just as you get to the fenced meadow but don't go near it|clarify
 g|okay|align
@@ -154,7 +154,7 @@ g|you turn to the right|reply_w
 g|you know what i mean|align
 f|eh like|ready
 g|you go round the side of the lake|clarify
-f|like there's t-- like there's two rabbit ears|explain
+f|like there's like there's two rabbit ears|explain
 f|and when you get to the one on the|check
 g|yeah|reply_y
 f|right you have to start going right|check
@@ -188,7 +188,7 @@ g|ehm okay|ready
 g|continue go round the monument|instruct
 f|mmhmm|acknowledge
 g|until almost the top of his head|instruct
-f|oh sh-- i've gone past that right|explain
+f|oh i've gone past that right|explain
 g|have you gone past it|check
 g|so you should have like a semicircle round the monument|align
 f|aye|reply_y

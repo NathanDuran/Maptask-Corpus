@@ -1,6 +1,6 @@
 g|right|ready
 g|go vertically down until you're underneath eh diamond mine|instruct
-g|then eh go right until you're between springbok --boks and highest viewpoint|instruct
+g|then eh go right until you're between springbok and highest viewpoint|instruct
 f|where|query_w
 g|right|acknowledge
 g|right go right|clarify
@@ -24,20 +24,20 @@ g|to its left|reply_w
 f|on the same level as highest viewpoint yeah|check
 g|just slightly below it|reply_w
 f|okay right|acknowledge
-g|right n--|ready
+g|right|ready
 g|go along to your right eh from where you last drew eh in a straight line horizontally|instruct
 f|uh-huh|acknowledge
 g|and then go up between the the two words springboks and highest viewpoint|instruct
 f|uh-huh|acknowledge
 g|and then ehm once you then go round the top eh go to your right eh horizontally go|instruct
-g|wh-- wh-- where are you at the moment are you just at s-- springboks here|align
+g|where are you at the moment are you just at springboks here|align
 f|well where i think that is|reply_y
 f|and the highest viewpoint's above where i am just now|explain
 g|right okay|acknowledge
 g|right go vertically up then between the the springboks and highest viewpoint|instruct
 f|okay am i meant to be trying to go under highest viewpoint like under|check
 g|no no|reply_n
-g|you're meant to be going between eh springboks and highest po-- viewpoint|clarify
+g|you're meant to be going between eh springboks and highest viewpoint|clarify
 f|okay|acknowledge
 g|and once you get to above highest viewpoint eh you go horizontally|instruct
 f|above highest viewpoint|check
@@ -45,24 +45,24 @@ g|yes|reply_y
 g|above highest|clarify
 f|uh-huh|acknowledge
 g|right then go eh uh to your right horizontally|instruct
-g|then eh come once you're once you've eh passed highest viewpoint eh and there's nothing below you a-- eh apart from safari truck|instruct
+g|then eh come once you're once you've eh passed highest viewpoint eh and there's nothing below you eh apart from safari truck|instruct
 g|if you can see that there|align
 f|uh-huh|reply_y
-g|right go vertically down to just above s-- eh safari truck|instruct
+g|right go vertically down to just above eh safari truck|instruct
 f|uh-huh|acknowledge
 g|right now what you want to do is diagonally eh from eh right to left go eh in front of safari truck|instruct
 f|like coming underneath it|check
 g|ehm you go up safari no no i don't mean go underneath it|reply_n
 g|go like over it as it were|clarify
 f|uh-huh|acknowledge
-g|eh right so you're actually going from going diagonally eh from right to left above safari tr-- truck|clarify
+g|eh right so you're actually going from going diagonally eh from right to left above safari truck|clarify
 f|oh okay|acknowledge
 g|right|align
 f|to where|query_w
 g|to just ehm below the level of field station|reply_w
 f|not got that|explain
 f|have you got banana tree|query_yn
-g|aye the banana tree bu--|reply_y
+g|aye the banana tree|reply_y
 g|is there a field station there as well|query_yn
 f|no nothing there|reply_n
 f|oh yeah yes uh-huh|reply_y
@@ -71,7 +71,7 @@ f|so i'm going towards field station|check
 g|yeah|reply_y
 g|go towards field station right|instruct
 f|okay|acknowledge
-g|until you're eh u-- just underneath the level of the words field station|instruct
+g|until you're eh just underneath the level of the words field station|instruct
 f|okay|acknowledge
 g|these are identical maps i hope|explain
 g|right eh right|ready
@@ -81,7 +81,7 @@ g|yes|reply_y
 g|like that|clarify
 f|okay|acknowledge
 f|where to|query_w
-g|right just p-- until you're past banana tree|clarify
+g|right just until you're past banana tree|clarify
 f|okay|acknowledge
 g|then come vertically down until you come to gold mine|instruct
 f|don't have a gold mine|explain
@@ -134,7 +134,7 @@ g|ehm then you want to go eh right ehm from left to right want to draw horizonta
 f|sorry say that again|check
 g|right|ready
 f|right i'm i'm beside rope bridge just now|explain
-g|you're bes-- beside rope bridge|check
+g|you're beside rope bridge|check
 f|did you mean just go straight keep going down but not go to|check
 g|yes|reply_y
 g|i meant to go straight down yeah|clarify
@@ -157,7 +157,7 @@ f|roughly okay|acknowledge
 g|right|ready
 g|then|instruct
 f|mmhmm|acknowledge
-g|right n-- from there you want to eh go from left to right across the rope bridge and it's actually ehm if if you think of a d-- it was it's not on the rope bridge the word but the rope bridge itself you want the the the line to pass through the diagram|instruct
+g|right from there you want to eh go from left to right across the rope bridge and it's actually ehm if if you think of a it was it's not on the rope bridge the word but the rope bridge itself you want the the the line to pass through the diagram|instruct
 f|uh-huh right|acknowledge
 g|right|align
 f|okay|acknowledge
@@ -166,16 +166,16 @@ g|now do you have giraffes in eh below rope bridge roughly|query_yn
 f|uh-huh|reply_y
 g|right|acknowledge
 g|ehm now you want to eh draw a vertical line down from the where you've just left the rope bridge but to the the right of the giraffes|instruct
-f|do you s-- do you have crocodiles underneath the rope bridge|query_yn
+f|do you do you have crocodiles underneath the rope bridge|query_yn
 g|no|reply_n
 g|right so there's crocodiles on yours|acknowledge
 g|ehm there's no crocodiles on mine|reply_n
-g|whereabouts are they eh n-- as with respect to the rope bridge|query_w
+g|whereabouts are they eh as with respect to the rope bridge|query_w
 f|directly underneath the right-hand side of the rope bridge|reply_w
 g|right i see right|acknowledge
 f|so if there's no obstruction beneath the rope bridge on the other side before you cross it do you think i could go from directly from there to the giraffes|query_yn
-g|yeah i s-- i suppose if|reply_y
-g|as long as we don't draw over the he-- the crocodiles themselves it'll be okay|reply_w
+g|yeah i i suppose if|reply_y
+g|as long as we don't draw over the the crocodiles themselves it'll be okay|reply_w
 f|no that that won't that won't affect it|explain
 g|right okay|ready
 g|so as long as you avoid them eh if you can just extend your horizontal line out to the the just from the the side of the page|instruct
@@ -187,12 +187,12 @@ g|so they're so they're actually barring that way|check
 f|without the crocodiles|explain
 f|well i imagine so|reply_y
 f|less i just drew round them which i suppose i could|explain
-g|eh can you dr-- actually draw round them|query_yn
+g|eh can you actually draw round them|query_yn
 f|well yeah i suppose|reply_y
 g|well if you could draw round them then|instruct
 f|straight down to the giraffes|check
 g|yeah|reply_y
-g|just to the left eh t-- sorry to the right of the giraffes in between the the edge of the page and the giraffes|clarify
+g|just to the left eh sorry to the right of the giraffes in between the the edge of the page and the giraffes|clarify
 f|okay|acknowledge
 g|right|ready
 g|now|ready
@@ -200,13 +200,13 @@ g|you want to go from there eh to your eh left just underneath the giraffes|inst
 g|now is there any obstacle there|query_yn
 f|there's the disused warehouse|reply_w
 f|you got that|query_yn
-g|disthouse u-- no i don't have that|reply_n
+g|disthouse no i don't have that|reply_n
 g|it's another obstacle right|acknowledge
 g|ehm if you can just go round eh above the eh disused warehouse|instruct
 g|and then you want to go eh under the great lake and to the finish|instruct
 f|under the great lake|check
 g|yeah|reply_y
 f|where's the finish just there|query_w
-g|well the finish is just between rock fall and great lake it's n-- it's not directly between them but it's on the same level as that|reply_w
+g|well the finish is just between rock fall and great lake it's it's not directly between them but it's on the same level as that|reply_w
 f|okay|acknowledge
 g|so that's it finished then|explain

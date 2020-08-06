@@ -5,14 +5,14 @@ f|yep|reply_y
 g|yeah|ready
 g|well if you draw a line from the start from the left-hand side of the cross|instruct
 f|uh-huh|acknowledge
-g|straight down to an inch below th-- the diamond mine|instruct
+g|straight down to an inch below the diamond mine|instruct
 f|right okay right|acknowledge
 g|you don't have a wagon wheel do you|query_yn
 f|no|reply_n
 f|i've got a swamp on the left-hand side|explain
 g|no|acknowledge
 g|yeah|acknowledge
-f|and i've got rapids just directly below the rap-- the the diamond wine mine about another say two inches or so three inches maybe|explain
+f|and i've got rapids just directly below the the the diamond wine mine about another say two inches or so three inches maybe|explain
 g|you've got a rift valley at the top|query_yn
 f|yep|reply_y
 g|top right-hand side|query_yn
@@ -50,7 +50,7 @@ f|yeah|acknowledge
 g|but above just above it and to the right i've got a stone creek|explain
 f|no|reply_n
 f|i don't have anything like that|explain
-g|so you're wanting to go betwee-- down to from the rift valley down passing the left-hand side of the rocks and then going just above the white water|instruct
+g|so you're wanting to go down to from the rift valley down passing the left-hand side of the rocks and then going just above the white water|instruct
 f|do i want to go under do you these your rocks you've got they've whatever it is|query_yn
 f|what is it you've got just above the rapids|query_w
 g|a stone creek|reply_w
@@ -86,7 +86,7 @@ g|yeah just keep below|reply_y
 f|right okay i'm there|acknowledge
 g|and then come along sort of sweeping up to right underneath the outlaws' hideout so you're crossing the whole page|instruct
 f|right okay|acknowledge
-f|that's ab-- oh you don't have the fort|explain
+f|that's oh you don't have the fort|explain
 g|where's the fort|query_w
 f|it's just it's like um|reply_w
 g|is it underneath the stone creek like directly underneath|query_yn
@@ -107,7 +107,7 @@ g|no|reply_n
 f|oh i've got a gold like a mine between my outlaw's hideout hideout and the noose|explain
 g|and you've got stone slabs as well|check
 f|and i've got stone slabs|reply_y
-f|the the out-- the gold mine is to the same right as the m-- manned fort is to the left and the gold mine is right in but practically in the middle between the outlaws' hideout and the noose|explain
+f|the the the gold mine is to the same right as the manned fort is to the left and the gold mine is right in but practically in the middle between the outlaws' hideout and the noose|explain
 g|okay|acknowledge
 f|so i want to come across 'til i'm underneath the outlaws' hideout|align
 g|yeah|reply_y
@@ -116,10 +116,10 @@ f|oh right|acknowledge
 f|i must be going underneath the i'm going underneath the fort then because that's underneath|explain
 g|and the line's|clarify
 g|okay|acknowledge
-g|and your sort of line's gradually s-- sloping up|clarify
+g|and your sort of line's gradually sloping up|clarify
 f|right|acknowledge
 f|uh-huh|acknowledge
-g|'til it gets quite close the ide-- outlaws' hideout|clarify
+g|'til it gets quite close the outlaws' hideout|clarify
 f|okay that's where i am|acknowledge
 g|and then the line's going like straight down and past the noose|instruct
 g|alright so if you've got something in the way there you'll have to go right round it|instruct

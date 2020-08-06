@@ -14,7 +14,7 @@ g|have you got the graveyard written down|query_yn
 f|no i don't have a graveyard on this one|reply_n
 g|do you have diamond mine|query_yn
 f|yes i've got a gold mine|reply_y
-g|ah s--|acknowledge
+g|ah|acknowledge
 g|you don't have diamond mine though|query_yn
 f|no|reply_n
 f|it's a gold mine according to this one|explain
@@ -33,7 +33,7 @@ f|yeah|reply_y
 g|and along underneath the diamond mine|align
 f|yes|reply_y
 g|along|align
-g|ehm could we ehm up we want to go north through the graveyard and round and a-- above the carved stones|instruct
+g|ehm could we ehm up we want to go north through the graveyard and round and above the carved stones|instruct
 f|above the carved stones okay|acknowledge
 g|ehm straight down for a while|instruct
 g|do you have indian country|query_yn
@@ -49,7 +49,7 @@ g|do you you have indian country|check
 f|yes got indian country|reply_y
 g|ehm we want to go ehm we don't want to go underneath indian country we want to go above it|instruct
 f|right|acknowledge
-g|sort of d-- do you have a great rock|query_yn
+g|sort of do you have a great rock|query_yn
 f|yes got a great rock|reply_y
 g|yeah|acknowledge
 g|you want to go between the indian country and the great rock and actually diagonally so you're underneath the great rock|instruct
@@ -59,9 +59,9 @@ g|uh-huh|reply_y
 g|and then up diagonally|clarify
 f|above indian country|check
 g|above indian country|reply_y
-g|diagonally down to un-- h-- horizontally underneath the great rock|clarify
+g|diagonally down to horizontally underneath the great rock|clarify
 f|okay|acknowledge
-g|okay i--|acknowledge
+g|okay|acknowledge
 f|so beneath the great rock|check
 g|right beneath the great rock|reply_y
 g|ehm you have the gold mine next|query_yn
@@ -93,20 +93,20 @@ f|okay|acknowledge
 f|yes got a bandit territory|reply_y
 g|right|acknowledge
 g|along|instruct
-g|eh af-- are you underneath the cattle stockade|align
+g|eh are you underneath the cattle stockade|align
 f|yes|reply_y
-g|ehm if you go sort of up a sort of a t-- a hill|instruct
+g|ehm if you go sort of up a sort of a a hill|instruct
 f|have you got a|query_yn
 f|have you got a parched river bed|query_yn
 g|no i don't|reply_n
 f|right i better not avoid that|explain
 g|yeah|acknowledge
-g|but if you just just stay p-- we're just at the|instruct
+g|but if you just just stay we're just at the|instruct
 g|we're nearly finished|explain
 g|ehm if you go under cattle stockade and then loop up slightly and then down under bandit territory|instruct
 f|right|acknowledge
 f|okay|acknowledge
-g|and up t-- eh up from bandit territory to finish|instruct
+g|and up eh up from bandit territory to finish|instruct
 f|i don't have a finish marked on mine|explain
 g|right|acknowledge
 g|okay ehm bandit territory go to your left of bandit territory and just above it put a cross for finish|instruct

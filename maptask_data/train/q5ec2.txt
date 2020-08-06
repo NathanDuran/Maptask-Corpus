@@ -6,7 +6,7 @@ f|what am i trying to avoid first of all|query_w
 g|stony desert|reply_w
 f|that's below the start|align
 g|uh-huh|reply_y
-f|so i just go s-- left|check
+f|so i just go left|check
 g|go along left|reply_y
 f|how far|query_w
 g|about centimetre and a half|reply_w
@@ -15,7 +15,7 @@ g|you past it|align
 f|oh right okay right okay|acknowledge
 g|you past stony desert|align
 f|yeah|reply_y
-g|right now go down to bottom left t--|instruct
+g|right now go down to bottom left|instruct
 f|diagonally|check
 g|yes|reply_y
 g|to miss the to get below the plane crash|explain
@@ -33,7 +33,7 @@ f|right okay|acknowledge
 g|and then up in a straight line about|instruct
 f|right|acknowledge
 g|er about two and a half centimetres|instruct
-f|is there a collaps--|query_yn
+f|is there a|query_yn
 f|is there a collapsed shelter|query_yn
 g|collapsed shelter|reply_w
 g|go up round above that|instruct
@@ -45,7 +45,7 @@ g|do you know what i mean|align
 f|yeah|reply_y
 f|okay right|acknowledge
 g|right|ready
-g|then down so that you've sort of gone back down the s-- the lef-- right-hand side of it 'til you get to the word collapsed shelter|instruct
+g|then down so that you've sort of gone back down the the right-hand side of it 'til you get to the word collapsed shelter|instruct
 f|right|acknowledge
 g|so are you past collapsed shelter now|align
 f|so|ready
@@ -74,14 +74,14 @@ g|it's a big slate mountain|clarify
 f|it's called the white mountain|explain
 g|right well do that anyway until you're about|instruct
 f|so right|ready
-f|at this point that and the savannah's to the right and then beyond that is p-- the edge of the page|check
+f|at this point that and the savannah's to the right and then beyond that is the edge of the page|check
 g|uh-huh|reply_y
 f|right|check
 f|so is the big mountain above the savannah for you|check
 f|i've got a|explain
 g|slate mountain right is that part that i said was about|align
 f|uh-huh|acknowledge
-g|that m-- a centimetre and or two above the start|align
+g|that a centimetre and or two above the start|align
 f|uh-huh|acknowledge
 g|go up about five or six centimetres|instruct
 f|straight up|check
@@ -91,7 +91,7 @@ g|and then move to your left|instruct
 f|uh-huh|acknowledge
 g|about two and a half centimetres|instruct
 f|uh-huh|acknowledge
-g|and then down diagonally from that about you know s--|instruct
+g|and then down diagonally from that about you know|instruct
 f|down to the left|check
 g|uh-huh|reply_y
 g|to miss hot wells|instruct
@@ -114,7 +114,7 @@ g|right|acknowledge
 f|this is a disaster|explain
 g|well don't go down then go just go straight up the page past|instruct
 f|okay|acknowledge
-g|down the to the right-hand side of the ri-- white of the left-hand side of the white mountain|instruct
+g|down the to the right-hand side of the white of the left-hand side of the white mountain|instruct
 f|right that's fine|acknowledge
 f|quite far up|check
 g|uh-huh|reply_y
@@ -147,17 +147,17 @@ g|right|acknowledge
 g|well the roman baths are above and to the left of that|explain
 f|uh-huh|acknowledge
 g|so you've got to miss that as well|instruct
-f|so where do i go what c-- side of the plane crash do i go to|query_w
+f|so where do i go what side of the plane crash do i go to|query_w
 g|well see the sort of partial semicircle over the top of the lake|align
 f|uh-huh|reply_y
-g|just mirror that on the bottom until you're s-- you start m-- until you finish that where you started to do a curve at the top|clarify
+g|just mirror that on the bottom until you're you start until you finish that where you started to do a curve at the top|clarify
 g|see where you started to curve up above the lake|align
 f|uh-huh|reply_y
 g|right well|instruct
 f|there's round rocks to the left of that|explain
 f|do you have that|query_yn
 g|mm|query_w
-f|do you have round rocks to the la-- left of the lake|query_yn
+f|do you have round rocks to the left of the lake|query_yn
 g|no|reply_n
 f|mm|acknowledge
 g|anyway right once you've got right to the bottom of the lake okay|align

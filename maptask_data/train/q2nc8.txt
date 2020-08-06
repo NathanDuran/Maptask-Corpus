@@ -1,5 +1,5 @@
 f|go|instruct
-g|okay we're going to start above th-- directly above the telephone kiosk|instruct
+g|okay we're going to start above directly above the telephone kiosk|instruct
 f|okay|acknowledge
 g|do you have that|query_yn
 f|i've got the start yeah|reply_y
@@ -52,7 +52,7 @@ g|okay|acknowledge
 g|see the third seagull along|align
 f|yeah|reply_y
 g|okay|align
-g|now go upwards until you're level with the point you're at at the f-- the broken gate|instruct
+g|now go upwards until you're level with the point you're at at the the broken gate|instruct
 f|sorry have i to go round the top of it|check
 g|no no|reply_n
 g|don't don't draw anything yet|instruct
@@ -138,7 +138,7 @@ f|up to the top of the stile|check
 g|yeah|reply_y
 g|top left-hand corner|clarify
 f|okay|acknowledge
-g|now if you like sort of draw a line along the top of that as if we're skirting round the ex-- the edge of it|instruct
+g|now if you like sort of draw a line along the top of that as if we're skirting round the the edge of it|instruct
 f|okay|acknowledge
 g|again now we're going to move straight up about an inch and a half|instruct
 f|from the right-hand corner of the stile|check
@@ -167,9 +167,9 @@ f|yeah|reply_y
 f|that's what i thought you were talking about|explain
 g|no|reply_n
 g|if you diagonally if you came in the same distance again|instruct
-g|do you get it sh--|align
+g|do you get it|align
 g|oh wait a minute what would that be hold on|ready
-g|one two three say four inches ac-- in fact chris|instruct
+g|one two three say four inches in fact chris|instruct
 f|okay|acknowledge
 g|four inches away from the top edge four inches away from the the edge on the left-hand side|instruct
 f|right|acknowledge
@@ -193,7 +193,7 @@ g|see the first letter of dutch say|align
 f|mmhmm|acknowledge
 g|okay about a centimetre below that|align
 f|right|acknowledge
-g|okay if you draw a line is that a can you ha-- have a diagonal line going from where you are right down to|instruct
+g|okay if you draw a line is that a can you have a diagonal line going from where you are right down to|instruct
 f|yeah|acknowledge
 g|yeah|align
 g|do you go through anything|query_yn
@@ -202,7 +202,7 @@ g|okay|acknowledge
 g|see the popular viewpoint what happened to it did we go round it or what|query_w
 f|no we just stayed away from it|reply_w
 g|oh never went anywhere near it|check
-f|no w-- well we went round the popular tourist spot we avoided the great viewpoint|clarify
+f|no well we went round the popular tourist spot we avoided the great viewpoint|clarify
 g|yeah okay went round that that's fine|acknowledge
 g|okay you're going to curve half a circle around that tree|instruct
 f|up the way|check
@@ -230,7 +230,7 @@ f|okay|acknowledge
 g|for about three inches|instruct
 f|to the corner|check
 g|yeah to the corner|reply_y
-g|so you're just past go past that co-- don't go up or anything like that just go past the corner for about an inch|clarify
+g|so you're just past go past that don't go up or anything like that just go past the corner for about an inch|clarify
 f|okay|acknowledge
 f|right|acknowledge
 f|right|acknowledge

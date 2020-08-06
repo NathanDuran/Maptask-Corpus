@@ -58,7 +58,7 @@ g|they should|explain
 g|above the rope bridge|check
 f|yeah|reply_y
 g|well|ready
-g|i've got some lost steps to-- to the right of that|explain
+g|i've got some lost steps to the right of that|explain
 g|okay|align
 f|under the gazelles|query_yn
 f|you don't have gazelles|query_yn
@@ -130,7 +130,7 @@ g|it's about the it's about three or four centimetres down from the white mounta
 f|from the middle of it|query_yn
 g|uh-huh|reply_y
 g|it's about the same width|explain
-f|s-- so like curving|check
+f|so like curving|check
 f|oh right i see|acknowledge
 g|ehm so if you come from the right-hand side of the mountain|instruct
 f|mmhmm|acknowledge
@@ -138,7 +138,7 @@ g|along and you want to go over the soft furnishing store|instruct
 f|so|ready
 f|sort of diagonally between them both then|check
 g|well|ready
-g|you come down from moun-- mountain and curve round|clarify
+g|you come down from mountain and curve round|clarify
 f|curve round the mountain|check
 f|to where|query_w
 f|the middle or the other end|query_yn
@@ -173,7 +173,7 @@ g|you've you've come straight down okay|align
 f|mm okay nearly|reply_y
 g|from the soft furnishing store|align
 f|right okay uh-huh|reply_y
-g|and you've gone underneath the gaz-- gazelles and you're turning right sort of a right angle|align
+g|and you've gone underneath the gazelles and you're turning right sort of a right angle|align
 f|okay|acknowledge
 f|right|acknowledge
 g|what've you got|query_w

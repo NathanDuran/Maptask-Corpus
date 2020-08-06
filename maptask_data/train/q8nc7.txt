@@ -7,7 +7,7 @@ f|okay|acknowledge
 g|you go ehm down the left-hand side of the extinct volcano 'til you're about a centimetre below it and then you go along the bottom of the page|instruct
 g|have you got a tribal settlement|query_yn
 f|right|acknowledge
-f|go down down the left-hand side of the extinct v-- volcano|check
+f|go down down the left-hand side of the extinct volcano|check
 g|uh-huh|reply_y
 f|right|acknowledge
 f|along and down 'til i'm about a centimetre below it|check
@@ -29,7 +29,7 @@ f|okay right right|reply_y
 g|and then|ready
 g|have you got a rope bridge|query_yn
 f|yeah|reply_y
-g|well go straight up until you're to just to the le-- left of the rope bridge and then go across it from left to right|instruct
+g|well go straight up until you're to just to the left of the rope bridge and then go across it from left to right|instruct
 f|okay|acknowledge
 g|okay|align
 g|when you get to the other side of the rope bridge go down about a centimetre immediately|instruct
@@ -56,7 +56,7 @@ f|uh-huh|acknowledge
 g|just go straight past it|instruct
 g|do you have a saxon barn|query_yn
 f|yes to the|reply_y
-g|well go s-- eh sort of up past the collapsed shelter and straight up until you're a-- about a centimetre above the level of the top of the saxon barn but above the collapsed shelter if you see what i mean|instruct
+g|well go eh sort of up past the collapsed shelter and straight up until you're about a centimetre above the level of the top of the saxon barn but above the collapsed shelter if you see what i mean|instruct
 f|okay|ready
 f|directly up|check
 g|uh-huh straight up|reply_y
@@ -84,7 +84,7 @@ g|until you're to the bottom left-hand side of it|instruct
 f|okay got you|acknowledge
 g|okay|align
 f|uh-huh|reply_y
-g|then when you get there go down ehm a couple of centi-- go down about an inch a couple of centime-- centimetres|instruct
+g|then when you get there go down ehm a couple of go down about an inch a couple of centimetres|instruct
 f|mmhmm|acknowledge
 g|and i've got pelicans at this point|explain
 g|right|align
@@ -95,7 +95,7 @@ f|right|acknowledge
 g|and then go along a couple of centimetres|instruct
 f|to the left yeah|check
 g|to the left|reply_y
-g|until you're a coup-- mm about a centimetre and a half in from the side of the page|clarify
+g|until you're a mm about a centimetre and a half in from the side of the page|clarify
 g|and then go up again straight up until you're about level with saxon barn|instruct
 f|okay|acknowledge
 f|which is it the top bottom of it which part|query_w
@@ -106,7 +106,7 @@ f|right|reply_y
 g|right|ready
 g|have you got a white mountain|query_yn
 f|yes|reply_y
-g|go up towards that and along the side of it to the l-- along the left-hand side of it 'til you get to the top|instruct
+g|go up towards that and along the side of it to the along the left-hand side of it 'til you get to the top|instruct
 f|okay|acknowledge
 g|just to the left of the top|instruct
 f|right|acknowledge
@@ -115,7 +115,7 @@ g|have you got a golden beach|query_yn
 f|yes uh-huh|reply_y
 g|well go straight up from the top of the white mountain 'til you're just beside the golden beach to the right of it|instruct
 f|right|ready
-f|you want me to go dilect-- directly right|check
+f|you want me to go directly right|check
 g|no|reply_n
 g|directly up|clarify
 f|but golden beach is away in the far right|explain
@@ -132,7 +132,7 @@ g|are you at the top of the white mountain|align
 f|yeah|reply_y
 f|i'm just top and to the left of it|explain
 g|that's fine|acknowledge
-g|go s-- go straight up about three or four centimetres|instruct
+g|go go straight up about three or four centimetres|instruct
 f|okay|acknowledge
 g|right|align
 g|and then do a sharp turn to the right towards the slate mountain|instruct
@@ -145,7 +145,7 @@ f|right just below and to the left okay|acknowledge
 g|okay|align
 f|right i'm there|reply_y
 g|and then do a circle right round the slate mountain 'til you come back to the ehm bottom left-hand side of it again|instruct
-f|so you want to go d-- i'm going round anticlockwise yeah|check
+f|so you want to go i'm going round anticlockwise yeah|check
 g|all the way round it|clarify
 g|uh-huh|reply_y
 g|um no|reply_n
@@ -164,7 +164,7 @@ f|okay|ready
 g|okay|align
 f|back just about back to where i started near enough|check
 g|that's right|reply_y
-g|just back to the b-- bottom left-hand side of the slate mountain|clarify
+g|just back to the bottom left-hand side of the slate mountain|clarify
 f|okay|acknowledge
 f|okay|acknowledge
 g|okay|align

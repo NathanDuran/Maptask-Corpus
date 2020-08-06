@@ -1,7 +1,7 @@
 g|start at the extinct volcano|instruct
 g|go down around the tribal settlement and then|instruct
 f|whereabouts is the tribal settlement|query_w
-g|it's at the bottom it's to the left of the e-- extinct volcano|reply_w
+g|it's at the bottom it's to the left of the extinct volcano|reply_w
 f|right|acknowledge
 f|how far|query_w
 g|ehm at the opposite side|clarify
@@ -9,7 +9,7 @@ f|to the opposite side|acknowledge
 f|is it underneath the rope bridge or to the left|query_w
 g|it's underneath the rope bridge|reply_y
 g|and then from the tribal settlement go straight up towards the rope bridge and over the rope bridge then down three steps and along to above the volcano|instruct
-f|eh d-- is down three steps below or above the machete|query_w
+f|eh is down three steps below or above the machete|query_w
 g|ah the machete's not on my map|explain
 f|oh|acknowledge
 g|down three lines|instruct
@@ -41,7 +41,7 @@ g|straight down to the left|clarify
 f|left of it right|acknowledge
 g|and just above the rope bridge and then along to your left again|instruct
 f|okay|acknowledge
-g|and from there go straight up to the top of the map to the golden beach at the l-- top left-hand corner passing the white mountain|instruct
+g|and from there go straight up to the top of the map to the golden beach at the top left-hand corner passing the white mountain|instruct
 f|but golden beach is in the top right-hand corner|explain
 g|left-hand corner sorry|instruct
 f|but there's a|explain
@@ -52,9 +52,9 @@ g|and then stop|instruct
 g|then turn to your right|instruct
 g|and go along to the middle of the map|instruct
 f|right|acknowledge
-f|b-- eh underneath slate mountain|check
+f|eh underneath slate mountain|check
 g|no|reply_n
-g|just to the e-- the end of slate mountain|clarify
+g|just to the the end of slate mountain|clarify
 f|right|acknowledge
 g|then go over slate mountain|instruct
 f|right|acknowledge

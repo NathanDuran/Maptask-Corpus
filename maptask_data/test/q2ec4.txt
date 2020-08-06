@@ -5,26 +5,26 @@ g|do you have a diamond mine just below it|query_yn
 f|mmhmm|reply_y
 g|about an inch to your right draw a line straight down|instruct
 f|right|ready
-f|c-- start from the cross yeah|check
-g|'til it's abo-- 'til it's an inch below the diamond mine|instruct
+f|start from the cross yeah|check
+g|'til it's 'til it's an inch below the diamond mine|instruct
 g|right|align
-g|do you have a wagon--|query_yn
+g|do you have a|query_yn
 f|it's directly down yeah|check
 g|yeah|reply_y
 g|do you have a a wagon wheel just to the right of the the diamond mine|query_yn
 f|mm no i haven't got any wagon wheel|reply_n
-g|what's the f-- next thing to its right|query_w
+g|what's the next thing to its right|query_w
 f|to the right i've got eventually a cactus|reply_w
 g|you don't have a rift valley|query_yn
 f|oh i've got a rift valley above that|reply_y
 g|yeah okay|acknowledge
-f|y-- you've got the rift valley right up at the top right-hand side|check
+f|you've got the rift valley right up at the top right-hand side|check
 g|you're drawing your line down|align
 f|mmhmm|reply_y
 g|underneath draw a line to your right and straight along at a slight angle rising up towards the back of the corner of the page|instruct
 f|towards the right-hand corner|check
 g|yeah|reply_y
-f|ehm that's going to take me f-- pretty near to the cactus thing so i'm trying to avoid that|explain
+f|ehm that's going to take me pretty near to the cactus thing so i'm trying to avoid that|explain
 g|right|ready
 f|hang on hang on right|ready
 f|an inch to the right of the diamond mine|check
@@ -32,21 +32,21 @@ g|yeah|reply_y
 f|yeah and then straight down to an inch below it|check
 g|should be now yeah if your line's below the diamond mine you should be okay|reply_y
 f|yeah|acknowledge
-g|and then go st-- straight along to my right which is your right as well go straight along to the right|clarify
+g|and then go straight along to my right which is your right as well go straight along to the right|clarify
 f|okay|acknowledge
 f|to right to the edge of the page|check
 g|no|reply_n
 g|to about halfway to page about four inches off before the page|instruct
 f|er right okay|acknowledge
 f|that takes me to|explain
-g|then go s-- up to almost the very top of the page|instruct
+g|then go up to almost the very top of the page|instruct
 f|okay|acknowledge
 g|right|ready
 g|and then to your right again|instruct
 f|okay hang on|ready
 g|well but|ready
 f|have you got the rift valley there|query_yn
-f|'cause i've got the rift valley right up in that r-- top right-hand corner|explain
+f|'cause i've got the rift valley right up in that top right-hand corner|explain
 g|yeah|acknowledge
 g|you're going to actually go through the rift valley|instruct
 g|like the rift valley's like a half moon|align
@@ -63,7 +63,7 @@ g|yeah below|reply_y
 g|and then like into the rift valley|clarify
 f|okay right|ready
 g|and right through|reply_y
-f|i'll have to t-- i'll i'll have to kind of change it slightly 'cause i've taken it on the wrong side of this cactus thing i think i'll just do a slight detour|explain
+f|i'll have to i'll i'll have to kind of change it slightly 'cause i've taken it on the wrong side of this cactus thing i think i'll just do a slight detour|explain
 f|right|ready
 f|and just take it straight through towards the top of the page|check
 g|straight through yeah|reply_y
@@ -82,7 +82,7 @@ f|mm that's not where i am now|explain
 f|right so where hang on right so|query_w
 g|your rift valley is "u"-shaped yeah|align
 f|yeah|reply_y
-f|in a c-- like as the two ends are pointing up towards top of the page|align
+f|in a like as the two ends are pointing up towards top of the page|align
 g|yeah|reply_y
 f|right|ready
 f|and i was supposed to start above it there and come down through it|check
@@ -107,7 +107,7 @@ f|er right over i've got rapids about three inches across from the rocks|reply_w
 g|well i've got a stone creek there|explain
 g|see in between|align
 g|you want to go from the rift valley right down in between the rocks|instruct
-f|thr-- through the centre of the two rocks|check
+f|through the centre of the two rocks|check
 g|no|reply_n
 g|no not sorry|reply_n
 g|i i i don't mean through the two rocks i mean like to the left of the two rocks about an inch|clarify
@@ -124,10 +124,10 @@ g|or a swamp to its left|query_yn
 f|i've got the swamp|reply_y
 f|and like directly above the rapids i've got a diamond mine|explain
 g|to its left|check
-g|well that's a a stone c-- ss|explain
+g|well that's a a stone ss|explain
 f|but you know right right back at the start|explain
 g|oh no aye yeah|acknowledge
-g|you don't have like above the the rapids to its s-- slightly to its right you don't have a stone creek|check
+g|you don't have like above the the rapids to its slightly to its right you don't have a stone creek|check
 f|nope|reply_n
 g|no well|ready
 g|take your line right down to your rapids which is my white water and just like|instruct
@@ -144,12 +144,12 @@ f|right okay|acknowledge
 f|right|ready
 f|so i'm now at the top left-hand corner of the rapids|explain
 g|right okay|ready
-g|come down come straight down to below that like j-- a straight line down but take it to at least two inches below your outlaws' hideout not like you mean like s-- straight down but like|instruct
+g|come down come straight down to below that like a straight line down but take it to at least two inches below your outlaws' hideout not like you mean like straight down but like|instruct
 f|oh i see what you mean yeah|acknowledge
 g|in like length further down from that on the page|instruct
 f|have you got a manned fort below the rapids|query_yn
 g|no|reply_n
-f|'cause i've got that interrupting er like dir-- almost directly below it slightly to the left i've got a manned fort|explain
+f|'cause i've got that interrupting er like almost directly below it slightly to the left i've got a manned fort|explain
 g|you got another stone creek|query_yn
 f|eh oh right|acknowledge
 g|and stone slabs|query_yn
@@ -165,12 +165,12 @@ f|er about two inches maybe two and a half|reply_w
 g|take it further down go right under the manned go under your manned fort and between your stone creek|instruct
 f|the stone creek and the stone slabs|check
 g|no|reply_n
-g|go r-- go down under your manned fort and then|clarify
-f|which way do you want me to go round the r-- left or the right-hand side of that|query_w
+g|go go down under your manned fort and then|clarify
+f|which way do you want me to go round the left or the right-hand side of that|query_w
 g|go round the left-hand side|reply_w
 f|right okay|acknowledge
 g|and then|ready
-g|when you get to the b-- when you get below it go up towards your ha-- outlaws' hideout and sort of take the line s-- sloping up so it's like going straight up towards the outlaws' hideout or it's going close to the hideout it's like you're so you're going to the other side of the page|instruct
+g|when you get to the when you get below it go up towards your outlaws' hideout and sort of take the line sloping up so it's like going straight up towards the outlaws' hideout or it's going close to the hideout it's like you're so you're going to the other side of the page|instruct
 f|right so|ready
 f|it's a diagonal across the page towards that|check
 g|yeah|reply_y
@@ -194,7 +194,7 @@ f|short cut|acknowledge
 f|yeah|reply_y
 g|you're right up beside that|align
 f|mmhmm i'm|reply_y
-f|ju-- well i've got it at the moment i'm slightly below it but|reply_w
+f|well i've got it at the moment i'm slightly below it but|reply_w
 g|you've got a gold mine a gold mine you got a gold mine below that|check
 f|yeah|reply_y
 g|far below it|query_yn
@@ -202,7 +202,7 @@ g|directly below it|query_yn
 f|not directly below it|reply_n
 f|just just below the "u" if you take it down from the hideout er that that's just that's just at the left-hand side|explain
 g|aye|ready
-g|that'll be where my s-- that'll be where my stone labs|explain
+g|that'll be where my that'll be where my stone labs|explain
 g|that'll be where my stone slabs are|explain
 f|but are your stone slabs not kind of at the other side of that|check
 g|i would imagine|explain
@@ -213,7 +213,7 @@ f|the gold mine is|reply_w
 g|right above the noose|check
 f|mm aye directly above the noose that's a better description|reply_y
 g|okay|acknowledge
-g|well--|ready
+g||ready
 g|from where that line is that you've drawn go straight down 'til you pass the noose and you're passing the noose like on its right-hand side by a wee bit|instruct
 f|on its right-hand side|check
 g|if you know what i mean|align
@@ -227,7 +227,7 @@ g|then you don't have anything else down like|query_yn
 f|i've got the saloon bar and i've got the stone creek directly across to the left of the noose er but i've got nothing else in that area at all|reply_w
 g|uh-huh|acknowledge
 g|right|acknowledge
-f|you know like below that i should say i mean in the m-- in the middle and to b-- above them and the stone slabs|reply_w
+f|you know like below that i should say i mean in the in the middle and to above them and the stone slabs|reply_w
 g|okay|acknowledge
 g|right|ready
 g|you know how the like on line with the saloon bar|align

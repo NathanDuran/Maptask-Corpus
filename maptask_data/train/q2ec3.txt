@@ -28,22 +28,22 @@ g|now you you need to go parallel to the side of the map|instruct
 f|uh-huh|acknowledge
 g|ehm about four inches|instruct
 f|right|acknowledge
-g|so you're just ab-- y-- you're now about two inches above the gorillas or the banana tree|instruct
+g|so you're just you're now about two inches above the gorillas or the banana tree|instruct
 f|yeah|acknowledge
 g|ehm do you have a rope bridge|query_yn
 f|yes i do|reply_y
 g|right|acknowledge
-g|you need to cross the rope bidge-- bridge|instruct
+g|you need to cross the rope bridge|instruct
 f|how close to the river should i be the now|query_w
-g|i haven't got a i haven't got a river marked but i assume well i--|reply_w
+g|i haven't got a i haven't got a river marked but i assume well|reply_w
 f|i have gone|explain
 f|you haven't|check
 g|if no|reply_n
 g|if you go if you're up going up eh vertically|clarify
 f|uh-huh|acknowledge
 f|yeah|acknowledge
-g|by the gor-- gorillas|clarify
-g|then you need to-- you need to bend it round to the rope bridge|clarify
+g|by the gorillas|clarify
+g|then you need you need to bend it round to the rope bridge|clarify
 f|then go horizontal|check
 f|bend|acknowledge
 g|and you're going across the rope bridge so your your line should stop at the beginning of the rope bridge and come out again at the end|clarify
@@ -68,7 +68,7 @@ f|no|reply_n
 f|oh yeah i do right up|reply_y
 f|quite far up|check
 g|oh no|reply_n
-g|th-- th-- th-- th-- th-- these are in the middle|explain
+g|these are in the middle|explain
 f|no|reply_n
 g|okay|acknowledge
 g|we right|ready
@@ -76,7 +76,7 @@ g|you're at the bottom of the waterfall now okay|align
 f|uh-huh|reply_y
 g|ehm what's your next thing that's marked|query_w
 f|the lost steps just south of the white mountain up at the top|reply_w
-g|no the-- the-- they're not|explain
+g|no they're not|explain
 f|do you have the rock fall|query_yn
 g|oh i've got another lot of lost steps up there that's what you must mean|explain
 f|yeah|acknowledge
@@ -100,11 +100,11 @@ g|so you need to kind of curve round as if you had something in the way there yo
 f|right okay|acknowledge
 g|you see|align
 f|up it like going over them|check
-g|like a-- like as if you were going over something|reply_y
+g|like like as if you were going over something|reply_y
 f|right okay|acknowledge
-f|to the do i g-- bend it right over 'til i get to the fallen pillars|query_yn
+f|to the do i bend it right over 'til i get to the fallen pillars|query_yn
 g|bend it right over|reply_y
-g|and then head it sort of up and round so that you-- you're going up over the lost steps|clarify
+g|and then head it sort of up and round so that you're going up over the lost steps|clarify
 f|uh-huh|acknowledge
 g|and then down and under the fallen pillars|clarify
 f|right hang on|acknowledge
@@ -125,20 +125,20 @@ f|to the ruined city|query_yn
 f|do you have|query_yn
 g|to the ancient ruins|reply_y
 g|yeah|reply_y
-f|t-- uh-huh|acknowledge
+f|uh-huh|acknowledge
 g|so you need to go loop it down and then all the way up to the ancient ruins|clarify
 f|right|acknowledge
 g|okay|align
 f|i'm at the ancient ruins|explain
 g|you're at the ancient ruins|acknowledge
 g|okay|ready
-g|now bend round the ancient ruins until you're just now running verti-- so you're just going up from the ancient ruins now|instruct
+g|now bend round the ancient ruins until you're just now running so you're just going up from the ancient ruins now|instruct
 g|have you got some stones at the top|query_yn
 f|i've got rock fall|reply_w
 g|okay|acknowledge
 g|right|ready
 g|if you head it up towards the rock fall|instruct
-f|s-- right i'm|acknowledge
+f|right i'm|acknowledge
 g|so you now you now should be about two two and a half inches from the top of the map|instruct
 f|right|acknowledge
 f|yeah practically|acknowledge
@@ -163,18 +163,18 @@ f|no|reply_n
 g|right underneath the white mountain|reply_w
 f|no|reply_n
 g|okay|ready
-g|well you've go-- so you're at the bottom of the white mountain now|align
+g|well you've so you're at the bottom of the white mountain now|align
 f|yeah|reply_y
 g|right er|ready
 g|this is difficult um|explain
-f|yo-- what about the lost steps up there|query_w
+f|what about the lost steps up there|query_w
 f|do you have lost steps on that side|query_yn
 g|no|reply_n
 g|you don't go anywhere near them|instruct
 f|right okay|acknowledge
 g|no|reply_n
 g|well|ready
-g|you're now going you're going back the way you came so you need to it-- as if you're going right underneath the white mountain so come down a bit and then go right underneath it|instruct
+g|you're now going you're going back the way you came so you need to as if you're going right underneath the white mountain so come down a bit and then go right underneath it|instruct
 f|okay right|acknowledge
 g|about to about three inches|instruct
 f|right|acknowledge

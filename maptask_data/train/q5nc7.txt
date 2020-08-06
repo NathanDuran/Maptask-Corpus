@@ -68,7 +68,7 @@ f|ehm no|reply_n
 g|have you got that|query_yn
 g|no right okay|acknowledge
 g|well come down about forty-five degrees about|instruct
-g|thr-- two inches away from abandoned cottage|instruct
+g|two inches away from abandoned cottage|instruct
 f|mmhmm|acknowledge
 g|now you're still heading to your left|instruct
 f|mmhmm|acknowledge
@@ -89,7 +89,7 @@ g|uh-huh|acknowledge
 f|and then what do i do|query_w
 g|now|ready
 g|have you got a trig point|query_yn
-f|a--|query_w
+f||query_w
 g|right|ready
 g|right you follow it round to where it the west lake starts to turn in again and then|instruct
 f|where there's a sort of like ehm a dip a crag sort of thing there's two sort of peaks|check
@@ -112,9 +112,9 @@ f|mmhmm|acknowledge
 g|back down to the level the abandoned cottage now you should about three four inches away from that|instruct
 f|okay|acknowledge
 g|have you got a monument|query_yn
-f|n-- yeah|reply_y
+f|yeah|reply_y
 g|yeah|acknowledge
-f|i sh-- i'm directly opposite the monument|explain
+f|i i'm directly opposite the monument|explain
 g|uh-huh|acknowledge
 g|well|ready
 g|i want you to go underneath the monument|instruct

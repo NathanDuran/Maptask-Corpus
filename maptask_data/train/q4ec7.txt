@@ -49,17 +49,17 @@ g|upwards for about|clarify
 f|the edge of the paper until i'm just across from the rope bridge|check
 g|yeah|reply_y
 g|no|reply_n
-g|'til you've f-- maybe one centimetre below it and then you sort of curve round|clarify
+g|'til you've maybe one centimetre below it and then you sort of curve round|clarify
 f|below the writing of rope bridge|check
 g|no|reply_n
 f|below|acknowledge
 g|below|clarify
-g|do you ha-- the left-hand side of the rope bridge|clarify
+g|do you the left-hand side of the rope bridge|clarify
 f|uh-huh|acknowledge
 g|but you don't go a straight line and then turn you curve round onto the rope bridge|clarify
 f|okay|acknowledge
 f|so i'm going to cross the rope bridge yeah|check
-g|yes you cro--|reply_y
+g|yes you|reply_y
 f|okay|acknowledge
 g|are you crossing the rope bridge|align
 f|you want me to cross it uh-huh|check
@@ -67,7 +67,7 @@ g|well if you curve round slightly and cross the rope bridge|clarify
 f|okay|acknowledge
 g|and then stop when you get to the other side|instruct
 f|uh-huh|acknowledge
-g|because you've got to curve down ehm it's not a wide cur-- curve it's quite a narrow curve down two centimetres|instruct
+g|because you've got to curve down ehm it's not a wide curve it's quite a narrow curve down two centimetres|instruct
 f|mmhmm|acknowledge
 g|so|ready
 f|do you have a machete|query_yn
@@ -81,7 +81,7 @@ g|is that curving down a lot|query_yn
 g|'cause it's only about one and a half centimetres two centimetres you've got to curve down|explain
 f|mmhmm|acknowledge
 f|well where would i go once i curve down on your map|query_w
-g|you turn right and go straight across so you're th-- you're about three centimetres above the start position|reply_w
+g|you turn right and go straight across so you're you're about three centimetres above the start position|reply_w
 f|okay that's fine|acknowledge
 f|i'll just go underneath it then|explain
 g|and stop when you're you're|instruct
@@ -90,7 +90,7 @@ f|uh-huh|reply_y
 f|just above there|query_yn
 g|yeah|reply_y
 f|so i should be like just underneath the collapsed shelter uh-huh|check
-g|about two centimetr-- me-- --metres underneath it|reply_w
+g|about two underneath it|reply_w
 f|that's fine|acknowledge
 g|have you got a saxon barn|query_yn
 f|uh-huh|reply_y
@@ -102,7 +102,7 @@ f|mmhmm|acknowledge
 f|so just so just in a diagonal upwards from right to left|check
 g|and stop there|instruct
 g|no|reply_n
-g|straight line up to s-- the left-hand side of collapsed shelter so you're on the level with the top of saxon barn but not actually near it you're still on the right-hand side of the map|clarify
+g|straight line up to the left-hand side of collapsed shelter so you're on the level with the top of saxon barn but not actually near it you're still on the right-hand side of the map|clarify
 f|so it's a it is a diagonal upwards towards the|check
 g|no|reply_n
 g|straight line upwards|clarify
@@ -117,7 +117,7 @@ f|have you got a crevasse|query_yn
 g|no|reply_n
 f|well have you got anything to the right of the saxon barn|query_w
 g|no|reply_n
-g|so if you go straight up would you c-- curve round the crevasse to get to the saxon barn|query_yn
+g|so if you go straight up would you curve round the crevasse to get to the saxon barn|query_yn
 f|if i went a bit to the right i could just go straight up|reply_w
 f|would that be okay|query_yn
 g|if you go well i was going|reply_w
@@ -167,7 +167,7 @@ f|uh-huh|reply_y
 g|go straight up from there ehm slightly curving a bit round the white mountain|instruct
 f|over the top of it uh-huh|check
 g|no|reply_n
-g|don't go over it g-- stop when you're parallel to the top of the white mountain|clarify
+g|don't go over it stop when you're parallel to the top of the white mountain|clarify
 f|okay mmhmm|acknowledge
 g|and have you got a golden beach at the top left-hand corner|query_yn
 f|yeah|reply_y
@@ -178,7 +178,7 @@ g|yes|reply_y
 g|so i've got secret valley|reply_y
 f|okay|acknowledge
 f|so you want me to go above secret valley|check
-g|nowhere ne--|reply_w
+g|nowhere|reply_w
 g|nowhere near secret valley|reply_w
 f|what|query_w
 g|have you have you your golden beach is it at the top left-hand corner or the right-hand corner|align
@@ -200,8 +200,8 @@ g|go directly along from that point to the end of slate mountain|instruct
 f|to the right-hand end of the slate mountain|check
 g|uh-huh left-hand end of slate slate mountain 'cause you go over the top of it|clarify
 f|okay|acknowledge
-g|so just do that then go rou--|instruct
-f|whe-- where's the golden beach i've got to avoid is that like above|query_w
+g|so just do that then go|instruct
+f|where's the golden beach i've got to avoid is that like above|query_w
 g|that's in the top left-hand corner yeah|reply_w
 f|okay okay|acknowledge
 f|right|acknowledge
@@ -211,7 +211,7 @@ g|just go over it and stop at the other side and curve right round underneath it
 f|mmhmm|acknowledge
 g|and you got a secret valley|query_yn
 f|yeah|reply_y
-g|can you go d-- v-- down from there down the left-hand side of the secret valley|instruct
+g|can you go down from there down the left-hand side of the secret valley|instruct
 f|mmhmm|acknowledge
 g|and are you underneath the secret valley|align
 f|hold on you want me to be underneath the secret valley|check

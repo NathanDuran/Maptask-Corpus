@@ -13,13 +13,13 @@ g|okay|align
 f|right|acknowledge
 f|directly down|query_yn
 g|yeah|reply_y
-f|besi-- is it beside an old pine|query_yn
+f|is it beside an old pine|query_yn
 g|yeah|reply_y
 g|it's about you know an inch or so two inches from to the left of the old pine|clarify
 g|so if you just take a line straight down from the start|instruct
 g|okay|align
 f|uh-huh|acknowledge
-f|so ju-- hang on you see this ehm|align
+f|so hang on you see this ehm|align
 g|four inches down four inches down just take a straight line|instruct
 f|well is this is this next to the|query_yn
 f|is it beside the old pine sort of or is it on a sort of|query_w
@@ -67,13 +67,13 @@ f|right|acknowledge
 g|and you don't have a canal do you|query_yn
 f|no|reply_n
 g|the canal's about two inches to the left of the bakery|explain
-g|bu-- so go round the bakery|instruct
+g|so go round the bakery|instruct
 f|mmhmm|acknowledge
 g|and stop about an inch to the left of the bakery|instruct
 f|mmhmm|acknowledge
 g|then draw a line straight down|instruct
 f|mmhmm|acknowledge
-g|to where crane bay starts to curve above abo-- above the gap but it's between crane and the word bay|instruct
+g|to where crane bay starts to curve above above the gap but it's between crane and the word bay|instruct
 f|right|acknowledge
 g|okay|align
 f|mmhmm|reply_y
@@ -102,12 +102,12 @@ f|uh-huh|reply_y
 g|just draw a line two inches down or in fact just draw a line down until an inch or so above the rocket warehouse|instruct
 f|right|acknowledge
 g|okay|align
-g|go round the rocket warehouse in the same way as you went round the bakery but o-- o-- to the left-hand side obviously|instruct
+g|go round the rocket warehouse in the same way as you went round the bakery but to the left-hand side obviously|instruct
 g|you're towards the outside of the page|query_yn
 f|to the left-hand side|check
 f|right uh-huh|acknowledge
 g|yeah|reply_y
-g|and so if you've gone round it don-- don't go beneath it though|instruct
+g|and so if you've gone round it don't go beneath it though|instruct
 f|right|acknowledge
 g|okay|align
 f|uh-huh|reply_y
@@ -116,7 +116,7 @@ f|uh-huh uh-huh|acknowledge
 g|okay|align
 g|eh if you just draw a line more or less straight down to the left-hand side of the lighthouse because that's where the cross is for the finish|instruct
 g|you've got a lighthouse haven't you|query_yn
-f|but what what about the ca-- there's a cave|query_w
+f|but what what about the there's a cave|query_w
 g|where's the cave|query_w
 f|right|ready
 f|see the rocket warehouse and the old lighthouse|align
@@ -125,7 +125,7 @@ f|right between that to the left it's sort of like in a triangle|reply_w
 g|okay right okay|acknowledge
 f|do you have to go round the cave or|query_w
 g|i i don't have a cave|explain
-g|t-- take the line from the rocket warehouse|instruct
+g|take the line from the rocket warehouse|instruct
 g|right|align
 f|uh-huh|acknowledge
 g|don't go straight down take it right to the left-hand side of the page|instruct
@@ -149,7 +149,7 @@ g|draw the line down to where where the land ends kind of thing|clarify
 f|right uh-huh|acknowledge
 g|and then|ready
 f|oh right|acknowledge
-g|so then then cu-- you know draw a line to the right-hand side sorry to the right|instruct
+g|so then then you know draw a line to the right-hand side sorry to the right|instruct
 f|right|acknowledge
 g|to where the the the cross is|instruct
 g|you have a lighthouse don't you|query_yn

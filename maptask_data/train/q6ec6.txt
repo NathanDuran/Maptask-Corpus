@@ -23,13 +23,13 @@ f|um i've come to a rift valley|explain
 g|oh you don't want to be that far along you want to go up so you're to the left of the rift valley|instruct
 f|okay that's fine|acknowledge
 g|then go right 'til you're halfway along the rift valley|instruct
-f|then go ri--|acknowledge
+f|then go|acknowledge
 f|right|acknowledge
 g|then go down 'til you're above|instruct
 g|have you got any rocks|query_yn
 f|yeah|reply_y
 g|alright|ready
-f|so down through the m-- centre of the rift valley|check
+f|so down through the centre of the rift valley|check
 g|yeah|reply_y
 g|and you end up just above the rocks|instruct
 f|along the rift|acknowledge
@@ -45,7 +45,7 @@ g|you go to the left and then you go down|reply_w
 f|okay|ready
 f|so i'm now|explain
 f|and then go underneath them|check
-g|no no n--|reply_n
+g|no no|reply_n
 g|just so you're beneath them|clarify
 g|in parallel terms|clarify
 f|okay fine|acknowledge

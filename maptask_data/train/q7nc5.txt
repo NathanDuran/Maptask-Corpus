@@ -2,13 +2,13 @@ g|okay laura|ready
 g|could you go to the start cross which is just above the site of the forest fire please|instruct
 f|yeah okay i've got that|acknowledge
 g|right|acknowledge
-g|and can you pa-- i want you to just go slightly to the left just and skim the side of the site of the forest fire so that you're nearly at the edge of this page|instruct
+g|and can you i want you to just go slightly to the left just and skim the side of the site of the forest fire so that you're nearly at the edge of this page|instruct
 g|okay|ready
 f|okay straight left yeah|check
-g|and can y--|instruct
+g|and can|instruct
 g|uh-huh|reply_y
-g|and then turn l-- go down the way and sort of skim along the p-- the side of the page okay for about f-- five inches|instruct
-g|y-- i know there's nothing there but on my map there's a picnic site which you have to try and avoid|explain
+g|and then turn go down the way and sort of skim along the the side of the page okay for about five inches|instruct
+g|i know there's nothing there but on my map there's a picnic site which you have to try and avoid|explain
 g|okay|align
 f|right so|ready
 f|straight the end of them roughly at the end of the page and then straight down for about five inches|check
@@ -46,10 +46,10 @@ g|and stop just above the climbing frame|instruct
 f|look oh right okay|acknowledge
 f|i was wanting for a separate climbing frame|explain
 g|certainly different|acknowledge
-g|right so you're sort of in the l-- top left-hand corner of the adventure playground of the climbing frame right|align
+g|right so you're sort of in the top left-hand corner of the adventure playground of the climbing frame right|align
 f|yeah|reply_y
 g|right|ready
-g|from then on i want you to go sort of horizontally along sort of s-- just a couple of millimetres above|instruct
+g|from then on i want you to go sort of horizontally along sort of just a couple of millimetres above|instruct
 f|millimetres|check
 g|no|reply_n
 g|above the adventure playground|clarify
@@ -67,7 +67,7 @@ g|right|ready
 g|then stop|instruct
 g|now|ready
 g|do you have|query_yn
-f|above where i am just now i h--|explain
+f|above where i am just now i|explain
 g|private fields don't you|query_yn
 f|uh-huh|reply_y
 g|well|ready
@@ -97,10 +97,10 @@ g|on the left-hand side|explain
 f|mmhmm|acknowledge
 g|right and|ready
 g|do you have a train crossing just below the waterfall|query_yn
-f|n-- no|reply_n
+f|no|reply_n
 f|the train crossing's quite a bit above the waterfall|reply_w
 g|right|acknowledge
-g|i've got that one as well but there's ac-- also one below the waterfall|explain
+g|i've got that one as well but there's also one below the waterfall|explain
 f|all right|acknowledge
 f|i don't have anything below it|explain
 g|right so|ready
@@ -117,7 +117,7 @@ f|yeah that's where i stopped so|explain
 g|and right right|acknowledge
 g|go to the right to the end of the waterfall at the right|instruct
 g|okay|align
-g|just sort of alo-- skim along the top of the waterfall for an inch|instruct
+g|just sort of skim along the top of the waterfall for an inch|instruct
 f|right i've done that|acknowledge
 g|and then up for an inch and a half|instruct
 f|right|ready
@@ -130,17 +130,17 @@ f|it's just sort|explain
 f|have you got the lion country|query_yn
 g|no|reply_n
 f|well|ready
-g|ah this is stu-- right|explain
+g|ah this is right|explain
 f|right okay|ready
 f|where am i going from there anyway|query_w
 g|right|ready
-g|you s-- got to the sort of right-hand side of the waterfall right|align
+g|you got to the sort of right-hand side of the waterfall right|align
 g|like you're supposed to go straight up for about an inch|instruct
 f|right|reply_y
-g|but can you go-- go straight up|query_yn
+g|but can you go straight up|query_yn
 f|right|acknowledge
 f|well i can do it|reply_y
-f|i can go up to the side of the wa--|reply_w
+f|i can go up to the side of the|reply_w
 g|and|ready
 g|right okay|acknowledge
 g|and you should just be below some cornfields well about an inch below some cornfields|align
@@ -154,15 +154,15 @@ g|right|ready
 g|stop|instruct
 g|now|ready
 g|away to the you can see see the granite quarry can't you|align
-g|just above them you should have a f--|explain
+g|just above them you should have a|explain
 f|the sorry what can i see|query_w
 g|the granite quarry|reply_w
-f|away down the bottom again where we started u--|check
+f|away down the bottom again where we started|check
 g|don't don't don't move it|instruct
-g|just like t--|ready
+g|just like|ready
 g|can you just see it|align
 f|yeah|reply_y
-g|to the right of that have you got a fall-- a fallen cairn|query_yn
+g|to the right of that have you got a a fallen cairn|query_yn
 f|fallen cairn yeah|reply_y
 g|right|ready
 g|can you go from where you are to the right down sort of diagonally towards the right and sweep below the fallen cairn|instruct

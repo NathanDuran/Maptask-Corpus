@@ -15,7 +15,7 @@ g|there's a wagon wheel sort of on the right|explain
 g|have you got that|query_yn
 f|nope|reply_n
 g|oh well|ready
-g|if you go along um to th-- like right under the diamond mine|instruct
+g|if you go along um to like right under the diamond mine|instruct
 g|and then um|ready
 g|you've got to go a little more than halfway along the page|instruct
 f|right keep going right|check
@@ -36,7 +36,7 @@ f|yeah|reply_y
 g|right|ready
 g|if you go um a top er right so that you're um above the rift valley sort of in the middle of it|instruct
 f|right|acknowledge
-g|uh but don't go r-- when you're halfway along it sort of go down and through the bottom of it|instruct
+g|uh but don't go when you're halfway along it sort of go down and through the bottom of it|instruct
 f|right|acknowledge
 g|below the rift valley have you got any rocks|query_yn
 f|mmhmm|reply_y
@@ -67,7 +67,7 @@ g|um are they sort of on the left below the diamond mine|query_yn
 f|yeah|reply_y
 g|yeah|acknowledge
 f|mmhmm|acknowledge
-g|ri-- um|ready
+g|um|ready
 g|if you go down 'til you're sort of|instruct
 g|you're on the left of the rocks|align
 f|mmhmm|reply_y
@@ -86,7 +86,7 @@ g|um have you got a stone creek underneath that as well|query_yn
 f|yeah mmhmm|reply_y
 g|right|acknowledge
 g|if you go down um after the white water and go underneath the fort|instruct
-f|to the le-- right or the left of the fort|query_w
+f|to the right or the left of the fort|query_w
 g|to the left|reply_w
 g|and go underneath|instruct
 g|sorry you start off on the left and move over to the right|reply_w
@@ -100,18 +100,18 @@ f|no|reply_n
 g|stone slabs|query_yn
 f|yeah|reply_y
 g|right|acknowledge
-g|have you got anything bel-- beneath the rocks|query_yn
+g|have you got anything beneath the rocks|query_yn
 f|oh yeah|reply_y
 f|the outlaws' hideout uh-huh|reply_w
 g|alright right um|ready
-g|from where you are go sort of un-- up so that you're underneath the outlaws' hideout|instruct
+g|from where you are go sort of up so that you're underneath the outlaws' hideout|instruct
 f|right|acknowledge
 g|and then go down to the go across to the right-hand side of the paper|instruct
 f|right|acknowledge
 g|and go|instruct
 g|have you got a noose|query_yn
 f|yeah|reply_y
-g|go right down so that you're underneath sorry so that y-- um stay on the right-hand side of the noose|instruct
+g|go right down so that you're underneath sorry so that um stay on the right-hand side of the noose|instruct
 f|right|acknowledge
 g|um have you got a swan pond|query_yn
 f|no|reply_n
@@ -135,7 +135,7 @@ f|along the bottom|check
 g|uh-huh|reply_y
 f|right|acknowledge
 g|and then um|ready
-g|go about an inch and a half further along f-- than when the saloon bar ends|instruct
+g|go about an inch and a half further along than when the saloon bar ends|instruct
 f|right|acknowledge
 g|and then go up 'til you're sort of parallel top saloon bar|instruct
 f|right|acknowledge

@@ -1,6 +1,6 @@
 g|right|ready
 g|ehm|ready
-g|from the start g-- go down about ten centimetres down the left-hand side of the camera shop|instruct
+g|from the start go down about ten centimetres down the left-hand side of the camera shop|instruct
 f|mmhmm|acknowledge
 f|uh-huh|acknowledge
 g|and round the bottom of the parked van|instruct
@@ -55,7 +55,7 @@ g|and just go round the top of it|instruct
 f|mm|acknowledge
 g|'til you're to the bottom left-hand side of it|instruct
 f|okay|acknowledge
-f|m-- right right round it|check
+f|right right round it|check
 g|yeah|reply_y
 f|okay|acknowledge
 g|right|ready
@@ -63,7 +63,7 @@ g|you're bottom left-hand side so just ehm|instruct
 g|have you got the alpine garden|query_yn
 f|uh-huh|reply_y
 g|right just ehm|ready
-g|go right 'til you're at the do-- go directly le-- ehm directly left 'til you're on the left-hand side of the alpine garden and about four centimetres below it|instruct
+g|go right 'til you're at the go directly ehm directly left 'til you're on the left-hand side of the alpine garden and about four centimetres below it|instruct
 f|four centimetres below it|check
 g|below it yeah|reply_y
 g|just go direct to the left|clarify
@@ -83,7 +83,7 @@ g|right ehm|ready
 g|go directly up about four centimetres|instruct
 f|eh have you got the parked van or the picket fence|query_yn
 g|yeah|reply_y
-g|you're talk-- it's going to be about four centimetres on the left-hand side of about four centimetres below the parked van on its left-hand side|clarify
+g|you're it's going to be about four centimetres on the left-hand side of about four centimetres below the parked van on its left-hand side|clarify
 f|okay|acknowledge
 g|go up to about there|clarify
 g|then go right two centimetres|instruct
@@ -101,7 +101,7 @@ g|down and right diagonally|instruct
 f|have you got the level crossing|query_yn
 f|oh i have got the telephone box|explain
 g|phone box|acknowledge
-g|oh d-- ehm go from where you are to directly 'til you're below the "t" of the telephone box|instruct
+g|oh ehm go from where you are to directly 'til you're below the "t" of the telephone box|instruct
 f|mmhmm|acknowledge
 f|right|acknowledge
 f|have you not got the level crossing|query_yn
@@ -126,7 +126,7 @@ g|diagonally up and left|instruct
 f|mmhmm|acknowledge
 g|about four centimetres 'til you're directly below the middle of the east lake you're like if you see what i mean|instruct
 f|right|acknowledge
-f|a-- above the le-- i've got a level crossing there so|explain
+f|above the i've got a level crossing there so|explain
 g|yeah|acknowledge
 g|i've not we've not i've not got one here|explain
 f|right so|ready
@@ -144,13 +144,13 @@ g|straight up to the east lake 'til you're just eh at the middle of the east lak
 f|uh-huh|acknowledge
 g|to a part of it|clarify
 g|then left about five centimetres to the finish|instruct
-f|is that wh-- where's that in relation to the parked van have you go--|query_w
+f|is that where's that in relation to the parked van have you|query_w
 g|parked van it's right about five centimetres and down two|reply_w
 f|right|acknowledge
 g|okay|align
 f|okay|reply_y
 g|that's it|instruct
-g|s-- probably it's probably nothing like it but heh and um|explain
+g|probably it's probably nothing like it but heh and um|explain
 f|i don't think i banged in|explain
 f|no|acknowledge
 f|i think it was sounded all right|explain

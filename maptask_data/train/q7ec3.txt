@@ -1,9 +1,9 @@
 g|we're starting er down by the bottom left-hand corner down near the bottom left-hand corner just above it|instruct
 f|there's a yeah|acknowledge
-f|p-- above a site of a forest fire|query_yn
-g|above it ab--|instruct
+f|above a site of a forest fire|query_yn
+g|above it|instruct
 g|above the site of a forest fire|reply_y
-g|go west jus-- just to the almost the side of the paper then south down to near the bottom of the paper where there's a picnic site|instruct
+g|go west just to the almost the side of the paper then south down to near the bottom of the paper where there's a picnic site|instruct
 g|you have one there|query_yn
 f|picnic site|acknowledge
 f|how far off the bottom of the paper|query_w
@@ -12,7 +12,7 @@ g|you go you just go west and down to about an inch off the bottom of the paper|
 g|and then you go along to the you go east about|instruct
 f|to about an inch off the bottom|check
 g|inch off the bottom|reply_y
-g|and when you go east you go in a-- in about three inches|instruct
+g|and when you go east you go in in about three inches|instruct
 g|do you have an adventure playground|query_yn
 f|yeah|reply_y
 g|right|ready
@@ -26,7 +26,7 @@ f|and no more aye|check
 g|and no more|reply_y
 g|and then you just|instruct
 f|right|acknowledge
-g|you go east across the paper slight-- a slight angle uh just about five degrees above east across the paper to about until you're about th-- three quarters of the way across the paper there shouldn't be anything there|instruct
+g|you go east across the paper a slight angle uh just about five degrees above east across the paper to about until you're about three quarters of the way across the paper there shouldn't be anything there|instruct
 g|well there's nothing here|explain
 f|i've got a privately owned fields there|explain
 f|privately owned fields start about halfway across the paper about a quarter of the way up|explain
@@ -46,14 +46,14 @@ f|yeah|acknowledge
 g|up where there's a|instruct
 g|have you a granite quarry|query_yn
 f|yeah|reply_y
-g|it's ab-- it's about s-- just off the centre of the page|explain
+g|it's it's about just off the centre of the page|explain
 f|yeah|acknowledge
 g|just slightly above it|explain
 g|you go up north and you curve round the top of it|instruct
 f|so north|acknowledge
 f|until where|query_w
 g|until erm|reply_w
-g|well you go up pa-- you go up and round it you go north and you keep going round you sort when you get to about the word granite quarry on y-- y-- on your right-hand side of the granite quarry you are you start curving around it over the top of it|clarify
+g|well you go up you go up and round it you go north and you keep going round you sort when you get to about the word granite quarry on on your right-hand side of the granite quarry you are you start curving around it over the top of it|clarify
 f|i'll be about an inch and a half off granite quarry when i start curving|explain
 g|right|acknowledge
 f|and i've got a waterfall to the left of the granite quarry|explain
@@ -74,11 +74,11 @@ f|i'm going round the top of the granite quarry to about below the level of the 
 g|quarry|acknowledge
 g|and|ready
 g|below yeah about an inch below the the word waterfall|clarify
-g|and you s-- s-- just before you get to there you sort of square off a bit|instruct
+g|and you just before you get to there you sort of square off a bit|instruct
 g|you go start going west|instruct
 f|right|acknowledge
 f|i'm going west|acknowledge
-g|and then you cu-- you sort of curve round it just slightly and up past north past the waterfall|instruct
+g|and then you you sort of curve round it just slightly and up past north past the waterfall|instruct
 f|so am i going out|query_yn
 f|i'm about an inch|explain
 g|just past the waterfall|clarify
@@ -89,7 +89,7 @@ g|yeah i'm|acknowledge
 g|about two inches|clarify
 f|and i'm about er about a centimetre above the waterfall|explain
 g|right|acknowledge
-g|you you go ea-- east just past the waterfall on the east hand side|instruct
+g|you you go east just past the waterfall on the east hand side|instruct
 f|right east|acknowledge
 g|across the top of it|instruct
 f|i've got a public footpath|explain
@@ -104,11 +104,11 @@ f|how far below them should i be about an inch|query_yn
 g|er about an inch and a half somewhere around there|reply_w
 g|er and then you you cut down about er southeast across the page|instruct
 f|to where lion country|query_yn
-g|down to the er ha-- no|reply_n
+g|down to the er no|reply_n
 g|have you got fallen cairn|query_yn
 f|yeah|reply_y
 g|now you|instruct
-g|which is about a third no it's hawe-- almost halfway down the page|explain
+g|which is about a third no it's almost halfway down the page|explain
 f|yeah|acknowledge
 g|and er well you cut down to below it you curve right you cut down to it and go below it|instruct
 f|right|acknowledge
@@ -116,10 +116,10 @@ g|just so you're going southeast|instruct
 f|so you're going so that's just to where the east of where i went beyond the quarry|query_yn
 g|yeah|reply_y
 f|yeah|acknowledge
-g|it's just ab-- er fallen cairn's just above the quarry and to the right|explain
+g|it's just er fallen cairn's just above the quarry and to the right|explain
 f|yeah|acknowledge
 g|yeah|acknowledge
-g|you just cut down to that then go down to the bot-- round the bottom of it|instruct
+g|you just cut down to that then go down to the round the bottom of it|instruct
 f|so i'm below the fallen cairn|check
 g|yeah|reply_y
 g|so you go past it at the bottom|clarify
@@ -127,7 +127,7 @@ f|i'm about an inch yeah about an inch below i am|explain
 g|mm|acknowledge
 f|you go east past it|query_yn
 g|a bit lower|instruct
-g|you go ju-- i mean you jus-- you start cu-- actually curve right round it so you cu-- just like in a wee|reply_w
+g|you go i mean you you start actually curve right round it so you just like in a wee|reply_w
 f|right|ready
 f|so i go round it|check
 g|so you go back up over your line you go back round just almost parallel to the one you drew to come down to it|clarify
@@ -149,16 +149,16 @@ g|where've you got you've you've got to|query_w
 f|i'm just er i'm just to the right of fallen cairn directly on the top stone about couple of centimetres to the right|reply_w
 g|that's right|acknowledge
 g|mmhmm|acknowledge
-g|and you want to m-- and you've got to miss lion country|check
+g|and you want to and you've got to miss lion country|check
 f|yeah|reply_y
 g|well you're fffffff|instruct
-f|well if a-- am i trying to get back up to where i started below the cornfields|query_yn
-g|y-- you're trying to get up back up to the finish which is just between the cornfields and east lake|reply_w
+f|well if am i trying to get back up to where i started below the cornfields|query_yn
+g|you're trying to get up back up to the finish which is just between the cornfields and east lake|reply_w
 g|there's a finish just there|explain
 f|just between them|check
 g|it's the bottom corner the bottom left-hand corner of east lake|explain
 f|yeah|acknowledge
-g|it's about an inch to the on parallel wi-- on a a line with that but about an inch to the east west|explain
+g|it's about an inch to the on parallel on a a line with that but about an inch to the east west|explain
 f|and so i want to go to about there|check
 g|so|ready
 g|and that should be about almost halfway across your page|explain
@@ -171,9 +171,9 @@ g|you want to get north somehow|reply_y
 g|up to about|instruct
 f|yeah i can do that|acknowledge
 g|i start going parallel along i mean skirting along east lake about the line comes up to about the "a" below the "a" and where the east lake's written|instruct
-g|and then go p-- i skirt along the lake to the finish|instruct
+g|and then go i skirt along the lake to the finish|instruct
 f|yeah|acknowledge
-f|s-- so north up to the bottom right-hand corner of east lake if i can do that yeah|check
+f|so north up to the bottom right-hand corner of east lake if i can do that yeah|check
 g|mm up to about the "k" whenever you can get there|reply_w
 f|so right|ready
 f|i'm not going through the lion country that way so it's just off north for me|explain

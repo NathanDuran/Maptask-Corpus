@@ -1,5 +1,5 @@
 g|right|ready
-g|s-- straight down south quite a bit and you'll pass um some cliffs on the east|instruct
+g|straight down south quite a bit and you'll pass um some cliffs on the east|instruct
 f|sandstone cliff|check
 g|uh-huh|reply_y
 f|mm oh aye|acknowledge
@@ -12,13 +12,13 @@ g|well keep going down past the cliffs|instruct
 f|right|acknowledge
 g|and then um|ready
 g|you go east in a curve curve down towards the east|instruct
-g|and then back up again and you sh-- go past um a pine on your right|instruct
-f|dow--|check
+g|and then back up again and you go past um a pine on your right|instruct
+f||check
 f|down below that|check
 g|up above it|reply_w
 f|up above it|check
 g|past the side of it|reply_w
-g|keep it on your right right and go up 'til you get just p-- above the top of it|instruct
+g|keep it on your right right and go up 'til you get just above the top of it|instruct
 f|right|acknowledge
 g|right|align
 g|and then go due east|instruct
@@ -29,8 +29,8 @@ f|keep to my left or what|check
 g|mmhmm|reply_y
 f|right|acknowledge
 g|right um|ready
-g|down curve under it towards east curve under it slightly don't go past the edge of it though the the fu-- far away edge and then|instruct
-f|edge of the fine pine fore--|check
+g|down curve under it towards east curve under it slightly don't go past the edge of it though the the far away edge and then|instruct
+f|edge of the fine pine|check
 g|the pine forest uh-huh|reply_y
 g|and then down south|instruct
 f|mm|acknowledge
@@ -38,7 +38,7 @@ g|um and then curve to the east above a bakery|instruct
 f|no so you do you want me to go right round pine forest|check
 g|no|reply_n
 g|just 'til you're underneath it and then go south when you're underneath it|clarify
-f|like have you got a forest stream th--|query_yn
+f|like have you got a forest stream|query_yn
 g|no|reply_n
 f|right|ready
 f|so i've to go above the bakery down and and round|check

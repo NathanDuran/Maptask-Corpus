@@ -8,7 +8,7 @@ g|on the left|reply_w
 f|okay|acknowledge
 g|go down and go underneath the picnic site|instruct
 f|i don't have a picnic site|explain
-g|well it's d-- eh gosh|acknowledge
+g|well it's eh gosh|acknowledge
 f|how many inches down from the forest fire should i go|query_w
 g|well it's a couple of inches from the bottom of the page|reply_w
 f|right|acknowledge
@@ -52,16 +52,16 @@ f|or the left side of it|query_w
 g|on the left side of it|reply_w
 g|just a wee bit|reply_w
 f|eh right|acknowledge
-g|and then go s-- straight along towards the left-hand side of the page|instruct
+g|and then go straight along towards the left-hand side of the page|instruct
 f|right|acknowledge
 g|and then turn up to the right and go past the waterfall|instruct
 f|right|acknowledge
 f|on its right-hand side|query_yn
 g|on its left-hand side sorry|reply_n
 f|on its left-hand side right|acknowledge
-g|and at the top of the waterfall turn right g-- just go along to the edge of the waterfall|instruct
+g|and at the top of the waterfall turn right just go along to the edge of the waterfall|instruct
 f|right|acknowledge
-g|and then turn left and go upwards for a w--|instruct
+g|and then turn left and go upwards for a|instruct
 f|mmhmm|acknowledge
 g|a couple of strokes and then turn right|instruct
 f|uh-huh|acknowledge
@@ -74,7 +74,7 @@ f|right|acknowledge
 g|and then come down in an a diagonal line towards the right down to about half|instruct
 f|goes towards the public footpath|query_yn
 g|i don't have a public footpath|explain
-f|mm right s--|acknowledge
+f|mm right|acknowledge
 g|do you have a fallen cairn|query_yn
 f|no i don't|reply_n
 g|well it's about halfway down the page but|explain
@@ -85,7 +85,7 @@ f|right|ready
 f|so i'm coming diagonally down|check
 g|uh-huh|reply_y
 f|from the waterfall|check
-g|to go underne-- well from above the waterfall|clarify
+g|to go well from above the waterfall|clarify
 f|uh-huh|acknowledge
 g|to go underneath the fallen cairn|clarify
 f|from there|check
@@ -104,7 +104,7 @@ g|turn left and go back up the other side of it|instruct
 f|mmhmm|acknowledge
 g|up past the limestone cliffs|instruct
 f|don't have any|explain
-g|e-- ehm|acknowledge
+g|ehm|acknowledge
 f|so i'm going up to my left for or straight up for how many inches|query_w
 g|well lean slightly to the left and go up for a couple of inches|reply_w
 f|right|acknowledge

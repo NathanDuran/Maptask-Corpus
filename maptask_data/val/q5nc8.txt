@@ -2,7 +2,7 @@ g|right|ready
 g|do you see the start point above the stony desert|align
 f|aye|reply_y
 f|aye|reply_y
-g|ehm heading towards the left for about two centimetres 'til you reach s-- above a-- equal to the end of the stony desert|instruct
+g|ehm heading towards the left for about two centimetres 'til you reach above equal to the end of the stony desert|instruct
 f|aye right|acknowledge
 g|ehm then start sloping downwards to the left|instruct
 f|right|acknowledge
@@ -17,7 +17,7 @@ g|oh|reply_n
 g|no no|reply_n
 f|no you must have another one|explain
 g|right okay ehm|ready
-g|he-- keep heading towards the le-- in a straight line towards the l-- the left of the page 'til you're about ehm an inch and a half away from the the left the far left-hand side of the page|instruct
+g|keep heading towards the in a straight line towards the the left of the page 'til you're about ehm an inch and a half away from the the left the far left-hand side of the page|instruct
 f|right|acknowledge
 g|and then start sloping up|instruct
 g|do you see the collapsed shelter|query_yn
@@ -38,7 +38,7 @@ g|now|ready
 g|do you see the savannah|query_yn
 f|aye|reply_y
 g|right ehm|ready
-g|it should be about if you s-- a slight slope upwards to the bottom of the savannah it should be about three inches|instruct
+g|it should be about if you a slight slope upwards to the bottom of the savannah it should be about three inches|instruct
 f|aye|acknowledge
 g|right|ready
 g|so if you just head up towards the bottom of the savannah|instruct
@@ -49,7 +49,7 @@ g|right mm|ready
 g|do you see the slate mountain|query_yn
 f|no|reply_n
 g|no ehm never mind|acknowledge
-g|ehm once you get to the side of the s-- head up the left-hand side of the savannah about four inches|instruct
+g|ehm once you get to the side of the head up the left-hand side of the savannah about four inches|instruct
 f|right|acknowledge
 g|ehm now about an inch and a half back to the left|instruct
 f|right|acknowledge
@@ -57,11 +57,11 @@ g|ehm do you see the hot wells|query_yn
 f|hot springs|check
 g|hot springs yeah|reply_y
 f|aye|reply_y
-g|ehm from from where you are at the moment to about the bottom of the hot springs in a sort of d-- if you slope towards the bottom in a d-- uh the middle halfway you know underneath the middle of them about like a forty-five degree line|instruct
+g|ehm from from where you are at the moment to about the bottom of the hot springs in a sort of if you slope towards the bottom in a uh the middle halfway you know underneath the middle of them about like a forty-five degree line|instruct
 f|aye right|acknowledge
 f|right|acknowledge
 g|right|ready
-g|and now go to the left about an inch just un-- so that you're going under the hot wells|instruct
+g|and now go to the left about an inch just so that you're going under the hot wells|instruct
 f|right|acknowledge
 g|then|ready
 g|another sort of diagonal slope downwards but ehm slightly steeper than forty-five degree line|instruct
@@ -91,7 +91,7 @@ g|just keep going straight up|clarify
 g|ehm uh do you see the lake|query_yn
 f|uh-huh|reply_y
 g|right|ready
-g|if you start heading towards the lake in a straight line about three in-- just about three inches 'til you get to the the edge of the lake|instruct
+g|if you start heading towards the lake in a straight line about three just about three inches 'til you get to the the edge of the lake|instruct
 f|right|acknowledge
 g|then you're going round the lake in a clockwise direction|instruct
 f|right|acknowledge

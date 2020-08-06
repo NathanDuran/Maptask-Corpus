@@ -19,7 +19,7 @@ g|i'm explaining how to do the backward "s"|explain
 f|right|ready
 f|go downwards|check
 f|for about a centimetre|check
-g|s-- for a centimetre right|reply_y
+g|for a centimetre right|reply_y
 g|you're going to ehm|instruct
 g|follow ehm a line it's diagonal it's like a five o'clock line|instruct
 g|do you know what i'm talking about|align
@@ -57,7 +57,7 @@ f|uh-huh|acknowledge
 g|are you at it|align
 f|yeah|reply_y
 g|right|ready
-g|head up in a diagonal lo-- line towards a one o'clock|instruct
+g|head up in a diagonal line towards a one o'clock|instruct
 g|do you have an old pine|query_yn
 f|yes|reply_y
 g|head up to the top of that old pine|instruct
@@ -65,7 +65,7 @@ f|right|acknowledge
 g|okay|align
 f|mmhmm|reply_y
 g|now you're going to come down again at a slight slant just a slight slant right a slight slope|instruct
-f|down on the l-- the left or the right-hand side of the pine|query_w
+f|down on the the left or the right-hand side of the pine|query_w
 g|you're going to come down on the right-hand side of the pine|reply_w
 f|right|acknowledge
 f|a slope towards the right|check
@@ -91,7 +91,7 @@ g|you're going to do another half circle towards the towards the right you're go
 f|a half circle to the right|check
 g|uh-huh|reply_y
 g|right|ready
-g|so the outer circle's like s-- ehm is right across from the edge of the page okay|align
+g|so the outer circle's like ehm is right across from the edge of the page okay|align
 f|okay|acknowledge
 g|do you have a bakery|query_yn
 f|yeah|reply_y
@@ -104,7 +104,7 @@ f|all the way round it|check
 g|all the way round|reply_y
 g|are you at crane bay|query_yn
 g|like see the the first peak in great crane bay|align
-g|are you opposite directly opposite f-- up from it|query_yn
+g|are you opposite directly opposite up from it|query_yn
 f|ehm not yet|reply_n
 f|but i will be in a minute|explain
 g|right|ready
@@ -120,7 +120,7 @@ g|follow that curve round 'til you come to the second peak|instruct
 f|right|acknowledge
 g|okay|ready
 g|are you at wheatfields|query_yn
-f|no d--|reply_n
+f|no|reply_n
 g|no|acknowledge
 f|i don't|explain
 g|no|acknowledge
@@ -147,7 +147,7 @@ f|parallel to the the rocket warehouse|check
 g|uh-huh|reply_y
 f|right okay|acknowledge
 g|right|ready
-g|slope s-- slope down again to the left directly|instruct
+g|slope slope down again to the left directly|instruct
 f|to directly to the left so to|check
 g|directly to|reply_y
 f|to the left|check
@@ -160,8 +160,8 @@ f|how far down|query_w
 g|you should be about ehm six centimetres above the bottom of the page|reply_w
 f|so below the rocket warehouse|check
 g|no|reply_n
-g|you're at the left-hand side of the ro--|clarify
-f|s-- stop at the left|check
+g|you're at the left-hand side of the|clarify
+f|stop at the left|check
 g|you should be just an inch away from the edge of the page now|align
 f|yeah|reply_y
 g|right okay|align
@@ -177,7 +177,7 @@ f|ehm just slope towards it|check
 g|slope towards it|reply_y
 g|you're forming another half circle again|instruct
 f|ehm a half circle towards|query_w
-g|the l-- old lighthouse|clarify
+g|the old lighthouse|clarify
 f|right|acknowledge
 g|and that's you once you get to the old lighthouse|instruct
 f|right|acknowledge

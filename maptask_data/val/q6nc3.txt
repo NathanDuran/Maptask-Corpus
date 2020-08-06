@@ -1,6 +1,6 @@
 f|yeah|reply_y
 g|right|ready
-g|at the bot-- bottom of the map on the right-hand side have you got a missionary camp there|query_yn
+g|at the bottom of the map on the right-hand side have you got a missionary camp there|query_yn
 f|i've got the starts marked|explain
 g|right okay|acknowledge
 g|to the left right have you got ehm what is it it says gorillas with two gorillas and you know trees two tree|query_yn
@@ -25,7 +25,7 @@ f|i'm i've stopped right above it|explain
 g|then|ready
 g|you've what|query_w
 f|i'm right above the missionary camp|reply_w
-g|just go right down to round down to the bottom of the r-- left-hand side of it|instruct
+g|just go right down to round down to the bottom of the left-hand side of it|instruct
 f|right|acknowledge
 g|okay|align
 f|so go round it|check
@@ -33,7 +33,7 @@ g|uh-huh|reply_y
 g|round to the left uh the left yeah|check
 f|keep going down|check
 g|uh-huh|reply_y
-g|just stop where you when you reach the missionary camp you know just about s--|clarify
+g|just stop where you when you reach the missionary camp you know just about|clarify
 g|then|ready
 g|turn left all the way down all the way along|instruct
 f|to the banana tree|query_yn
@@ -75,8 +75,8 @@ f|well|ready
 f|i'm on the left-hand side i would've had to just cross the river|explain
 g|i think you must have different things on your map okay never mind|explain
 g|you're on the right-hand side of it yeah are you on the|align
-f|i'm on the left-hand side of it and i'll need to go r-- r-- right to cross it|clarify
-g|yeah you have to cro-- you have to go to the right-hand side of it|instruct
+f|i'm on the left-hand side of it and i'll need to go right to cross it|clarify
+g|yeah you have to you have to go to the right-hand side of it|instruct
 f|right|ready
 f|so i'm on the right-hand side|explain
 g|right|ready
@@ -155,7 +155,7 @@ f|yeah|reply_y
 g|alright|ready
 g|go up to there and|instruct
 f|i'll do i go up the left-hand side of the rock fall|check
-g|no i'd y--|reply_n
+g|no i'd|reply_n
 g|where are you at the bottom of it or the top of it|query_w
 f|i'm at the bottom of it i'm at the bottom bottom left-hand corner|reply_w
 g|well|ready
@@ -166,7 +166,7 @@ g|uh-huh go underneath it|reply_y
 f|right|ready
 f|'til i'm directly under the white mountain|check
 g|no|reply_n
-g|just o-- you have to go over it|instruct
+g|just you have to go over it|instruct
 f|so i go|query_w
 g|all the way round over it|clarify
 f|right|acknowledge
@@ -178,7 +178,7 @@ f|yes|reply_y
 g|right|ready
 g|from the white mountains go right down to the gazelles|instruct
 f|right i'm at the gazelles|acknowledge
-f|they're a-- sort of in the middle of the map|check
+f|they're sort of in the middle of the map|check
 g|no|reply_n
 g|and then turn left|instruct
 g|gazelles right go right round it|instruct
@@ -188,7 +188,7 @@ g|you've got down to the gazelles yeah|align
 f|yeah|reply_y
 g|just go underneath it right and just turn|instruct
 f|left or right-hand side|query_w
-g|l-- ehm left|reply_w
+g|ehm left|reply_w
 f|right|acknowledge
 g|turn left two or three centimetres that's you finished|instruct
 f|okay|acknowledge

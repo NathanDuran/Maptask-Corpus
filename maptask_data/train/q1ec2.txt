@@ -16,7 +16,7 @@ g|well|ready
 g|it's stony desert that's what i've got here|reply_w
 g|but|reply_w
 f|now|ready
-f|i'm starting off from the s-- just above to the north of the stony desert|align
+f|i'm starting off from the just above to the north of the stony desert|align
 g|mmhmm|reply_y
 f|erm|ready
 f|have i to pass by the savannah|query_yn
@@ -50,7 +50,7 @@ g|walking east|instruct
 f|that's east okay okay|acknowledge
 f|that's i'll change direction and walk east now towards the savannah past the collapsed shelter|align
 g|mmhmm|reply_y
-g|when you get to the savannah t-- before you ge-- turn to your left so you're heading north again|instruct
+g|when you get to the savannah before you turn to your left so you're heading north again|instruct
 f|okay|acknowledge
 f|okay|acknowledge
 g|until you you get over the top of the slate mountain|instruct
@@ -62,7 +62,7 @@ f|eh i've got some hot springs and elephants|explain
 g|well|ready
 g|the hot wells are after the slate mountain|explain
 g|ehm|ready
-g|just walk up t-- to the north to about the height of hot wells the hot springs|instruct
+g|just walk up to the north to about the height of hot wells the hot springs|instruct
 f|okay okay okay|acknowledge
 g|turn to your right well left sorry|instruct
 f|mmhmm|acknowledge
@@ -102,11 +102,11 @@ g|no|reply_n
 g|you said you didn't have that|explain
 f|don't have any roman baths|reply_n
 g|antelopes|query_yn
-f|i've got some round r--|explain
+f|i've got some round|explain
 f|yes|reply_y
 f|i've got some antelopes right in the centre|explain
 g|well|ready
-g|on a-- this map the roman baths are there are at the top below the lake and then it's the antelope|explain
+g|on this map the roman baths are there are at the top below the lake and then it's the antelope|explain
 f|right okay|acknowledge
 f|so you want me to go between the antelopes and the position of the roman bath|query_yn
 g|well it one is just below the other and it's come down to the way you'll be facing it'll be your left the roman baths and the antelopes will be to your left|reply_w
@@ -119,7 +119,7 @@ g|right|ready
 g|your lake is on the right top right|align
 f|okay|reply_y
 g|right er|ready
-g|and you're to walk erm that way round the lake to-- the roman baths were there|instruct
+g|and you're to walk erm that way round the lake the roman baths were there|instruct
 f|okay|acknowledge
 f|i just score this bit out a minute|explain
 f|right|ready

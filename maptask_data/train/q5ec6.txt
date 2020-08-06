@@ -11,7 +11,7 @@ g|oh|acknowledge
 g|oh|acknowledge
 g|right well go right|instruct
 g|right|ready
-g|are they quite big right are the sandstone s-- cliffs beside the old pine tree|query_yn
+g|are they quite big right are the sandstone cliffs beside the old pine tree|query_yn
 f|uh-huh|reply_y
 g|right okay|acknowledge
 f|above it to the left|explain
@@ -33,7 +33,7 @@ f|i'm directly under the "b" of green bay|explain
 f|up here|explain
 g|oh it's upside down|explain
 g|my crane bay's at the bottom right|explain
-f|green bay i s-- green bay i said|clarify
+f|green bay i green bay i said|clarify
 g|i haven't got one|explain
 f|oh|acknowledge
 g|right okay then right|ready
@@ -57,7 +57,7 @@ g|yeah|check
 f|uh-huh|reply_y
 g|right|ready
 g|slope down towards the "p" of pine forest|instruct
-f|towar-- i don't go round it i've i i don't go above it|check
+f|i don't go round it i've i i don't go above it|check
 g|no no|reply_y
 g|just keep the pine forest at it outwith it|clarify
 f|right|acknowledge
@@ -124,7 +124,7 @@ f|no|reply_n
 g|oh right okay|acknowledge
 g|well i have right|explain
 g|so just go down|instruct
-g|have you got a w-- rocket warehouse|query_yn
+g|have you got a rocket warehouse|query_yn
 f|uh-huh|reply_y
 g|right go slope down and then above right you slope down to maybe two centimetres above the rocket warehouse and two centimetres in from the bay just say in line with the "c"|instruct
 f|oh right|acknowledge
@@ -132,7 +132,7 @@ g|right a wee diagonal line there|instruct
 g|and then you go horizontally across the top of the rocket warehouse|instruct
 f|right|acknowledge
 g|to just to the edge of the rocket warehouse|instruct
-g|and then you slope the line down onto the edge of the page about s-- five centimetres up from the bottom|instruct
+g|and then you slope the line down onto the edge of the page about five centimetres up from the bottom|instruct
 f|miss do you mean above the cave|check
 g|i don't have a cave|explain
 f|right|acknowledge
@@ -150,7 +150,7 @@ g|so like just go round the bottom of the cave and then up to the old lighthouse
 f|what part of it|query_w
 g|just beside it|reply_w
 f|right|acknowledge
-f|directly above below the s-- start|check
+f|directly above below the start|check
 g|uh-huh|reply_y
 f|right|acknowledge
 g|okay|acknowledge

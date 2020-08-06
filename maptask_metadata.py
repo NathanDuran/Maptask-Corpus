@@ -1,7 +1,7 @@
 import itertools
 from maptask_utilities import *
 # Initialise Spacy tokeniser
-tokeniser = nlp.data.SpacyTokenizer('en')
+tokeniser = nlp.data.SpacyTokenizer('en_core_web_sm')
 
 # Dictionary for metadata
 metadata = dict()

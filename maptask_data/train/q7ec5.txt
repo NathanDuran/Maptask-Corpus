@@ -14,20 +14,20 @@ g|have you got a picnic site|query_yn
 f|nope|reply_n
 f|where is it|query_w
 g|right okay|acknowledge
-g|it's about an inch is it below the s-- site of the forest fire and about an inch above the an inch and a half above the bottom of the the page|reply_w
+g|it's about an inch is it below the site of the forest fire and about an inch above the an inch and a half above the bottom of the the page|reply_w
 f|an inch|acknowledge
 g|so you go south and then you go round the bottom of it so you go south and then east|instruct
-f|so i'm go--|check
+f|so i'm|check
 f|right|acknowledge
-g|f-- and you go east about from the side of the page going about th-- three inch|instruct
+g|and you go east about from the side of the page going about three inch|instruct
 g|have you got an adventure playground|query_yn
 f|mmhmm|reply_y
 g|which is just to the it's to the right and below the site of the forest fire|explain
 g|right|ready
-g|you go past the picnic site so you're about th--|instruct
-g|and it's above you go north so you're o-- going on the left-hand side of the adventure playground|instruct
+g|you go past the picnic site so you're about|instruct
+g|and it's above you go north so you're going on the left-hand side of the adventure playground|instruct
 f|mm|acknowledge
-g|what have you done dave have you d--|query_w
+g|what have you done dave have you|query_w
 f|so i'm going between the picnic site and the adventure playground|check
 g|yeah|reply_y
 f|okey-dokey here we go|acknowledge
@@ -53,21 +53,21 @@ g|got a granite quarry|query_yn
 f|nope|reply_n
 g|above|query_yn
 f|got privately owned fields|explain
-g|no have you got a granite quarry somewhere on the page about in the mi-- mid centre|query_yn
+g|no have you got a granite quarry somewhere on the page about in the mid centre|query_yn
 f|yes|reply_y
 g|just above centre|check
 f|mmhmm|reply_y
 g|right|ready
-g|you should your line should've gone t-- across and just past it|explain
+g|you should your line should've gone across and just past it|explain
 f|mmhmm|acknowledge
 g|so that you when you go north you start going north you you come up on the right-hand side of it and you curve round over the top of it so in a sort of you've got to go up and round|instruct
 f|fish hook|check
 g|waterfall have you got a waterfall|query_yn
 f|mmhmm|reply_y
 g|right|acknowledge
-g|you go your curve comes round the granite quarry and down on the other side t-- and then it straightens out and it goes about about an inch below the word waterfall|instruct
+g|you go your curve comes round the granite quarry and down on the other side and then it straightens out and it goes about about an inch below the word waterfall|instruct
 f|mmhmm|acknowledge
-g|t-- and you go just past the waterfall you curve round and go start going north again up past the waterfall to get to the top of the waterfall you go right i mean you go east just past the side of the waterfall|instruct
+g|and you go just past the waterfall you curve round and go start going north again up past the waterfall to get to the top of the waterfall you go right i mean you go east just past the side of the waterfall|instruct
 f|mmhmm|acknowledge
 g|you go up about two inches so you should be|instruct
 g|have you got cornfields|query_yn
@@ -81,18 +81,18 @@ f|okay|ready
 f|we've got the west highland way on this one no tourist|explain
 g|shit|acknowledge
 g|and i hope it's not the way i done it|explain
-g|aye we're only about a thi-- a quar-- third of the way along it|explain
+g|aye we're only about a a third of the way along it|explain
 f|this map's got stitches it's excellent|explain
 g|right|ready
 f|this is awful|explain
 g|right|ready
 g|you're below the cornfields right|align
 f|right|reply_y
-g|s-- you've got to go down sss-- southeast|instruct
+g|you've got to go down southeast|instruct
 f|yeah|acknowledge
 g|to|instruct
-g|have you got fallen cairn down in the s--|query_yn
-f|that's southw-- aye that's southeast yes|reply_y
+g|have you got fallen cairn down in the|query_yn
+f|that's aye that's southeast yes|reply_y
 f|way past the lion country|query_yn
 g|right|acknowledge
 g|well i don't have lion country but|explain
@@ -101,7 +101,7 @@ g|so you'll avoid lion country|instruct
 f|i'll try and miss that i don't fancy being eaten|explain
 g|if you have to go through it|query_yn
 f|right|acknowledge
-g|s-- southeast from where you are|instruct
+g|southeast from where you are|instruct
 f|right down to fallen cairn|check
 g|down down|reply_w
 g|so you come down on the left-hand side of it and you go round the bottom of it|instruct
@@ -114,7 +114,7 @@ f|towards the lake|check
 g|have you got oh you don't have limestone cliffs do you|query_yn
 g|eh you you start going up sort of parallel to the line you just drew round for just a couple of inches|instruct
 f|right|acknowledge
-g|then you go ss-- you go north straight up to just below the east lake and you should be up to about about the "k" below the k-- "k" in lake|instruct
+g|then you go you go north straight up to just below the east lake and you should be up to about about the "k" below the "k" in lake|instruct
 f|mmhmm|acknowledge
 g|and then you skirt the lake along going west just skirt along the lake|instruct
 f|right|acknowledge

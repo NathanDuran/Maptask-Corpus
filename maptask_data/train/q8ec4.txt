@@ -2,7 +2,7 @@ g|erm|ready
 g|are you at the cross at the start|align
 f|okay yeah|reply_y
 g|right so|ready
-g|go er about two inches to your ehm to your left at a sort of a-- angle|instruct
+g|go er about two inches to your ehm to your left at a sort of angle|instruct
 f|two inches to the my|check
 g|your left a sort of angle about forty-five degrees|clarify
 f|what's two inches sort about|query_w
@@ -15,7 +15,7 @@ f|have you got allotments to my right is it|query_yn
 g|no|reply_n
 g|it's different it's a different map ehm|explain
 f|yeah|acknowledge
-f|erm t-- it can't be to my left anyway 'cause that's off the page from the start|explain
+f|erm it can't be to my left anyway 'cause that's off the page from the start|explain
 g|well|ready
 g|it's to my right so it must be to your left|explain
 f|no|reply_n
@@ -28,7 +28,7 @@ g|well i|ready
 g|imagine there's like a ehm a line like horizontal|instruct
 g|right|align
 f|yeah|reply_y
-g|and then let's say f-- ph thirty degrees up the way|instruct
+g|and then let's say ph thirty degrees up the way|instruct
 g|so it's at an angle|clarify
 f|up the way|check
 f|up the way|acknowledge
@@ -36,7 +36,7 @@ g|so it's like an angle like that|clarify
 f|up the way|check
 g|oh dear|acknowledge
 f|angled up|check
-f|t-- do you have a lake|query_yn
+f|do you have a lake|query_yn
 g|uh-huh|reply_y
 f|just above the start point right|query_yn
 g|right|reply_y
@@ -46,7 +46,7 @@ g|down below that|reply_w
 g|to about halfway down the middle of the lake|instruct
 f|halfway|check
 f|what's that halfway what|query_w
-g|the b-- see where the bottom of the the bottom line of the lake|align
+g|the see where the bottom of the the bottom line of the lake|align
 f|yeah er|reply_y
 g|right|acknowledge
 f|to the right-hand side underneath it|check
@@ -78,7 +78,7 @@ g|it sort of curves round|reply_w
 f|curves round okay right|acknowledge
 g|and then then|instruct
 f|along to your right|check
-g|it's like an "s" shape right but n-- not like a steep "s" shape like a sort of er sort of stretched out "s" shape|instruct
+g|it's like an "s" shape right but not like a steep "s" shape like a sort of er sort of stretched out "s" shape|instruct
 f|right|acknowledge
 g|a wee bit ehm 'til you're about er halfway down the page when you get to the bottom curve that comes back out the way|instruct
 f|erm do i go along right|query_yn
@@ -87,9 +87,9 @@ f|go to my left|check
 g|for about er five centimetres|reply_w
 f|is there an obstacle down at the bottom left-hand corner of your page|query_yn
 g|er but you shouldn't be down there|reply_w
-g|this is you're over on the right-hand side at the right-hand si-- half of your page|instruct
+g|this is you're over on the right-hand side at the right-hand half of your page|instruct
 f|erm well|ready
-f|a we-- is it called the west lake the start|query_yn
+f|a is it called the west lake the start|query_yn
 g|no|reply_n
 g|it's east lake at the start of mine|explain
 f|oh|acknowledge
@@ -99,7 +99,7 @@ g|right|ready
 g|well i don't have i don't know about|reply_w
 g|are you over at the right-hand side how about halfway down the page at the moment|align
 f|okay|ready
-f|eas-- hold on start up at the east lake|explain
+f|hold on start up at the east lake|explain
 f|where's the start|query_w
 g|what do you want me to start again|query_yn
 f|yeah|reply_y
@@ -127,7 +127,7 @@ g|right so er|ready
 g|just sort of go to your left|instruct
 f|go to my left|acknowledge
 g|about a centimetre|instruct
-f|oh w-- a centimetre right hold on right now a centimetre okay right|acknowledge
+f|oh a centimetre right hold on right now a centimetre okay right|acknowledge
 g|and then go straight down|instruct
 f|straight down|acknowledge
 f|to where how long|query_w
@@ -145,10 +145,10 @@ f|where is it with respect to that|query_w
 g|well|ready
 g|if you go straight up the way you'll be hitting the allotments so|reply_w
 f|yeah right yeah|acknowledge
-g|well s--|ready
+g|well|ready
 g|just go straight up the way so you're a bit left of the allotments|instruct
 f|just left|check
-g|up about half a centimetre ef-- left|clarify
+g|up about half a centimetre left|clarify
 f|okay right|acknowledge
 g|and then like curve round the top of the allotments|instruct
 f|okay|acknowledge
@@ -172,7 +172,7 @@ f|halfway up|acknowledge
 f|is there a disused monastery|query_yn
 g|mmhmm|reply_y
 f|there yeah|acknowledge
-g|so y-- right where you are at the moment's just like see where it says disused monastery right|align
+g|so right where you are at the moment's just like see where it says disused monastery right|align
 f|yeah|reply_y
 g|you should just be about next to that where it says that|instruct
 f|okay right|acknowledge
@@ -182,7 +182,7 @@ g|over the top of it|reply_w
 f|over the top|acknowledge
 f|okay|ready
 f|round to my|check
-g|round and then and then li-- when you're round the side of that a l-- a straight line to about er maybe ten centimetres out from the side the left-hand side of the page|instruct
+g|round and then and then when you're round the side of that a a straight line to about er maybe ten centimetres out from the side the left-hand side of the page|instruct
 f|six centimetres right|acknowledge
 f|do you have an alpine garden just above you|query_yn
 g|uh-huh|reply_y
@@ -212,13 +212,13 @@ g|go along a wee bit|instruct
 g|until see the "d" of the alpine garden on the in between the "d" of the see where it says alpine garden|align
 f|yeah|reply_y
 g|right|ready
-g|just look at that the d-- in between the "d" and "e" just put a straight line straight above that|instruct
+g|just look at that the in between the "d" and "e" just put a straight line straight above that|instruct
 g|right|align
 f|okay right|reply_y
 g|about er maybe ffffphhhhh ten centimetres|instruct
 f|right ten centimetres okay|acknowledge
 f|and|ready
-g|and then g-- go to your right about five centimetres|instruct
+g|and then go to your right about five centimetres|instruct
 f|right five okay|acknowledge
 g|and then erm|instruct
 f|do you have a parked van just above this no|query_yn
@@ -269,7 +269,7 @@ f|straight up after that|acknowledge
 g|until you get to the bottom of the east lake and then you go to the|instruct
 g|have you got a finish|query_yn
 f|okay right|acknowledge
-g|and then go to your left that sh-- should be you finished|instruct
+g|and then go to your left that should be you finished|instruct
 f|go to my left|check
 g|mmhmm|reply_y
 g|until you get like the bottom part of the east lake erm you should just be like about|instruct
@@ -279,4 +279,4 @@ g|four centimetres maybe i don't know|instruct
 f|okay|acknowledge
 f|right|instruct
 g|that should be it finished|instruct
-f|okay a-- after that|acknowledge
+f|okay after that|acknowledge

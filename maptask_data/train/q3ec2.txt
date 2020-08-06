@@ -1,6 +1,6 @@
 f|yeah|reply_y
 g|right have you got a starting point at|query_yn
-g|this ke-- this is kenneth|explain
+g|this this is kenneth|explain
 g|have you got a starting point at the top left of your map corner|query_yn
 g|right|acknowledge
 g|eh could you move about due south from that starting point about eh four inches|instruct
@@ -16,7 +16,7 @@ f|right|acknowledge
 g|could you|instruct
 f|okay|acknowledge
 g|right right right|ready
-g|i d-- think i know where you are|explain
+g|i think i know where you are|explain
 g|right|ready
 g|could you move down from the point you're at by about eh three inches|instruct
 f|okay|acknowledge
@@ -75,7 +75,7 @@ g|and could you finally move to your right two inches|instruct
 g|and that should be the finish point|instruct
 g|that should be the finish point|instruct
 f|well what's the finish point|query_w
-g|i don't know but that's where it i've got a i've got a cro--|reply_w
+g|i don't know but that's where it i've got a i've got a|reply_w
 f|is it just got|query_yn
 g|i've got a cross on my map here down near the it's down near the|reply_w
 f|bottom left of the page|check

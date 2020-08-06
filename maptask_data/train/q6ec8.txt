@@ -15,7 +15,7 @@ g|um if you move right along the bottom of the page until you're about quarter t
 f|the very bottom of the page|check
 g|yeah|reply_y
 g|well|ready
-g|v-- closeish to the bottom|reply_w
+g|closeish to the bottom|reply_w
 f|couple of centimetres|check
 g|yeah|reply_y
 f|right|acknowledge
@@ -37,14 +37,14 @@ f|yeah|reply_y
 g|um do you have any other obstacles between the gate and the monastery|query_yn
 f|only an overnight accommodation place but that's quite far away|reply_w
 g|okay|acknowledge
-g|what you want to do is move from the farmer's gate to the le-- from the left of the farmer's gate right and up until you're left of the ruined monastery|instruct
+g|what you want to do is move from the farmer's gate to the from the left of the farmer's gate right and up until you're left of the ruined monastery|instruct
 f|so|ready
 f|i go round the left of the farmer's gate and up|check
 g|uh-huh|reply_y
 g|yeah and up|reply_y
 g|up and right|clarify
 f|and straight up to the|check
-g|and straight up to the l-- right of the ruined monastery|clarify
+g|and straight up to the right of the ruined monastery|clarify
 f|so diagonally|check
 g|mm|reply_y
 f|that's me|acknowledge
@@ -73,12 +73,12 @@ g|right|ready
 g|if you move up a few centimetres and stop and then move right a few centimetres and stop|instruct
 f|okay|acknowledge
 g|okay|ready
-g|now do you have a dead tree about ha-- three quarters of the way up the page on the right-hand side|query_yn
+g|now do you have a dead tree about three quarters of the way up the page on the right-hand side|query_yn
 f|ehm no|reply_n
-g|you do--|check
+g|you|check
 f|well|ready
 f|i've got a dutch elm|explain
-g|yeah well tha-- that's fine|acknowledge
+g|yeah well that's fine|acknowledge
 g|now|ready
 g|if you can move so that from where you are at the moment diagonally until you're underneath the tree|instruct
 f|it's about just above the middle of the page on the right-hand side|align
@@ -152,7 +152,7 @@ f|and then it goes up and|align
 g|then it goes up|reply_y
 f|yeah|acknowledge
 g|in a sort of a curve|explain
-g|and if you can follow if you can continue to move left basing it on the line that you you're at just now until the left completely fini-- until the lake completely finishes|instruct
+g|and if you can follow if you can continue to move left basing it on the line that you you're at just now until the left completely until the lake completely finishes|instruct
 f|mmhmm|acknowledge
 g|because there's a bit above you|explain
 f|right okay|acknowledge

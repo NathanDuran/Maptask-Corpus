@@ -49,7 +49,7 @@ g|no don't go don't go any further than the desert don't go onto the desert|inst
 f|okay|acknowledge
 f|so i'm still below the diamond mine|check
 g|right|align
-g|you d-- uh-huh below the diamond mine|reply_y
+g|you uh-huh below the diamond mine|reply_y
 f|right okay|acknowledge
 g|and then go to your right|instruct
 f|my right right okay|acknowledge
@@ -76,7 +76,7 @@ g|and then down south again|instruct
 f|okay|acknowledge
 g|down south again until just above the apache camp|instruct
 f|right okay|acknowledge
-g|and pass that by go to your sou-- southwest of the apache camp|instruct
+g|and pass that by go to your southwest of the apache camp|instruct
 f|passing above it|check
 g|uh-huh|reply_y
 f|but to the southwest|check
@@ -111,14 +111,14 @@ g|right|align
 g|until|instruct
 g|do you you you have no carved wooden pole at all|query_yn
 f|yes|reply_y
-g|a totem pole sort of c-- thing|check
+g|a totem pole sort of thing|check
 f|yes uh-huh|reply_y
 g|right|ready
 f|but right at the very bottom|explain
 g|well okay|acknowledge
 g|do you have any flat rocks|query_yn
 f|yes uh-huh|reply_y
-g|ch-- do you have a stone creek in that area|query_yn
+g|do you have a stone creek in that area|query_yn
 f|yes|reply_y
 g|right|acknowledge
 f|they're all on a diagonal|explain
@@ -129,7 +129,7 @@ g|what you do then is you go south from the walled city|instruct
 f|right|acknowledge
 g|and you follow a sort of curve ehm|instruct
 g|how do you describe the last south|query_yn
-g|sort of from g-- go in a|instruct
+g|sort of from go in a|instruct
 f|an "s"|explain
 g|sort of "c" shape to cover the bottom of a "c"|instruct
 g|right|align
@@ -152,7 +152,7 @@ f|so i'm still at the parallel with the base|reply_w
 g|right|acknowledge
 f|right|align
 g|right|reply_y
-f|the carved wooden pole is right at my bot-- right at the bottom i've got a ghost town in between the walled city and|explain
+f|the carved wooden pole is right at my right at the bottom i've got a ghost town in between the walled city and|explain
 g|between the walled city and what|query_w
 f|the carved wooden pole|reply_w
 f|there's a ghost town|explain
@@ -186,7 +186,7 @@ g|right|align
 g|no|reply_n
 g|below the flat rocks|clarify
 f|right okay right i know what you mean right|acknowledge
-g|you got to p-- you've got to pass below the flat rocks|clarify
+g|you got to you've got to pass below the flat rocks|clarify
 f|okay|acknowledge
 g|right|ready
 g|so you're taking a sort of north|instruct
@@ -194,9 +194,9 @@ f|right okay i'm below the flat rocks|acknowledge
 g|right below the flat rocks|acknowledge
 f|yeah|acknowledge
 g|okay|ready
-g|you want to veer ver-- to your right curve round to your right and go in a south south direction|instruct
+g|you want to veer to your right curve round to your right and go in a south south direction|instruct
 g|and do you have buffalo|query_yn
-f|pas-- yeah|reply_y
+f|yeah|reply_y
 f|got a saloon bar as well above that though|explain
 g|no you're not going into a saloon bar mark|instruct
 f|right i know|acknowledge
@@ -206,10 +206,10 @@ f|right okay|ready
 f|due south|check
 g|right|ready
 g|go south|reply_y
-g|pa-- past buffalo|instruct
+g|past buffalo|instruct
 f|right|acknowledge
 f|that means i've passed the bar|explain
-g|and then just in a s-- sort of virtual straight line past the bar mark|instruct
+g|and then just in a sort of virtual straight line past the bar mark|instruct
 f|right okay|reply_y
 g|okay|align
 f|right|acknowledge
@@ -256,7 +256,7 @@ g|mmhmm over the cattle ranch right|align
 f|over the over the "u"|check
 f|right|reply_y
 f|down and then down to the left and then south|check
-g|and then da-- travel south and then|clarify
+g|and then travel south and then|clarify
 f|before i reach the fort or on the other side|check
 g|before you reach the fort|clarify
 f|right|acknowledge

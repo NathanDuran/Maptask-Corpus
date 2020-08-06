@@ -23,30 +23,30 @@ g|right|align
 f|right|acknowledge
 f|i don't have a parked van at the bottom|reply_n
 g|you don't have a parked van|acknowledge
-g|well go down aim towards the bottom and s-- stay about two centimetres up from the bottom of the page|instruct
+g|well go down aim towards the bottom and stay about two centimetres up from the bottom of the page|instruct
 f|right|ready
 f|i've got a yacht club on the far right-hand side|explain
 g|a yacht club|acknowledge
 g|right|ready
-g|so you go down to just bel--|instruct
+g|so you go down to just|instruct
 g|see where the the words yacht club are|align
 f|uh-huh|reply_y
-g|just go sort of go down towards the bottom of the page and draw a line towards the yacht club for about three centimetres underneath where the if you drew a line right across the bottom of the page it wo-- the line would end up under yacht club|instruct
+g|just go sort of go down towards the bottom of the page and draw a line towards the yacht club for about three centimetres underneath where the if you drew a line right across the bottom of the page it the line would end up under yacht club|instruct
 g|right do you see what i'm|align
-f|are we doing that under ya--|check
+f|are we doing that under|check
 f|so i want to go down|check
 g|no|reply_n
-g|don't g-- don't go along to the yacht club though|clarify
+g|don't don't go along to the yacht club though|clarify
 f|but i want to go straight down to there|check
 g|right|ready
 g|you go down the side of the camera shop right for about twelve centimetres and do a sort of a "u" shape for and the bottom of the "u" shape should be about three centimetres long|clarify
 g|right do you know what i'm meaning|align
 f|three centimetres long|check
 g|right|reply_y
-f|and a-- a-- what i'm doing it at yacht club i'm going i'm going|check
-g|no do-- all right okay|ready
+f|and what i'm doing it at yacht club i'm going i'm going|check
+g|no all right okay|ready
 f|i'm going i'm going right i'm going right towards the yacht club|check
-g|we'll we'll forg--|instruct
+g|we'll we'll|instruct
 g|we'll forget about the yacht club just now|instruct
 f|no but but that's how far down i want to come|check
 g|yeah uh-huh uh-huh|reply_y
@@ -64,7 +64,7 @@ f|right|acknowledge
 g|and you're sort of you're sort of|instruct
 g|you've worked it out already|explain
 f|i've got it|acknowledge
-g|eh we're doing a "u" shape round the parked van but it's a sort of three cent-- see if you imagine a "u" right the stems of the "u" the vertical bits are sort of three centimetres between|instruct
+g|eh we're doing a "u" shape round the parked van but it's a sort of three see if you imagine a "u" right the stems of the "u" the vertical bits are sort of three centimetres between|instruct
 f|see if i go right down if i go right down the bottom and turn right will i miss it|query_yn
 g|yes|reply_y
 f|right okay i'll|acknowledge
@@ -77,7 +77,7 @@ f|right|reply_y
 g|three or four centimetres|instruct
 g|okay|align
 f|right|acknowledge
-g|now you're heading back up sort of two thir--|instruct
+g|now you're heading back up sort of two|instruct
 g|have you got allotments|query_yn
 f|allotments|acknowledge
 f|yeah|reply_y
@@ -86,7 +86,7 @@ g|you're going up to the sort of left-hand top left-hand side of the allotments|
 f|right|acknowledge
 g|from the bottom|instruct
 g|right|align
-g|that should be a di-- a straight line up the way|instruct
+g|that should be a a straight line up the way|instruct
 f|right okay|acknowledge
 g|okay|align
 f|i'll come along a wee bit just so i can make sure i miss that right okay|explain
@@ -96,11 +96,11 @@ f|right okay right|acknowledge
 g|right okay|acknowledge
 f|got it|acknowledge
 f|mm|acknowledge
-g|you're up at the top f-- left-hand side of the allotments okay|align
+g|you're up at the top left-hand side of the allotments okay|align
 f|fine|reply_y
 g|now see your yacht club|align
 f|yeah|reply_y
-g|eh go to the left-hand side of the yacht club and up about f-- six centimetres|instruct
+g|eh go to the left-hand side of the yacht club and up about six centimetres|instruct
 g|right|align
 f|right|acknowledge
 f|so i've got to go underneath the flight museum|query_yn
@@ -110,7 +110,7 @@ g|i've not got a flight museum right|explain
 f|right|acknowledge
 f|so i've got|check
 g|so you're you're going diagonally sort of north northeast it's not it's it's a sort of two o'clock almost three o'clock from the allotments over|instruct
-f|what side of the allotments am i at am i at the left-hand side of the allot--|query_w
+f|what side of the allotments am i at am i at the left-hand side of the|query_w
 g|you're at the top|clarify
 g|the left-hand side top|clarify
 f|right okay|acknowledge
@@ -134,7 +134,7 @@ g|okay|align
 f|oh my god|acknowledge
 g|right are we starting|align
 f|can we do it in straight lines|query_yn
-g|right sta-- aye right see|ready
+g|right aye right see|ready
 f|'cause straight|explain
 g|you're at the top left-hand side of the allotments are you there|align
 f|yeah right|reply_y
@@ -151,13 +151,13 @@ g|not directly east but up a wee bit gradually aiming up the way|instruct
 f|i've got that|explain
 f|yeah right got it got it right okay right|acknowledge
 g|okay|align
-f|i'm a-- and i've just come to the left-hand side of the all-- the yacht club|check
+f|i'm and i've just come to the left-hand side of the the yacht club|check
 g|right|ready
 g|yes|reply_y
 f|right okay|acknowledge
 g|but you're about thirteen fourteen centimetres up the page|align
-f|f-- not as many as that|reply_n
-g|you're not oh j--|check
+f|not as many as that|reply_n
+g|you're not oh|check
 f|i'm about six|reply_w
 g|oh no|acknowledge
 g|see your see your line from the top left-hand side of the allotments|align
@@ -169,14 +169,14 @@ f|disused monastery|query_yn
 g|i've got a disused monastery aye|reply_y
 f|where are we in relation to that|query_w
 g|right|ready
-g|in relation to that we're due south about ten fif-- ten twelve centimetres|clarify
+g|in relation to that we're due south about ten ten twelve centimetres|clarify
 f|cannae be due south|explain
 g|have you got a disused|query_yn
-g|is y-- is your is your d--|query_yn
+g|is is your is your|query_yn
 f|we're not due south|explain
 g|is your disused monastery in the centre of the page|query_yn
 f|yeah right in the centre|reply_y
-g|right hold on have you got a sar--|query_yn
+g|right hold on have you got a|query_yn
 g|right start from again start the beginning|instruct
 f|where's your yacht club|query_w
 g|where's my yacht club|acknowledge
@@ -203,7 +203,7 @@ g|right|acknowledge
 g|see the allotments|align
 g|just draw a line right over the top of that east right|instruct
 f|right okay|acknowledge
-g|right over towar-- to stay about six centimetres from the edge of the page right east just go straight east|instruct
+g|right over to stay about six centimetres from the edge of the page right east just go straight east|instruct
 f|right okay right|acknowledge
 g|forget about getting it up a wee bit|instruct
 g|right|align
@@ -250,13 +250,13 @@ f|okay|acknowledge
 f|no|reply_n
 g|you've not|check
 g|right|acknowledge
-g|the youth hostel is about it's a couple of centimetres to the left eh to the right and a couple of centimetres above the alpine garden right so it's very c--|explain
+g|the youth hostel is about it's a couple of centimetres to the left eh to the right and a couple of centimetres above the alpine garden right so it's very|explain
 f|couple of centimetres to the right and a couple of centimetres above|check
 g|above right|reply_y
 f|right|acknowledge
 g|so it's sort of|clarify
 g|now you're going eh i would say about you're at the left-hand side of the alpine garden go across about two centimetres right just east|instruct
-f|the left-hand s--|check
+f|the left-hand|check
 g|right|acknowledge
 g|you're you're at the top left of the alpine garden|align
 f|right okay i'm here right|reply_y
@@ -268,7 +268,7 @@ g|top left of the alpine garden|acknowledge
 g|draw a line about two centimetres right but just directly across|instruct
 g|okay|align
 f|so i'm coming into about the middle of the alpine garden|check
-g|yea-- eh uh-huh|reply_y
+g|eh uh-huh|reply_y
 g|over to the|clarify
 g|you see the wee two two wee bricks at the edge of the alpine garden|align
 g|there's two wee|explain
@@ -281,7 +281,7 @@ g|sort of two thirds of the way along|clarify
 f|right got it|acknowledge
 g|eh right|align
 f|got you|reply_y
-g|and then you're going up about thr-- four centimetres st-- directly north right about four centimetres|instruct
+g|and then you're going up about four centimetres directly north right about four centimetres|instruct
 g|okay|align
 g|so you should be from the you should be round about above the letter "e" or "n" of garden eh about six centimetres or something is that right|align
 f|yeah right okay fine yeah|reply_y
@@ -292,11 +292,11 @@ f|eh a wee bit a wee bit inside it|explain
 g|no it's it's my fault|explain
 g|eh right so you're up there eh go right for about three centimetres|instruct
 f|right|acknowledge
-f|th-- to underneath the parked van|check
+f|to underneath the parked van|check
 f|under the parked|query_yn
-g|underneath the pa-- uh-huh underneath the parked van|reply_y
+g|underneath the uh-huh underneath the parked van|reply_y
 f|what what letter am i under|query_w
-g|go th-- go right|instruct
+g|go go right|instruct
 g|you should be under the letter "d"|reply_w
 f|right okay|acknowledge
 g|right under the letter "d"|reply_w
@@ -318,7 +318,7 @@ g|right|align
 g|and then you're just going right drawing a line right underneath as if you're underlining telephone box and back up the right-hand side up the way now i'll tell you about that in a minute|instruct
 f|up right|acknowledge
 g|right so you're going up|instruct
-g|have you got a thatched m-- thatched mud hut|query_yn
+g|have you got a thatched thatched mud hut|query_yn
 f|i've got no thatched mud huts anywhere|reply_n
 g|you've not|acknowledge
 g|there's a thatched mud hut about|explain
@@ -330,15 +330,15 @@ f|directly above it okay|acknowledge
 g|right|align
 g|eh so what you're doing is sort of drawing|instruct
 f|so i'm missing it then|check
-g|if you c-- if you can imagine an "s" round the thatched mud hut and the telephone box right|instruct
-g|if y-- if y-- f-- oh forget|instruct
+g|if you if you can imagine an "s" round the thatched mud hut and the telephone box right|instruct
+g|if if oh forget|instruct
 f|oh wow|acknowledge
 f|oh groovy|acknowledge
 g|you've not got the mud huts|query_yn
 f|i've got it yeah|reply_y
 f|i've got a level crossing|explain
 g|right|ready
-f|have you got a les-- a level crossing|query_yn
+f|have you got a a level crossing|query_yn
 g|i have not no i've not|reply_n
 f|right so i've got to miss i|check
 g|right hold on where are you just now|query_w
@@ -351,12 +351,12 @@ g|okay|align
 f|to the top of the telephone box|check
 g|to the top of the telephone box right|reply_y
 f|right fine|reply_y
-g|and then you're sort of going diagonally across about eh i would say exactly sort of t-- what's it north i don't know what's the one northwest|instruct
+g|and then you're sort of going diagonally across about eh i would say exactly sort of what's it north i don't know what's the one northwest|instruct
 f|northwest uh-huh|acknowledge
 g|if you go exactly northwest for about three centimetres four centimetres four centimetres right|instruct
 f|yeah|acknowledge
 f|right|acknowledge
-g|exactly northwest for four centimetres you should end up above the letter round about "t" or "e" of telephone box about s-- eight centimetres above it|instruct
+g|exactly northwest for four centimetres you should end up above the letter round about "t" or "e" of telephone box about eight centimetres above it|instruct
 g|is that right see where i am|align
 f|okay i've got it yeah|reply_y
 g|"t" or "e"|align
@@ -365,11 +365,11 @@ g|have you got the east lake up at the top|query_yn
 f|i've got the east lake yeah|reply_y
 g|you have got the east lake|check
 g|have you got a finish|query_yn
-g|you haven't got a fini--|check
+g|you haven't got a|check
 f|no i don't no|reply_n
 g|right okay|acknowledge
 g|eh where are you just now|query_w
-g|you're at th-- oh you're beside my thatched mud hut|reply_w
+g|you're at oh you're beside my thatched mud hut|reply_w
 g|eh you're going up just go directly north to the side of the east lake under the letter "k" "e" you know "k" or "e" in east lake|instruct
 g|just to the edge of the east lake right|instruct
 f|am i doing an "s" round telephone|check
@@ -390,13 +390,13 @@ g|and you're about half a centimetre away from the edge of the east lake the bot
 f|right|acknowledge
 g|okay|align
 f|right okay|reply_y
-g|and then i would say you're about three cen-- four centimetres|instruct
+g|and then i would say you're about three four centimetres|instruct
 g|you're following the edge of the east lake right up for about a centimetre beyond the left-hand edge of it|instruct
 g|see where it gets pointy|align
-f|so i'm going up i'm going up the l-- so i'm going over to the left here|check
+f|so i'm going up i'm going up the so i'm going over to the left here|check
 g|yes|reply_y
 g|you're going over to the over to the left over to the corner|clarify
-f|a-- and over to the the corn--|check
+f|and over to the the|check
 g|and about a centimetre beyond the corner keeping the same contour as the lake same edge of it|instruct
 g|right|align
 f|okay|reply_y

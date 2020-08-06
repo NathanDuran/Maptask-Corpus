@@ -12,10 +12,10 @@ g|i want you to go about one inch west|instruct
 f|okay|acknowledge
 g|now eh|ready
 g|we're heading about two inches southwest|instruct
-g|eh which should leave you t-- at the bottom left-hand corner of the missionary camp about an inch diagonally away from it|instruct
+g|eh which should leave you at the bottom left-hand corner of the missionary camp about an inch diagonally away from it|instruct
 f|right|acknowledge
 f|got you|acknowledge
-g|and then ab-- about an inch from the bottom of the page as well|instruct
+g|and then about an inch from the bottom of the page as well|instruct
 f|sure okay|acknowledge
 g|now on your map on the left-hand bottom corner do you have a bunch of rather nasty looking gorillas|query_yn
 f|no i don't|reply_n
@@ -24,7 +24,7 @@ f|right|acknowledge
 g|right so erm|ready
 g|my route tells me to go on a slightly dipping downwards line west but don't draw it yet 'til i give you the exact instructions|instruct
 f|okay|acknowledge
-g|this line is dipping slightly down and to the left keeping about well you'd be better to go to within about half an inch of the bottom of the page so at the bottom left-hand corner you should be about an inch from both the left-hand side and the bottom of the page a-- a half an inch from the a--|instruct
+g|this line is dipping slightly down and to the left keeping about well you'd be better to go to within about half an inch of the bottom of the page so at the bottom left-hand corner you should be about an inch from both the left-hand side and the bottom of the page a half an inch from the|instruct
 g|sorry i'll start that again|explain
 g|should be an inch from the left-hand side of the page and half an inch from the bottom side of the page at the bottom left-hand corner|instruct
 g|okay|align
@@ -38,7 +38,7 @@ g|yeah|reply_y
 f|right|ready
 f|i'll just go to where you say it avoids the banana tree anyway|explain
 g|right okay|acknowledge
-g|so you're heading s-- s-- west but slightly southerly|instruct
+g|so you're heading west but slightly southerly|instruct
 f|yeah|acknowledge
 g|right|align
 g|stop about an inch from the left-hand side of the page|instruct
@@ -69,12 +69,12 @@ g|right|ready
 g|go to the right and slightly upwards about half a centimetre upwards and about five centimetres to the right just beside the waterfall|instruct
 f|okay|acknowledge
 g|so have you got a cloud at your waterfall|query_yn
-f|eh s--|reply_w
+f|eh|reply_w
 g|like a sort of steam you know vapour|clarify
 f|yeah uh-huh|reply_y
 g|right well you should be at a point horizontally level and to the left of that cloud|instruct
 f|yeah|acknowledge
-g|right head s-- s-- have you got anything between the waterfall and the lost steps|query_yn
+g|right head have you got anything between the waterfall and the lost steps|query_yn
 f|no sod all|reply_n
 g|right|acknowledge
 g|go up about four inches directly up so you're at the top right-hand side of the lost steps|instruct
@@ -95,7 +95,7 @@ g|from where you were directly|instruct
 f|right straight up|check
 g|uh-huh|reply_y
 f|right|acknowledge
-g|now draw an arc s-- a slight arc as if it was a lar-- a v-- very small part of a large circle from where you are to going slightly up and left and curving down to|instruct
+g|now draw an arc a slight arc as if it was a a very small part of a large circle from where you are to going slightly up and left and curving down to|instruct
 g|have you got the fallen pillars|query_yn
 f|yeah|reply_y
 g|right|acknowledge
@@ -119,7 +119,7 @@ g|no forget your lost steps|instruct
 g|i'm talking about my lost steps|explain
 f|right okay|acknowledge
 f|right|acknowledge
-g|if y-- have you got that arc yet erm are you at the bottom right-hand side of the fallen pillars|align
+g|if have you got that arc yet erm are you at the bottom right-hand side of the fallen pillars|align
 f|yeah i've right|reply_y
 f|yes i am now|reply_y
 g|right|acknowledge
@@ -127,7 +127,7 @@ g|erm right go about one and a half inches directly west|instruct
 f|right|acknowledge
 f|that's just past the fallen pillars|check
 g|yeah|reply_y
-g|'til you're at th-- just beyond the f-- the far the bottom left-hand side of the fallen pillars|clarify
+g|'til you're at just beyond the the far the bottom left-hand side of the fallen pillars|clarify
 f|okay|acknowledge
 g|right we'll just take a quick check here are you about two inches from the far left-hand side of the page|align
 f|well two inches|reply_w
@@ -137,7 +137,7 @@ g|all right okay|acknowledge
 g|and about nearly halfway up page|align
 f|yeah|reply_y
 g|right|acknowledge
-g|eh right go about s-- eh see from where you are just now|align
+g|eh right go about eh see from where you are just now|align
 f|mmhmm|reply_y
 g|if that was eh mm how can i put this if that was the bottom of a circle right no sorry the right-hand side of a circle right|align
 f|mmhmm|reply_y
@@ -180,7 +180,7 @@ g|eh and now draw a small line about half an inch long to until you're directly 
 f|so a diagonal line|check
 g|yeah|reply_y
 f|right|acknowledge
-g|just aba-- just a wee short diagonal one just a slight deviation|clarify
+g|just just a wee short diagonal one just a slight deviation|clarify
 f|okay|acknowledge
 g|now have you got stones at the top left-hand point of your page|query_yn
 f|rock fall|reply_w
@@ -203,7 +203,7 @@ g|from where you are just now|instruct
 g|where are you in relation to the rock fall just now|query_w
 f|right horizontal from it|reply_w
 g|horizontal from it|acknowledge
-f|i-- aye|reply_y
+f|aye|reply_y
 g|right okay|acknowledge
 f|same same level as it|clarify
 g|well on mine the stones are slightly above where we are just now|explain
@@ -219,7 +219,7 @@ g|whoa wait a minute|instruct
 g|have you got a white mountain there at the top right-hand corner|query_yn
 f|yeah|reply_y
 g|right okay|acknowledge
-g|go t-- about two inches to the bottom of the white mountain|instruct
+g|go about two inches to the bottom of the white mountain|instruct
 f|ah i can't do that my i'm about mm six inches away from the white mountain and two inches below it|explain
 g|two inches below it|check
 f|yeah|reply_y
@@ -245,13 +245,13 @@ f|northeast|check
 g|yeah north|reply_y
 f|well i'm right underneath the mountain|explain
 g|are you|check
-f|a-- directly right at the bottom|explain
+f|directly right at the bottom|explain
 g|the bottom left|instruct
-g|y-- scrub that out|acknowledge
+g|scrub that out|acknowledge
 f|all right i'll scrub out the line|explain
 g|and we should be at the bottom|instruct
 f|right|acknowledge
-f|right n--|acknowledge
+f|right|acknowledge
 g|left-hand corner of the white mountain|instruct
 f|right okay|acknowledge
 f|then i stop|acknowledge
@@ -270,7 +270,7 @@ f|no|reply_n
 g|well that's directly below the white mountain about an inch so we've got about an inch to play with here|explain
 f|right|acknowledge
 g|so i want you to curve round underneath the white mountain and then when when your curve is underneath the "n" of mountain|instruct
-g|m-- make it into a straight line eh going left about two inches|instruct
+g|make it into a straight line eh going left about two inches|instruct
 f|uh-huh|acknowledge
 f|so going left straight horizontal left two inches|check
 g|yeah|reply_y
@@ -280,15 +280,15 @@ g|i mean the left-hand side where you were when you started going up it|clarify
 f|yeah|acknowledge
 g|right|align
 f|okay|reply_y
-g|right go about a c-- a further centimetre|instruct
+g|right go about a a further centimetre|instruct
 f|down|check
 g|left|clarify
-f|acr-- right|acknowledge
+f|right|acknowledge
 g|now go straight down about three inches|instruct
 f|okay|acknowledge
 g|and curve round to the right just just a small curve the the length of the curve should be about two centimetres|instruct
 f|right|acknowledge
-f|is it an u-- an u-- a "u"-turn or a|query_w
+f|is it an an a "u"-turn or a|query_w
 g|well have you got gazelles on yours|query_yn
 f|yeah|reply_y
 g|right okay|acknowledge

@@ -15,9 +15,9 @@ g|just below it|reply_w
 f|to the right to left|check
 g|well|ready
 g|take a curve well|instruct
-g|you know where the c-- er the carpenter's house is|align
+g|you know where the er the carpenter's house is|align
 f|yes|reply_y
-g|well take about a couple of inches well about an inch a couple of inches just just below the start of it do a curve which just about meets the haystack and eh goes to just eh directly below a level with jus-- just below level with the start eh the carpenter's house|instruct
+g|well take about a couple of inches well about an inch a couple of inches just just below the start of it do a curve which just about meets the haystack and eh goes to just eh directly below a level with just below level with the start eh the carpenter's house|instruct
 f|so you go if i curve from the start round to|check
 g|so you're doing it's like a|clarify
 g|it's like|clarify
@@ -65,10 +65,10 @@ g|so it's that's the level you're going to|clarify
 f|ah right|acknowledge
 f|so it sort of curves round like that backwards "c" as you've said|check
 g|it's not|reply_n
-g|it's just to the le-- it's to the left of the haystack it's just a really shallow thing|clarify
+g|it's just to the it's to the left of the haystack it's just a really shallow thing|clarify
 f|doesn't sound like what i've got|explain
 g|right|ready
-g|you sti--|clarify
+g|you|clarify
 g|right|ready
 g|we'll start again then|instruct
 g|you've got the start line right|align
@@ -100,7 +100,7 @@ f|i've started|explain
 f|so from the start i'm going what direction|query_w
 g|you're going down towards the haystack|reply_w
 f|down towards the haystack|acknowledge
-g|and you're missing the l-- haystack on the left by about half a centimetre|instruct
+g|and you're missing the haystack on the left by about half a centimetre|instruct
 f|on the left|acknowledge
 f|on the left|check
 g|on the left of the haystack yeah|reply_y
@@ -121,8 +121,8 @@ f|green bay|check
 g|no|acknowledge
 f|no|reply_n
 g|well you want to go up|instruct
-f|so you're going up p-- on the right-hand side of the hi-- haystack|query_yn
-g|yeah you're d-- well let me see i'll tell you in a minute|reply_w
+f|so you're going up on the right-hand side of the haystack|query_yn
+g|yeah you're well let me see i'll tell you in a minute|reply_w
 g|see the carpenter's house|align
 f|mmhmm|reply_y
 g|you've got the left-hand side of the roof|align
@@ -133,12 +133,12 @@ g|and you mark a point there|instruct
 f|right|acknowledge
 g|right|align
 g|and join up the two points|instruct
-f|so you've gone th-- start down to shallow curve round the haystack and along to that point|check
+f|so you've gone start down to shallow curve round the haystack and along to that point|check
 g|yeah|reply_y
 g|yeah|reply_y
 g|that's directly below the start|clarify
 g|yeah|align
-f|below the s-- directly below the start|check
+f|below the directly below the start|check
 g|mm|reply_y
 f|no|reply_n
 g|no|acknowledge
@@ -148,14 +148,14 @@ g|right|align
 f|i think you're murdered|explain
 g|you're going directly below the start but you're taking a curve that just misses the haystack|instruct
 f|mmhmm|acknowledge
-g|it's just a really really sh-- shallow curve|instruct
+g|it's just a really really shallow curve|instruct
 f|yeah|acknowledge
 g|right you've got that|align
-f|you're going so you're going d-- you're going down your star-- your starting point|check
+f|you're going so you're going you're going down your your starting point|check
 g|you've got that in|align
 g|you're going starting down|clarify
 f|you just go down curve round the bottom of the haystack|check
-g|and then you curve round the other way and you come to the bottom jus--|clarify
+g|and then you curve round the other way and you come to the bottom|clarify
 f|and you you come to the the roof a point where the roof of the carpenter's house left-hand side|check
 f|an inch above it|check
 g|well|ready
@@ -173,7 +173,7 @@ f|so i'm curving back like|check
 g|it's like a "c" the wrong way round|clarify
 f|well i'm just curving back in|check
 g|yeah|reply_y
-g|you're coming round to besi-- to below the start point which is also on a level below the carpenter's house that's to tell you where to stop|clarify
+g|you're coming round to to below the start point which is also on a level below the carpenter's house that's to tell you where to stop|clarify
 f|all right|acknowledge
 f|so i'm actually i'm starting here and i'm finishing|check
 g|directly below start|clarify
@@ -205,7 +205,7 @@ f|so i want to go up to|check
 g|so you want to go up|reply_y
 g|there's an inch above there right just maybe a bit less than an inch|instruct
 g|right|align
-f|right so a--|reply_y
+f|right so|reply_y
 g|and you want to join that point those two points up and that's in a sort of thirty thirty degree angle or something like that|instruct
 f|so it's a sort of diagonal|check
 f|right okay i'll just|acknowledge
@@ -222,7 +222,7 @@ g|and you've got the seven beeches|query_yn
 f|yeah|reply_y
 g|see you're about an inch above the seven beeches and about an inch to the left of the seven beeches that right|align
 f|no i'm not an inch above them|reply_n
-f|to the carpent-- the carpenter's house an inch above the c-- top left corner is is on a level with that the top of the seven beeches so now i've gone down|explain
+f|to the the carpenter's house an inch above the top left corner is is on a level with that the top of the seven beeches so now i've gone down|explain
 g|not an inch above them|acknowledge
 g|well you want to be about call it half an inch above the seven beeches|instruct
 f|right so i'll just|acknowledge
@@ -245,7 +245,7 @@ g|okay|align
 f|mm right|reply_y
 f|i don't have that|explain
 g|so|ready
-g|eh what i need to do is i need to go round it again an inverted "c" well it's no an inverted "c" it's li-- the other way about opposite "c"|instruct
+g|eh what i need to do is i need to go round it again an inverted "c" well it's no an inverted "c" it's the other way about opposite "c"|instruct
 f|right|acknowledge
 g|and you need to go around it so eh|instruct
 f|so i sort of curve underneath seven beeches and round and then over to back to where i started from|check
@@ -258,7 +258,7 @@ g|so you want to finish|instruct
 g|yeah|reply_y
 g|you want to finish about two inches below that|instruct
 f|right|acknowledge
-g|which is about h-- about a centimetre above the reclaimed fields|instruct
+g|which is about about a centimetre above the reclaimed fields|instruct
 g|does that make sense to you|align
 f|no|reply_n
 f|the reclaimed fields are quite a distance away|explain
@@ -268,7 +268,7 @@ g|well eh|ready
 g|we'll call it just about two inches maybe a bit more call it two and a half inches below the tree trunk|instruct
 g|right|align
 f|mmhmm|acknowledge
-g|and that's where you e-- want to finish up|instruct
+g|and that's where you want to finish up|instruct
 f|right|acknowledge
 g|so to do that you'll need to take from the "s" and go round like from twelve o'clock to three o'clock|instruct
 f|yeah around|acknowledge
@@ -280,14 +280,14 @@ g|and then back into that point i told you|instruct
 f|yeah|acknowledge
 g|right|align
 f|got that|reply_y
-g|s-- now|ready
+g|now|ready
 g|you want to go like the end of a test tube like that way you want to go round the reclaimed fields like that|instruct
 g|have you got crane bay|query_yn
 f|crane bay yeah|reply_y
-g|you see the m-- the most northerly tip above the "b"|align
+g|you see the the most northerly tip above the "b"|align
 f|over the right yeah|reply_y
 g|well|ready
-g|you want to come round the test round the reclaimed fields and the test tube sh-- sort of shape to about oh i don't know about an inch and a half above the "b"|instruct
+g|you want to come round the test round the reclaimed fields and the test tube sort of shape to about oh i don't know about an inch and a half above the "b"|instruct
 f|an inch|acknowledge
 f|above the "b"|check
 g|above the "b" yeah|reply_y
@@ -306,16 +306,16 @@ g|yeah|reply_y
 g|so the shape will be you'll be going east and then you'll be going down|clarify
 f|a kind of inverted in a "s" a backwards "s"|check
 g|it's not|reply_n
-g|well prob--|clarify
+g|well|clarify
 f|sort of|ready
 g|it's just like that shape you want to do so you're going east and then you're going that curve and then you're going west until you're above that|clarify
 g|tip|clarify
 f|ah well|ready
 f|the whole thing in together like from the seven beeches round it's like an "c" and then and it's like a normal "c" sort of|explain
-f|right i'll try and an inch and a half above there i'll have to draw it a bit s-- squint|explain
+f|right i'll try and an inch and a half above there i'll have to draw it a bit squint|explain
 f|so i'm so i'm coming down on the right-hand the left-hand side of the reclaimed fields|check
 g|yeah|reply_y
-f|and i've sort of s-- curved round to about there|check
+f|and i've sort of curved round to about there|check
 g|so you've got you've gone round the reclaimed fields|check
 f|mmhmm|reply_y
 g|and you're about an inch and a half above the tip the northern-most tip|check
@@ -343,7 +343,7 @@ f|no|reply_n
 f|i've got attractive cliffs which are round|explain
 g|right|ready
 g|well you want to go|instruct
-g|see where it goes di-- due south|align
+g|see where it goes due south|align
 f|uh-huh|reply_y
 g|and then it almost goes due west|align
 f|yeah|reply_y
@@ -352,8 +352,8 @@ f|so skirting skirting along|check
 g|yeah|align
 g|no eh|reply_n
 f|just straight line|check
-g|just a cen-- you want to do a centimetre above d-- the western-most tip right and draw a straight line from where you've stopped now|clarify
-g|you know when y--|align
+g|just a you want to do a centimetre above the western-most tip right and draw a straight line from where you've stopped now|clarify
+g|you know when|align
 f|uh-huh so it's right|reply_y
 f|so it's just like a straight line from the south that bit there where it goes due south to about a centimetre above|check
 g|that's right|reply_y
@@ -385,7 +385,7 @@ f|yeah|acknowledge
 g|when you get to chestnut tree curve round and go to about half an inch from the bottom of the chestnut tree|instruct
 f|half an inch from the bottom|acknowledge
 g|right|align
-f|so i curve round oh so i'm on its left-hand side and i'm out about half an inch bef-- bottom|check
+f|so i curve round oh so i'm on its left-hand side and i'm out about half an inch bottom|check
 g|yeah|reply_y
 g|you go up about half the trunk of the chestnut tree to the dimple in the chestnut tree|instruct
 g|you see the dimple in the chestnut tree|align
@@ -399,16 +399,16 @@ g|you've got that's only about like a centimetre long|instruct
 f|so|ready
 g|and that's your finish point|instruct
 f|mmhmm|acknowledge
-f|so i've taken my cur-- i've gone down past spaceship i've curved round to a point|check
+f|so i've taken my i've gone down past spaceship i've curved round to a point|check
 g|about half an inch|clarify
 f|above|check
 g|no|reply_n
 g|you're you're half an inch from the base of the tree|clarify
 f|yeah|acknowledge
-g|and you s-- then you go due north|clarify
+g|and you then you go due north|clarify
 f|oh right|acknowledge
-f|i've go to the bo-- i go to the base of the tree|check
-g|from there you c-- half an inch from the base of the tree and then you go north half a way up the the tree trunk|clarify
+f|i've go to the i go to the base of the tree|check
+g|from there you half an inch from the base of the tree and then you go north half a way up the the tree trunk|clarify
 f|curve around|check
 g|all the way up the tree trunk basically to the stop at the|clarify
 f|right|acknowledge
@@ -418,5 +418,5 @@ g|and that's your finish|clarify
 g|so your the finish point should be level with where the branches start|clarify
 f|uh-huh right|acknowledge
 g|that right|align
-g|i think we got that wee bit in a bit sh-- stramash|explain
+g|i think we got that wee bit in a bit stramash|explain
 f|i know aye start|explain

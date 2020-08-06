@@ -38,9 +38,9 @@ f|no|reply_n
 g|right do you have a dead tree|query_yn
 f|yes|reply_y
 g|right eh|ready
-g|move eh r-- to the right almost to the edge of the page horizontally across|instruct
+g|move eh to the right almost to the edge of the page horizontally across|instruct
 f|where in relation to the fork in the stream is this|query_w
-g|eh this is a-- the-- this is at the fork in the stream|reply_w
+g|eh this is this is at the fork in the stream|reply_w
 f|move right to the edge of the page|check
 g|yeah|reply_y
 f|okay|acknowledge
@@ -48,7 +48,7 @@ g|down about two inches and then back across avoiding the dead tree|instruct
 f|across the stream|check
 g|yeah cross the stream|reply_y
 g|and stop right in line with the dead tree|clarify
-f|do i move in a v-- straight line from the edge of the page|check
+f|do i move in a straight line from the edge of the page|check
 g|yeah|reply_y
 f|right across the stream|acknowledge
 g|and stop right underneath the dead tree|clarify

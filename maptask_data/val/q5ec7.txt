@@ -11,7 +11,7 @@ f|uh-huh|reply_y
 g|you're turning you're going towards the outside of the map|instruct
 f|uh-huh|acknowledge
 f|what to the bit|check
-g|and you turn l-- you're turning left around the caravan park|instruct
+g|and you turn you're turning left around the caravan park|instruct
 f|right okay|acknowledge
 f|down|check
 g|so you so you should end up going down the map|instruct
@@ -67,7 +67,7 @@ g|yes|reply_y
 f|so you go round the the side of the abandoned cottage where the "a" of the abandoned is|check
 g|yeah|reply_y
 g|no|reply_n
-g|you're round the other si--|explain
+g|you're round the other|explain
 f|the other side oh dear|acknowledge
 g|the abandoned cottage should always be on your left|explain
 f|right so my left|acknowledge
@@ -121,7 +121,7 @@ f|right uh-huh|reply_y
 g|now you're going down diagonally down the page towards the monument|instruct
 f|right okay so that's right|acknowledge
 g|right|align
-g|you skip you go round the monument keeping the monument on your left-hand side so you go a--|instruct
+g|you skip you go round the monument keeping the monument on your left-hand side so you go|instruct
 f|towards the edge of the page|check
 g|page|reply_y
 g|you go in below the monument|instruct

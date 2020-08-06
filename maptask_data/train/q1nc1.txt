@@ -15,20 +15,20 @@ g|it's an old mill|reply_w
 f|i don't have an old mill it says mill wheel must be the same thing|explain
 g|okay right|acknowledge
 f|so|ready
-f|i go down from the caravan park bef-- turn right before the picket fence|check
+f|i go down from the caravan park turn right before the picket fence|check
 g|you go to the old mill|instruct
 g|there's no picket fence here eh|reply_w
-f|you don't have a picket f--|check
+f|you don't have a picket|check
 f|i've a i've got a picket fence about three inches down from the caravan park|explain
 f|so i need to stop short of that and turn right right and go and pass beneath the mill wheel or the old the old mill as you have it|check
 g|well|ready
 g|no|reply_n
-g|i go down and then i turn right n-- no then i turn left and then i go back up past the old mill so it's like a curve it's like a curve going up down and then up again past the old|clarify
+g|i go down and then i turn right no then i turn left and then i go back up past the old mill so it's like a curve it's like a curve going up down and then up again past the old|clarify
 g|have you got is old mill quite near the caravan park|query_yn
 f|yeah|reply_y
 f|it's about i mean maybe an inch and a half or two inches southeast of it on mine|explain
 g|mm|acknowledge
-g|and ha-- have you to go have you to go there like in you've not you've not to pass the ca-- you've not to pass that fence|query_yn
+g|and have you to go have you to go there like in you've not you've not to pass the you've not to pass that fence|query_yn
 f|well|ready
 f|if i went three inches down from the caravan park i would you know i'd more or less hit the picket fence|reply_w
 g|so then|ready
@@ -42,10 +42,10 @@ g|mmhmm|reply_y
 f|i you know i wouldn't have to really go down i could just i could just go you know down and to the right rather than go down and then turn right sort of thing|explain
 g|hmm|acknowledge
 g|but is the idea is the idea so that you don't go there to the picket fence if i'm going to the old mill first|check
-f|wh-- where wh--|query_w
+f|where|query_w
 f|well|ready
 f|i you i don't suppose you you you can go outside the picket fence|reply_w
-f|eh i i could i could go down about you know two and a half inches and then go right and that would take me underneath my mill wheel right you know beneath it so that not not beneath it n-- on the map beneath it on the map|explain
+f|eh i i could i could go down about you know two and a half inches and then go right and that would take me underneath my mill wheel right you know beneath it so that not not beneath it on the map beneath it on the map|explain
 g|right okay|acknowledge
 g|mmhmm|acknowledge
 f|you know|ready
@@ -53,16 +53,16 @@ f|so i can go down and then to the right and and you know another couple of inch
 g|the old mill|acknowledge
 f|is that okay|align
 g|right|ready
-g|can you can you s-- s-- can you s-- well can you see the abandoned cottage|query_yn
+g|can you can you can you well can you see the abandoned cottage|query_yn
 f|yeah|reply_y
 f|that's in the middle of my map right in the middle of the page|explain
 g|uh-huh|acknowledge
 g|so if mm|ready
-g|so if you go to the old mill and then y--|instruct
+g|so if you go to the old mill and then|instruct
 f|i'd if i need to go beneath the old mill right|check
 f|okay|align
 g|uh-huh|reply_y
-f|further along to the right and then up about six or seven inches 'til you get to the abandoned cottage so i d-- i do that do i|check
+f|further along to the right and then up about six or seven inches 'til you get to the abandoned cottage so i i do that do i|check
 g|mmhmm mmhmm mmhmm|reply_y
 g|so you're going to your right old now going out to your right and then eh straight up to the round the abandoned cottage right|align
 f|okay so i right well|ready
@@ -70,14 +70,14 @@ f|i've not drawn anything yet|explain
 f|i'll go down from the caravan park right|check
 g|mmhmm|reply_y
 f|and then right|check
-g|is the point so that you it's not so that you d-- you avoid that that fence or have you got to go by that fence|check
+g|is the point so that you it's not so that you you avoid that that fence or have you got to go by that fence|check
 f|i've avoided the fence now|reply_w
 g|right you have right|acknowledge
 f|i'm i'm going right under the the mill okay|check
 g|uh-huh|reply_y
 f|and up now|check
 g|no|reply_n
-g|you ma-- you're actually meant to over the mill|clarify
+g|you you're actually meant to over the mill|clarify
 f|over the mill|check
 g|uh-huh|reply_y
 g|as in on the left-hand side of it you know what i mean like going up round it on the map|clarify
@@ -87,7 +87,7 @@ f|my caravan park is on the left-hand side of the mill|explain
 g|uh-huh|acknowledge
 g|so is this|query_yn
 g|right|ready
-f|so i could ju--|check
+f|so i could|check
 g|it's on the it's on the far left isn't it|align
 f|yeah my caravan park's on the far left|reply_y
 g|uh-huh|acknowledge
@@ -116,22 +116,22 @@ f|you actually go round the side where the where the wheel is|check
 g|no the other side|reply_n
 f|the other side|check
 g|uh-huh|reply_y
-g|where where the steps are and round the r-- on top of the roof and then you go round to your right|clarify
+g|where where the steps are and round the on top of the roof and then you go round to your right|clarify
 g|just keep going right then straight up round the abandoned cottage|instruct
 f|i mean|ready
 f|surely you could just go you know you could just go straight from the caravan park to the abandoned cottage could you not|query_yn
 g|no|reply_n
-g|well o-- on the route on this map is you've to go down|explain
+g|well on the route on this map is you've to go down|explain
 f|so right so|ready
-f|i'd b-- i'd have to draw a curve then from the down from the caravan park|check
+f|i'd i'd have to draw a curve then from the down from the caravan park|check
 g|uh-huh|reply_y
-f|from the mill wheel and up to the abandoned cottage to the right like a tick shape it'd be s-- the shape of a tick from the the|check
+f|from the mill wheel and up to the abandoned cottage to the right like a tick shape it'd be the shape of a tick from the the|check
 g|no|reply_n
 g|the shape of a like an oval shape from the caravan park you start just above the caravans|clarify
 f|right|acknowledge
 g|right|align
 f|mmhmm|reply_y
-g|ma-- make mark across above the caravans go round like just like an oval like half an until you come to sort of top of the old mill like say the|clarify
+g|make mark across above the caravans go round like just like an oval like half an until you come to sort of top of the old mill like say the|clarify
 f|mmhmm|acknowledge
 g|the corner of the roof|clarify
 f|then up to the abandoned cottage|check
@@ -140,7 +140,7 @@ g|do a curve right up to your right|clarify
 f|right okay|acknowledge
 f|right|ready
 f|i'll draw that|acknowledge
-g|sort of d-- gradual curve to your right|instruct
+g|sort of gradual curve to your right|instruct
 f|right|acknowledge
 f|where does it stop|query_w
 g|see where the fenced meadow is|align
@@ -151,15 +151,15 @@ g|well|ready
 g|see where the fenced meadow is at the bottom of your page|align
 f|yeah|reply_y
 g|when you go right from the old mill go right and just where eh that you start you come to the beginning of that drawing on the right go straight up round the abandoned cottage|clarify
-f|you're saying you go from the m-- the old mill to the fenced meadow|check
+f|you're saying you go from the the old mill to the fenced meadow|check
 g|no|reply_n
 g|you go you're above the fenced meadow the the route is actually above that|clarify
-f|i've g--|explain
+f|i've|explain
 f|yeah|check
-g|okay it's basi-- if|ready
+g|okay it's if|ready
 g|see if you go over the old mill|align
 f|mmhmm|reply_y
-g|right you're o-- you're o-- eh over the the roof right|align
+g|right you're you're eh over the the roof right|align
 f|mmhmm|reply_y
 g|and you're going make a gradual slope to your right|clarify
 f|mmhmm|acknowledge
@@ -167,7 +167,7 @@ g|okay|align
 f|quite steep though up the up the way|check
 g|no quite just sort a wee gradual one|reply_n
 f|towards the forest|query_yn
-g|towards fe-- where the hell's the forest|query_w
+g|towards where the hell's the forest|query_w
 f|the forest from|reply_w
 g|no|reply_n
 g|there there's no forest|explain
@@ -175,7 +175,7 @@ f|the forest is beneath the abandoned cottage right on on my map|reply_w
 f|to get to the fenced meadow i'd need to go down from the mill|explain
 g|well|ready
 g|you don't want to go to the fenced meadow anyway|instruct
-g|i'm just telling i'm giving you a g-- i because it's like|explain
+g|i'm just telling i'm giving you a i because it's like|explain
 f|why did you mention it|query_w
 g|you stop you stop going right above the fenced meadow where you come to that drawing|clarify
 f|in other words the the bottom right-hand side of the abandoned cottage|check
@@ -194,18 +194,18 @@ g|go over the roof|instruct
 f|yeah mmhmm|acknowledge
 g|keep going right|instruct
 f|right|acknowledge
-g|'til about th--|instruct
+g|'til about|instruct
 g|right okay|ready
 g|let's start again in different terms|explain
 g|see about three quarters of the way to your right in the page|align
 f|mmhmm|reply_y
-g|stop right when you've go-- drawn your line from the old mill and then just go straight up and make a line round the abandoned like a circle round the abandoned cottage|instruct
+g|stop right when you've drawn your line from the old mill and then just go straight up and make a line round the abandoned like a circle round the abandoned cottage|instruct
 g|curve round the abandoned cottage and round the roof|instruct
 f|okay|acknowledge
 f|back towards the left-hand side|check
 g|uh-huh|reply_y
 f|right okay|acknowledge
-f|right i've done that i've now got th--|explain
+f|right i've done that i've now got|explain
 f|i've now got three lines on my page but i know the one that|explain
 g|well|ready
 f|that will that would just|explain
@@ -215,15 +215,15 @@ f|but i mean that that's like this is the third attempt sort of thing|clarify
 g|oh right i see|acknowledge
 f|okay|reply_y
 g|right|ready
-g|well see where the abandoned cottage is now right you're at the roof of the abandoned co--|align
+g|well see where the abandoned cottage is now right you're at the roof of the abandoned|align
 f|yeah|reply_y
 f|i'm above the chimney|explain
 g|right|acknowledge
 g|go down say about forty-five degrees on a sort of angle|instruct
 f|yeah|acknowledge
 g|down|instruct
-g|see where the fenced meadow is besi-- on the left-hand side of the r-- uh-huh the left-hand side of your page|align
-f|no m-- mine's|reply_n
+g|see where the fenced meadow is on the left-hand side of the uh-huh the left-hand side of your page|align
+f|no mine's|reply_n
 g|about halfway up|align
 f|no that's not there on mine|reply_n
 g|is it not|check
@@ -243,13 +243,13 @@ g|have you|check
 f|yeah|reply_y
 f|but i had to though|explain
 g|right okay|acknowledge
-g|may-- aye maybe that's what it is then|explain
+g|aye maybe that's what it is then|explain
 g|oh right|ready
 g|see where the see where your caravan park is then|align
 f|yeah|reply_y
 f|i've got nothing above it i've nothing above the caravan park 'til the the west lake|explain
 g|have you got something below it|query_yn
-g|have you got a ca-- have you got a fence below it|query_yn
+g|have you got a have you got a fence below it|query_yn
 f|yeah|reply_y
 f|the picket fence|explain
 g|well|ready
@@ -258,16 +258,16 @@ f|no|reply_n
 f|i went over the mill the the picket fence er hasn't come into it right yet really|explain
 g|well|ready
 g|see the caravan park|align
-g|i-- is there is there a picket fence underneath it|check
+g|is there is there a picket fence underneath it|check
 f|mmhmm|reply_y
 g|well|ready
-g|could you make a line go round it and then c--|instruct
-g|is it bet-- is it like down and then the old mill's above from it|query_yn
+g|could you make a line go round it and then|instruct
+g|is it is it like down and then the old mill's above from it|query_yn
 f|yeah|reply_y
 f|the the old mill's like northeast of it|explain
 g|so can you not go round the picket fence and round the old mill do you not have to go round the picket fence no|check
 f|i don't think so|reply_n
-f|that that's what we did first of all th-- the the the first line|explain
+f|that that's what we did first of all the the the first line|explain
 g|uh-huh|acknowledge
 g|uh-huh|acknowledge
 f|when i was asking you whether i could you know i had to eh stop before i got to the picket fence or not so but|explain
@@ -279,11 +279,11 @@ f|you think so|check
 f|maybe it's the the route's to stay inside the picket fence|explain
 g|well|ready
 g|maybe it is okay as long as you're on the picket fence then i don't know|explain
-f|i've got one d-- i've got one i don't know realise why it's there|explain
+f|i've got one i've got one i don't know realise why it's there|explain
 g|right right you went by the abandoned cottage right|align
 f|i'm above the chimney just now|reply_w
 g|right you're above the chimney|acknowledge
-g|and if you start going dow-- in an angle about forty-five degrees down|instruct
+g|and if you start going in an angle about forty-five degrees down|instruct
 f|mm mmhmm|acknowledge
 g|to the to where the bottom of the abandoned cottage|instruct
 g|right|align
@@ -292,8 +292,8 @@ g|'til oh right so|ready
 g|you said you where are you now|query_w
 f|the bottom of the abandoned cottage|reply_w
 g|right uh-huh|acknowledge
-g|but wh-- is there anything on your map beside that then on your left-hand side|query_yn
-f|no i've got noth-- no i've got nothing between the caravan park and the west lake on the left-hand side|reply_n
+g|but is there anything on your map beside that then on your left-hand side|query_yn
+f|no i've got no i've got nothing between the caravan park and the west lake on the left-hand side|reply_n
 g|well|ready
 g|can you make sort of like right if you make a sort of|instruct
 g|if you make a sort of like a a forty-five degree angle right for about a couple of inches or something and then you start making a circle you know what if you know what i mean if you've got does a sort of angle then sort of curve round|instruct
@@ -302,14 +302,14 @@ f|yeah|reply_y
 f|it's at the top left|explain
 g|well can you can you make a sort of curve then if after your angle sort of like towards the west lake|instruct
 f|a curve|check
-f|whe-- where's your fenced meadow on the left-hand side|query_w
+f|where's your fenced meadow on the left-hand side|query_w
 g|uh-huh|reply_y
 g|sort of like you've gone|clarify
 g|mm|query_w
 f|where's your fenced meadow on the left-hand side|clarify
-g|it's about halfway up the page that's wh-- uh-huh it's just about about halfway up the page|reply_w
+g|it's about halfway up the page that's uh-huh it's just about about halfway up the page|reply_w
 f|so would you know head sort of for the west lake now avoiding you know|query_yn
-g|so if you s-- imagine a fenced meadow in the middle of the page|instruct
+g|so if you imagine a fenced meadow in the middle of the page|instruct
 g|and you sort of make a circle round up towards the west lake you go up to the west lake and then|clarify
 f|yeah|acknowledge
 f|along the left-hand side of the page|check
@@ -317,10 +317,10 @@ g|mmhmm|reply_y
 f|right|acknowledge
 f|right up to the top|query_yn
 g|no|reply_n
-g|you go ri-- you make a a ci-- you make a line up go up|clarify
+g|you go you make a a you make a line up go up|clarify
 g|right|align
 f|right okay|acknowledge
-g|to the ti-- 'til you reach the west lake|clarify
+g|to the 'til you reach the west lake|clarify
 g|see the curve in the at the bottom of the west lake|align
 f|right yeah|reply_y
 g|that sort of can you see a round curve|align
@@ -329,7 +329,7 @@ g|go to the the eh furthest point of that like in your left-hand side right abou
 f|yeah okay|acknowledge
 g|and start curving round it|instruct
 f|mmhmm|acknowledge
-g|ti-- if you if you s--|instruct
+g|if you if you|instruct
 g|can you see a trig point|query_yn
 f|no|reply_n
 g|no|acknowledge
@@ -347,11 +347,11 @@ f|do you cross the lake or do you go round it|query_w
 g|just just just go round|clarify
 g|right|align
 g|until about|clarify
-g|trying to think wh--|ready
+g|trying to think|ready
 g|see right can you not|clarify
 g|see if there's a circle at the bottom know how you've just gone round it|align
 f|mmhmm|reply_y
-g|and you keep going up 'til about it's a kind of sh-- there's kind of angle|instruct
+g|and you keep going up 'til about it's a kind of there's kind of angle|instruct
 g|oh this is really hard|explain
 g|see where the farmed land is at the top|align
 f|yeah|reply_y
@@ -362,13 +362,13 @@ g|right well|ready
 g|so are you at the bottom left-hand|check
 g|right|align
 f|i've just curved round the bottom|explain
-g|and and you can cu-- you curve round the bottom and keep going up that curve just curve round that|instruct
+g|and and you can you curve round the bottom and keep going up that curve just curve round that|instruct
 f|right|align
 f|so right round the top of the page|check
 g|no|reply_n
-f|that's a-- no|check
+f|that's no|check
 f|i'd have to otherwise i'd be in the lake|explain
-g|se-- can you see a monument|query_yn
+g|can you see a monument|query_yn
 f|the monument's on the right-hand side|check
 g|yeah|reply_y
 f|not all that far from the abandoned cottage in fact|check
@@ -401,9 +401,9 @@ f|they must be|reply_y
 g|right|acknowledge
 f|towards the top of the page unless i cross unless i cross the lake i'd need to go right round it|explain
 g|right|ready
-g|west lake isn't exac--|explain
+g|west lake isn't|explain
 g|you don't want to cross the lake|instruct
-f|but how am i going to get to the farmland or any-- or anything else|query_w
+f|but how am i going to get to the farmland or or anything else|query_w
 g|you don't want to go to the farmed land|reply_w
 g|i just asked if i had if you had farmed land|explain
 f|so i've to double back on myself|check
@@ -432,11 +432,11 @@ g|see directly underneath it where it says west lake|align
 f|mmhmm|reply_y
 f|oh|acknowledge
 f|i didn't actually i didn't actually go there|explain
-g|see the see see whe-- west lake see where the "e" is|align
+g|see the see see west lake see where the "e" is|align
 f|yeah|reply_y
 f|mmhmm|reply_y
 g|directly under that you can then you see a curve going round to your right it's like a sort of bottom of a circle or something it's quite it's quite rounded|explain
-f|yeah i know the i know the bit y--|acknowledge
+f|yeah i know the i know the bit|acknowledge
 f|the bottom right-hand side this is you're talking about|check
 g|mmhmm|reply_y
 f|you you talking about the "e" in lake|check
@@ -484,7 +484,7 @@ g|if you can follow this|align
 g|right so you've went round the corner right|align
 g|start again|instruct
 f|the bottom right okay|reply_y
-g|and see wh-- how i just said how it goes straight up and it goes down and it goes up|align
+g|and see how i just said how it goes straight up and it goes down and it goes up|align
 f|yeah|reply_y
 g|see that bit that goes up|align
 f|yeah|reply_y
@@ -503,7 +503,7 @@ f|mmhmm|reply_y
 g|do a straight line going to your towards your your right down to the left-hand side you're going down|instruct
 f|down to the right to my left-hand side|check
 g|right okay|ready
-g|if d-- if you think of a compass so if it would be your ehm eh southwest|clarify
+g|if if you think of a compass so if it would be your ehm eh southwest|clarify
 f|but i'd be in the lake then|explain
 g|no|reply_n
 g|you wouldn't be in the lake you shouldn't|explain
@@ -518,11 +518,11 @@ f|okay|align
 g|uh-huh|reply_y
 f|and i've stopped where the first eh the first bit rises|explain
 g|uh-huh|acknowledge
-f|at quite a sharp angle i've stopped at th-- at the r-- the right-hand side of that|explain
+f|at quite a sharp angle i've stopped at at the the right-hand side of that|explain
 g|the bottom of that|check
 f|yeah|reply_y
 g|well|ready
-g|then you're going t--|instruct
+g|then you're going|instruct
 f|how can i go southwest i uh i'd surely be in the lake|query_w
 g|oh east sorry|reply_w
 f|southeast right okay|acknowledge
@@ -546,8 +546,8 @@ f|and go up again|query_yn
 g|and then you're starting to go up uh-huh go up a bit|reply_y
 f|right|ready
 f|where's the nuclear test site|query_w
-g|eh it's just it's almost straight up from the monument a few in-- a few inches|reply_w
-f|so it's be-- next to the golf course then|check
+g|eh it's just it's almost straight up from the monument a few a few inches|reply_w
+f|so it's next to the golf course then|check
 g|i don't know where your golf course is|reply_w
 g|it's just it's about an inch under the east lake at the bottom of east lake|reply_w
 f|yeah|acknowledge
@@ -557,16 +557,16 @@ f|i'm going down|explain
 f|okay|align
 g|so you've got the monument|align
 f|yeah i'm going|reply_y
-g|just go st-- down straight line down underneath the monument|instruct
+g|just go down straight line down underneath the monument|instruct
 f|right and|acknowledge
-g|and then up t-- curve up|instruct
+g|and then up curve up|instruct
 f|come back up again|acknowledge
 f|mmhmm|acknowledge
 g|eh go left for a couple of for about an inch or something|instruct
 g|okay|align
 f|how far do i go up here|query_w
-g|eh oh about an inch up from the monu-- just just curve sort of curve round a circle sort of|reply_w
-f|so i i g-- i i go left beneath the nuclear test site|check
+g|eh oh about an inch up from the just just curve sort of curve round a circle sort of|reply_w
+f|so i i i i go left beneath the nuclear test site|check
 g|uh-huh|reply_y
 g|you want to stay on the left-hand side uh-huh|explain
 f|sorry|query_w
@@ -575,7 +575,7 @@ g|right|ready
 g|you go round the monument|instruct
 f|right|acknowledge
 f|and go left|check
-g|and s-- go left|reply_y
+g|and go left|reply_y
 f|i've i've gone an inch or so up from the monument|explain
 g|go left|reply_y
 f|right|acknowledge
@@ -593,7 +593,7 @@ g|to the left-hand side of east lake like the very far end of east lake|check
 f|i can't|explain
 f|yeah|reply_y
 f|at the bottom|explain
-f|i can't go any further left sorry further right than that because i've been i c-- i'd need to go through the golf course so i've actually you know that's where i am now more or less been-- beneath that point because that's the like the|explain
+f|i can't go any further left sorry further right than that because i've been i i'd need to go through the golf course so i've actually you know that's where i am now more or less beneath that point because that's the like the|explain
 g|but that's where you're meant to end up underneath east lake|instruct
 f|at at the left-hand side|check
 g|uh-huh|reply_y
@@ -611,7 +611,7 @@ f|mmhmm right okay|acknowledge
 g|so if you went have you went round curved round the monument|align
 f|yeah yeah i've done that|reply_y
 f|i i'm at the finish now|explain
-g|are you sure right that you've went up oh right and you've we-- you've gone up towards east lake and then turned then went to your right just followed the curve round east lake t--|align
+g|are you sure right that you've went up oh right and you've you've gone up towards east lake and then turned then went to your right just followed the curve round east lake|align
 f|i've not done that yet|reply_n
 g|see where east lake is|align
 f|you didn't say that|explain
@@ -620,7 +620,7 @@ f|i'm at the i'm at the bottom left of east lake now|explain
 f|right|align
 f|and so i curve round|check
 g|are you talking about the very bottom|query_yn
-f|no a--|reply_n
+f|no|reply_n
 g|you talking about the bottom right|query_yn
 f|the bottom left|explain
 g|you've just reached there|check
@@ -641,9 +641,9 @@ f|right|acknowledge
 g|eh well|ready
 g|just a centimetre past it right to your left|explain
 f|right|acknowledge
-f|so i'd ha-- i'd have to go up between the golf course and the nuclear test site|check
+f|so i'd i'd have to go up between the golf course and the nuclear test site|check
 g|right that's finish point so|explain
-g|so i take it that must be another s-- they must be between each other|explain
+g|so i take it that must be another they must be between each other|explain
 g|the line should be between that then|instruct
 f|between the golf course and the nuclear test site|check
 g|it's the golf course right it's underneath east lake and it's eh northwest from the monument|check
@@ -658,7 +658,7 @@ f|i so i've just i've just to pass the left-hand side of the nuclear test site|c
 g|mmhmm mmhmm|reply_y
 f|right okay no|reply_n
 g|have you got a nuclear test site|check
-f|but i-- you told me it was just below ea-- east lake|check
+f|but you told me it was just below east lake|check
 g|it is|reply_y
 g|but it's on the right-hand side on the right-hand but exactly under the right-hand side of east lake|explain
 f|yes okay|acknowledge
@@ -666,14 +666,14 @@ f|i'm just going up to the right-hand side of the golf course okay now|explain
 g|so you must like have to trace round it then|instruct
 f|yeah okay|acknowledge
 g|i take it on the right-hand side so it's between it|instruct
-f|so that's me on the right-hand side of east lake now about a centimetre in from the le-- so-- from the right sorry|explain
+f|so that's me on the right-hand side of east lake now about a centimetre in from the from the right sorry|explain
 g|eh|acknowledge
 f|so i go left now i take it|check
 g|so then you just just just just trace underneath the curve to the finish|instruct
 f|right|acknowledge
 f|one centimetre to the left|check
 g|uh-huh yeah|reply_y
-g|right that's the ve-- the finish point|instruct
+g|right that's the the finish point|instruct
 g|of east lake have you traced under the east lake|align
 f|that's the finish|check
 f|yeah|reply_y

@@ -6,7 +6,7 @@ f|yeah i've got the start|reply_y
 g|is it at the top of it|query_yn
 f|uh-huh|reply_y
 g|right okay|ready
-g|go to the right i think it is yeah right go to the right about two centi-- about two three centimetres|instruct
+g|go to the right i think it is yeah right go to the right about two about two three centimetres|instruct
 f|right|acknowledge
 g|go down two three centimetres|instruct
 f|down|check
@@ -47,23 +47,23 @@ g|well you're supposed to cross it|instruct
 f|cross the rope bridge|check
 g|yeah|reply_y
 f|so i need to go along toward|check
-g|along ri-- left|reply_w
+g|along left|reply_w
 f|no right|reply_n
-f|the rope bi-- ri-- i've come to the bottom of the banana tree|explain
+f|the rope i've come to the bottom of the banana tree|explain
 g|right|acknowledge
 f|right|align
 g|uh-huh|reply_y
-f|then i came up beh-- towards the left of it|explain
+f|then i came up towards the left of it|explain
 f|right|align
 g|mmhmm|reply_y
 f|and now i'll need to go to the right to get to the rope bridge|explain
 g|right to the rope bridge|check
 f|mmhmm|reply_y
-g|you have to go r--|check
+g|you have to go|check
 g|okay right|ready
 g|just go that way okay|instruct
 g|have you got a waterfall|query_yn
-f|a waterf--|acknowledge
+f|a|acknowledge
 f|yeah|reply_y
 f|that's right towards the other end|explain
 g|it's on the right-hand side|check
@@ -88,7 +88,7 @@ g|just right to the top to the righthand side|clarify
 f|so i need to curve up and go in a|check
 g|uh-huh|reply_y
 f|right|acknowledge
-g|right g-- right|ready
+g|right right|ready
 g|go over the top|instruct
 g|have you got fallen pillars|query_yn
 f|uh i've got right|ready
@@ -113,7 +113,7 @@ g|never mind them right|instruct
 g|have you got to the lost steps|align
 f|yeah i'm at the lost steps just now|reply_y
 g|well|ready
-g|go r-- go over go right around them|instruct
+g|go go over go right around them|instruct
 f|mm|acknowledge
 g|to the fallen pillars that's to the left|instruct
 f|to the fallen pillars|check
@@ -121,10 +121,10 @@ g|mmhmm|reply_y
 f|at the bottom of the fallen pillars|check
 g|yeah|reply_y
 f|right|acknowledge
-g|sto-- right|ready
+g|right|ready
 g|if you go right to the bottom okay|align
 f|uh-huh|reply_y
-g|ehm go two three centi-- three centimetres down|instruct
+g|ehm go two three three centimetres down|instruct
 f|down|check
 g|mmhmm|reply_y
 f|right|acknowledge
@@ -133,7 +133,7 @@ g|this is so bad|explain
 g|okay|ready
 g|are you going down right|align
 f|mmhmm|reply_y
-g|then sort of go back up in a circle sort of thing you know just curve round to the a--|instruct
+g|then sort of go back up in a circle sort of thing you know just curve round to the|instruct
 f|curve round curve round the fallen pillars|check
 g|have you got|query_yn
 g|no not curve round|reply_n
@@ -158,7 +158,7 @@ g|the left of it|reply_w
 f|left of it right|acknowledge
 g|have you got stones|query_yn
 f|i've got rock fall just above the ruined city to the right|reply_w
-g|to the le--|query_yn
+g|to the|query_yn
 g|ah just go up to that|instruct
 f|right|acknowledge
 g|okay|align
@@ -206,7 +206,7 @@ f|uh-huh|reply_y
 g|go right down to the left of them|instruct
 f|right|acknowledge
 g|okay|align
-g|then turn left about th-- three four centimetres|instruct
+g|then turn left about three four centimetres|instruct
 f|right|acknowledge
 g|and that's you finished|instruct
 f|oh|acknowledge

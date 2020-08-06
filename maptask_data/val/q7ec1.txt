@@ -4,13 +4,13 @@ f|uh-huh|reply_y
 g|go south past the diamond mine then hang a left just at the bottom of it|instruct
 f|right go south mm past the diamond hang a left right i'm going left|acknowledge
 f|how far|query_w
-g|sor-- eh left on the paper towards your and you hang left towards the graveyard|clarify
+g|eh left on the paper towards your and you hang left towards the graveyard|clarify
 g|right|align
-g|you're going u--|clarify
+g|you're going|clarify
 f|graveyard|check
 f|no graveyard over here|explain
 g|yeah|reply_y
-g|there should be a wee graveya--|clarify
+g|there should be a wee|clarify
 g|well as you walk towards it it should be to the right west east sorry|clarify
 f|just tell me what you what it is to you dave and i'll do it for me|instruct
 g|right|ready
@@ -38,7 +38,7 @@ g|turn left above the indian country|instruct
 f|so i'm|check
 g|then a wee chicane round and hang a left around the gold mine|instruct
 f|so i'm going round indian country and down to the left then down below the gold mine|check
-g|n-- well you underneath the great rock rock then round then over the top of the gold mine|clarify
+g|well you underneath the great rock rock then round then over the top of the gold mine|clarify
 f|oh my map's totally different dave|explain
 g|right|acknowledge
 f|i've got no great rock|explain
@@ -73,8 +73,8 @@ f|no|reply_n
 g|i wouldnae think so|explain
 g|that's the that's the good guys|explain
 g|er right so|ready
-g|trout farm you you go jus-- just about just about halfway past it then down south again|instruct
-f|so just up bes-- alongside it|check
+g|trout farm you you go just about just about halfway past it then down south again|instruct
+f|so just up alongside it|check
 g|just past it|clarify
 f|aye just past it right|acknowledge
 g|then you go south|instruct
@@ -92,7 +92,7 @@ f|so i reach them you want me to did you go past it just a wee bit and then go d
 g|and then go south|clarify
 g|yes|reply_y
 f|mm|acknowledge
-g|t-- down towards a cattle stockade|align
+g|down towards a cattle stockade|align
 f|yeah|reply_y
 g|eh you pass the cattle stockade on the east hand side|instruct
 f|right|acknowledge
@@ -106,7 +106,7 @@ g|right|acknowledge
 g|well you go past the stockade then you go you hang a left to have to take it that to avoid the parched river stockade uh parched river on yours|instruct
 g|go underneath that then along the bottom|instruct
 f|so|ready
-f|i'll m-- i'll miss the parched river bed|acknowledge
+f|i'll i'll miss the parched river bed|acknowledge
 g|and along the bottom|instruct
 f|underneath the bandit territory|check
 g|underneath bandit territory|clarify
@@ -164,7 +164,7 @@ g|right follow everything round you get to the trout farm right|align
 f|right|reply_y
 f|i missed the totem pole|explain
 g|right|ready
-g|then just after you hang a right well go s--|instruct
+g|then just after you hang a right well go|instruct
 f|south|acknowledge
 g|go south|instruct
 g|there's a fort cavalry fort|explain

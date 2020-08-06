@@ -30,7 +30,7 @@ g|if you imagine|instruct
 f|mmhmm|acknowledge
 g|that you have to circle round the graveyard you know to the right-hand side below and then round|instruct
 g|get that|align
-g|so you're like really going just about vertically along to the right you know to where you imagine the graveyard is and you're going round it but then you're you're going round it then you're ehm going to your right above the fast flow-- the fast flowing river|instruct
+g|so you're like really going just about vertically along to the right you know to where you imagine the graveyard is and you're going round it but then you're you're going round it then you're ehm going to your right above the fast the fast flowing river|instruct
 f|am i am i going round and above the graveyard|query_yn
 g|no|reply_n
 g|you're going below the graveyard and above the fast flowing river|clarify
@@ -52,14 +52,14 @@ g|well you're going downwards and but you're going to the left of the apache cam
 f|right|acknowledge
 g|and have you got a carved wooden pole no|query_yn
 f|no i don't|reply_n
-g|that's just that's in the cen-- in the centre of the page just above the ac-- apache camp though|explain
+g|that's just that's in the in the centre of the page just above the apache camp though|explain
 f|okay|acknowledge
 g|so|ready
 g|you have to avoid that so you're going down sort of|acknowledge
-f|h-- hold on i'm i'm kind of above the apache camp at the moment|explain
+f|hold on i'm i'm kind of above the apache camp at the moment|explain
 g|uh-huh|acknowledge
 f|right|align
-f|and wh--|query_w
+f|and|query_w
 g|well|ready
 g|you've to go past that|clarify
 f|right|acknowledge
@@ -99,7 +99,7 @@ f|uh-huh|reply_y
 g|well|ready
 g|you're you're coming right sort of you're going round the top of the walled city|instruct
 f|okay|acknowledge
-g|right so you've passed the apache pa-- you're above the apa-- apache camp and you're going round the top of the walled city|align
+g|right so you've passed the apache you're above the apache camp and you're going round the top of the walled city|align
 f|mmhmm|reply_y
 g|right|align
 g|and then you're sort of curving just curving basically it's kind of vertically you're going for a vertical kind of curve if you can say that for about maybe four inches down to you're coming down to about the bottom third of the page|instruct
@@ -111,14 +111,14 @@ g|where's that where's the ghost town|query_w
 f|it's ehm directly underneath the walled city|reply_w
 g|uh-huh right|acknowledge
 g|so|ready
-g|you're pur-- you're circling round the ghost town|instruct
-f|right s--|ready
+g|you're you're circling round the ghost town|instruct
+f|right|ready
 f|i'm going right down and round the ghost town|check
 g|uh-huh|reply_y
 f|underneath|check
-g|under-- well yes uh-huh|reply_y
+g|well yes uh-huh|reply_y
 f|uh-huh|acknowledge
-g|i would imagi--|reply_y
+g|i would|reply_y
 g|and then you've got flat rocks over to the right-hand side|query_yn
 f|uh-huh|reply_y
 g|is that kind of maybe just a wee bit above the ghost town|check
@@ -174,7 +174,7 @@ f|no|reply_n
 g|what you've really got to do is avoid the cattle ranch|instruct
 f|okay|acknowledge
 g|which is really like in between the buffalo and the fort|explain
-g|so what you have to do is go r-- circle round the buffalo and then go above the cattle ranch if you can imagine it there|instruct
+g|so what you have to do is go circle round the buffalo and then go above the cattle ranch if you can imagine it there|instruct
 f|right uh-huh|acknowledge
 g|right|align
 g|do a bump it's in the centre of|instruct

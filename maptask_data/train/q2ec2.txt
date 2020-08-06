@@ -1,4 +1,4 @@
-g|erm we're start oop-- starting down|instruct
+g|erm we're start starting down|instruct
 g|that's the end of that|explain
 g|erm starting above the telephone kiosk|instruct
 f|uh-huh|acknowledge
@@ -34,7 +34,7 @@ f|right|acknowledge
 f|i've gone a bit too far then|explain
 f|okay|acknowledge
 g|right|ready
-g|come across a-- th-- come round and across the top of the gate|instruct
+g|come across come round and across the top of the gate|instruct
 f|yeah|acknowledge
 g|erm and walk above steadily or gradually heading upwards but only slightly up to above the meadow if you've got that|instruct
 f|yeah|reply_y
@@ -44,10 +44,10 @@ g|but come over the broken gate and then head over towards that|clarify
 f|that's it|acknowledge
 f|yeah|acknowledge
 g|erm once you're above that head upwards to the right-hand side of the ruined monastery if you've got that|instruct
-f|that's m-- away up|check
+f|that's away up|check
 g|mmhmm|reply_y
 g|head up to the right-hand side of that but avoiding the the dead tree|clarify
-f|yeah w--|acknowledge
+f|yeah|acknowledge
 f|have you got a|query_yn
 g|if you'll erm come above that over towards the left-hand side|instruct
 f|right|acknowledge
@@ -61,9 +61,9 @@ g|oh|acknowledge
 f|have you got a stile|query_yn
 g|i've got a stile yes|reply_y
 f|is it anywhere near that|query_yn
-g|it's j-- it's directly below that|reply_w
+g|it's it's directly below that|reply_w
 f|uh-huh|acknowledge
-g|erm if you come d-- just loop down below the stile and round to the left-hand side|instruct
+g|erm if you come just loop down below the stile and round to the left-hand side|instruct
 f|right|acknowledge
 g|then come up across it to the far side of the the drawing of the stile or the stile erm head upwards erm on the map it's maybe about an inch|instruct
 f|yeah|acknowledge
@@ -71,7 +71,7 @@ g|if i'm allowed to use that|explain
 g|erm and then head diagonally down towards the bottom of the dead tree|instruct
 f|i have don't have a dead tree i have a dutch elm|explain
 g|erm it whereabouts is that is that on|query_w
-f|it's r-- far eh way over on the right-hand side about just up from the middle of the map|reply_w
+f|it's far eh way over on the right-hand side about just up from the middle of the map|reply_w
 g|right okay well that i well i assume that's the same thing|explain
 f|is it about right|check
 f|have you got a popular tourist spot|query_yn
@@ -81,7 +81,7 @@ g|i've got|explain
 g|oh|acknowledge
 g|i've got a great viewpoint eh above the tree eh just below the east lake|explain
 f|oh no|reply_n
-f|i've got a rocket launch just b-- just below the east lake|explain
+f|i've got a rocket launch just just below the east lake|explain
 g|erm well|ready
 f|are we heading towards the dutch elm then|check
 g|i would say so yes|reply_y
@@ -102,14 +102,14 @@ f|ah okay|acknowledge
 g|so like|acknowledge
 g|erm what have you got underneath the east lake|query_w
 f|rocket launch|reply_w
-g|well i think we'll need to ass-- assume that's|instruct
+g|well i think we'll need to assume that's|instruct
 f|yeah|acknowledge
 g|to be avoided anyway|instruct
 g|so if you come round to the right-hand side of that and head upwards towards the east lake|instruct
 f|yeah|acknowledge
 f|so i just come round on top of the dutch elm|align
 g|right|reply_y
-g|you're above the e-- the elm|clarify
+g|you're above the the elm|clarify
 f|on the left-hand side|align
 g|on the left-hand side if you head directly upwards towards the east lake on the right-hand side|clarify
 f|okay|acknowledge
@@ -120,14 +120,14 @@ g|go almost to the edge of the lake|instruct
 f|yeah|acknowledge
 g|and then head eh left|instruct
 f|right|acknowledge
-f|so i'm i'm i'm g-- like on the bank on the bank of the east lake|check
+f|so i'm i'm i'm like on the bank on the bank of the east lake|check
 g|yeah|reply_y
-g|maybe slight-- just slightly back from it but above what i've got as a great viewpoint|clarify
+g|maybe just slightly back from it but above what i've got as a great viewpoint|clarify
 f|okay|acknowledge
 f|yeah|acknowledge
 g|and that's my the finish|instruct
 f|that's it|check
 g|yep yep|reply_y
 f|right|acknowledge
-f|so what-- what would we end just underneath the east lake do we|check
+f|so what would we end just underneath the east lake do we|check
 f|right|acknowledge

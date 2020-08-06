@@ -5,7 +5,7 @@ g|there is a diamond mine to the right|query_yn
 f|yes|reply_y
 g|go due south to the left of the diamond mine and curve underneath it|instruct
 f|do i come up round the other side of it|check
-g|i would go wes-- to go due east straight past it|clarify
+g|i would go to go due east straight past it|clarify
 f|right i have it|acknowledge
 g|i have a graveyard on mine|explain
 g|which i don't believe you have on yours|query_yn
@@ -17,7 +17,7 @@ f|yeah|acknowledge
 f|round the top of it|check
 g|uh-huh|reply_y
 g|so i want you to avoid the graveyard so i want you to go due east|instruct
-f|it's j--|check
+f|it's|check
 f|i'm i'm|explain
 f|underneath the diamond mine|explain
 f|just straight due east from there|check
@@ -39,11 +39,11 @@ g|i have a great rock on mine which i don't think you have on yours|explain
 f|mmhmm|acknowledge
 g|it's to the west of indian country|explain
 f|mmhmm|acknowledge
-g|so i want you to go southwest down to the left of indian country that way you should avoid the s-- the great rock so i want you to go southwest down to the left of indian country to the level of the writing indian country|instruct
+g|so i want you to go southwest down to the left of indian country that way you should avoid the the great rock so i want you to go southwest down to the left of indian country to the level of the writing indian country|instruct
 f|right|ready
 g|alright|align
 g|go due west|instruct
-g|you ha-- also have a gold mine don't you|query_yn
+g|you also have a gold mine don't you|query_yn
 f|mmhmm|reply_y
 g|go west and curve round the top of the gold mine and down the other side|instruct
 f|okay|ready
@@ -57,7 +57,7 @@ g|no you don't|explain
 f|no i don't have it|reply_n
 g|go due south down the left-hand side of the gold mine|instruct
 f|mmhmm|acknowledge
-g|f-- 'til you'll|instruct
+g|'til you'll|instruct
 g|you have a trout farm|query_yn
 f|no i've got a i've got a trout farm over to the right underneath indian country here|reply_w
 g|mmhmm|acknowledge
@@ -65,7 +65,7 @@ g|i want you to go three inches past that going south in other words just to the
 f|to the level of what|query_w
 g|inches three south of the level of the trout farm going due south past the gold mine|clarify
 f|okay|acknowledge
-f|i've got a totem pole just about where i am now just about where you s--|explain
+f|i've got a totem pole just about where i am now just about where you|explain
 g|right|acknowledge
 g|i want you|instruct
 g|to curve underneath that|instruct
@@ -88,7 +88,7 @@ f|right|acknowledge
 g|i've got a cavalry thing which you don't have|explain
 g|so avoiding that i want you to go due south from where you are which is the edge of the page|instruct
 f|mmhmm|acknowledge
-f|how far to--|query_w
+f|how far|query_w
 g|down past the cattle stockade i want you to go underneath the cattle|instruct
 f|mmhmm|acknowledge
 f|okay|ready

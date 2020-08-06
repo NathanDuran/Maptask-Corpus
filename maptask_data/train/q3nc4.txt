@@ -57,10 +57,10 @@ g|well go above that and round|instruct
 f|straight up|check
 g|still going to your left|instruct
 f|still going to my left|check
-g|y-- well y-- you're straight up just beyond the old temple|align
+g|well you're straight up just beyond the old temple|align
 f|uh-huh|reply_y
 g|okay|acknowledge
-g|now g-- you're wanting to go left|clarify
+g|now you're wanting to go left|clarify
 g|have you got an abandoned truck marked|query_yn
 f|uh-huh|reply_y
 g|right|acknowledge
@@ -72,7 +72,7 @@ f|so it's to the right of the mountain that i'm going|check
 g|no it's to the|reply_n
 g|the abandoned truck's to the left of the old temple|explain
 f|yes|acknowledge
-f|but the m-- the mountain's a-- between the abandoned truck and the old temple|explain
+f|but the the mountain's between the abandoned truck and the old temple|explain
 g|right okay|acknowledge
 g|so is the the mountain roughly level with the abandoned truck|query_yn
 f|more or less yes|reply_y
@@ -118,7 +118,7 @@ f|and above white mountain|check
 g|have you got a pyramid marked|query_yn
 f|uh-huh|reply_y
 g|right okay|acknowledge
-g|well go horizontally along and over the top of the pyramid and down the s-- other side of the pyramid|instruct
+g|well go horizontally along and over the top of the pyramid and down the other side of the pyramid|instruct
 g|have you got cobbled street marked|query_yn
 f|no|reply_n
 g|no okay|acknowledge
@@ -156,7 +156,7 @@ g|well there's two poisoned streams marked|explain
 f|uh-huh|acknowledge
 g|yeah|acknowledge
 f|so the finish is where|query_w
-g|it's just southeast of the remo-- remote village|clarify
+g|it's just southeast of the remote village|clarify
 f|southeast of the remote village so it's there|acknowledge
 f|okay|ready
 g|okay that's you finished|explain

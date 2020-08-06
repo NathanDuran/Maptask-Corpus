@@ -17,7 +17,7 @@ f|yes|reply_y
 g|right|acknowledge
 g|if you see the bottom of the ravine then take a line across to the left-hand side of the page|instruct
 g|right|align
-f|s-- so|check
+f|so|check
 g|have you if you think of the ravine right|instruct
 f|right|ready
 f|i'm at the burnt forest right up the top here right|explain
@@ -108,7 +108,7 @@ f|just to the right of it|check
 g|yeah so|reply_y
 f|well i'll just go straight down there|check
 g|well aye|reply_y
-g|if you sort of miss out the r-- go round the avalanche|clarify
+g|if you sort of miss out the go round the avalanche|clarify
 f|right i will|acknowledge
 g|which i presume and you should be at the right of the concealed hideout|instruct
 f|right|acknowledge
@@ -134,7 +134,7 @@ g|and do you have crane bay marked|query_yn
 f|mmhmm|reply_y
 g|and eh is is it curved|query_yn
 f|aye|reply_y
-g|where about u-- up above the "b"|query_yn
+g|where about up above the "b"|query_yn
 g|of bay|query_yn
 f|aye|reply_y
 f|mmhmm|reply_y
@@ -173,7 +173,7 @@ g|do you have a flagship|query_yn
 f|yes|reply_y
 g|right|ready
 g|the finish|explain
-f|right i'm down i'm at the bottom of the pa--|explain
+f|right i'm down i'm at the bottom of the|explain
 g|wait a minute|instruct
 g|wait a minute right|ready
 g|the finish point is on land|explain

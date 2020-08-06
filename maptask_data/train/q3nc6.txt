@@ -19,14 +19,14 @@ f|okay|acknowledge
 g|then cut along to the footbridge|instruct
 f|underneath|query_yn
 g|no|reply_n
-g|just eh g-- i mean go along the|clarify
+g|just eh i mean go along the|clarify
 g|footbridge|reply_n
 f|alright|acknowledge
 f|okay|acknowledge
 g|just to the end of it|clarify
 f|right okay|acknowledge
 g|have you got poison stream marked by the footbridge|query_yn
-f|n-- eh no the poisoned stream is up in the top left-hand corner|reply_n
+f|eh no the poisoned stream is up in the top left-hand corner|reply_n
 g|right okay|acknowledge
 f|okay|align
 g|right well|ready
@@ -37,7 +37,7 @@ f|mmhmm|acknowledge
 g|and you've got the old temple marked|check
 f|yeah|reply_y
 g|right okay|acknowledge
-g|go up ss-- the left-hand side of the old temple|instruct
+g|go up the left-hand side of the old temple|instruct
 f|okay|acknowledge
 g|now go up eh over the top of|instruct
 g|have you got the mountain marked|query_yn

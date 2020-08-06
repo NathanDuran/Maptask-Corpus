@@ -4,7 +4,7 @@ g|about one and a half centimetres above the extinct volcano is your start point
 f|well i've got that already marked|explain
 f|right|acknowledge
 g|right|acknowledge
-g|go alon--|instruct
+g|go|instruct
 g|go along to your left|instruct
 g|about three centimetres|instruct
 f|right|acknowledge
@@ -14,9 +14,9 @@ f|down the way|query_yn
 g|down the way|reply_y
 f|down the way right|acknowledge
 f|towards the bottom left-hand corner|query_yn
-g|erm m-- a small slope|reply_w
+g|erm a small slope|reply_w
 f|a small slope right|acknowledge
-g|and h-- along under the tribal settlement along 'til you|instruct
+g|and along under the tribal settlement along 'til you|instruct
 f|i don't have a tribal settlement um|explain
 g|oh right|acknowledge
 f|you got a rope bridge|query_yn
@@ -50,16 +50,16 @@ g|and|ready
 g|curve round|instruct
 f|which way|query_w
 g|er so the slope it gets lower|reply_w
-f|oh whe-- whe-- whe-- towards the right or the left|query_w
+f|oh towards the right or the left|query_w
 g|to the right|reply_w
 f|have you got a saxon barn|query_yn
-g|hu-- you're not up there are you|align
+g|you're not up there are you|align
 f|no i no i'm not|reply_n
 f|should am i going toward the rope bridge|query_yn
 g|yeah towards the rope bridge|reply_y
 f|am i going across the rope bridge|query_yn
 g|across the rope bridge|reply_y
-f|am i going across the r-- right it's across the rope bridge|check
+f|am i going across the right it's across the rope bridge|check
 g|yeah|reply_y
 f|right|acknowledge
 g|stop after you you reach the end of the rope bridge|instruct
@@ -70,7 +70,7 @@ g|no|reply_n
 f|right|acknowledge
 g|where whereabouts is the machete|query_w
 f|it's along by about three centimetres and couple down from the rope bridge|reply_w
-g|a couple dow-- oh right|acknowledge
+g|a couple oh right|acknowledge
 f|right okay right|acknowledge
 g|are you close to it|query_yn
 f|not yet|reply_n
@@ -112,22 +112,22 @@ g|and by about twelve centimetres|instruct
 g|up is is there an an obstacle erm|query_yn
 f|have you got a crevasse|query_yn
 f|no|reply_n
-g|acro-- along from the saxon barn at all|query_yn
+g|along from the saxon barn at all|query_yn
 f|i've got a crevasse|reply_w
 g|yeah|acknowledge
 g|well|ready
 g|is that directly along from the saxon barn|query_yn
 f|yeah|reply_y
 g|well go above that|instruct
-f|above the c--|check
-g|up and you go directly beside the collapsed shelter by about er say fifteen centimetres above the creva-- crevice|instruct
+f|above the|check
+g|up and you go directly beside the collapsed shelter by about er say fifteen centimetres above the crevice|instruct
 f|right|acknowledge
 f|so have you got|query_yn
 f|right so|ready
 f|go about five centimetres above the crevasse|check
 g|yeah|reply_y
 f|directly above the start point|check
-g|five centimetres above the crevi-- crevasse|check
+g|five centimetres above the crevasse|check
 f|uh-huh|reply_y
 f|which is fifteen centimetres from where i am now|explain
 g|eh well|ready
@@ -145,7 +145,7 @@ g|you've got the saxon barn haven't you|query_yn
 g|well|ready
 f|yeah|reply_y
 g|you go along and you go from above the crevasse well from the side down to under just under the saxon barn in a slope|instruct
-f|so i'm curving ab-- i'm sloping then|check
+f|so i'm curving i'm sloping then|check
 g|yeah|reply_y
 f|so i'm now under the saxon barn|check
 g|er at the right-hand side|explain
@@ -181,7 +181,7 @@ g|and you've got the white mountain above you yeah|query_yn
 f|yeah right|acknowledge
 f|yeah|reply_y
 g|so|ready
-g|you go up say six centimetres u-- dilec rectly across from the saxon barn to your left|instruct
+g|you go up say six centimetres dilec rectly across from the saxon barn to your left|instruct
 f|so i'm now opposite the saxon barn|check
 g|yes|reply_y
 f|right|acknowledge
@@ -192,13 +192,13 @@ g|on the left-hand side|reply_n
 f|the left|acknowledge
 g|by one centimetre|instruct
 f|but that's not sloping it should be|reply_n
-g|well gentle sl-- very gentle slope|clarify
+g|well gentle very gentle slope|clarify
 f|so i'm now at the left-hand side of the bottom of the white mountain|align
-g|er go along the side er away from the m-- white mountain by a-- from the s-- left side of a white mountain by about one centimetre|instruct
+g|er go along the side er away from the white mountain by from the left side of a white mountain by about one centimetre|instruct
 f|am i to go up to the top of the mountain|query_yn
 g|yeah|reply_y
 g|'til you reach the peak|instruct
-f|so am i actually going to the peak of the wh-- white mountain|check
+f|so am i actually going to the peak of the white mountain|check
 g|stop|instruct
 g|no you don't|reply_n
 g|you go one centimetre to the left of the peak same level as the peak and|clarify
@@ -210,7 +210,7 @@ g|so it's like|instruct
 f|right i've got it i've got it right|acknowledge
 g|and er|ready
 g|do you see any other obstacles|query_yn
-f|i've got some submerged rocks to the r-- to the right|reply_w
+f|i've got some submerged rocks to the to the right|reply_w
 g|to the right|acknowledge
 g|how close to the right|query_w
 f|ah about ten to fifteen centimetres away ten quite a way away anyway|reply_w
@@ -224,7 +224,7 @@ g|and is there a mountain slate mountain|query_yn
 f|i've got a slate mountain to the right|reply_w
 g|yes|acknowledge
 g|well|ready
-g|are you dir-- directly opposite that|query_yn
+g|are you directly opposite that|query_yn
 f|just about|reply_y
 f|the bottom of it yeah|query_yn
 g|yeah|reply_y
@@ -251,7 +251,7 @@ g|that's quite a bit away|query_yn
 f|yeah|reply_y
 g|yeah|acknowledge
 g|well|ready
-g|go two centimetres down from the bottom of the sli-- slate mountain on your right just two centimetres down|instruct
+g|go two centimetres down from the bottom of the slate mountain on your right just two centimetres down|instruct
 f|okay|acknowledge
 g|and go along left 'til you're about one centimetre away from the bottom of the slate mountain directly beneath the slate mountain that is|instruct
 f|oh on the left-hand side|query_yn
@@ -302,7 +302,7 @@ f|right|acknowledge
 g|ah|ready
 g|just go about one centimetre down from the where the white mountain is er you should be opposite from the white mountain so one centimetre down again|instruct
 f|right|acknowledge
-g|and along you sh-- 'til you're just under the secret right-hand side of the secret valley now|instruct
+g|and along you 'til you're just under the secret right-hand side of the secret valley now|instruct
 g|and along by one centimetre|instruct
 f|right|acknowledge
 f|okay|acknowledge

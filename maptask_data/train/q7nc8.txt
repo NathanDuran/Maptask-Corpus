@@ -1,6 +1,6 @@
 g|okay ready|align
 f|yup|reply_y
-g|start ar-- s-- in the upper left-hand corner|instruct
+g|start in the upper left-hand corner|instruct
 f|okay|acknowledge
 g|um okay|ready
 g|now just drop down about four inches|instruct
@@ -11,17 +11,17 @@ f|right|acknowledge
 g|and then about an inch to the right|instruct
 f|below the blacksmith|query_yn
 g|no no|reply_n
-g|not below anything you want to come just to the you want to come just to the left of s-- whatever is there|clarify
+g|not below anything you want to come just to the you want to come just to the left of whatever is there|clarify
 f|right|acknowledge
 f|an inch to the right|check
 g|yeah|reply_y
-g|what y-- what you do you drop you drop down then you go right|clarify
+g|what what you do you drop you drop down then you go right|clarify
 f|right|acknowledge
 f|mmhmm|acknowledge
-g|a-- an then and then you go you go up again but a sort of sloping to the right|instruct
+g|an then and then you go you go up again but a sort of sloping to the right|instruct
 f|mmhmm|acknowledge
 f|i've got and up to the right here i've got a carpenter's house|explain
-g|yeah you w--|instruct
+g|yeah you|instruct
 g|you want to go right on the outside of that|instruct
 f|right|acknowledge
 f|to the right-hand side or|query_yn
@@ -32,11 +32,11 @@ f|right|acknowledge
 g|and then up and then you follow along the top of the green bay|instruct
 f|of the what|query_w
 g|do you just okay|ready
-g|g-- f-- go|instruct
+g|go|instruct
 f|i've got a carpenter and then there's nothing up above it|explain
 g|okay|acknowledge
 g|so|ready
-f|well d-- uh-huh|acknowledge
+f|well uh-huh|acknowledge
 g|all right|ready
 g|when you go up above the carpenter|instruct
 g|about maybe an inch or so|instruct
@@ -51,7 +51,7 @@ f|i don't have the chapel but i've got the seven beeches|reply_w
 g|okay|acknowledge
 g|right at the bottom left corner of the seven beeches|instruct
 f|right|acknowledge
-g|you sort of make a a semicircle to th-- towards the right|instruct
+g|you sort of make a a semicircle to towards the right|instruct
 f|right|acknowledge
 g|that's about two inches long|instruct
 f|okay|acknowledge
@@ -60,7 +60,7 @@ g|and then|ready
 g|do you have reclaimed fields|query_yn
 f|yeah i do uh-huh|reply_y
 g|okay|ready
-g|just trace along the outer r-- r-- ridge of that to the right|instruct
+g|just trace along the outer ridge of that to the right|instruct
 f|mmhmm|acknowledge
 g|to the bottom 'til your 'til your pen is on the left bottom of it|instruct
 f|sort of at the "r" of the reclaimed|check
@@ -77,18 +77,18 @@ g|okay|ready
 g|just drop straight down and trace along the crane bay|instruct
 f|to the left|query_yn
 g|yeah|reply_y
-g|right f-- right 'til um right 'til about there's a point just eh right 'til there|instruct
+g|right right 'til um right 'til about there's a point just eh right 'til there|instruct
 f|right|acknowledge
 f|right|acknowledge
 f|i've got a whitewashed cottage|explain
 f|have you got that|query_yn
 g|mm-mm|reply_n
-f|is it th-- right|ready
+f|is it right|ready
 f|you come down and there's sort of it's got crane bay|align
 g|yeah|reply_y
 f|and above the "c" there's a point and to the left of the "c" there's a point|align
-f|is it the s-- what point is it is it the one|query_w
-g|um right to the di-- diagonally up from the "c"|reply_w
+f|is it the what point is it is it the one|query_w
+g|um right to the diagonally up from the "c"|reply_w
 f|right okay|acknowledge
 g|okay|ready
 g|and then you just you go left and down|instruct
@@ -102,9 +102,9 @@ f|right|acknowledge
 g|and then you just slope down to the left for about an inch|instruct
 g|and then|ready
 f|okay|acknowledge
-g|you sort o-- you do like a circle that's maybe or like a half circle going to the left|instruct
+g|you sort you do like a circle that's maybe or like a half circle going to the left|instruct
 f|mmhmm|acknowledge
-g|and then tracing the edge of the paper sort of 'til a-- for about an inch or so or two inches|instruct
+g|and then tracing the edge of the paper sort of 'til for about an inch or so or two inches|instruct
 f|right|acknowledge
 g|and then you come to the right about an inch and then you go up maybe a quarter of an inch and you're finished|instruct
 f|okay|acknowledge

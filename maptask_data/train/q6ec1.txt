@@ -1,7 +1,7 @@
 g|right|ready
 g|top left sandy shore|instruct
 f|okay|acknowledge
-g|down at the bottom of it bottom left of it follow the s-- line stream i presume it is to the top of the well|instruct
+g|down at the bottom of it bottom left of it follow the line stream i presume it is to the top of the well|instruct
 g|you don't have a stream|query_yn
 f|i don't have a well|explain
 g|right|ready
@@ -85,7 +85,7 @@ f|okay that's me|acknowledge
 g|and|ready
 g|then curve upwards|instruct
 f|mmhmm|acknowledge
-g|back to the stream to where you c-- to where you cross the stream|instruct
+g|back to the stream to where you to where you cross the stream|instruct
 f|this big thing|check
 g|do you have like two black lines and then a big stream|query_yn
 f|right|ready
@@ -119,7 +119,7 @@ g|follow the stream up|instruct
 f|but i thought we're starting at the top|query_yn
 f|follow the stream to the fork|check
 g|yeah i know|reply_y
-g|list-- i know this is me explaining what i've got|explain
+g|i know this is me explaining what i've got|explain
 f|oh alright okay|acknowledge
 g|on the page|explain
 g|right|ready
@@ -143,7 +143,7 @@ g|mmhmm|reply_y
 f|under it|query_yn
 g|go up|instruct
 g|no|reply_n
-g|round the round to the le-- the left of the house|instruct
+g|round the round to the the left of the house|instruct
 f|right okay|acknowledge
 g|and up to probably where your bridge is then|instruct
 f|right okay|acknowledge
@@ -185,7 +185,7 @@ f|in the between the farmed land and the stream or round the whole thing|query_w
 g|no|reply_n
 g|round the farmed land|reply_w
 f|right|ready
-f|so way out to m-- east|check
+f|so way out to east|check
 g|way out 'til about|reply_y
 g|yeah|reply_y
 g|to about two centimetres off the end the page|clarify
@@ -244,7 +244,7 @@ g|so you have to come from the bottom of the lagoon over that and then down to t
 f|right|acknowledge
 g|'kay|align
 g|now|ready
-g|just like cur--|instruct
+g|just like|instruct
 g|do you have a pirate ship|query_yn
 f|yeah|reply_y
 g|right yeah and|ready
