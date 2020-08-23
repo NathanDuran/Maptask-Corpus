@@ -51,7 +51,7 @@ Non Yes-No-Question            |       query_w        |   772    |   2.88   |   
 ![Label Frequencies](maptask_data/metadata/Maptask%20Label%20Frequency%20Distributions.png)
 
 ## Metadata
-- Total number of utterances:  26762
+- Total number of utterances:  26743
 - Maximum utterance length:  115
 - Mean utterance length: 6.2
 - Total number of dialogues: 128
