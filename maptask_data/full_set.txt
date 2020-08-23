@@ -517,7 +517,6 @@ f|right|acknowledge
 g|and then um|ready
 g|you go east in a curve curve down towards the east|instruct
 g|and then back up again and you go past um a pine on your right|instruct
-f||check
 f|down below that|check
 g|up above it|reply_w
 f|up above it|check
@@ -715,7 +714,6 @@ f|right|acknowledge
 g|and ehm then right then ehm|ready
 g|just straight down to the right of the buffalo|instruct
 f|to the right|check
-g||reply_y
 g|so that so that you're on you're on the right of the buffalo|clarify
 f|right|acknowledge
 g|okay|align
@@ -2853,7 +2851,6 @@ g|it doesn't have to be an arc as long as you avoid all the obstacles i think eh
 g|okay|align
 g|but beneath the pine forest you if you stop drawing your line there|clarify
 g|above the bakery in other words above the eh|clarify
-f||query_w
 f|where is your wheatfields|query_w
 g|well er you know|ready
 g|imagine where the forge would be on your map or it's it's on mine but imagine where it would be|instruct
@@ -3732,7 +3729,6 @@ g|in the lake right|align
 g|see directly underneath that on the on the coast line of that if you know what i mean the edge of it|align
 f|mmhmm|reply_y
 g|make a dot there right|instruct
-f||check
 f|directly|check
 f|underneath the "e"|check
 g|underneath the "e"|clarify
@@ -4765,7 +4761,6 @@ f|the gold mine is|reply_w
 g|right above the noose|check
 f|mm aye directly above the noose that's a better description|reply_y
 g|okay|acknowledge
-g||ready
 g|from where that line is that you've drawn go straight down 'til you pass the noose and you're passing the noose like on its right-hand side by a wee bit|instruct
 f|on its right-hand side|check
 g|if you know what i mean|align
@@ -6563,7 +6558,6 @@ f|okay|acknowledge
 g|now carry on horizontally|instruct
 g|to the left about another inch|instruct
 f|mmhmm|acknowledge
-f||acknowledge
 f|to the left|check
 g|uh-huh|reply_y
 f|okay|acknowledge
@@ -7326,7 +7320,6 @@ f|that's in the middle of the two|reply_w
 g|right|acknowledge
 g|my map deviates here so i presume that's why you must have an obstacle|explain
 g|so what i want you to do is go west as far left as the just the edge of the "c" of the cattle stockade|instruct
-f||acknowledge
 f|mmhmm|reply_y
 g|then do you have to go up to avoid the|query_yn
 f|well if there's a very very thin line i i can go up though yes|reply_w
@@ -9136,7 +9129,6 @@ g|right okay|acknowledge
 g|if you kind of go curve down and then|instruct
 g|oh so you're five inches below the gold mine|align
 f|sort of|reply_w
-g||acknowledge
 f|i'm no sure how much an inch is to be honest but there we go|explain
 g|right okay eh|ready
 g|have you if you're underneath the totem pole then|instruct
@@ -12333,7 +12325,6 @@ f|if i go towards that|query_yn
 g|uh-huh|reply_y
 f|and is it above the pine grove the remote village|query_yn
 g|uh-huh|reply_y
-f||query_w
 g|it's just above the ravine|clarify
 f|it's just above the ravine|acknowledge
 g|uh-huh|reply_y
@@ -13234,7 +13225,6 @@ g|uh-huh|acknowledge
 g|so it's like a wee hump|instruct
 f|okay|acknowledge
 g|okay|align
-f||acknowledge
 f|it's just a like is it a kind of curvy hump|check
 g|uh-huh|reply_y
 f|okay then|acknowledge
@@ -13588,7 +13578,6 @@ f|i have yes|reply_y
 g|right okay|acknowledge
 g|come down nearly to the top of the rock fall|instruct
 f|just straight down south there's a massive line going south|check
-g||clarify
 g|massive line going south|clarify
 f|so it's a|check
 g|nearly to the nearly to the top of the rock fall|clarify
@@ -14323,7 +14312,6 @@ f|right|acknowledge
 f|right|acknowledge
 g|right|ready
 g|you start at the top left|instruct
-f||check
 f|right oh sorry okay|acknowledge
 g|right|ready
 g|and eh have you got cliffs below that just below and to the right|query_yn
@@ -15388,7 +15376,6 @@ f|halfway round|query_w
 g|yeah|reply_y
 f|or all the way|query_w
 g|don't no don't go all the way round it|reply_n
-f||acknowledge
 f|halfway right halfway round|acknowledge
 g|go|instruct
 g|go along the top and then at the other side ehm go downwards but still sloping for about an inch downwards but still sloping slightly to the left|instruct
@@ -16370,7 +16357,6 @@ g|uh-huh|acknowledge
 f|and then what do i do|query_w
 g|now|ready
 g|have you got a trig point|query_yn
-f||query_w
 g|right|ready
 g|right you follow it round to where it the west lake starts to turn in again and then|instruct
 f|where there's a sort of like ehm a dip a crag sort of thing there's two sort of peaks|check
@@ -17341,7 +17327,6 @@ f|all right so you've the rope bridge and the waterfall and the fallen pillars|c
 f|so at the moment i'm at the waterfall|explain
 g|uh-huh|acknowledge
 g|well you want to go straight up|instruct
-f||query_w
 f|straight up|acknowledge
 g|and you've got the lost steps|align
 f|yeah|reply_y
@@ -18423,7 +18408,6 @@ g|green bay|align
 f|angie yeah green bay|reply_y
 g|there's a kind of ehm|explain
 g|right take it round round there|instruct
-g||ready
 g|there's a kind of eh tip made at green bay|explain
 g|you know where the sub is|align
 f|mmhmm|reply_y
@@ -19535,7 +19519,6 @@ g|you've got a cactus|acknowledge
 g|and is that in a sort of|query_yn
 f|it's it's underneath it|reply_w
 f|it's it's|reply_w
-g||check
 g|underneath the rift valley|check
 f|it's underneath the left-hand side of the valley|reply_y
 f|you know how the valley sort of dips|align
@@ -19927,7 +19910,6 @@ g|right just straight along|clarify
 f|uh-huh|acknowledge
 f|to the gate|check
 g|'til you're directly underneath the left-hand side of the gate|instruct
-f||acknowledge
 f|okay right uh-huh|acknowledge
 g|right|ready
 g|move straight up|instruct
@@ -22393,7 +22375,6 @@ g|now we want to go um diagonally northeast and sort of avoid the obstacle on th
 f|yeah|acknowledge
 f|have you got a name written on it|query_yn
 f|that wee obstacle|query_yn
-g||reply_w
 g|carpenter|reply_w
 f|yeah|acknowledge
 f|so have i|explain

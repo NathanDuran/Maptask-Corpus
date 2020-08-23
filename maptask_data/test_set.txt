@@ -560,7 +560,6 @@ g|it doesn't have to be an arc as long as you avoid all the obstacles i think eh
 g|okay|align
 g|but beneath the pine forest you if you stop drawing your line there|clarify
 g|above the bakery in other words above the eh|clarify
-f||query_w
 f|where is your wheatfields|query_w
 g|well er you know|ready
 g|imagine where the forge would be on your map or it's it's on mine but imagine where it would be|instruct
@@ -878,7 +877,6 @@ f|the gold mine is|reply_w
 g|right above the noose|check
 f|mm aye directly above the noose that's a better description|reply_y
 g|okay|acknowledge
-g||ready
 g|from where that line is that you've drawn go straight down 'til you pass the noose and you're passing the noose like on its right-hand side by a wee bit|instruct
 f|on its right-hand side|check
 g|if you know what i mean|align
@@ -1585,7 +1583,6 @@ g|ah we better score them out then|instruct
 f|aye that's wrong|explain
 g|right|ready
 g|you start at the top left|instruct
-f||check
 f|right oh sorry okay|acknowledge
 g|right|ready
 g|and eh have you got cliffs below that just below and to the right|query_yn
@@ -1988,7 +1985,6 @@ f|all right so you've the rope bridge and the waterfall and the fallen pillars|c
 f|so at the moment i'm at the waterfall|explain
 g|uh-huh|acknowledge
 g|well you want to go straight up|instruct
-f||query_w
 f|straight up|acknowledge
 g|and you've got the lost steps|align
 f|yeah|reply_y

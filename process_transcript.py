@@ -55,7 +55,7 @@ def process_transcript(transcript, moves_g, moves_f, excluded_chars, excluded_ta
             f_index += 1
 
         # Create an utterance if its DA not an excluded one
-        if da not in excluded_tags:
+        if da not in excluded_tags and len(text) >= 1:
             utterances.append(Utterance(speaker, text, da))
 
     # Get the conversation ID and number of utterances
