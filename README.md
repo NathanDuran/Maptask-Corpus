@@ -9,7 +9,7 @@ The maptask_to_text.py script processes all dialogues into a plain text format.
 Individual dialogues are saved into directories corresponding to the set they belong to (train, test, etc).
 All utterances in a particular set are also saved to a text file.
 
-The maptask_utilities.py script contains various helper functions for loading/saving the data.
+The utilities.py script contains various helper functions for loading/saving the data.
  
 The process_transcript.py includes functions for processing each dialogue.
 
@@ -51,20 +51,33 @@ Non Yes-No-Question            |       query_w        |   772    |   2.88   |   
 ![Label Frequencies](maptask_data/metadata/Maptask%20Label%20Frequency%20Distributions.png)
 
 ## Metadata
-- Total number of utterances:  26743
-- Maximum utterance length:  115
-- Mean utterance length: 6.2
-- Total number of dialogues: 128
-- Maximum dialogue length: 682
-- Mean dialogue length: 209
+- Total number of utterances: 26743
+- Max utterance length: 115
+- Mean utterance length: 6.15
+- Total Number of dialogues: 128
+- Max dialogue length: 682
+- Mean dialogue length: 208.93
 - Vocabulary size: 1797
-- Number of labels: 12
-- Number of dialogue in train set: 102
-- Maximum length of dialogue in train set: 682
-- Number of dialogue in test set: 13
-- Maximum length of dialogue in test set: 314
-- Number of dialogue in val set: 13
-- Maximum length of dialogue in val set: 439
+- Number of labels:12
+- Number of speakers: 2
+
+Train set
+- Number of dialogues: 102
+- Max dialogue length: 682
+- Mean dialogue length: 206.39
+- Number of utterances: 21052
+
+Test set
+- Number of dialogues: 13
+- Max dialogue length: 314
+- Mean dialogue length: 212.46
+- Number of utterances: 2762
+
+Val set
+- Number of dialogues: 13
+- Max dialogue length: 439
+- Mean dialogue length: 225.31
+- Number of utterances: 2929
 
 ### Keys and values for the metadata dictionary
 - num_utterances = Total number of utterance in the full corpus.
@@ -77,9 +90,13 @@ Non Yes-No-Question            |       query_w        |   772    |   2.88   |   
 - vocabulary = List of all words in vocabulary.
 - vocabulary_size = Number of words in the vocabulary.
 - label_freq = [Dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) containing all data in the Dialogue Acts table above.
-- labels = Full labels - List of all DA labels.
+- labels = List of all DA labels.
 - num_labels = Number of labels used from the Maptask data.
-
+- speakers = List of all speakers.
+- num_speakers = Number of speakers in the Maptask data.
+ 
 Each data set also has:
+- <*setname*>_num_utterances = Number of utterances in the set.
 - <*setname*>_num_dialogues = Number of dialogues in the set.
-- <*setname*>_max_dialogues_len = Length of the longest dialogue in the set.
+- <*setname*>_max_dialogue_len = Length of the longest dialogue in the set.
+- <*setname*>_mean_dialogue_len = Mean length of dialogues in the set.

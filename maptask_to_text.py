@@ -1,4 +1,4 @@
-from maptask_utilities import *
+from utilities import *
 from process_transcript import *
 
 # Maptask archive directory
@@ -50,7 +50,7 @@ for transcript in transcript_list:
     # Process the utterances and create a dialogue object
     dialogue = process_transcript(transcript, moves_g, moves_f, excluded_chars, excluded_tags)
 
-    # Append all utterances to full_set text file
+    # Append all utterances to full_set_file text file
     dialogue_to_file(os.path.join(data_dir, full_set_file), dialogue, utterance_only_flag, 'a+')
 
     # Determine which set this dialogue belongs to (training, test or validation)

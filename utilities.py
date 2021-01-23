@@ -169,7 +169,7 @@ def save_label_frequency_distributions(data, metadata_dir, file_name, to_markdow
                                          row['Val Count'], row['Val %']))
 
 
-def plot_label_distributions(data, num_labels=None, title=None, fig_size=(10, 10), font_size=15):
+def plot_label_distributions(data, num_labels=None, title=None, fig_size=(10, 10), font_size=15, xtick_rotation=0):
     # Reshape dataframe for plotting
     data_reshaped = data.drop(['Dialogue Act', 'Count', '%', 'Train Count', 'Test Count', 'Val Count'], axis=1)
     if num_labels:
@@ -185,7 +185,7 @@ def plot_label_distributions(data, num_labels=None, title=None, fig_size=(10, 10
     plt.legend(ncol=1, loc="upper right", frameon=True)
     plt.ylabel('%', fontsize=font_size)
     plt.xlabel('Labels', fontsize=font_size)
-    plt.xticks(rotation=45)
+    plt.xticks(rotation=xtick_rotation)
     if title:
         plt.title(title, fontsize=font_size)
     plt.tight_layout()
